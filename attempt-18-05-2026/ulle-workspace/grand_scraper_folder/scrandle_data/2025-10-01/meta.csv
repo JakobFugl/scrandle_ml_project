@@ -1,0 +1,21 @@
+date,match_id,side,title,subtitle,price,rating,image_name,image_url
+2025-10-01,0,left,"Sausage, pickle and bread",With a beer,5.5,74.1,0_left.webp,https://scrandle.com/media/o/GmwJaV4awAAYTkI.webp
+2025-10-01,0,right,Mixed meat,,1.0,44.1,0_right.webp,https://scrandle.com/media/o/FkgW58LUcAAGKh-.webp
+2025-10-01,1,left,Currywurst and fries,,8.0,79.4,1_left.webp,https://scrandle.com/media/o/GQHzc6eXUAAYbzP.webp
+2025-10-01,1,right,Butter chicken poutine,,10.0,88.7,1_right.webp,https://scrandle.com/media/o/FNqQy4jXwAA8n7e.webp
+2025-10-01,2,left,Buffalo popcorn chicken,With waffle fries underneath,10.95,89.3,2_left.webp,https://scrandle.com/media/o/GwDxOhjXoAAjHtZ.webp
+2025-10-01,2,right,Cheesy bacon chips,,5.0,68.6,2_right.webp,https://scrandle.com/media/o/FnLei3hXEBwJbAf.webp
+2025-10-01,3,left,Air pie,,,30.99,3_left.webp,https://scrandle.com/media/o/GZJnqhaXcAAQHJC.webp
+2025-10-01,3,right,"Chicken, mushroom and spinach pie",With mushy peas and chips,8.0,35.54,3_right.webp,https://scrandle.com/media/o/GfvOGfOWYAEWxrp.webp
+2025-10-01,4,left,Cheesy chips,,3.5,13.6,4_left.webp,https://scrandle.com/media/o/FSAe0L4XwAA6IZ6.webp
+2025-10-01,4,right,Buttermilk chicken burger tray,,11.0,26.2,4_right.webp,https://scrandle.com/media/o/FJkPQb-WQAg3lFJ.webp
+2025-10-01,5,left,Bratwurst and pretzel,,5.0,72.7,5_left.webp,https://scrandle.com/media/o/FX7_MjcXoAE_knt.webp
+2025-10-01,5,right,Bratwurst,,3.4,85.3,5_right.webp,https://scrandle.com/media/o/F6OCYroWwAAbkmr.webp
+2025-10-01,6,left,Cheeseburger,,4.7,13.9,6_left.webp,https://scrandle.com/media/o/FquVZitXwAMZZjQ.webp
+2025-10-01,6,right,Burger,,5.0,8.6,6_right.webp,https://scrandle.com/media/o/F1KaPUaXsAMU42t.webp
+2025-10-01,7,left,Pizza,,19.95,18.6,7_left.webp,https://scrandle.com/media/o/FRBao9tX0AAy42N.webp
+2025-10-01,7,right,Pizza,,12.0,83.1,7_right.webp,https://scrandle.com/media/o/FoNwj59XEAciXZD.webp
+2025-10-01,8,left,Double bacon cheeseburger,,6.5,6.9,8_left.webp,https://scrandle.com/media/o/Fsug4HwWAAYu8HD.webp
+2025-10-01,8,right,Pizza slice,,2.0,12.6,8_right.webp,https://scrandle.com/media/o/FTYKWU2WAAIePIB.webp
+2025-10-01,9,left,Brisket mac and cheese,,14.0,79.0,9_left.webp,https://scrandle.com/media/o/Fw2TUeuWYAE0hC_.webp
+2025-10-01,9,right,Spicy chicken bucket,,3.0,95.3,9_right.webp,https://scrandle.com/media/o/FZt9OX2XgAAwlQC.webp
