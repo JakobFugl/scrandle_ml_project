@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2026-02-09,0,left,Cheesy chips,Beer not included,4.0,17.69,0_left.webp,https://scrandle.com/media/o/FDrXWWcWEAIkwUV.webp
-2026-02-09,0,right,Hotdog,,4.5,7.64,0_right.webp,https://scrandle.com/media/o/GiZ84S5W8AA7HjV.webp
-2026-02-09,1,left,Apple crumble,With custard,3.5,33.53,1_left.webp,https://scrandle.com/media/o/Go-NcwyXEAA1wNW.webp
-2026-02-09,1,right,Rib meat roll,,,47.32,1_right.webp,https://scrandle.com/media/o/GZJM9noWAAAVAUv.webp
-2026-02-09,2,left,Crab's Nail,Wheat flour dough filled with crab meat and a crab claw,,17.05,2_left.webp,https://scrandle.com/media/o/image_px4vtfQ.webp
-2026-02-09,2,right,Truita de Patata,With a water,6.7,26.58,2_right.webp,https://scrandle.com/media/o/GZIQIbZXcAAoPUH.webp
-2026-02-09,3,left,Sausage and chips,,8.0,53.8,3_left.webp,https://scrandle.com/media/o/FRv9FlmWYAAYYa4.webp
-2026-02-09,3,right,Takoyaki,Fried balls of octopus and a pint,5.0,80.9,3_right.webp,https://scrandle.com/media/o/GDuH_hEXgAAc6KF.webp
-2026-02-09,4,left,Tray of fries,,4.52,29.35,4_left.webp,https://scrandle.com/media/o/GYREkRrWYAAfUnF.webp
-2026-02-09,4,right,Pizza,,7.45,40.18,4_right.webp,https://scrandle.com/media/o/GNgFa8xW0AAsHQQ.webp
-2026-02-09,5,left,Chicken and chips,,7.5,92.66,5_left.webp,https://scrandle.com/media/o/GK3uOc2WQAAhPmq.webp
-2026-02-09,5,right,Miami veggie burger,With wedges,7.6,36.89,5_right.webp,https://scrandle.com/media/o/Gewc5pLXwAA7qna.webp
-2026-02-09,6,left,Cheeseburger,With added sausage and bacon,5.9,81.9,6_left.webp,https://scrandle.com/media/o/F7xUYJlWAAAAYrE.webp
-2026-02-09,6,right,Double cheeseburger,,5.0,92.1,6_right.webp,https://scrandle.com/media/o/F6KXyWMWUAAYvlp.webp
-2026-02-09,7,left,Pizza,,6.5,38.84,7_left.webp,https://scrandle.com/media/o/FeU-29sXwAACyyp.webp
-2026-02-09,7,right,Loaded popcorn chicken,With a pint of moretti,10.95,88.44,7_right.webp,https://scrandle.com/media/o/GrzERYZXEAA0_Aw.webp
-2026-02-09,8,left,Bangers and mash,With gravy,7.0,10.52,8_left.webp,https://scrandle.com/media/o/GiEuJ0CW4AAUT7J.webp
-2026-02-09,8,right,Two cans of Modelo,,28.35,23.77,8_right.webp,https://scrandle.com/media/o/GZrvW3dWkA8HZv2.webp
-2026-02-09,9,left,Chicken tikka masala,,9.0,50.0,9_left.webp,https://scrandle.com/media/o/FJFnOl0XoAAWy53.webp
-2026-02-09,9,right,Katsu chicken curry,,5.5,91.2,9_right.webp,https://scrandle.com/media/o/Foxm7XTXgAEnonq.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2026-02-09,0,left,1457714212776681474,https://x.com/FootyScran/status/1457714212776681474,4.0,17.69,2021,Cheesy chips,Beer not included,Birmingham City,ENG,0_left.webp,https://scrandle.com/media/o/FDrXWWcWEAIkwUV.webp,scrandle,center,269.91668803808153
+2026-02-09,0,right,1884330805784371588,https://x.com/SportScran/status/1884330805784371588,4.5,7.64,2025,Hotdog,,Norwich City F.C.,ENG,0_right.webp,https://scrandle.com/media/o/GiZ84S5W8AA7HjV.webp,scrandle,center,276.6110744591979
+2026-02-09,1,left,1913903902451257533,https://x.com/ROBANDTHEMOB/status/1913903902451257533,3.5,33.53,2025,Apple crumble,With custard,Stoke City,ENG,1_left.webp,https://scrandle.com/media/o/Go-NcwyXEAA1wNW.webp,scrandle,center,273.9396426420982
+2026-02-09,1,right,1842619826801418320,https://x.com/GrazaWhu/status/1842619826801418320,,47.32,2024,Rib meat roll,,West Ham,ENG,1_right.webp,https://scrandle.com/media/o/GZJM9noWAAAVAUv.webp,scrandle,center,379.9129524097427
+2026-02-09,2,left,100026,,,17.05,2024,Crab's Nail,Wheat flour dough filled with crab meat and a crab claw,Bragantino Diogão Bragança Pará,BRA,2_left.webp,https://scrandle.com/media/o/image_px4vtfQ.webp,scrandle,center,160.15319470293989
+2026-02-09,2,right,1842552947596513296,https://x.com/TC_Coshow/status/1842552947596513296,6.7,26.58,2024,Truita de Patata,With a water,RCD Espanyol,ESP,2_right.webp,https://scrandle.com/media/o/GZIQIbZXcAAoPUH.webp,scrandle,center,342.52015204187506
+2026-02-09,3,left,1521087576861458432,https://twitter.com/FootyScran/status/1521087576861458432,8.0,53.8,2022,Sausage and chips,,West Ham,ENG,3_left.webp,https://scrandle.com/media/o/FRv9FlmWYAAYYa4.webp,scrandle,center,304.8628170618263
+2026-02-09,3,right,1746138812609090003,https://twitter.com/FootyScran/status/1746138812609090003,5.0,80.9,2024,Takoyaki,Fried balls of octopus and a pint,Consadole Sapporo,JPN,3_right.webp,https://scrandle.com/media/o/GDuH_hEXgAAc6KF.webp,scrandle,center,418.2410011263347
+2026-02-09,4,left,1838669943946027177,https://x.com/SportScran/status/1838669943946027177,4.52,29.35,2024,Tray of fries,,Hockey Arena,CAN,4_left.webp,https://scrandle.com/media/o/GYREkRrWYAAfUnF.webp,scrandle,center,285.2046495203524
+2026-02-09,4,right,1790186817721114855,https://x.com/keiteay/status/1790186817721114855,7.45,40.18,2024,Pizza,,A baseball game,USA,4_right.webp,https://scrandle.com/media/o/GNgFa8xW0AAsHQQ.webp,scrandle,center,280.33046210981826
+2026-02-09,5,left,1778339365132886250,https://x.com/milnes2161/status/1778339365132886250,7.5,92.66,2024,Chicken and chips,,Leeds United,ENG,5_left.webp,https://scrandle.com/media/o/GK3uOc2WQAAhPmq.webp,scrandle,center,642.7001977389967
+2026-02-09,5,right,1867899739808711119,https://x.com/oldmangroom/status/1867899739808711119,7.6,36.89,2024,Miami veggie burger,With wedges,CBS Arena,ENG,5_right.webp,https://scrandle.com/media/o/Gewc5pLXwAA7qna.webp,scrandle,center,365.20700862242535
+2026-02-09,6,left,1710334737846292660,https://twitter.com/FootyScran/status/1710334737846292660,5.9,81.9,2023,Cheeseburger,With added sausage and bacon,Dartford FC,ENG,6_left.webp,https://scrandle.com/media/o/F7xUYJlWAAAAYrE.webp,scrandle,center,368.9582211901371
+2026-02-09,6,right,1703090505683276063,https://twitter.com/FootyScran/status/1703090505683276063,5.0,92.1,2023,Double cheeseburger,,Stalybridge Celtic FC,ENG,6_right.webp,https://scrandle.com/media/o/F6KXyWMWUAAYvlp.webp,scrandle,center,522.8408633605872
+2026-02-09,7,left,1577736373058080768,https://x.com/FootyScran/status/1577736373058080768,6.5,38.84,2022,Pizza,,Liverpool,ENG,7_left.webp,https://scrandle.com/media/o/FeU-29sXwAACyyp.webp,scrandle,center,417.1268594339534
+2026-02-09,7,right,1926637218824704377,https://x.com/FootyScran/status/1926637218824704377,10.95,88.44,2025,Loaded popcorn chicken,With a pint of moretti,Tottenham Hotspurs,ENG,7_right.webp,https://scrandle.com/media/o/GrzERYZXEAA0_Aw.webp,scrandle,center,449.56924687646955
+2026-02-09,8,left,1882836869731463212,https://x.com/SportScran/status/1882836869731463212,7.0,10.52,2025,Bangers and mash,With gravy,Tranmere Rovers,ENG,8_left.webp,https://scrandle.com/media/o/GiEuJ0CW4AAUT7J.webp,scrandle,center,184.2884022989494
+2026-02-09,8,right,1845050177226174847,https://x.com/SportScran/status/1845050177226174847,28.35,23.77,2024,Two cans of Modelo,,Seattle Mariners,USA,8_right.webp,https://scrandle.com/media/o/GZrvW3dWkA8HZv2.webp,scrandle,center,235.88170669568697
+2026-02-09,9,left,1482079260349444097,https://twitter.com/FootyScran/status/1482079260349444097,9.0,50.0,2022,Chicken tikka masala,,Tottenham,ENG,9_left.webp,https://scrandle.com/media/o/FJFnOl0XoAAWy53.webp,scrandle,center,471.7084384715241
+2026-02-09,9,right,1624786741084184577,https://twitter.com/FootyScran/status/1624786741084184577,5.5,91.2,2023,Katsu chicken curry,,Super Cup Final,JPN,9_right.webp,https://scrandle.com/media/o/Foxm7XTXgAEnonq.webp,scrandle,center,580.5864426614199

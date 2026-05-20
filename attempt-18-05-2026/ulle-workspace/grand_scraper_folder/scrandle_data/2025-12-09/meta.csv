@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-12-09,0,left,Sausage,Price for one,4.3,43.74,0_left.webp,https://scrandle.com/media/o/GQ27KJgW8AAYcli.webp
-2025-12-09,0,right,Pie and mushy peas,,3.5,10.88,0_right.webp,https://scrandle.com/media/o/FsKU4kYWAAA3MRL.webp
-2025-12-09,1,left,Prime and a hot dog,,11.2,40.8,1_left.webp,https://scrandle.com/media/o/FjZn-CSWQBAUXsB.webp
-2025-12-09,1,right,Chicken katsu burger,,7.0,26.1,1_right.webp,https://scrandle.com/media/o/F23rtltXoAA_-5u.webp
-2025-12-09,2,left,Pizza slice and a beer,,18.0,34.45,2_left.webp,https://scrandle.com/media/o/FNwGSJGX0AYWP3k.webp
-2025-12-09,2,right,Salt and pepper crispy chicken loaded fries,,,77.8,2_right.webp,https://scrandle.com/media/o/GJy8eN3XAAEBshw.webp
-2025-12-09,3,left,Burger,,4.0,15.8,3_left.webp,https://scrandle.com/media/o/GIBrjqgXcAAaK2L.webp
-2025-12-09,3,right,Horseradish and red onion on bread,,1.4,40.6,3_right.webp,https://scrandle.com/media/o/Fn0qXKnXoA8w9A4.webp
-2025-12-09,4,left,Lamb meat and chips box,With barbecue sauce,10.35,60.49,4_left.webp,https://scrandle.com/media/o/IMG_4034.webp
-2025-12-09,4,right,Chicken carvery,,12.5,47.92,4_right.webp,https://scrandle.com/media/o/GYQvpRFXAAAtPMG_a3KYprQ.webp
-2025-12-09,5,left,Garlic and tomato sausage and scrambled tofu bap,With hash browns,10.0,75.37,5_left.webp,https://scrandle.com/media/o/FdrLYXlWQAEVjZS.webp
-2025-12-09,5,right,Hot dog,,6.9,27.45,5_right.webp,https://scrandle.com/media/o/GhBRoOaXoAAx5qy.webp
-2025-12-09,6,left,Cheesesteak sub,,8.0,61.58,6_left.webp,https://scrandle.com/media/o/GztIIr7XIAALU3_.webp
-2025-12-09,6,right,Chicken goujons,,6.0,22.32,6_right.webp,https://scrandle.com/media/o/FXzw65_UUAE7kqD.webp
-2025-12-09,7,left,Cod and chips,"With mushy peas, halloumi and chaat masala",9.0,70.2,7_left.webp,https://scrandle.com/media/o/FF78FqKWQAEx2W7.webp
-2025-12-09,7,right,"Steak, bacon and onion baguette",,6.5,52.18,7_right.webp,https://scrandle.com/media/o/FJkhvi2WYAACbrZ.webp
-2025-12-09,8,left,Tropeiro,"Pork, rice, beans, egg and crackling",3.0,70.86,8_left.webp,https://scrandle.com/media/o/FeaoSp1XwAEF7_B.webp
-2025-12-09,8,right,Pie,,,23.95,8_right.webp,https://scrandle.com/media/o/GPV0teaWIAA_EAZ.webp
-2025-12-09,9,left,"Pie, mash and liquor",,,33.0,9_left.webp,https://scrandle.com/media/o/GiP1XmHXYAAsX64.webp
-2025-12-09,9,right,Burger,,5.8,25.24,9_right.webp,https://scrandle.com/media/o/GIqejC8WcAAjzGS.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-12-09,0,left,1805304811903996356,https://x.com/AlfeoGerino/status/1805304811903996356,4.3,43.74,2024,Sausage,Price for one,Dortmund,GER,0_left.webp,https://scrandle.com/media/o/GQ27KJgW8AAYcli.webp,scrandle,center,426.7646022669845
+2025-12-09,0,right,1640036918745260033,https://x.com/FootyScran/status/1640036918745260033,3.5,10.88,2023,Pie and mushy peas,,Thackley AFC,ENG,0_right.webp,https://scrandle.com/media/o/FsKU4kYWAAA3MRL.webp,scrandle,center,181.19520247625167
+2025-12-09,1,left,1600581040757686280,https://twitter.com/FootyScran/status/1600581040757686280,11.2,40.8,2022,Prime and a hot dog,,Arsenal Women,ENG,1_left.webp,https://scrandle.com/media/o/FjZn-CSWQBAUXsB.webp,scrandle,center,210.7058201535932
+2025-12-09,1,right,1688264608790859778,https://twitter.com/FootyScran/status/1688264608790859778,7.0,26.1,2023,Chicken katsu burger,,Brighton & Hove Albion,ENG,1_right.webp,https://scrandle.com/media/o/F23rtltXoAA_-5u.webp,scrandle,center,254.67289068558568
+2025-12-09,2,left,1503083291565608964,https://x.com/FootyScran/status/1503083291565608964,18.0,34.45,2022,Pizza slice and a beer,,Philadelphia Union,USA,2_left.webp,https://scrandle.com/media/o/FNwGSJGX0AYWP3k.webp,scrandle,center,291.6588982185764
+2025-12-09,2,right,1773499597337350615,https://x.com/MidSportsMedia/status/1773499597337350615,,77.8,2024,Salt and pepper crispy chicken loaded fries,,Coventry Blaze,ENG,2_right.webp,https://scrandle.com/media/o/GJy8eN3XAAEBshw.webp,scrandle,center,571.030702150404
+2025-12-09,3,left,1765529321521783168,https://x.com/FootyScran/status/1765529321521783168,4.0,15.8,2024,Burger,,Fluminense FC,BRA,3_left.webp,https://scrandle.com/media/o/GIBrjqgXcAAaK2L.webp,scrandle,center,127.92214533057378
+2025-12-09,3,right,1620498024224149504,https://twitter.com/FootyScran/status/1620498024224149504,1.4,40.6,2023,Horseradish and red onion on bread,,Slavia Prague,CZE,3_right.webp,https://scrandle.com/media/o/Fn0qXKnXoA8w9A4.webp,scrandle,center,224.17353791263434
+2025-12-09,4,left,100084,,10.35,60.49,2025,Lamb meat and chips box,With barbecue sauce,"Eden Park, Auckland",NZL,4_left.webp,https://scrandle.com/media/o/IMG_4034.webp,scrandle,bottom,512.7667404470961
+2025-12-09,4,right,1838670449133138052,https://x.com/FootyScran/status/1838670449133138052,12.5,47.92,2024,Chicken carvery,,Man City Vs Watford,ENG,4_right.webp,https://scrandle.com/media/o/GYQvpRFXAAAtPMG_a3KYprQ.webp,scrandle,center,414.6213347216133
+2025-12-09,5,left,1574794645514715136,https://x.com/FootyScran/status/1574794645514715136,10.0,75.37,2022,Garlic and tomato sausage and scrambled tofu bap,With hash browns,Brentford FC,ENG,5_left.webp,https://scrandle.com/media/o/FdrLYXlWQAEVjZS.webp,scrandle,center,556.9536001567542
+2025-12-09,5,right,1878090849650672029,https://x.com/callumjbeck/status/1878090849650672029,6.9,27.45,2025,Hot dog,,Chelsea,ENG,5_right.webp,https://scrandle.com/media/o/GhBRoOaXoAAx5qy.webp,scrandle,center,284.36285954814247
+2025-12-09,6,left,1962241383227392125,https://x.com/FootyScran/status/1962241383227392125,8.0,61.58,2025,Cheesesteak sub,,Brighton & Hove Albion,ENG,6_left.webp,https://scrandle.com/media/o/GztIIr7XIAALU3_.webp,scrandle,center,591.8868593400796
+2025-12-09,6,right,1548377284171558921,https://x.com/FootyScran/status/1548377284171558921,6.0,22.32,2022,Chicken goujons,,UEFA Womens Euros,ENG,6_right.webp,https://scrandle.com/media/o/FXzw65_UUAE7kqD.webp,scrandle,center,189.92146983723015
+2025-12-09,7,left,1467887708236300289,https://x.com/FootyScran/status/1467887708236300289,9.0,70.2,2021,Cod and chips,"With mushy peas, halloumi and chaat masala",Aston Villa,ENG,7_left.webp,https://scrandle.com/media/o/FF78FqKWQAEx2W7.webp,scrandle,center,574.5397799062386
+2025-12-09,7,right,1484254657274859520,https://x.com/FootyScran/status/1484254657274859520,6.5,52.18,2022,"Steak, bacon and onion baguette",,Arsenal,ENG,7_right.webp,https://scrandle.com/media/o/FJkhvi2WYAACbrZ.webp,scrandle,center,382.28621984752897
+2025-12-09,8,left,1578133765381038082,https://x.com/FootyScran/status/1578133765381038082,3.0,70.86,2022,Tropeiro,"Pork, rice, beans, egg and crackling",Cruzeiro,BRA,8_left.webp,https://scrandle.com/media/o/FeaoSp1XwAEF7_B.webp,scrandle,center,519.458474351982
+2025-12-09,8,right,1798471962596888658,https://x.com/UtdMaggie/status/1798471962596888658,,23.95,2024,Pie,,Wembley,ENG,8_right.webp,https://scrandle.com/media/o/GPV0teaWIAA_EAZ.webp,scrandle,center,274.1607775921905
+2025-12-09,9,left,1883618860592775643,https://x.com/willhanafin/status/1883618860592775643,,33.0,2025,"Pie, mash and liquor",,West Ham,ENG,9_left.webp,https://scrandle.com/media/o/GiP1XmHXYAAsX64.webp,scrandle,center,206.64086669493128
+2025-12-09,9,right,1768400132943327485,https://x.com/atabhafc/status/1768400132943327485,5.8,25.24,2024,Burger,,Brighton,USA,9_right.webp,https://scrandle.com/media/o/GIqejC8WcAAjzGS.webp,scrandle,center,218.60331710998082

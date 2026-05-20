@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-05-02,0,left,Steak and kidney pie,With mushy peas and gravy,4.5,35.3,0_left.webp,https://scrandle.com/media/o/F6FOwYjW0AAibPe.webp
-2025-05-02,0,right,Chicken tenders and fries,,7.5,91.4,0_right.webp,https://scrandle.com/media/o/F2AjbglXsAAem0z.webp
-2025-05-02,1,left,"Steak pie, chips and gravy",,5.0,89.9,1_left.webp,https://scrandle.com/media/o/GZrt0JJWcAM6iZu.webp
-2025-05-02,1,right,Jerk chicken poutine,,8.5,84.0,1_right.webp,https://scrandle.com/media/o/FNxJMvVaIAEp-kM.webp
-2025-05-02,2,left,Steak and Stilton pie,With gravy and mushy peas,6.0,62.4,2_left.webp,https://scrandle.com/media/o/FZLYoJgWQAEnSMR.webp
-2025-05-02,2,right,Dirty spuds,"Roast potatoes topped with meatballs, sauce and cheese",4.5,79.3,2_right.webp,https://scrandle.com/media/o/FMikKRJWQAYLuoK.webp
-2025-05-02,3,left,Chicken katsu and seasoned chips,,7.5,93.9,3_left.webp,https://scrandle.com/media/o/FuUsDkoWIAAelWx.webp
-2025-05-02,3,right,"Chips, pork, stuffing and onion gravy",,6.0,81.7,3_right.webp,https://scrandle.com/media/o/FMTaraIXIAgtGv5.webp
-2025-05-02,4,left,Burritos,,6.2,87.5,4_left.webp,https://scrandle.com/media/o/FMS_5w3WQAUOo55.webp
-2025-05-02,4,right,Chicken and chips,,8.5,70.4,4_right.webp,https://scrandle.com/media/o/FTmnEFLWYAAkor2.webp
-2025-05-02,5,left,Macies ultimate burger,,5.0,87.4,5_left.webp,https://scrandle.com/media/o/FK8WZ2iXwAQFA8s.webp
-2025-05-02,5,right,Pulled pork sandwich,,3.0,86.1,5_right.webp,https://scrandle.com/media/o/FlaR1LlXEAIcSlx.webp
-2025-05-02,6,left,10-inch sausage roll,,3.2,92.9,6_left.webp,https://scrandle.com/media/o/F3VcqEJWwAEsrBp.webp
-2025-05-02,6,right,Signature burger,,5.9,10.8,6_right.webp,https://scrandle.com/media/o/FoSw5VNWIAUc7qh.webp
-2025-05-02,7,left,Turkey and stuffing bap,With roast potatoes and gravy,7.0,92.9,7_left.webp,https://scrandle.com/media/o/GiOaEbPXEAEzTSq.webp
-2025-05-02,7,right,Pulled pork nachos,,8.3,38.3,7_right.webp,https://scrandle.com/media/o/FoZPDbsXwAEy6p-.webp
-2025-05-02,8,left,Chicken schnitzel,,3.3,91.9,8_left.webp,https://scrandle.com/media/o/FlPAdKrWIAID-IB.webp
-2025-05-02,8,right,Sweet chili and lime shredded chicken flatbread,,10.0,92.3,8_right.webp,https://scrandle.com/media/o/F7b0sDsXIAA5f_1.webp
-2025-05-02,9,left,Sausage,,2.6,49.3,9_left.webp,https://scrandle.com/media/o/GUzdY9WXYAASZTS.webp
-2025-05-02,9,right,"Sausages, mash and gravy",Inside a yorkshire pudding,9.0,83.6,9_right.webp,https://scrandle.com/media/o/FoHXFKnWAAAXXMS.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-05-02,0,left,1702728731981168941,https://twitter.com/FootyScran/status/1702728731981168941,4.5,35.3,2023,Steak and kidney pie,With mushy peas and gravy,Rotherham United,ENG,0_left.webp,https://scrandle.com/media/o/F6FOwYjW0AAibPe.webp,scrandle,center,165.35301748639426
+2025-05-02,0,right,1684385223411216384,https://twitter.com/FootyScran/status/1684385223411216384,7.5,91.4,2023,Chicken tenders and fries,,Mercedes-Benz Stadium,USA,0_right.webp,https://scrandle.com/media/o/F2AjbglXsAAem0z.webp,scrandle,center,531.7630016648137
+2025-05-02,1,left,1845048484296085591,https://x.com/FootyScran/status/1845048484296085591,5.0,89.9,2024,"Steak pie, chips and gravy",,Ashton United,ENG,1_left.webp,https://scrandle.com/media/o/GZrt0JJWcAM6iZu.webp,scrandle,center,278.2353473382834
+2025-05-02,1,right,1503156865848741888,https://twitter.com/FootyScran/status/1503156865848741888,8.5,84.0,2022,Jerk chicken poutine,,Toronto,CAN,1_right.webp,https://scrandle.com/media/o/FNxJMvVaIAEp-kM.webp,scrandle,center,612.2297564199391
+2025-05-02,2,left,1554543012167942144,https://twitter.com/FootyScran/status/1554543012167942144,6.0,62.4,2022,Steak and Stilton pie,With gravy and mushy peas,Belper Town,ENG,2_left.webp,https://scrandle.com/media/o/FZLYoJgWQAEnSMR.webp,scrandle,center,179.01507921233866
+2025-05-02,2,right,1497627393061703685,https://twitter.com/FootyScran/status/1497627393061703685,4.5,79.3,2022,Dirty spuds,"Roast potatoes topped with meatballs, sauce and cheese",Cheltenham Town,ENG,2_right.webp,https://scrandle.com/media/o/FMikKRJWQAYLuoK.webp,scrandle,center,301.2660643729783
+2025-05-02,3,left,1649773283959529476,https://twitter.com/FootyScran/status/1649773283959529476,7.5,93.9,2023,Chicken katsu and seasoned chips,,Hull City,ENG,3_left.webp,https://scrandle.com/media/o/FuUsDkoWIAAelWx.webp,scrandle,center,562.8605717271837
+2025-05-02,3,right,1496561424197423109,https://twitter.com/FootyScran/status/1496561424197423109,6.0,81.7,2022,"Chips, pork, stuffing and onion gravy",,Sunderland,ENG,3_right.webp,https://scrandle.com/media/o/FMTaraIXIAgtGv5.webp,scrandle,center,465.3964882493001
+2025-05-02,4,left,1496531983123599364,https://twitter.com/FootyScran/status/1496531983123599364,6.2,87.5,2022,Burritos,,San Diego Loyal,USA,4_left.webp,https://scrandle.com/media/o/FMS_5w3WQAUOo55.webp,scrandle,center,460.9310320168622
+2025-05-02,4,right,1529437293265801216,https://twitter.com/FootyScran/status/1529437293265801216,8.5,70.4,2022,Chicken and chips,,Wembley Stadium,ENG,4_right.webp,https://scrandle.com/media/o/FTmnEFLWYAAkor2.webp,scrandle,center,398.4495524956262
+2025-05-02,5,left,1490434642259976193,https://twitter.com/FootyScran/status/1490434642259976193,5.0,87.4,2022,Macies ultimate burger,,Avro FC,ENG,5_left.webp,https://scrandle.com/media/o/FK8WZ2iXwAQFA8s.webp,scrandle,center,546.0146632594115
+2025-05-02,5,right,1609634265041436676,https://twitter.com/FootyScran/status/1609634265041436676,3.0,86.1,2023,Pulled pork sandwich,,São Paulo FC,BRA,5_right.webp,https://scrandle.com/media/o/FlaR1LlXEAIcSlx.webp,scrandle,center,482.7105557081886
+2025-05-02,6,left,1690359116953206785,https://twitter.com/FootyScran/status/1690359116953206785,3.2,92.9,2023,10-inch sausage roll,,Swindon Town FC,ENG,6_left.webp,https://scrandle.com/media/o/F3VcqEJWwAEsrBp.webp,scrandle,center,306.33490743102885
+2025-05-02,6,right,1622616269949218816,https://twitter.com/FootyScran/status/1622616269949218816,5.9,10.8,2023,Signature burger,,Rangers FC,SCO,6_right.webp,https://scrandle.com/media/o/FoSw5VNWIAUc7qh.webp,scrandle,center,220.77287875831487
+2025-05-02,7,left,1883518478466056257,https://x.com/FootyScran/status/1883518478466056257,7.0,92.9,2025,Turkey and stuffing bap,With roast potatoes and gravy,Barnsley FC,ENG,7_left.webp,https://scrandle.com/media/o/GiOaEbPXEAEzTSq.webp,scrandle,center,449.82089923760805
+2025-05-02,7,right,1623071819455504384,https://twitter.com/FootyScran/status/1623071819455504384,8.3,38.3,2023,Pulled pork nachos,,FC Cincinnati,USA,7_right.webp,https://scrandle.com/media/o/FoZPDbsXwAEy6p-.webp,scrandle,center,190.22746655622714
+2025-05-02,8,left,1608841105847746562,https://twitter.com/FootyScran/status/1608841105847746562,3.3,91.9,2022,Chicken schnitzel,,Dortmund,GER,8_left.webp,https://scrandle.com/media/o/FlPAdKrWIAID-IB.webp,scrandle,center,519.7417057874503
+2025-05-02,8,right,1708822151854256598,https://twitter.com/FootyScran/status/1708822151854256598,10.0,92.3,2023,Sweet chili and lime shredded chicken flatbread,,Solihull Moors,ENG,8_right.webp,https://scrandle.com/media/o/F7b0sDsXIAA5f_1.webp,scrandle,center,534.4250706664619
+2025-05-02,9,left,1823075378815987959,https://x.com/FootyScran/status/1823075378815987959,2.6,49.3,2024,Sausage,,FK Proseč,CZE,9_left.webp,https://scrandle.com/media/o/GUzdY9WXYAASZTS.webp,scrandle,center,362.78067734654263
+2025-05-02,9,right,1621813829184245760,https://twitter.com/FootyScran/status/1621813829184245760,9.0,83.6,2023,"Sausages, mash and gravy",Inside a yorkshire pudding,Perth Stadium,AUS,9_right.webp,https://scrandle.com/media/o/FoHXFKnWAAAXXMS.webp,scrandle,center,401.40490908331293

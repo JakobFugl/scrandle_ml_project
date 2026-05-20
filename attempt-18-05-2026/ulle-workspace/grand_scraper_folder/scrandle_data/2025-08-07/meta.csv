@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-08-07,0,left,Cheeseburger,,4.2,21.1,0_left.webp,https://scrandle.com/media/o/FQUACPWVQA8XXc4.webp
-2025-08-07,0,right,Chicken tenders and waffle chips,,7.8,90.9,0_right.webp,https://scrandle.com/media/o/FLY_euIXoAENE5l.webp
-2025-08-07,1,left,Christmas chips,"Chips, turkey, stuffing, pigs in blankets and gravy",7.0,86.8,1_left.webp,https://scrandle.com/media/o/FjJlUMOWYAIqPan.webp
-2025-08-07,1,right,Ham and cheese toastie,With cheesy fries,10.0,71.6,1_right.webp,https://scrandle.com/media/o/Fg4dkwGXEAATh2E.webp
-2025-08-07,2,left,Chicken tikka naan and chips,,6.0,76.1,2_left.webp,https://scrandle.com/media/o/FL-LgY4WUAIZgQU.webp
-2025-08-07,2,right,Korean BBQ chicken waffle cone,,6.0,85.0,2_right.webp,https://scrandle.com/media/o/GKE583UXMAAYhw-.webp
-2025-08-07,3,left,Tropeiro,"Beans, rice, kale, fried egg and pork",3.0,58.5,3_left.webp,https://scrandle.com/media/o/FTd2VOFX0AALhlc.webp
-2025-08-07,3,right,Katsu chicken curry,,4.5,91.1,3_right.webp,https://scrandle.com/media/o/FPpoZWZXoAQIW8g.webp
-2025-08-07,4,left,Butter chicken,With chips and rice,10.0,91.2,4_left.webp,https://scrandle.com/media/o/Fi-eI18XwAEYxA7.webp
-2025-08-07,4,right,"Sausages, mash and gravy",Inside a yorkshire pudding,9.0,83.6,4_right.webp,https://scrandle.com/media/o/FoHXFKnWAAAXXMS.webp
-2025-08-07,5,left,Teriyaki pork skewer,,2.9,91.9,5_left.webp,https://scrandle.com/media/o/F8ZcHOUX0AA9bQp.webp
-2025-08-07,5,right,"Pie, chips and gravy",,6.5,76.1,5_right.webp,https://scrandle.com/media/o/GLJRkmJWMAEECYO.webp
-2025-08-07,6,left,Pork sandwich,,2.5,83.4,6_left.webp,https://scrandle.com/media/o/FTjNsr4WYAQ--tE.webp
-2025-08-07,6,right,Cheeseburger,,5.3,13.0,6_right.webp,https://scrandle.com/media/o/F6yQNulW4AATPJb.webp
-2025-08-07,7,left,Double bacon cheeseburger,With chips,7.5,96.0,7_left.webp,https://scrandle.com/media/o/F51oMmNWkAEDaiS.webp
-2025-08-07,7,right,Chipa,Cheesy bread,0.25,90.8,7_right.webp,https://scrandle.com/media/o/FQK-XxuXIAU7kLq.webp
-2025-08-07,8,left,"Pulled pork, chips, gravy and apple sauce",In a tiger loaf,8.0,72.4,8_left.webp,https://scrandle.com/media/o/FZAi-wjXwAErjd3.webp
-2025-08-07,8,right,Donuts,,4.0,87.7,8_right.webp,https://scrandle.com/media/o/F5Vs4YYW0AMHIlh.webp
-2025-08-07,9,left,Hot dog,,5.0,19.0,9_left.webp,https://scrandle.com/media/o/Fie8lcoWAAImiw5.webp
-2025-08-07,9,right,Chicken gyros box,With chips underneath,6.75,88.8,9_right.webp,https://scrandle.com/media/o/FwGVVP-XgAENihF.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-08-07,0,left,1514616897911676937,https://twitter.com/FootyScran/status/1514616897911676937,4.2,21.1,2022,Cheeseburger,,Leeds United,ENG,0_left.webp,https://scrandle.com/media/o/FQUACPWVQA8XXc4.webp,scrandle,center,139.08269090848668
+2025-08-07,0,right,1492450128984264705,https://twitter.com/FootyScran/status/1492450128984264705,7.8,90.9,2022,Chicken tenders and waffle chips,,Melbourne Victory,AUS,0_right.webp,https://scrandle.com/media/o/FLY_euIXoAENE5l.webp,scrandle,center,610.6744777947824
+2025-08-07,1,left,1599452222194352129,https://twitter.com/FootyScran/status/1599452222194352129,7.0,86.8,2022,Christmas chips,"Chips, turkey, stuffing, pigs in blankets and gravy",Sunderland AFC,ENG,1_left.webp,https://scrandle.com/media/o/FjJlUMOWYAIqPan.webp,scrandle,center,336.04251717719836
+2025-08-07,1,right,1589240241181052928,https://twitter.com/FootyScran/status/1589240241181052928,10.0,71.6,2022,Ham and cheese toastie,With cheesy fries,Man City,ENG,1_right.webp,https://scrandle.com/media/o/Fg4dkwGXEAATh2E.webp,scrandle,center,416.18460410314776
+2025-08-07,2,left,1495066995691298824,https://twitter.com/FootyScran/status/1495066995691298824,6.0,76.1,2022,Chicken tikka naan and chips,,Debenham LC FC,ENG,2_left.webp,https://scrandle.com/media/o/FL-LgY4WUAIZgQU.webp,scrandle,center,413.2795142702482
+2025-08-07,2,right,1774763451916624377,https://x.com/FootyScran/status/1774763451916624377,6.0,85.0,2024,Korean BBQ chicken waffle cone,,Preston North End,ENG,2_right.webp,https://scrandle.com/media/o/GKE583UXMAAYhw-.webp,scrandle,center,582.511692567338
+2025-08-07,3,left,1528820710050877440,https://twitter.com/FootyScran/status/1528820710050877440,3.0,58.5,2022,Tropeiro,"Beans, rice, kale, fried egg and pork",Cruzeiro,BRA,3_left.webp,https://scrandle.com/media/o/FTd2VOFX0AALhlc.webp,scrandle,center,277.1670280729943
+2025-08-07,3,right,1511635413768757252,https://twitter.com/FootyScran/status/1511635413768757252,4.5,91.1,2022,Katsu chicken curry,,FC Tokyo,JPN,3_right.webp,https://scrandle.com/media/o/FPpoZWZXoAQIW8g.webp,scrandle,center,651.6224337612293
+2025-08-07,4,left,1598670346227441665,https://twitter.com/FootyScran/status/1598670346227441665,10.0,91.2,2022,Butter chicken,With chips and rice,Birmingham City,ENG,4_left.webp,https://scrandle.com/media/o/Fi-eI18XwAEYxA7.webp,scrandle,center,483.15333404994584
+2025-08-07,4,right,1621813829184245760,https://twitter.com/FootyScran/status/1621813829184245760,9.0,83.6,2023,"Sausages, mash and gravy",Inside a yorkshire pudding,Perth Stadium,AUS,4_right.webp,https://scrandle.com/media/o/FoHXFKnWAAAXXMS.webp,scrandle,center,401.40490908331293
+2025-08-07,5,left,1713158012854997190,https://twitter.com/FootyScran/status/1713158012854997190,2.9,91.9,2023,Teriyaki pork skewer,,Gangwon FC,KOR,5_left.webp,https://scrandle.com/media/o/F8ZcHOUX0AA9bQp.webp,scrandle,center,598.9969693187221
+2025-08-07,5,right,1779574496971690344,https://x.com/FootyScran/status/1779574496971690344,6.5,76.1,2024,"Pie, chips and gravy",,AFC Fylde,ENG,5_right.webp,https://scrandle.com/media/o/GLJRkmJWMAEECYO.webp,scrandle,center,296.4418968582739
+2025-08-07,6,left,1529198246161154048,https://twitter.com/FootyScran/status/1529198246161154048,2.5,83.4,2022,Pork sandwich,,Corinthians,BRA,6_left.webp,https://scrandle.com/media/o/FTjNsr4WYAQ--tE.webp,scrandle,center,370.5857746927643
+2025-08-07,6,right,1705896929719447619,https://twitter.com/FootyScran/status/1705896929719447619,5.3,13.0,2023,Cheeseburger,,Walsall FC,ENG,6_right.webp,https://scrandle.com/media/o/F6yQNulW4AATPJb.webp,scrandle,center,199.11869132074372
+2025-08-07,7,left,1701630805338923310,https://twitter.com/FootyScran/status/1701630805338923310,7.5,96.0,2023,Double bacon cheeseburger,With chips,Horsham FC,ENG,7_left.webp,https://scrandle.com/media/o/F51oMmNWkAEDaiS.webp,scrandle,center,658.0494590201116
+2025-08-07,7,right,1513981745288335371,https://twitter.com/FootyScran/status/1513981745288335371,0.25,90.8,2022,Chipa,Cheesy bread,Club Olimpia,PAR,7_right.webp,https://scrandle.com/media/o/FQK-XxuXIAU7kLq.webp,scrandle,center,287.5062137275019
+2025-08-07,8,left,1553780377835167744,https://twitter.com/FootyScran/status/1553780377835167744,8.0,72.4,2022,"Pulled pork, chips, gravy and apple sauce",In a tiger loaf,Birmingham City,ENG,8_left.webp,https://scrandle.com/media/o/FZAi-wjXwAErjd3.webp,scrandle,center,388.8557731925759
+2025-08-07,8,right,1699384159414747467,https://twitter.com/FootyScran/status/1699384159414747467,4.0,87.7,2023,Donuts,,Blyth Spartans,ENG,8_right.webp,https://scrandle.com/media/o/F5Vs4YYW0AMHIlh.webp,scrandle,center,505.8674851049891
+2025-08-07,9,left,1596451953839509504,https://twitter.com/FootyScran/status/1596451953839509504,5.0,19.0,2022,Hot dog,,Newcastle United,ENG,9_left.webp,https://scrandle.com/media/o/Fie8lcoWAAImiw5.webp,scrandle,center,144.6659628601438
+2025-08-07,9,right,1657770334743941124,https://twitter.com/FootyScran/status/1657770334743941124,6.75,88.8,2023,Chicken gyros box,With chips underneath,Hull City,ENG,9_right.webp,https://scrandle.com/media/o/FwGVVP-XgAENihF.webp,scrandle,center,379.1868109879755

@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2026-03-09,0,left,Hot dog,,5.5,10.3,0_left.webp,https://scrandle.com/media/o/FoYyLawWYAA9Jsw.webp
-2026-03-09,0,right,Cheesy hot dog,,4.5,23.3,0_right.webp,https://scrandle.com/media/o/F0IeCYDX0AAVD22.webp
-2026-03-09,1,left,Burger and chips,,6.5,88.0,1_left.webp,https://scrandle.com/media/o/FQogjfTXwAEHGkH.webp
-2026-03-09,1,right,Hot dogs,With a litre of beer,8.6,79.2,1_right.webp,https://scrandle.com/media/o/Fg4yuRgX0AIi8dK.webp
-2026-03-09,2,left,Chicken and halloumi souvlaki,,9.0,86.3,2_left.webp,https://scrandle.com/media/o/Fg5OpqPXkAAvHLn.webp
-2026-03-09,2,right,Double cheeseburger,,6.0,94.5,2_right.webp,https://scrandle.com/media/o/Fnk92LrWAAEbnc9.webp
-2026-03-09,3,left,Chicken burger,With slaw,7.0,62.86,3_left.webp,https://scrandle.com/media/o/GVMBvogWMAAK5i_.webp
-2026-03-09,3,right,Hotdog,,4.85,25.36,3_right.webp,https://scrandle.com/media/o/PXL_20251017_004249240.webp
-2026-03-09,4,left,Zapiekanka,With a pepsi,5.2,25.21,4_left.webp,https://scrandle.com/media/o/GaMNcSqXEAAdlj4.webp
-2026-03-09,4,right,Hot Dog Meal,,8.5,36.36,4_right.webp,https://scrandle.com/media/o/GvcGg0LWgAADk6f.webp
-2026-03-09,5,left,Scotch pie,With bottle of water,6.0,20.13,5_left.webp,https://scrandle.com/media/o/GbdtF5gaoAA-ND_.webp
-2026-03-09,5,right,2 inch sausage roll,,4.0,33.14,5_right.webp,https://scrandle.com/media/o/GYEXgEWWgAAy0DM.webp
-2026-03-09,6,left,Garlic Octopus Roll,,4.5,39.01,6_left.webp,https://scrandle.com/media/o/GldhJe6WwAEfbtq.webp
-2026-03-09,6,right,Bratwurst,,9.2,28.21,6_right.webp,https://scrandle.com/media/o/Fp-1PS3WcAEf7z6.webp
-2026-03-09,7,left,Fish and chips,With gherkins,10.0,67.3,7_left.webp,https://scrandle.com/media/o/FUprV7eX0AUlOZo.webp
-2026-03-09,7,right,Burger with gherkins,,5.8,11.6,7_right.webp,https://scrandle.com/media/o/FrSBicoWcAoer-C.webp
-2026-03-09,8,left,Hot dog,,5.9,10.74,8_left.webp,https://scrandle.com/media/o/FK1h43yXoAEKUHj.webp
-2026-03-09,8,right,Sausage roll,,4.7,46.59,8_right.webp,https://scrandle.com/media/o/FoY2w3HXoAEhE15.webp
-2026-03-09,9,left,Zapiekanka,With a pepsi,5.2,25.21,9_left.webp,https://scrandle.com/media/o/GaMNcSqXEAAdlj4.webp
-2026-03-09,9,right,Devon Steak Pasty,,5.0,51.18,9_right.webp,https://scrandle.com/media/o/GdA5FYVXsAA4vpX.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2026-03-09,0,left,1623039893357137925,https://twitter.com/FootyScran/status/1623039893357137925,5.5,10.3,2023,Hot dog,,Sheffield United,ENG,0_left.webp,https://scrandle.com/media/o/FoYyLawWYAA9Jsw.webp,scrandle,center,112.31928846357644
+2026-03-09,0,right,1675935051656097805,https://twitter.com/FootyScran/status/1675935051656097805,4.5,23.3,2023,Cheesy hot dog,,Weymouth FC,ENG,0_right.webp,https://scrandle.com/media/o/F0IeCYDX0AAVD22.webp,scrandle,center,243.02277062825075
+2026-03-09,1,left,1516060023373320201,https://twitter.com/FootyScran/status/1516060023373320201,6.5,88.0,2022,Burger and chips,,Hungerford Town,ENG,1_left.webp,https://scrandle.com/media/o/FQogjfTXwAEHGkH.webp,scrandle,center,440.29215970242836
+2026-03-09,1,right,1589263495086080006,https://twitter.com/FootyScran/status/1589263495086080006,8.6,79.2,2022,Hot dogs,With a litre of beer,Bayern Munich,GER,1_right.webp,https://scrandle.com/media/o/Fg4yuRgX0AIi8dK.webp,scrandle,center,432.033759894808
+2026-03-09,2,left,1589294205838721024,https://twitter.com/FootyScran/status/1589294205838721024,9.0,86.3,2022,Chicken and halloumi souvlaki,,Dulwich Hamlet,ENG,2_left.webp,https://scrandle.com/media/o/Fg5OpqPXkAAvHLn.webp,scrandle,center,447.29652225551496
+2026-03-09,2,right,1619393576114483201,https://twitter.com/FootyScran/status/1619393576114483201,6.0,94.5,2023,Double cheeseburger,,Knaphill FC,ENG,2_right.webp,https://scrandle.com/media/o/Fnk92LrWAAEbnc9.webp,scrandle,center,475.8339586569125
+2026-03-09,3,left,1824804205200130067,https://x.com/Kadswan/status/1824804205200130067,7.0,62.86,2024,Chicken burger,With slaw,Unknown Location,ENG,3_left.webp,https://scrandle.com/media/o/GVMBvogWMAAK5i_.webp,scrandle,center,504.2934002749218
+2026-03-09,3,right,100163,,4.85,25.36,2025,Hotdog,,"Paycor Stadium, OH",USA,3_right.webp,https://scrandle.com/media/o/PXL_20251017_004249240.webp,scrandle,bottom right,258.781889191633
+2026-03-09,4,left,1847336257224872388,https://x.com/FootyScran/status/1847336257224872388,5.2,25.21,2024,Zapiekanka,With a pepsi,Wisła Kraków,POL,4_left.webp,https://scrandle.com/media/o/GaMNcSqXEAAdlj4.webp,scrandle,center,232.18699752478386
+2026-03-09,4,right,1943028938785034604,https://x.com/MottysMic/status/1943028938785034604,8.5,36.36,2025,Hot Dog Meal,,Daventry Sports Park,ENG,4_right.webp,https://scrandle.com/media/o/GvcGg0LWgAADk6f.webp,scrandle,center,381.10151273767724
+2026-03-09,5,left,1853069786235764780,https://x.com/TylerWessling93/status/1853069786235764780,6.0,20.13,2024,Scotch pie,With bottle of water,Hampden Park,SCO,5_left.webp,https://scrandle.com/media/o/GbdtF5gaoAA-ND_.webp,scrandle,center,315.9187467904511
+2026-03-09,5,right,1837775971115512266,https://x.com/PeterSh66800802/status/1837775971115512266,4.0,33.14,2024,2 inch sausage roll,,Norwich City F.C.,ENG,5_right.webp,https://scrandle.com/media/o/GYEXgEWWgAAy0DM.webp,scrandle,center,232.56695203511143
+2026-03-09,6,left,1898092588462186629,https://x.com/SportScran/status/1898092588462186629,4.5,39.01,2025,Garlic Octopus Roll,,SSC Bari,ITA,6_left.webp,https://scrandle.com/media/o/GldhJe6WwAEfbtq.webp,scrandle,center,290.4422226818912
+2026-03-09,6,right,1630220869736833025,https://x.com/FootyScran/status/1630220869736833025,9.2,28.21,2023,Bratwurst,,Charlotte FC,USA,6_right.webp,https://scrandle.com/media/o/Fp-1PS3WcAEf7z6.webp,scrandle,center,326.73628457264294
+2026-03-09,7,left,1534156654308204547,https://twitter.com/FootyScran/status/1534156654308204547,10.0,67.3,2022,Fish and chips,With gherkins,Tottenham Hotspur,ENG,7_left.webp,https://scrandle.com/media/o/FUprV7eX0AUlOZo.webp,scrandle,center,343.86003387019963
+2026-03-09,7,right,1636075069855154178,https://twitter.com/FootyScran/status/1636075069855154178,5.8,11.6,2023,Burger with gherkins,,Brighton,ENG,7_right.webp,https://scrandle.com/media/o/FrSBicoWcAoer-C.webp,scrandle,center,201.44823856354304
+2026-03-09,8,left,1489954692511805442,https://x.com/FootyScran/status/1489954692511805442,5.9,10.74,2022,Hot dog,,Chelsea,ENG,8_left.webp,https://scrandle.com/media/o/FK1h43yXoAEKUHj.webp,scrandle,center,121.3355278499055
+2026-03-09,8,right,1623044934461693958,https://x.com/FootyScran/status/1623044934461693958,4.7,46.59,2023,Sausage roll,,Sheffield United,ENG,8_right.webp,https://scrandle.com/media/o/FoY2w3HXoAEhE15.webp,scrandle,center,420.4772117690359
+2026-03-09,9,left,1847336257224872388,https://x.com/FootyScran/status/1847336257224872388,5.2,25.21,2024,Zapiekanka,With a pepsi,Wisła Kraków,POL,9_left.webp,https://scrandle.com/media/o/GaMNcSqXEAAdlj4.webp,scrandle,center,232.18699752478386
+2026-03-09,9,right,1860049428083802593,https://x.com/MottysMic/status/1860049428083802593,5.0,51.18,2024,Devon Steak Pasty,,Plymouth Argyle F.C.,ENG,9_right.webp,https://scrandle.com/media/o/GdA5FYVXsAA4vpX.webp,scrandle,center,364.83668138201534

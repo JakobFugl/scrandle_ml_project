@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-05-30,0,left,Signature burger,,5.9,10.8,0_left.webp,https://scrandle.com/media/o/FoSw5VNWIAUc7qh.webp
-2025-05-30,0,right,Sausage roll,,2.5,12.5,0_right.webp,https://scrandle.com/media/o/FuU6LW7XgAE0MEy.webp
-2025-05-30,1,left,Pepperoni pizza,,6.7,38.3,1_left.webp,https://scrandle.com/media/o/Fqx7_r9XoAEYE_w.webp
-2025-05-30,1,right,Macaroni cheese pie,,2.0,74.1,1_right.webp,https://scrandle.com/media/o/GEH8xKnWYAAK4FQ.webp
-2025-05-30,2,left,Burger,,5.0,6.4,2_left.webp,https://scrandle.com/media/o/FXufs-wVUAAmIGH.webp
-2025-05-30,2,right,Burger,,4.5,8.4,2_right.webp,https://scrandle.com/media/o/F2ygi4YWsAI3UkJ.webp
-2025-05-30,3,left,Donuts,"With nutella, marshmallows and cream",5.5,74.4,3_left.webp,https://scrandle.com/media/o/Gk0XEC4XgAAMRRe.webp
-2025-05-30,3,right,"Chips, cheese and curry sauce",,4.0,38.2,3_right.webp,https://scrandle.com/media/o/FMx6_j8WQAY3KXW.webp
-2025-05-30,4,left,Pizza,,6.7,17.6,4_left.webp,https://scrandle.com/media/o/FeEbU57WQAAGDjh.webp
-2025-05-30,4,right,BBQ chicken wings,,4.5,19.2,4_right.webp,https://scrandle.com/media/o/F3Qd0nfWYAIfAxl.webp
-2025-05-30,5,left,Macaroni pie,,3.0,59.2,5_left.webp,https://scrandle.com/media/o/FKCzr9PXsAYX4xa.webp
-2025-05-30,5,right,Wigan kebab,Pie in a roll,2.5,53.7,5_right.webp,https://scrandle.com/media/o/FKNNqBFWUAQPsba.webp
-2025-05-30,6,left,Scheme poutine,"Fries loaded with haggis, cheddar and peppercorn sauce",7.5,54.4,6_left.webp,https://scrandle.com/media/o/F2in0ofXwBIAUi_.webp
-2025-05-30,6,right,Steak and black pudding pie,,2.2,58.4,6_right.webp,https://scrandle.com/media/o/FO78jCgXEAYrjQD.webp
-2025-05-30,7,left,Double bacon cheeseburger,,6.5,6.9,7_left.webp,https://scrandle.com/media/o/Fsug4HwWAAYu8HD.webp
-2025-05-30,7,right,Cheeseburger,,4.7,13.9,7_right.webp,https://scrandle.com/media/o/FquVZitXwAMZZjQ.webp
-2025-05-30,8,left,Steak and black pudding pie,,3.0,65.4,8_left.webp,https://scrandle.com/media/o/Fr7Ab8SWcBEDTOl.webp
-2025-05-30,8,right,Breakfast pie,"Sausage, bacon, beans and black pudding",2.5,69.3,8_right.webp,https://scrandle.com/media/o/FNV8XX7WQAghPNx.webp
-2025-05-30,9,left,Macaroni cheese pie,,2.5,64.2,9_left.webp,https://scrandle.com/media/o/FLaSSxKX0AseZLD.webp
-2025-05-30,9,right,Black pudding sausage roll,,3.0,60.7,9_right.webp,https://scrandle.com/media/o/FbfQwuoWQAESLdy.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-05-30,0,left,1622616269949218816,https://twitter.com/FootyScran/status/1622616269949218816,5.9,10.8,2023,Signature burger,,Rangers FC,SCO,0_left.webp,https://scrandle.com/media/o/FoSw5VNWIAUc7qh.webp,scrandle,center,220.77287875831487
+2025-05-30,0,right,1649788811944009729,https://twitter.com/FootyScran/status/1649788811944009729,2.5,12.5,2023,Sausage roll,,Inverness,SCO,0_right.webp,https://scrandle.com/media/o/FuU6LW7XgAE0MEy.webp,scrandle,center,142.00053315175853
+2025-05-30,1,left,1633817110299156480,https://twitter.com/FootyScran/status/1633817110299156480,6.7,38.3,2023,Pepperoni pizza,,Celtic FC,SCO,1_left.webp,https://scrandle.com/media/o/Fqx7_r9XoAEYE_w.webp,scrandle,center,215.26845445359217
+2025-05-30,1,right,1747956064287428748,https://twitter.com/FootyScran/status/1747956064287428748,2.0,74.1,2024,Macaroni cheese pie,,Annan Athletic,SCO,1_right.webp,https://scrandle.com/media/o/GEH8xKnWYAAK4FQ.webp,scrandle,center,268.4932741268008
+2025-05-30,2,left,1548006498466291713,https://twitter.com/FootyScran/status/1548006498466291713,5.0,6.4,2022,Burger,,Aberdeen FC,SCO,2_left.webp,https://scrandle.com/media/o/FXufs-wVUAAmIGH.webp,scrandle,center,151.56016009701867
+2025-05-30,2,right,1687900486723162112,https://twitter.com/FootyScran/status/1687900486723162112,4.5,8.4,2023,Burger,,Dundee United,SCO,2_right.webp,https://scrandle.com/media/o/F2ygi4YWsAI3UkJ.webp,scrandle,center,215.97869258348828
+2025-05-30,3,left,1895196383399026976,https://x.com/FootyScran/status/1895196383399026976,5.5,74.4,2025,Donuts,"With nutella, marshmallows and cream",Kilmarnock FC,SCO,3_left.webp,https://scrandle.com/media/o/Gk0XEC4XgAAMRRe.webp,scrandle,center,445.4589085227779
+2025-05-30,3,right,1498708014823530499,https://twitter.com/FootyScran/status/1498708014823530499,4.0,38.2,2022,"Chips, cheese and curry sauce",,Rangers FC,SCO,3_right.webp,https://scrandle.com/media/o/FMx6_j8WQAY3KXW.webp,scrandle,center,220.8822698887318
+2025-05-30,4,left,1576571398117818369,https://twitter.com/FootyScran/status/1576571398117818369,6.7,17.6,2022,Pizza,,Celtic FC,SCO,4_left.webp,https://scrandle.com/media/o/FeEbU57WQAAGDjh.webp,scrandle,center,300.4789756651202
+2025-05-30,4,right,1690008555460370434,https://twitter.com/FootyScran/status/1690008555460370434,4.5,19.2,2023,BBQ chicken wings,,Rangers FC,SCO,4_right.webp,https://scrandle.com/media/o/F3Qd0nfWYAIfAxl.webp,scrandle,center,311.51366829435705
+2025-05-30,5,left,1486385470795833345,https://twitter.com/FootyScran/status/1486385470795833345,3.0,59.2,2022,Macaroni pie,,St Mirren,SCO,5_left.webp,https://scrandle.com/media/o/FKCzr9PXsAYX4xa.webp,scrandle,center,185.44674396339596
+2025-05-30,5,right,1487117692108779521,https://twitter.com/FootyScran/status/1487117692108779521,2.5,53.7,2022,Wigan kebab,Pie in a roll,Nairn County FC,SCO,5_right.webp,https://scrandle.com/media/o/FKNNqBFWUAQPsba.webp,scrandle,center,145.8881369357875
+2025-05-30,6,left,1686782590366236696,https://twitter.com/FootyScran/status/1686782590366236696,7.5,54.4,2023,Scheme poutine,"Fries loaded with haggis, cheddar and peppercorn sauce",Celtic FC,SCO,6_left.webp,https://scrandle.com/media/o/F2in0ofXwBIAUi_.webp,scrandle,center,275.08262222896803
+2025-05-30,6,right,1508420609822371843,https://twitter.com/FootyScran/status/1508420609822371843,2.2,58.4,2022,Steak and black pudding pie,,Arbroath FC,SCO,6_right.webp,https://scrandle.com/media/o/FO78jCgXEAYrjQD.webp,scrandle,center,201.27691129011848
+2025-05-30,7,left,1642583383048966144,https://twitter.com/FootyScran/status/1642583383048966144,6.5,6.9,2023,Double bacon cheeseburger,,Hibernian FC,SCO,7_left.webp,https://scrandle.com/media/o/Fsug4HwWAAYu8HD.webp,twitter,center,265.52842150810903
+2025-05-30,7,right,1633563561216581632,https://twitter.com/FootyScran/status/1633563561216581632,4.7,13.9,2023,Cheeseburger,,Hibernian FC,SCO,7_right.webp,https://scrandle.com/media/o/FquVZitXwAMZZjQ.webp,scrandle,center,211.6005480329171
+2025-05-30,8,left,1638958906289319936,https://twitter.com/FootyScran/status/1638958906289319936,3.0,65.4,2023,Steak and black pudding pie,,Arbroath FC,SCO,8_left.webp,https://scrandle.com/media/o/Fr7Ab8SWcBEDTOl.webp,scrandle,center,206.79960522050817
+2025-05-30,8,right,1501242807146668036,https://twitter.com/FootyScran/status/1501242807146668036,2.5,69.3,2022,Breakfast pie,"Sausage, bacon, beans and black pudding",Livingston FC,SCO,8_right.webp,https://scrandle.com/media/o/FNV8XX7WQAghPNx.webp,scrandle,center,204.22147065405275
+2025-05-30,9,left,1492541183515582471,https://twitter.com/FootyScran/status/1492541183515582471,2.5,64.2,2022,Macaroni cheese pie,,Elgin City,SCO,9_left.webp,https://scrandle.com/media/o/FLaSSxKX0AseZLD.webp,scrandle,bottom,108.36908309754743
+2025-05-30,9,right,1564948937265582080,https://twitter.com/FootyScran/status/1564948937265582080,3.0,60.7,2022,Black pudding sausage roll,,Rangers FC,SCO,9_right.webp,https://scrandle.com/media/o/FbfQwuoWQAESLdy.webp,scrandle,center,281.7907797183672

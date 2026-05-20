@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-06-03,0,left,Sausage roll,,4.25,11.8,0_left.webp,https://scrandle.com/media/o/FPaliYgX0AUZ1Q0.webp
-2025-06-03,0,right,"Pie, chips, peas and gravy",With a pint of Madri,7.9,80.7,0_right.webp,https://scrandle.com/media/o/FLbG3KNXwAUDT3u.webp
-2025-06-03,1,left,"Sausage, bread and gherkin",,3.4,76.5,1_left.webp,https://scrandle.com/media/o/FleEKjGX0AEZJ43.webp
-2025-06-03,1,right,Chicken tikka and chips,With a samosa,9.0,83.4,1_right.webp,https://scrandle.com/media/o/FS9gNkYWQAAYUsL.webp
-2025-06-03,2,left,Brisket peppercorn burger,16 hour slow smoked,13.5,86.7,2_left.webp,https://scrandle.com/media/o/F6PJ2JZWkAAtFnR.webp
-2025-06-03,2,right,Burritos,,6.2,87.5,2_right.webp,https://scrandle.com/media/o/FMS_5w3WQAUOo55.webp
-2025-06-03,3,left,Fries,"With bacon, pepperoni, cheddar and mozzarella",2.9,40.52,3_left.webp,https://scrandle.com/media/o/FR33XNXXIAU46dc.webp
-2025-06-03,3,right,Cheeseburger,,5.5,8.5,3_right.webp,https://scrandle.com/media/o/GFAsj3GWoAAkg1A.webp
-2025-06-03,4,left,Mixed grill,"Chicken skewers, cevapis, lamb yiros meat, pita, tzatziki, chips, salad",9.7,95.4,4_left.webp,https://scrandle.com/media/o/Gll0vNhWUAAoI5b.webp
-2025-06-03,4,right,Sausage roll,,3.0,12.4,4_right.webp,https://scrandle.com/media/o/FXOKAS3WAAEzulc.webp
-2025-06-03,5,left,Honey chilli chicken and chips,With curry sauce,7.5,94.8,5_left.webp,https://scrandle.com/media/o/GPkMEvEXcAAgNgh.webp
-2025-06-03,5,right,Chicken and chips with buffalo fries,Two portions,27.0,75.0,5_right.webp,https://scrandle.com/media/o/FmHdS5oXwAEDxPJ.webp
-2025-06-03,6,left,Beef skewer,And a beer,3.0,86.0,6_left.webp,https://scrandle.com/media/o/FQ5ltZPXwAArYr_.webp
-2025-06-03,6,right,Jalapeno fried chicken,,11.0,74.0,6_right.webp,https://scrandle.com/media/o/FLfOyuOX0AA0YTf.webp
-2025-06-03,7,left,Steak sandwich,"With chips, onion rings and a drink",27.0,45.5,7_left.webp,https://scrandle.com/media/o/GESObpLWgAAKbQN.webp
-2025-06-03,7,right,Choripan,Chorizo sandwich with added toppings,3.2,85.9,7_right.webp,https://scrandle.com/media/o/Fww_AnaWIAEg20E.webp
-2025-06-03,8,left,Short rib poutine,,8.0,89.5,8_left.webp,https://scrandle.com/media/o/GIHG-UdXgAEDm6m.webp
-2025-06-03,8,right,Lebanese chicken flatbread,,6.95,96.3,8_right.webp,https://scrandle.com/media/o/F27UmlKXEAAlEW3.webp
-2025-06-03,9,left,Streetwise burger,"Beef patty, cheese, pulled pork, onion rings",8.0,93.8,9_left.webp,https://scrandle.com/media/o/FYiSygEWAAMpgya.webp
-2025-06-03,9,right,The Wrap a Mac,"Beef patties, fries, gherkins and burger sauce on flatbread",6.5,76.7,9_right.webp,https://scrandle.com/media/o/Fa7LQtiXgAAvX96.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-06-03,0,left,1510576739138752515,https://twitter.com/FootyScran/status/1510576739138752515,4.25,11.8,2022,Sausage roll,,Wolves FC,ENG,0_left.webp,https://scrandle.com/media/o/FPaliYgX0AUZ1Q0.webp,scrandle,center,161.41072582083217
+2025-06-03,0,right,1492598982421397512,https://twitter.com/FootyScran/status/1492598982421397512,7.9,80.7,2022,"Pie, chips, peas and gravy",With a pint of Madri,Congleton FC,ENG,0_right.webp,https://scrandle.com/media/o/FLbG3KNXwAUDT3u.webp,scrandle,center,210.30943279151785
+2025-06-03,1,left,1609900715547164679,https://twitter.com/FootyScran/status/1609900715547164679,3.4,76.5,2023,"Sausage, bread and gherkin",,Pogon Szczecin,POL,1_left.webp,https://scrandle.com/media/o/FleEKjGX0AEZJ43.webp,scrandle,center,333.96894855101675
+2025-06-03,1,right,1526544593826742273,https://twitter.com/FootyScran/status/1526544593826742273,9.0,83.4,2022,Chicken tikka and chips,With a samosa,Aston Villa,ENG,1_right.webp,https://scrandle.com/media/o/FS9gNkYWQAAYUsL.webp,scrandle,center,532.3302693310854
+2025-06-03,2,left,1703427021856989188,https://twitter.com/FootyScran/status/1703427021856989188,13.5,86.7,2023,Brisket peppercorn burger,16 hour slow smoked,Blackburn Rovers,ENG,2_left.webp,https://scrandle.com/media/o/F6PJ2JZWkAAtFnR.webp,scrandle,center,502.2558362275604
+2025-06-03,2,right,1496531983123599364,https://twitter.com/FootyScran/status/1496531983123599364,6.2,87.5,2022,Burritos,,San Diego Loyal,USA,2_right.webp,https://scrandle.com/media/o/FMS_5w3WQAUOo55.webp,scrandle,center,460.9310320168622
+2025-06-03,3,left,1521644232334843904,https://twitter.com/FootyScran/status/1521644232334843904,2.9,40.52,2022,Fries,"With bacon, pepperoni, cheddar and mozzarella",Cuiaba EC,BRA,3_left.webp,https://scrandle.com/media/o/FR33XNXXIAU46dc.webp,scrandle,center,346.93843430019916
+2025-06-03,3,right,1751949255055495193,https://x.com/FootyScran/status/1751949255055495193,5.5,8.5,2024,Cheeseburger,,Chesterfield FC,ENG,3_right.webp,https://scrandle.com/media/o/GFAsj3GWoAAkg1A.webp,scrandle,center,118.61207744753638
+2025-06-03,4,left,1898677077617832125,https://x.com/FootyScran/status/1898677077617832125,9.7,95.4,2025,Mixed grill,"Chicken skewers, cevapis, lamb yiros meat, pita, tzatziki, chips, salad",Adelaide Olympic FC,AUS,4_left.webp,https://scrandle.com/media/o/Gll0vNhWUAAoI5b.webp,scrandle,center,642.0636146876521
+2025-06-03,4,right,1545730839622959110,https://twitter.com/FootyScran/status/1545730839622959110,3.0,12.4,2022,Sausage roll,,York City,ENG,4_right.webp,https://scrandle.com/media/o/FXOKAS3WAAEzulc.webp,scrandle,center,168.7339577046286
+2025-06-03,5,left,1799482807385022468,https://x.com/FootyScran/status/1799482807385022468,7.5,94.8,2024,Honey chilli chicken and chips,With curry sauce,Hartlepool United,ENG,5_left.webp,https://scrandle.com/media/o/GPkMEvEXcAAgNgh.webp,scrandle,center,568.3152081170185
+2025-06-03,5,right,1612813469652484098,https://twitter.com/FootyScran/status/1612813469652484098,27.0,75.0,2023,Chicken and chips with buffalo fries,Two portions,Aston Villa,ENG,5_right.webp,https://scrandle.com/media/o/FmHdS5oXwAEDxPJ.webp,scrandle,center,391.30799479302794
+2025-06-03,6,left,1517261961037238275,https://twitter.com/FootyScran/status/1517261961037238275,3.0,86.0,2022,Beef skewer,And a beer,Figueirense FC,BRA,6_left.webp,https://scrandle.com/media/o/FQ5ltZPXwAArYr_.webp,scrandle,center,301.5592070257549
+2025-06-03,6,right,1492889176932593665,https://twitter.com/FootyScran/status/1492889176932593665,11.0,74.0,2022,Jalapeno fried chicken,,Tottenham,ENG,6_right.webp,https://scrandle.com/media/o/FLfOyuOX0AA0YTf.webp,scrandle,center,456.6325729099915
+2025-06-03,7,left,1748679166768070774,https://twitter.com/FootyScran/status/1748679166768070774,27.0,45.5,2024,Steak sandwich,"With chips, onion rings and a drink",Arsenal,ENG,7_left.webp,https://scrandle.com/media/o/GESObpLWgAAKbQN.webp,scrandle,center,440.59511222775996
+2025-06-03,7,right,1660771650290212866,https://twitter.com/FootyScran/status/1660771650290212866,3.2,85.9,2023,Choripan,Chorizo sandwich with added toppings,Atlético Independiente,ARG,7_right.webp,https://scrandle.com/media/o/Fww_AnaWIAEg20E.webp,scrandle,center,342.201852109501
+2025-06-03,8,left,1765911307901882802,https://x.com/FootyScran/status/1765911307901882802,8.0,89.5,2024,Short rib poutine,,Vancouver Whitecaps FC,CAN,8_left.webp,https://scrandle.com/media/o/GIHG-UdXgAEDm6m.webp,scrandle,center,535.6737872922747
+2025-06-03,8,right,1688520673935663104,https://twitter.com/FootyScran/status/1688520673935663104,6.95,96.3,2023,Lebanese chicken flatbread,,Barnsley FC,ENG,8_right.webp,https://scrandle.com/media/o/F27UmlKXEAAlEW3.webp,scrandle,center,563.1269408126273
+2025-06-03,9,left,1551651481878761473,https://twitter.com/FootyScran/status/1551651481878761473,8.0,93.8,2022,Streetwise burger,"Beef patty, cheese, pulled pork, onion rings",Tilbury FC,ENG,9_left.webp,https://scrandle.com/media/o/FYiSygEWAAMpgya.webp,scrandle,center,536.9535501566162
+2025-06-03,9,right,1562409618277601280,https://twitter.com/FootyScran/status/1562409618277601280,6.5,76.7,2022,The Wrap a Mac,"Beef patties, fries, gherkins and burger sauce on flatbread",Grimsby Town,ENG,9_right.webp,https://scrandle.com/media/o/Fa7LQtiXgAAvX96.webp,scrandle,center,258.2295457143109

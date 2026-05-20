@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2026-05-19,0,left,"Chips, peas and gravy with mint sauce",,3.0,14.05,0_left.webp,https://scrandle.com/media/o/FQus21sWQAIbZU3.webp
-2026-05-19,0,right,Sausage,Delivered to your seat,2.15,33.17,0_right.webp,https://scrandle.com/media/o/Ge1rn_ZXMAABnrz.webp
-2026-05-19,1,left,Chicken burger,With katsu slaw and a pint,16.1,12.7,1_left.webp,https://scrandle.com/media/o/FowhH4aWYAAIJ91.webp
-2026-05-19,1,right,Wigan kebab,With mushy peas and gravy,6.0,44.5,1_right.webp,https://scrandle.com/media/o/F6O3pWRXoAAof5l.webp
-2026-05-19,2,left,Cheesy chips,,2.0,9.18,2_left.webp,https://scrandle.com/media/o/GfbUry_W8AAwbqx.webp
-2026-05-19,2,right,Pizza slice,,4.0,30.03,2_right.webp,https://scrandle.com/media/o/626360d2ac9ba8797154fa2ed6d8e1b9.webp
-2026-05-19,3,left,Düsseldorfer,,7.8,47.81,3_left.webp,https://scrandle.com/media/o/WhatsApp_Bild_2025-11-27_um_08.51.35_95c85fbc.webp
-2026-05-19,3,right,Dirty nachos,,4.0,60.15,3_right.webp,https://scrandle.com/media/o/FJYS6RcWUAAlkBI.webp
-2026-05-19,4,left,Hotdog and chips,,12.0,51.65,4_left.webp,https://scrandle.com/media/o/1000043357.webp
-2026-05-19,4,right,Hot chocolate brownie,Covered in Biscoff,6.25,77.9,4_right.webp,https://scrandle.com/media/o/GnOvsAoWgAAOdw8.webp
-2026-05-19,5,left,Pizza,,2.8,42.59,5_left.webp,https://scrandle.com/media/o/FM4wjC5XIAYerL4.webp
-2026-05-19,5,right,Chicken flatbread,,5.0,79.24,5_right.webp,https://scrandle.com/media/o/FIHDF7bXsAI7pyS.webp
-2026-05-19,6,left,Cheese Burger,,,29.38,6_left.webp,https://scrandle.com/media/o/GKfGJW8WwAAD-DF.webp
-2026-05-19,6,right,Fish n chip butty,,,52.51,6_right.webp,https://scrandle.com/media/o/GnztNOpXEAAm_T2.webp
-2026-05-19,7,left,Chicken and fries basket,With large soda,14.8,52.12,7_left.webp,https://scrandle.com/media/o/b9b3ad771c246e947cc54bf48900ab77.webp
-2026-05-19,7,right,Chicken club sandwich,,5.2,14.94,7_right.webp,https://scrandle.com/media/o/F5gua4zXEAAGTqN.webp
-2026-05-19,8,left,Polish dog,,3.4,28.71,8_left.webp,https://scrandle.com/media/o/47cc43f94f664919d615a20716277e6f.webp
-2026-05-19,8,right,American hot dog,"Pickles, fried onions, mustard, ketchup, 0,5l coke zero",5.5,55.95,8_right.webp,https://scrandle.com/media/o/51c4ce57ed862d863e5fd7e029318d26.webp
-2026-05-19,9,left,Strawberry daiquiri / pina colada mix,,16.45,52.41,9_left.webp,https://scrandle.com/media/o/307626680_554333729800551_5403214274857661989_n.webp
-2026-05-19,9,right,Kayem Italian sausage,With peppers and onions,7.95,35.17,9_right.webp,https://scrandle.com/media/o/5388567988cf22d8fd05c249fb383ffa.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2026-05-19,0,left,1516495763676798978,https://x.com/FootyScran/status/1516495763676798978,3.0,14.05,2022,"Chips, peas and gravy with mint sauce",,Basford United,ENG,0_left.webp,https://scrandle.com/media/o/FQus21sWQAIbZU3.webp,scrandle,center,183.23519649143833
+2026-05-19,0,right,1868276183668081118,https://x.com/FootyScran/status/1868276183668081118,2.15,33.17,2024,Sausage,Delivered to your seat,FC Utrecht,NED,0_right.webp,https://scrandle.com/media/o/Ge1rn_ZXMAABnrz.webp,scrandle,center,331.4260780353643
+2026-05-19,1,left,1624710006217052160,https://twitter.com/FootyScran/status/1624710006217052160,16.1,12.7,2023,Chicken burger,With katsu slaw and a pint,West Ham,ENG,1_left.webp,https://scrandle.com/media/o/FowhH4aWYAAIJ91.webp,scrandle,center,210.8844612121791
+2026-05-19,1,right,1703407009805046103,https://twitter.com/FootyScran/status/1703407009805046103,6.0,44.5,2023,Wigan kebab,With mushy peas and gravy,Wigan Athletic,ENG,1_right.webp,https://scrandle.com/media/o/F6O3pWRXoAAof5l.webp,scrandle,center,133.38113475921588
+2026-05-19,2,left,1870916548279640238,https://x.com/SportScran/status/1870916548279640238,2.0,9.18,2024,Cheesy chips,,Pennsylvania Quakers,USA,2_left.webp,https://scrandle.com/media/o/GfbUry_W8AAwbqx.webp,scrandle,center,195.25464660232757
+2026-05-19,2,right,100353,,4.0,30.03,2026,Pizza slice,,Queens Park Rangers,ENG,2_right.webp,https://scrandle.com/media/o/626360d2ac9ba8797154fa2ed6d8e1b9.webp,scrandle,bottom,319.2501548656681
+2026-05-19,3,left,100171,,7.8,47.81,2025,Düsseldorfer,,PSD Bank Dome,GER,3_left.webp,https://scrandle.com/media/o/WhatsApp_Bild_2025-11-27_um_08.51.35_95c85fbc.webp,scrandle,bottom,379.20164261428727
+2026-05-19,3,right,1483393932553867266,https://x.com/FootyScran/status/1483393932553867266,4.0,60.15,2022,Dirty nachos,,Taunton Town FC,ENG,3_right.webp,https://scrandle.com/media/o/FJYS6RcWUAAlkBI.webp,scrandle,center,485.8029055179062
+2026-05-19,4,left,100209,,12.0,51.65,2026,Hotdog and chips,,"Aussie Open, Melbourne",AUS,4_left.webp,https://scrandle.com/media/o/1000043357.webp,scrandle,center,449.6390289585916
+2026-05-19,4,right,1906060243206889525,https://x.com/SportScran/status/1906060243206889525,6.25,77.9,2025,Hot chocolate brownie,Covered in Biscoff,Hull City,ENG,4_right.webp,https://scrandle.com/media/o/GnOvsAoWgAAOdw8.webp,scrandle,center,603.7595332965086
+2026-05-19,5,left,1499189109931364352,https://x.com/FootyScran/status/1499189109931364352,2.8,42.59,2022,Pizza,,Atlas FC,MEX,5_left.webp,https://scrandle.com/media/o/FM4wjC5XIAYerL4.webp,scrandle,center,380.4151104880206
+2026-05-19,5,right,1477676664352083977,https://x.com/FootyScran/status/1477676664352083977,5.0,79.24,2022,Chicken flatbread,,Barnsley,ENG,5_right.webp,https://scrandle.com/media/o/FIHDF7bXsAI7pyS.webp,scrandle,center,605.1832187337429
+2026-05-19,6,left,1776606448635502703,https://x.com/GillsFCLeo/status/1776606448635502703,,29.38,2024,Cheese Burger,,Bradford,ENG,6_left.webp,https://scrandle.com/media/o/GKfGJW8WwAAD-DF.webp,scrandle,center,340.60047011271104
+2026-05-19,6,right,1908661159487824128,https://x.com/lilswad77/status/1908661159487824128,,52.51,2025,Fish n chip butty,,Aston Villa,ENG,6_right.webp,https://scrandle.com/media/o/GnztNOpXEAAm_T2.webp,scrandle,center,453.44982085227434
+2026-05-19,7,left,100423,,14.8,52.12,2026,Chicken and fries basket,With large soda,Columbus Blue Jackets,USA,7_left.webp,https://scrandle.com/media/o/b9b3ad771c246e947cc54bf48900ab77.webp,scrandle,center,392.6625949344445
+2026-05-19,7,right,1700159905317986747,https://x.com/FootyScran/status/1700159905317986747,5.2,14.94,2023,Chicken club sandwich,,Parc des Princes,FRA,7_right.webp,https://scrandle.com/media/o/F5gua4zXEAAGTqN.webp,scrandle,center,191.66978002477998
+2026-05-19,8,left,100482,,3.4,28.71,2026,Polish dog,,Ferry to Canada,USA,8_left.webp,https://scrandle.com/media/o/47cc43f94f664919d615a20716277e6f.webp,scrandle,bottom,233.8858121114006
+2026-05-19,8,right,100441,,5.5,55.95,2026,American hot dog,"Pickles, fried onions, mustard, ketchup, 0,5l coke zero",Śląsk Wrocław,POL,8_right.webp,https://scrandle.com/media/o/51c4ce57ed862d863e5fd7e029318d26.webp,scrandle,center,434.2045457767631
+2026-05-19,9,left,100117,,16.45,52.41,2022,Strawberry daiquiri / pina colada mix,,New York Red Bulls,USA,9_left.webp,https://scrandle.com/media/o/307626680_554333729800551_5403214274857661989_n.webp,scrandle,left,430.18147910268976
+2026-05-19,9,right,100454,,7.95,35.17,2026,Kayem Italian sausage,With peppers and onions,"Fenway Park, Boston",USA,9_right.webp,https://scrandle.com/media/o/5388567988cf22d8fd05c249fb383ffa.webp,scrandle,center,286.9502479650866

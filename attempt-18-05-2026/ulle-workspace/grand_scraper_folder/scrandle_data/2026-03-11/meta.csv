@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2026-03-11,0,left,Chili cheese roast potatoes,,4.5,70.47,0_left.webp,https://scrandle.com/media/o/FP-HgaIX0AQP8PP.webp
-2026-03-11,0,right,Hot dog,,7.0,57.74,0_right.webp,https://scrandle.com/media/o/FJZoHJtWQAIhqyz.webp
-2026-03-11,1,left,Cheeseburger,With chips,8.0,37.73,1_left.webp,https://scrandle.com/media/o/GxWYGcPWQAAK-cT.webp
-2026-03-11,1,right,Fatlad's special,Double bacon cheeseburger with onions,5.0,52.5,1_right.webp,https://scrandle.com/media/o/FfB1hcOWIAAqkUc.webp
-2026-03-11,2,left,Chicken gyros,,8.0,89.0,2_left.webp,https://scrandle.com/media/o/FRIIhTeX0AE_7Zs.webp
-2026-03-11,2,right,Spaghetti and french toast,,6.0,63.7,2_right.webp,https://scrandle.com/media/o/FWAfzgAXoAEBC_D.webp
-2026-03-11,3,left,Meat and potato pie,With a drink,8.0,37.87,3_left.webp,https://scrandle.com/media/o/GeM-o0aW8AA9tv0.jpg
-2026-03-11,3,right,Macaroni Pie,,2.5,27.35,3_right.webp,https://scrandle.com/media/o/GJXPWFRWgAAnDFi.webp
-2026-03-11,4,left,Chorizo sandwich,,3.3,63.9,4_left.webp,https://scrandle.com/media/o/FQuIiTqXEAQzKvo.webp
-2026-03-11,4,right,Reggae wings and peri chips,,10.0,91.7,4_right.webp,https://scrandle.com/media/o/FqdqYp_XoAAqmzR.webp
-2026-03-11,5,left,Fish,"free for Martin Odegaard, the man of the match",0.0,29.81,5_left.webp,https://scrandle.com/media/o/F5b3ZWoXwAAgeVF.webp
-2026-03-11,5,right,Bulpit beast,With chips,8.5,73.55,5_right.webp,https://scrandle.com/media/o/FXfKWwRXoAEcPQJ.webp
-2026-03-11,6,left,Pastel de carne,Meat pastry,2.0,74.9,6_left.webp,https://scrandle.com/media/o/FRs_WJlXIAE5ZuZ.webp
-2026-03-11,6,right,Churro filled with caramel,,1.2,88.3,6_right.webp,https://scrandle.com/media/o/GGVj69_b0AAEdNu.webp
-2026-03-11,7,left,Chicken and fries,With a can of Stella Artois,24.0,36.51,7_left.webp,https://scrandle.com/media/o/FTYydTPWUAMHnsd.webp
-2026-03-11,7,right,Chicken skewers,"On salad, wrapped in naan and sweet chili sauce",6.0,81.05,7_right.webp,https://scrandle.com/media/o/GkZvwhNXgAAJ0c0.webp
-2026-03-11,8,left,Katsu chicken and rice,,6.8,94.8,8_left.webp,https://scrandle.com/media/o/F2m0JtgWQAEwASU.webp
-2026-03-11,8,right,"Sausage, gherkin and a roll",,2.6,69.4,8_right.webp,https://scrandle.com/media/o/FNv4XmJWYAMCSWS.webp
-2026-03-11,9,left,"Ham, mushroom and salami pizza",,4.4,78.6,9_left.webp,https://scrandle.com/media/o/FlEVL-IWYAEsiu4.webp
-2026-03-11,9,right,Chicken tandoori pie,,2.5,52.1,9_right.webp,https://scrandle.com/media/o/FKWm0WrXwAUo-vk.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2026-03-11,0,left,1513076995336323072,https://x.com/FootyScran/status/1513076995336323072,4.5,70.47,2022,Chili cheese roast potatoes,,Cheltenham Town,ENG,0_left.webp,https://scrandle.com/media/o/FP-HgaIX0AQP8PP.webp,scrandle,center,430.05591282923746
+2026-03-11,0,right,1483487604955918345,https://x.com/FootyScran/status/1483487604955918345,7.0,57.74,2022,Hot dog,,Hull City,ENG,0_right.webp,https://scrandle.com/media/o/FJZoHJtWQAIhqyz.webp,scrandle,center,490.2080318046135
+2026-03-11,1,left,1951633257537458602,https://x.com/ThameslinkTV700/status/1951633257537458602,8.0,37.73,2025,Cheeseburger,With chips,Punjab United Football Club,ENG,1_left.webp,https://scrandle.com/media/o/GxWYGcPWQAAK-cT.webp,scrandle,center,281.0139843521286
+2026-03-11,1,right,1580892696742199297,https://x.com/FootyScran/status/1580892696742199297,5.0,52.5,2022,Fatlad's special,Double bacon cheeseburger with onions,Flackwell Heath FC,ENG,1_right.webp,https://scrandle.com/media/o/FfB1hcOWIAAqkUc.webp,scrandle,center,422.3956372544951
+2026-03-11,2,left,1518285404121743361,https://twitter.com/FootyScran/status/1518285404121743361,8.0,89.0,2022,Chicken gyros,,Birmingham City,ENG,2_left.webp,https://scrandle.com/media/o/FRIIhTeX0AE_7Zs.webp,scrandle,center,630.351388058717
+2026-03-11,2,right,1540266057180536833,https://twitter.com/FootyScran/status/1540266057180536833,6.0,63.7,2022,Spaghetti and french toast,,JEF United,JPN,2_right.webp,https://scrandle.com/media/o/FWAfzgAXoAEBC_D.webp,scrandle,center,407.7691616751538
+2026-03-11,3,left,1865409748142526796,https://x.com/FootyScran/status/1865409748142526796,8.0,37.87,2024,Meat and potato pie,With a drink,Stockport,ENG,3_left.webp,https://scrandle.com/media/o/GeM-o0aW8AA9tv0.jpg,scrandle,center,359.1518725374438
+2026-03-11,3,right,1771550414392922174,https://x.com/FABookforBoys1/status/1771550414392922174,2.5,27.35,2024,Macaroni Pie,,Dumbarton FC,SCO,3_right.webp,https://scrandle.com/media/o/GJXPWFRWgAAnDFi.webp,scrandle,center,265.177253397159
+2026-03-11,4,left,1516455830429872142,https://twitter.com/FootyScran/status/1516455830429872142,3.3,63.9,2022,Chorizo sandwich,,Athletic Bilbao,ESP,4_left.webp,https://scrandle.com/media/o/FQuIiTqXEAQzKvo.webp,scrandle,center,288.3047550111358
+2026-03-11,4,right,1632390368636329984,https://twitter.com/FootyScran/status/1632390368636329984,10.0,91.7,2023,Reggae wings and peri chips,,Slough Town FC,ENG,4_right.webp,https://scrandle.com/media/o/FqdqYp_XoAAqmzR.webp,scrandle,center,699.5414815388983
+2026-03-11,5,left,1699817928927871254,https://x.com/FootyScran/status/1699817928927871254,0.0,29.81,2023,Fish,"free for Martin Odegaard, the man of the match",Real Sociedad,ESP,5_left.webp,https://scrandle.com/media/o/F5b3ZWoXwAAgeVF.webp,scrandle,bottom,195.14467045181667
+2026-03-11,5,right,1546927495718502402,https://x.com/FootyScran/status/1546927495718502402,8.5,73.55,2022,Bulpit beast,With chips,Hungerford Town,ENG,5_right.webp,https://scrandle.com/media/o/FXfKWwRXoAEcPQJ.webp,scrandle,center,454.39478782419656
+2026-03-11,6,left,1520878959151493121,https://twitter.com/FootyScran/status/1520878959151493121,2.0,74.9,2022,Pastel de carne,Meat pastry,Figueirense FC,BRA,6_left.webp,https://scrandle.com/media/o/FRs_WJlXIAE5ZuZ.webp,scrandle,center,254.4095179984076
+2026-03-11,6,right,1757921100741177658,https://x.com/FootyScran/status/1757921100741177658,1.2,88.3,2024,Churro filled with caramel,,União Mogi,BRA,6_right.webp,https://scrandle.com/media/o/GGVj69_b0AAEdNu.webp,scrandle,center,499.3873681437517
+2026-03-11,7,left,1528464606707990535,https://x.com/FootyScran/status/1528464606707990535,24.0,36.51,2022,Chicken and fries,With a can of Stella Artois,New York Red Bulls,USA,7_left.webp,https://scrandle.com/media/o/FTYydTPWUAMHnsd.webp,scrandle,center,450.62118380901984
+2026-03-11,7,right,1893323577308418188,https://x.com/SportScran/status/1893323577308418188,6.0,81.05,2025,Chicken skewers,"On salad, wrapped in naan and sweet chili sauce",Barnsley FC,ENG,7_right.webp,https://scrandle.com/media/o/GkZvwhNXgAAJ0c0.webp,scrandle,center,614.9390054235263
+2026-03-11,8,left,1687077619139801089,https://twitter.com/FootyScran/status/1687077619139801089,6.8,94.8,2023,Katsu chicken and rice,,Womens World Cup 2023,AUS,8_left.webp,https://scrandle.com/media/o/F2m0JtgWQAEwASU.webp,scrandle,center,651.2774478224076
+2026-03-11,8,right,1503067993961603081,https://twitter.com/FootyScran/status/1503067993961603081,2.6,69.4,2022,"Sausage, gherkin and a roll",,Ruch Chorzow,POL,8_right.webp,https://scrandle.com/media/o/FNv4XmJWYAMCSWS.webp,scrandle,center,325.14561903694073
+2026-03-11,9,left,1608089843476697088,https://twitter.com/FootyScran/status/1608089843476697088,4.4,78.6,2022,"Ham, mushroom and salami pizza",,FC Lok Leipzig,GER,9_left.webp,https://scrandle.com/media/o/FlEVL-IWYAEsiu4.webp,scrandle,center,371.02264931000315
+2026-03-11,9,right,1487778677165338627,https://twitter.com/FootyScran/status/1487778677165338627,2.5,52.1,2022,Chicken tandoori pie,,Rochdale,ENG,9_right.webp,https://scrandle.com/media/o/FKWm0WrXwAUo-vk.webp,scrandle,center,255.25260750497668

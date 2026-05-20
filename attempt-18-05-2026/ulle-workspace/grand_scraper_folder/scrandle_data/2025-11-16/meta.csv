@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-11-16,0,left,Spicy glazed fried chicken,,3.0,79.25,0_left.webp,https://scrandle.com/media/o/FQ7_I-WWQAA4CFJ.webp
-2025-11-16,0,right,Chicken bites and chips,,10.0,60.79,0_right.webp,https://scrandle.com/media/o/FHti524X0AQS-KQ.webp
-2025-11-16,1,left,Cheeseburger,,5.0,18.09,1_left.webp,https://scrandle.com/media/o/Fl39rq4XkAEKli6.webp
-2025-11-16,1,right,Beef and pork yorkshire pudding,"With gravy, stuffing and veg",7.0,37.69,1_right.webp,https://scrandle.com/media/o/FjtAyNlXoAESiA1.webp
-2025-11-16,2,left,Chicken big mack and chips,,10.0,94.7,2_left.webp,https://scrandle.com/media/o/F4snkWpWwAAsda5.webp
-2025-11-16,2,right,Steak and chips,,14.0,81.0,2_right.webp,https://scrandle.com/media/o/Gya4DuRW8AA_rZ8.webp
-2025-11-16,3,left,Jerk chicken and rice,,,66.94,3_left.webp,https://scrandle.com/media/o/GJ2y6pgXUAAsNVR.webp
-2025-11-16,3,right,Sausage,,3.45,43.45,3_right.webp,https://scrandle.com/media/o/GdJsW7TWoAEKKoB.webp
-2025-11-16,4,left,Cheeseburger,Without burger,5.2,8.31,4_left.webp,https://scrandle.com/media/o/GJ3bHhSWgAEtRyt.webp
-2025-11-16,4,right,A pint of Guinness,,,40.23,4_right.webp,https://scrandle.com/media/o/GV2Ke4GXYAAD5kD.webp
-2025-11-16,5,left,Hot dog and pretzel,With two 0.75 pint beers,14.85,65.13,5_left.webp,https://scrandle.com/media/o/cfa833300307.webp
-2025-11-16,5,right,Steak pie meal deal,,10.95,32.95,5_right.webp,https://scrandle.com/media/o/GKfEi71XAAAJGnf.webp
-2025-11-16,6,left,Hot dog,,7.4,14.29,6_left.webp,https://scrandle.com/media/o/F9I1Zi6WkAYzJEc.webp
-2025-11-16,6,right,Pitchside McDonalds,,,41.3,6_right.webp,https://scrandle.com/media/o/FHzjJh-XoAgC3CB.webp
-2025-11-16,7,left,Hot dog in waffle,,3.8,65.8,7_left.webp,https://scrandle.com/media/o/FstSJExXgAAw8sD.webp
-2025-11-16,7,right,Bratwurst with onions,,5.0,85.8,7_right.webp,https://scrandle.com/media/o/FLQfxtJX0AEYYIY.webp
-2025-11-16,8,left,Sausage in lompe,The Norwegian hot dog,3.5,31.6,8_left.webp,https://scrandle.com/media/o/FzOt7oAXoAEMj4W.webp
-2025-11-16,8,right,Meat (Unknown) sandwich,,0.67,24.4,8_right.webp,https://scrandle.com/media/o/F89iOy8WQAAmhD_.webp
-2025-11-16,9,left,Cheese dog,,5.0,30.2,9_left.webp,https://scrandle.com/media/o/GZdgZMIXQAAG8aj.webp
-2025-11-16,9,right,Cheeseburger,,4.5,7.6,9_right.webp,https://scrandle.com/media/o/F93lUrhWYAE4iRD.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-11-16,0,left,1517430658431389697,https://x.com/FootyScran/status/1517430658431389697,3.0,79.25,2022,Spicy glazed fried chicken,,Chungnam Asan FC,KOR,0_left.webp,https://scrandle.com/media/o/FQ7_I-WWQAA4CFJ.webp,scrandle,center,614.6982030640526
+2025-11-16,0,right,1475882052822179841,https://x.com/FootyScran/status/1475882052822179841,10.0,60.79,2021,Chicken bites and chips,,Watford FC,ENG,0_right.webp,https://scrandle.com/media/o/FHti524X0AQS-KQ.webp,scrandle,center,450.98494005023946
+2025-11-16,1,left,1611723174063882240,https://x.com/FootyScran/status/1611723174063882240,5.0,18.09,2023,Cheeseburger,,Tranmere Rovers,ENG,1_left.webp,https://scrandle.com/media/o/Fl39rq4XkAEKli6.webp,scrandle,center,101.33541973573881
+2025-11-16,1,right,1601945331905748992,https://x.com/FootyScran/status/1601945331905748992,7.0,37.69,2022,Beef and pork yorkshire pudding,"With gravy, stuffing and veg",Grimsby Town,ENG,1_right.webp,https://scrandle.com/media/o/FjtAyNlXoAESiA1.webp,scrandle,center,367.69237129604295
+2025-11-16,2,left,1696493195188638124,https://twitter.com/FootyScran/status/1696493195188638124,10.0,94.7,2023,Chicken big mack and chips,,St Albans City FC,ENG,2_left.webp,https://scrandle.com/media/o/F4snkWpWwAAsda5.webp,scrandle,center,525.8467227596929
+2025-11-16,2,right,1956453469763616852,https://x.com/FootyScran/status/1956453469763616852,14.0,81.0,2025,Steak and chips,,Birmingham City,ENG,2_right.webp,https://scrandle.com/media/o/Gya4DuRW8AA_rZ8.webp,scrandle,center,625.7227778154542
+2025-11-16,3,left,1773770656296923291,https://x.com/tompnefc/status/1773770656296923291,,66.94,2024,Jerk chicken and rice,,Preston North End,ENG,3_left.webp,https://scrandle.com/media/o/GJ2y6pgXUAAsNVR.webp,scrandle,center,485.64196856218143
+2025-11-16,3,right,1860670506363404530,https://x.com/FootyScran/status/1860670506363404530,3.45,43.45,2024,Sausage,,Bohemians Praha,CZE,3_right.webp,https://scrandle.com/media/o/GdJsW7TWoAEKKoB.webp,scrandle,center,345.1635804516149
+2025-11-16,4,left,1773814757528584576,https://x.com/hettrapveldje/status/1773814757528584576,5.2,8.31,2024,Cheeseburger,Without burger,LOSC Lille,FRA,4_left.webp,https://scrandle.com/media/o/GJ3bHhSWgAEtRyt.webp,scrandle,center,126.96526073369893
+2025-11-16,4,right,1827804215240196100,https://x.com/FootyScran/status/1827804215240196100,,40.23,2024,A pint of Guinness,,Unknown Location,ENG,4_right.webp,https://scrandle.com/media/o/GV2Ke4GXYAAD5kD.webp,scrandle,center,363.48368797658355
+2025-11-16,5,left,22092025001,,14.85,65.13,2025,Hot dog and pretzel,With two 0.75 pint beers,"Nats Park, Washington DC",USA,5_left.webp,https://scrandle.com/media/o/cfa833300307.webp,scrandle,center,487.0882141673624
+2025-11-16,5,right,1776604691247333661,https://x.com/thijswig/status/1776604691247333661,10.95,32.95,2024,Steak pie meal deal,,Queens Park Rangers,ENG,5_right.webp,https://scrandle.com/media/o/GKfEi71XAAAJGnf.webp,scrandle,center,263.52401139486915
+2025-11-16,6,left,1716493133679071518,https://x.com/FootyScran/status/1716493133679071518,7.4,14.29,2023,Hot dog,,AVIVA Stadium,IRL,6_left.webp,https://scrandle.com/media/o/F9I1Zi6WkAYzJEc.webp,scrandle,center,168.0707023745593
+2025-11-16,6,right,1476304534930698246,https://x.com/FootyScran/status/1476304534930698246,,41.3,2021,Pitchside McDonalds,,Sparta Prague,CZE,6_right.webp,https://scrandle.com/media/o/FHzjJh-XoAgC3CB.webp,scrandle,center,348.7620769280245
+2025-11-16,7,left,1642496809883844610,https://twitter.com/FootyScran/status/1642496809883844610,3.8,65.8,2023,Hot dog in waffle,,Fredrikstad FK,NOR,7_left.webp,https://scrandle.com/media/o/FstSJExXgAAw8sD.webp,scrandle,center,233.04887001496377
+2025-11-16,7,right,1491852321868980224,https://twitter.com/FootyScran/status/1491852321868980224,5.0,85.8,2022,Bratwurst with onions,,Ebbsfleet United,ENG,7_right.webp,https://scrandle.com/media/o/FLQfxtJX0AEYYIY.webp,scrandle,center,325.5741902890566
+2025-11-16,8,left,1671871130951376896,https://twitter.com/FootyScran/status/1671871130951376896,3.5,31.6,2023,Sausage in lompe,The Norwegian hot dog,Norway v Scotland,NOR,8_left.webp,https://scrandle.com/media/o/FzOt7oAXoAEMj4W.webp,scrandle,center,233.55786391801115
+2025-11-16,8,right,1715697995029635421,https://twitter.com/FootyScran/status/1715697995029635421,0.67,24.4,2023,Meat (Unknown) sandwich,,Haiphong FC,VIE,8_right.webp,https://scrandle.com/media/o/F89iOy8WQAAmhD_.webp,scrandle,center,115.39299162531688
+2025-11-16,9,left,1844048563573248266,https://x.com/FootyScran/status/1844048563573248266,5.0,30.2,2024,Cheese dog,,Shrewsbury Town,ENG,9_left.webp,https://scrandle.com/media/o/GZdgZMIXQAAG8aj.webp,scrandle,center,115.73376046457025
+2025-11-16,9,right,1719782783562784819,https://twitter.com/FootyScran/status/1719782783562784819,4.5,7.6,2023,Cheeseburger,,Crewe Alexandra,ENG,9_right.webp,https://scrandle.com/media/o/F93lUrhWYAE4iRD.webp,scrandle,center,179.96329131223243

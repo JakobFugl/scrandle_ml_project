@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-08-13,0,left,Sri Lankan food platter,Free for fans,0.0,93.7,0_left.webp,https://scrandle.com/media/o/FR2_o7PXwAIkq09.webp
-2025-08-13,0,right,Pepperoni pizza,,8.0,73.0,0_right.webp,https://scrandle.com/media/o/GGh90zhW4AQBVLR.webp
-2025-08-13,1,left,Doner meat and chips,,6.9,85.2,1_left.webp,https://scrandle.com/media/o/Fs-RYFkWYAAOY-n.webp
-2025-08-13,1,right,Chicken wings,,4.0,83.5,1_right.webp,https://scrandle.com/media/o/FMOiXLVXMAEM8Nj.webp
-2025-08-13,2,left,Cheesy chips,,4.0,48.2,2_left.webp,https://scrandle.com/media/o/FkhL8shWIAAmLQv.webp
-2025-08-13,2,right,Pitta bread and meatballs,,6.5,93.0,2_right.webp,https://scrandle.com/media/o/F4KO6lbWYAAQ8eH.webp
-2025-08-13,3,left,"Chicken, pulled pork and chips",,7.5,90.3,3_left.webp,https://scrandle.com/media/o/F31f8wlX0AEwAOZ.webp
-2025-08-13,3,right,Waffle with Nutella,,2.5,57.0,3_right.webp,https://scrandle.com/media/o/FNfhmL3WYAUGiA3.webp
-2025-08-13,4,left,Le sandwich lyonnais,"Sausage, onions and Saint Marcellin sauce",5.8,73.4,4_left.webp,https://scrandle.com/media/o/FOH_2ooXEAAa-1G.webp
-2025-08-13,4,right,Chinese box,,10.0,83.5,4_right.webp,https://scrandle.com/media/o/FK2GzM7XEAcn6dI.webp
-2025-08-13,5,left,Chicken and halloumi souvlaki,,8.0,86.4,5_left.webp,https://scrandle.com/media/o/Fn5ZM7JWAAAsyMj.webp
-2025-08-13,5,right,Pulled beef and gravy topped chips,,6.0,89.5,5_right.webp,https://scrandle.com/media/o/F2suve6WgAAw_7z.webp
-2025-08-13,6,left,Pizza and a pint of Peroni,,8.8,82.7,6_left.webp,https://scrandle.com/media/o/FthheP7WYAUabUs.webp
-2025-08-13,6,right,Hot dog,,5.0,19.0,6_right.webp,https://scrandle.com/media/o/Fie8lcoWAAImiw5.webp
-2025-08-13,7,left,Butter chicken tacos,,11.0,72.4,7_left.webp,https://scrandle.com/media/o/GJZGpi7WQAEwWRN.webp
-2025-08-13,7,right,Sausage,,3.5,80.8,7_right.webp,https://scrandle.com/media/o/FhHjpkiX0AI-_99.webp
-2025-08-13,8,left,Sausage and bread,,3.3,58.2,8_left.webp,https://scrandle.com/media/o/F_YU9TjXwAAVVXk.webp
-2025-08-13,8,right,The Wyrley Wynder,Cumberland sausage link in a bagel with cheese,3.5,90.1,8_right.webp,https://scrandle.com/media/o/FQzp_v1XwAIdosT.webp
-2025-08-13,9,left,Grilled cheese,,1.2,64.1,9_left.webp,https://scrandle.com/media/o/FnMBaDgWYBMkei_.webp
-2025-08-13,9,right,Chicharrones,fried pork,4.8,77.6,9_right.webp,https://scrandle.com/media/o/GKvQXZdWAAAxxyp.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-08-13,0,left,1521582969177190402,https://twitter.com/FootyScran/status/1521582969177190402,0.0,93.7,2022,Sri Lankan food platter,Free for fans,AS Velasca,ITA,0_left.webp,https://scrandle.com/media/o/FR2_o7PXwAIkq09.webp,scrandle,center,510.8569162370755
+2025-08-13,0,right,1758794007520387346,https://x.com/FootyScran/status/1758794007520387346,8.0,73.0,2024,Pepperoni pizza,,Sydney FC,AUS,0_right.webp,https://scrandle.com/media/o/GGh90zhW4AQBVLR.webp,scrandle,center,389.9116468088532
+2025-08-13,1,left,1643692243222421513,https://twitter.com/FootyScran/status/1643692243222421513,6.9,85.2,2023,Doner meat and chips,,RB Leipzig,GER,1_left.webp,https://scrandle.com/media/o/Fs-RYFkWYAAOY-n.webp,scrandle,center,416.3698669878211
+2025-08-13,1,right,1496218031919407110,https://twitter.com/FootyScran/status/1496218031919407110,4.0,83.5,2022,Chicken wings,,Bristol City,ENG,1_right.webp,https://scrandle.com/media/o/FMOiXLVXMAEM8Nj.webp,scrandle,center,491.00103692166476
+2025-08-13,2,left,1605616782911250432,https://twitter.com/FootyScran/status/1605616782911250432,4.0,48.2,2022,Cheesy chips,,Bromley FC,ENG,2_left.webp,https://scrandle.com/media/o/FkhL8shWIAAmLQv.webp,scrandle,center,280.6328082429293
+2025-08-13,2,right,1694073552612315308,https://twitter.com/FootyScran/status/1694073552612315308,6.5,93.0,2023,Pitta bread and meatballs,,Stockport Georgians FC,ENG,2_right.webp,https://scrandle.com/media/o/F4KO6lbWYAAQ8eH.webp,scrandle,center,549.8884046284509
+2025-08-13,3,left,1692614546672721972,https://twitter.com/FootyScran/status/1692614546672721972,7.5,90.3,2023,"Chicken, pulled pork and chips",,Doncaster Rovers,ENG,3_left.webp,https://scrandle.com/media/o/F31f8wlX0AEwAOZ.webp,scrandle,center,481.33622111189334
+2025-08-13,3,right,1501917051866292227,https://twitter.com/FootyScran/status/1501917051866292227,2.5,57.0,2022,Waffle with Nutella,,St Etienne,FRA,3_right.webp,https://scrandle.com/media/o/FNfhmL3WYAUGiA3.webp,scrandle,center,272.9676353727285
+2025-08-13,4,left,1504765070886248450,https://twitter.com/FootyScran/status/1504765070886248450,5.8,73.4,2022,Le sandwich lyonnais,"Sausage, onions and Saint Marcellin sauce",Lyon,FRA,4_left.webp,https://scrandle.com/media/o/FOH_2ooXEAAa-1G.webp,scrandle,bottom right,446.8613969659761
+2025-08-13,4,right,1489995277582970880,https://twitter.com/FootyScran/status/1489995277582970880,10.0,83.5,2022,Chinese box,,Reading City FC,ENG,4_right.webp,https://scrandle.com/media/o/FK2GzM7XEAcn6dI.webp,scrandle,center,473.99320337235343
+2025-08-13,5,left,1620831000761892864,https://twitter.com/FootyScran/status/1620831000761892864,8.0,86.4,2023,Chicken and halloumi souvlaki,,Dulwich Hamlet,ENG,5_left.webp,https://scrandle.com/media/o/Fn5ZM7JWAAAsyMj.webp,scrandle,center,404.45079004580293
+2025-08-13,5,right,1687493882618028032,https://twitter.com/FootyScran/status/1687493882618028032,6.0,89.5,2023,Pulled beef and gravy topped chips,,Hartlepool United,ENG,5_right.webp,https://scrandle.com/media/o/F2suve6WgAAw_7z.webp,scrandle,center,478.0698167338192
+2025-08-13,6,left,1646172841828556806,https://twitter.com/FootyScran/status/1646172841828556806,8.8,82.7,2023,Pizza and a pint of Peroni,,Lazio,ITA,6_left.webp,https://scrandle.com/media/o/FthheP7WYAUabUs.webp,scrandle,center,305.36825374786554
+2025-08-13,6,right,1596451953839509504,https://twitter.com/FootyScran/status/1596451953839509504,5.0,19.0,2022,Hot dog,,Newcastle United,ENG,6_right.webp,https://scrandle.com/media/o/Fie8lcoWAAImiw5.webp,scrandle,center,144.6659628601438
+2025-08-13,7,left,1771681189620768869,https://x.com/FootyScran/status/1771681189620768869,11.0,72.4,2024,Butter chicken tacos,,Detroit City FC,USA,7_left.webp,https://scrandle.com/media/o/GJZGpi7WQAEwWRN.webp,scrandle,bottom,528.0590975747198
+2025-08-13,7,right,1590302487730302976,https://twitter.com/FootyScran/status/1590302487730302976,3.5,80.8,2022,Sausage,,KSV Hessen Kassel,GER,7_right.webp,https://scrandle.com/media/o/FhHjpkiX0AI-_99.webp,scrandle,center,210.41304053165547
+2025-08-13,8,left,1726590556158246918,https://twitter.com/FootyScran/status/1726590556158246918,3.3,58.2,2023,Sausage and bread,,Slavia Praha,CZE,8_left.webp,https://scrandle.com/media/o/F_YU9TjXwAAVVXk.webp,scrandle,center,242.3311323655752
+2025-08-13,8,right,1516844460453285894,https://twitter.com/FootyScran/status/1516844460453285894,3.5,90.1,2022,The Wyrley Wynder,Cumberland sausage link in a bagel with cheese,Wyrley United,ENG,8_right.webp,https://scrandle.com/media/o/FQzp_v1XwAIdosT.webp,scrandle,center,435.39466749808975
+2025-08-13,9,left,1617638246607118336,https://twitter.com/FootyScran/status/1617638246607118336,1.2,64.1,2023,Grilled cheese,,Clube de Regatas,BRA,9_left.webp,https://scrandle.com/media/o/FnMBaDgWYBMkei_.webp,scrandle,center,209.05658859820062
+2025-08-13,9,right,1777743583153414350,https://x.com/FootyScran/status/1777743583153414350,4.8,77.6,2024,Chicharrones,fried pork,Tigres FC,MEX,9_right.webp,https://scrandle.com/media/o/GKvQXZdWAAAxxyp.webp,scrandle,center,350.93753209863166

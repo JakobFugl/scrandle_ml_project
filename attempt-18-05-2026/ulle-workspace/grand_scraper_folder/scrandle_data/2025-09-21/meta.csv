@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-09-21,0,left,Philly cheesesteak,,5.0,14.2,0_left.webp,https://scrandle.com/media/o/F-q3B3ZXsAA-D5W.webp
-2025-09-21,0,right,"Pie, mushy peas and gravy",,4.0,24.7,0_right.webp,https://scrandle.com/media/o/FOoiqCxXMAksiUF.webp
-2025-09-21,1,left,"Sausages, chips and curry sauce",In a hollowed cob,4.5,87.5,1_left.webp,https://scrandle.com/media/o/GlOKHnlXAAAKcjc.webp
-2025-09-21,1,right,Fried chicken and wedges,,5.0,80.2,1_right.webp,https://scrandle.com/media/o/F0wdGfAWAAA654p.webp
-2025-09-21,2,left,Wigan kebab,Pie and mushy peas on a roll,4.25,46.8,2_left.webp,https://scrandle.com/media/o/GWK5wGWXMAADv89.webp
-2025-09-21,2,right,Bovril ice lolly,One-off handouts,0.0,27.4,2_right.webp,https://scrandle.com/media/o/FUwHJrQWUAM_Q0H.webp
-2025-09-21,3,left,Wigan kebab,"Pie, peas and gravy in a roll",4.0,34.1,3_left.webp,https://scrandle.com/media/o/FNqiLOjXwAoJyI6.webp
-2025-09-21,3,right,Fischbrötchen,Fish in a bun,4.0,27.1,3_right.webp,https://scrandle.com/media/o/F7m4PJRWcAASTzt.webp
-2025-09-21,4,left,Special steak pie cheeseburger,With a pint,8.5,58.3,4_left.webp,https://scrandle.com/media/o/GkaE7vYXAAAby8O.webp
-2025-09-21,4,right,Hamyaki,Ham steak,1.9,66.3,4_right.webp,https://scrandle.com/media/o/FOYJ0ZBXwAAzfH9.webp
-2025-09-21,5,left,Slider Box,"6 burgers, 4 mozzarella sticks, beer-battered onion rings, and tater tots",20.8,87.5,5_left.webp,https://scrandle.com/media/o/GL4BPyoWEAAVKKS.webp
-2025-09-21,5,right,"Chips, beans and cheese",,1.0,55.4,5_right.webp,https://scrandle.com/media/o/FlKihcJXwAEHckx.webp
-2025-09-21,6,left,Double rib eye cheeseburger,,6.0,88.8,6_left.webp,https://scrandle.com/media/o/FpbQ7N_WAAQ9vnf.webp
-2025-09-21,6,right,Jacket potato,With beans and mushy peas,3.0,22.9,6_right.webp,https://scrandle.com/media/o/FRlrAwrWUAAEsb5.webp
-2025-09-21,7,left,"Pie, mash and gravy",,6.0,78.3,7_left.webp,https://scrandle.com/media/o/FT2N5OXXEAEyVCg.webp
-2025-09-21,7,right,Tikkabab,"Open tortilla wrap, tikka chicken, salad, raita and hot chilli sauce",8.0,91.8,7_right.webp,https://scrandle.com/media/o/F35a7YMWgAAlcN5.webp
-2025-09-21,8,left,Jerk chicken salad,,7.5,49.3,8_left.webp,https://scrandle.com/media/o/FKReHrRXEAIg-xq.webp
-2025-09-21,8,right,Nacho sharer,,20.0,34.8,8_right.webp,https://scrandle.com/media/o/FzEH4wrX0AAZB-h.webp
-2025-09-21,9,left,Sticky Korean chicken,With chips,5.0,92.7,9_left.webp,https://scrandle.com/media/o/Fo8LmJ2WcAIdFss.webp
-2025-09-21,9,right,Pizza dog,,7.0,68.9,9_right.webp,https://scrandle.com/media/o/GMbLMoPXYAAEfBt.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-09-21,0,left,1723391055867859166,https://twitter.com/FootyScran/status/1723391055867859166,5.0,14.2,2023,Philly cheesesteak,,Sheffield Wednesday,ENG,0_left.webp,https://scrandle.com/media/o/F-q3B3ZXsAA-D5W.webp,scrandle,center,245.7575162106428
+2025-09-21,0,right,1507055137000497156,https://twitter.com/FootyScran/status/1507055137000497156,4.0,24.7,2022,"Pie, mushy peas and gravy",,Bacup Borough,ENG,0_right.webp,https://scrandle.com/media/o/FOoiqCxXMAksiUF.webp,scrandle,center,245.52189218648454
+2025-09-21,1,left,1897011738001961205,https://x.com/FootyScran/status/1897011738001961205,4.5,87.5,2025,"Sausages, chips and curry sauce",In a hollowed cob,Merthyr Town FC,WAL,1_left.webp,https://scrandle.com/media/o/GlOKHnlXAAAKcjc.webp,scrandle,center,372.02316899479086
+2025-09-21,1,right,1678748766789160964,https://twitter.com/FootyScran/status/1678748766789160964,5.0,80.2,2023,Fried chicken and wedges,,Lion City Sailors,SGP,1_right.webp,https://scrandle.com/media/o/F0wdGfAWAAA654p.webp,scrandle,center,538.1633789841973
+2025-09-21,2,left,1829228640736837887,https://x.com/FootyScran/status/1829228640736837887,4.25,46.8,2024,Wigan kebab,Pie and mushy peas on a roll,Congleton Town,ENG,2_left.webp,https://scrandle.com/media/o/GWK5wGWXMAADv89.webp,scrandle,center,209.68803194868107
+2025-09-21,2,right,1534609441055711233,https://twitter.com/FootyScran/status/1534609441055711233,0.0,27.4,2022,Bovril ice lolly,One-off handouts,Wembley,ENG,2_right.webp,https://scrandle.com/media/o/FUwHJrQWUAM_Q0H.webp,scrandle,center,140.13430590288326
+2025-09-21,3,left,1502691744579833864,https://twitter.com/FootyScran/status/1502691744579833864,4.0,34.1,2022,Wigan kebab,"Pie, peas and gravy in a roll",Rochdale,ENG,3_left.webp,https://scrandle.com/media/o/FNqiLOjXwAoJyI6.webp,scrandle,center,235.49366289385387
+2025-09-21,3,right,1709600110529712534,https://twitter.com/FootyScran/status/1709600110529712534,4.0,27.1,2023,Fischbrötchen,Fish in a bun,Leipzig,GER,3_right.webp,https://scrandle.com/media/o/F7m4PJRWcAASTzt.webp,scrandle,center,222.00234971418496
+2025-09-21,4,left,1893346861286604942,https://x.com/FootyScran/status/1893346861286604942,8.5,58.3,2025,Special steak pie cheeseburger,With a pint,Highworth Town FC,ENG,4_left.webp,https://scrandle.com/media/o/GkaE7vYXAAAby8O.webp,scrandle,center,206.01070621340048
+2025-09-21,4,right,1505901925513969665,https://twitter.com/FootyScran/status/1505901925513969665,1.9,66.3,2022,Hamyaki,Ham steak,Kashima Antlers,JPN,4_right.webp,https://scrandle.com/media/o/FOYJ0ZBXwAAzfH9.webp,scrandle,center,344.5510427857507
+2025-09-21,5,left,1782863879317414357,https://x.com/FootyScran/status/1782863879317414357,20.8,87.5,2024,Slider Box,"6 burgers, 4 mozzarella sticks, beer-battered onion rings, and tater tots",Sporting Kansas City,USA,5_left.webp,https://scrandle.com/media/o/GL4BPyoWEAAVKKS.webp,scrandle,center,654.7757820157819
+2025-09-21,5,right,1608526720491204608,https://twitter.com/FootyScran/status/1608526720491204608,1.0,55.4,2022,"Chips, beans and cheese",,Morriston Town,ENG,5_right.webp,https://scrandle.com/media/o/FlKihcJXwAEHckx.webp,scrandle,center,331.8079493721889
+2025-09-21,6,left,1627718047719882781,https://twitter.com/FootyScran/status/1627718047719882781,6.0,88.8,2023,Double rib eye cheeseburger,,Ashton Town,ENG,6_left.webp,https://scrandle.com/media/o/FpbQ7N_WAAQ9vnf.webp,scrandle,center,499.0231039299132
+2025-09-21,6,right,1520364015309971456,https://twitter.com/FootyScran/status/1520364015309971456,3.0,22.9,2022,Jacket potato,With beans and mushy peas,Burton Albion,ENG,6_right.webp,https://scrandle.com/media/o/FRlrAwrWUAAEsb5.webp,scrandle,center,268.4767359199366
+2025-09-21,7,left,1530535467162255361,https://twitter.com/FootyScran/status/1530535467162255361,6.0,78.3,2022,"Pie, mash and gravy",,Stockport County,ENG,7_left.webp,https://scrandle.com/media/o/FT2N5OXXEAEyVCg.webp,scrandle,center,285.0328687262413
+2025-09-21,7,right,1692890492323692798,https://twitter.com/FootyScran/status/1692890492323692798,8.0,91.8,2023,Tikkabab,"Open tortilla wrap, tikka chicken, salad, raita and hot chilli sauce",Kidderminster Harriers,ENG,7_right.webp,https://scrandle.com/media/o/F35a7YMWgAAlcN5.webp,scrandle,center,588.400513840026
+2025-09-21,8,left,1487417268879433729,https://twitter.com/FootyScran/status/1487417268879433729,7.5,49.3,2022,Jerk chicken salad,,Wycombe Wanderers,ENG,8_left.webp,https://scrandle.com/media/o/FKReHrRXEAIg-xq.webp,scrandle,center,506.28140384467054
+2025-09-21,8,right,1671125612419862529,https://twitter.com/FootyScran/status/1671125612419862529,20.0,34.8,2023,Nacho sharer,,Arsenal,ENG,8_right.webp,https://scrandle.com/media/o/FzEH4wrX0AAZB-h.webp,scrandle,center,409.6109419644559
+2025-09-21,9,left,1625530748429107202,https://twitter.com/FootyScran/status/1625530748429107202,5.0,92.7,2023,Sticky Korean chicken,With chips,Sunderland,ENG,9_left.webp,https://scrandle.com/media/o/Fo8LmJ2WcAIdFss.webp,scrandle,center,635.4943393132969
+2025-09-21,9,right,1785337735030456685,https://x.com/FootyScran/status/1785337735030456685,7.0,68.9,2024,Pizza dog,,Nottingham Forest,ENG,9_right.webp,https://scrandle.com/media/o/GMbLMoPXYAAEfBt.webp,twitter,center,399.54343804009955

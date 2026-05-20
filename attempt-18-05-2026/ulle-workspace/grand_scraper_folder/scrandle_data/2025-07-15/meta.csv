@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-07-15,0,left,Spicy chicken flatbread,Includes a pint,9.9,91.5,0_left.webp,https://scrandle.com/media/o/Fx3Hl5vX0AIPY8g.webp
-2025-07-15,0,right,Bavette steak with potatoes and garlic,Food included with ticket,86.0,63.3,0_right.webp,https://scrandle.com/media/o/FlJ9FgsXgAM5AFJ.webp
-2025-07-15,1,left,Chicken burger,,5.0,9.9,1_left.webp,https://scrandle.com/media/o/FqJ_0K-WIAE_dHF.webp
-2025-07-15,1,right,Wigan kebab,Pie and gravy in a roll,3.5,51.9,1_right.webp,https://scrandle.com/media/o/FblHx_dXgAIsC42.webp
-2025-07-15,2,left,Korean fried chicken,,4.5,96.6,2_left.webp,https://scrandle.com/media/o/F02Y-mDXsAEbjCB.webp
-2025-07-15,2,right,Hot dog,,4.0,19.4,2_right.webp,https://scrandle.com/media/o/FKm3ZAkXIAE60Ce.webp
-2025-07-15,3,left,Chicken strips,,4.0,88.6,3_left.webp,https://scrandle.com/media/o/FPIFOIsXsAEA2L0.webp
-2025-07-15,3,right,Hot dog,,3.5,67.8,3_right.webp,https://scrandle.com/media/o/FeOfxl3WIAMdFR2.webp
-2025-07-15,4,left,Vendance fish with mashed potato,,8.5,49.9,4_left.webp,https://scrandle.com/media/o/FxI1MlSWYAEb-dq.webp
-2025-07-15,4,right,Korean corn dog,Stuffed with mozzarella and breaded with panko bread crumbs,9.0,86.5,4_right.webp,https://scrandle.com/media/o/GXomjqHW0AEG1Ez.webp
-2025-07-15,5,left,Koupes,Deep fried minced meat and onions,2.57,37.0,5_left.webp,https://scrandle.com/media/o/GZisKX_WoA4Z8uH.webp
-2025-07-15,5,right,"Chicken, chips and curry sauce",,6.0,76.9,5_right.webp,https://scrandle.com/media/o/FLFxlrAXwA0dkhB.webp
-2025-07-15,6,left,Reggae wings and peri chips,,10.0,91.7,6_left.webp,https://scrandle.com/media/o/FqdqYp_XoAAqmzR.webp
-2025-07-15,6,right,The big boss,"XL chicken breast, fried mozzarella, with fries",12.0,80.8,6_right.webp,https://scrandle.com/media/o/GlDBUUiWQAA5oQX.webp
-2025-07-15,7,left,Pastel de carne,Meat pastry,2.0,74.9,7_left.webp,https://scrandle.com/media/o/FRs_WJlXIAE5ZuZ.webp
-2025-07-15,7,right,Rocks burger,"Beef patty, bacon, 2 hash browns, cheese and an egg",6.0,80.1,7_right.webp,https://scrandle.com/media/o/FVn60pbXsAALDSY.webp
-2025-07-15,8,left,Fish and chips,,9.5,69.6,8_left.webp,https://scrandle.com/media/o/FLlMp1CXsAs6MSz.webp
-2025-07-15,8,right,"Sausage, pickle and bread",With a beer,5.5,74.1,8_right.webp,https://scrandle.com/media/o/GmwJaV4awAAYTkI.webp
-2025-07-15,9,left,BBQ pulled pork,With cheesy chips,4.5,88.1,9_left.webp,https://scrandle.com/media/o/FdMQzmyXoAEck0i.webp
-2025-07-15,9,right,Beef stew,With a horseradish and herb dumpling,7.5,84.9,9_right.webp,https://scrandle.com/media/o/GiI9R-zWEAA4NOb.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-07-15,0,left,1665706895787671553,https://twitter.com/FootyScran/status/1665706895787671553,9.9,91.5,2023,Spicy chicken flatbread,Includes a pint,FC Twente,NED,0_left.webp,https://scrandle.com/media/o/Fx3Hl5vX0AIPY8g.webp,scrandle,center,363.80237113504444
+2025-07-15,0,right,1608485558531280898,https://twitter.com/FootyScran/status/1608485558531280898,86.0,63.3,2022,Bavette steak with potatoes and garlic,Food included with ticket,"Le Deck, PSG",FRA,0_right.webp,https://scrandle.com/media/o/FlJ9FgsXgAM5AFJ.webp,scrandle,center,357.5786094954
+2025-07-15,1,left,1631006554915852300,https://twitter.com/FootyScran/status/1631006554915852300,5.0,9.9,2023,Chicken burger,,Aston Villa,ENG,1_left.webp,https://scrandle.com/media/o/FqJ_0K-WIAE_dHF.webp,scrandle,center,167.3507281935581
+2025-07-15,1,right,1565361308022849549,https://twitter.com/FootyScran/status/1565361308022849549,3.5,51.9,2022,Wigan kebab,Pie and gravy in a roll,Rochdale AFC,ENG,1_right.webp,https://scrandle.com/media/o/FblHx_dXgAIsC42.webp,scrandle,center,129.05898906734814
+2025-07-15,2,left,1679166444058157056,https://twitter.com/FootyScran/status/1679166444058157056,4.5,96.6,2023,Korean fried chicken,,FC Seoul,KOR,2_left.webp,https://scrandle.com/media/o/F02Y-mDXsAEbjCB.webp,scrandle,bottom,659.1836111029522
+2025-07-15,2,right,1488922798026334212,https://twitter.com/FootyScran/status/1488922798026334212,4.0,19.4,2022,Hot dog,,Bradford City,ENG,2_right.webp,https://scrandle.com/media/o/FKm3ZAkXIAE60Ce.webp,scrandle,center,188.0454045877731
+2025-07-15,3,left,1509274570376851464,https://twitter.com/FootyScran/status/1509274570376851464,4.0,88.6,2022,Chicken strips,,Independiente Santa Fe,COL,3_left.webp,https://scrandle.com/media/o/FPIFOIsXsAEA2L0.webp,scrandle,center,392.4639701711178
+2025-07-15,3,right,1577279974952013824,https://twitter.com/FootyScran/status/1577279974952013824,3.5,67.8,2022,Hot dog,,FC Copenhagen,DEN,3_right.webp,https://scrandle.com/media/o/FeOfxl3WIAMdFR2.webp,scrandle,center,270.75290627968064
+2025-07-15,4,left,1662449713692418054,https://twitter.com/FootyScran/status/1662449713692418054,8.5,49.9,2023,Vendance fish with mashed potato,,FC Lahti,FIN,4_left.webp,https://scrandle.com/media/o/FxI1MlSWYAEb-dq.webp,scrandle,center,345.12189710105673
+2025-07-15,4,right,1835822198642168137,https://x.com/FootyScran/status/1835822198642168137,9.0,86.5,2024,Korean corn dog,Stuffed with mozzarella and breaded with panko bread crumbs,FC Cincinnati,USA,4_right.webp,https://scrandle.com/media/o/GXomjqHW0AEG1Ez.webp,scrandle,center,597.2939710054317
+2025-07-15,5,left,1844413346793271760,https://x.com/FootyScran/status/1844413346793271760,2.57,37.0,2024,Koupes,Deep fried minced meat and onions,Ethnikos Achna,CYP,5_left.webp,https://scrandle.com/media/o/GZisKX_WoA4Z8uH.webp,scrandle,center,247.2903232265247
+2025-07-15,5,right,1491097849542868994,https://twitter.com/FootyScran/status/1491097849542868994,6.0,76.9,2022,"Chicken, chips and curry sauce",,Newcastle United,ENG,5_right.webp,https://scrandle.com/media/o/FLFxlrAXwA0dkhB.webp,scrandle,center,309.0441132800427
+2025-07-15,6,left,1632390368636329984,https://twitter.com/FootyScran/status/1632390368636329984,10.0,91.7,2023,Reggae wings and peri chips,,Slough Town FC,ENG,6_left.webp,https://scrandle.com/media/o/FqdqYp_XoAAqmzR.webp,scrandle,center,699.5414815388983
+2025-07-15,6,right,1896228003266658451,https://x.com/FootyScran/status/1896228003266658451,12.0,80.8,2025,The big boss,"XL chicken breast, fried mozzarella, with fries",Luton Town,ENG,6_right.webp,https://scrandle.com/media/o/GlDBUUiWQAA5oQX.webp,scrandle,center,441.1589504700061
+2025-07-15,7,left,1520878959151493121,https://twitter.com/FootyScran/status/1520878959151493121,2.0,74.9,2022,Pastel de carne,Meat pastry,Figueirense FC,BRA,7_left.webp,https://scrandle.com/media/o/FRs_WJlXIAE5ZuZ.webp,scrandle,center,254.4095179984076
+2025-07-15,7,right,1538536534151946241,https://twitter.com/FootyScran/status/1538536534151946241,6.0,80.1,2022,Rocks burger,"Beef patty, bacon, 2 hash browns, cheese and an egg",Bognor Regis Town,ENG,7_right.webp,https://scrandle.com/media/o/FVn60pbXsAALDSY.webp,scrandle,center,379.40114656399214
+2025-07-15,8,left,1493309044743974927,https://twitter.com/FootyScran/status/1493309044743974927,9.5,69.6,2022,Fish and chips,,Tottenham,ENG,8_left.webp,https://scrandle.com/media/o/FLlMp1CXsAs6MSz.webp,scrandle,center,449.76656525820374
+2025-07-15,8,right,1903907098695455218,https://x.com/FootyScran/status/1903907098695455218,5.5,74.1,2025,"Sausage, pickle and bread",With a beer,Zabkovia Zabki,POL,8_right.webp,https://scrandle.com/media/o/GmwJaV4awAAYTkI.webp,scrandle,center,396.4060147651655
+2025-07-15,9,left,1572619193182310401,https://twitter.com/FootyScran/status/1572619193182310401,4.5,88.1,2022,BBQ pulled pork,With cheesy chips,Hull City,ENG,9_left.webp,https://scrandle.com/media/o/FdMQzmyXoAEck0i.webp,scrandle,center,473.99530228533416
+2025-07-15,9,right,1883134980102185354,https://x.com/FootyScran/status/1883134980102185354,7.5,84.9,2025,Beef stew,With a horseradish and herb dumpling,Brighton and Hove Albion,ENG,9_right.webp,https://scrandle.com/media/o/GiI9R-zWEAA4NOb.webp,scrandle,center,424.12221377723716

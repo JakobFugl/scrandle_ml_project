@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2026-03-20,0,left,Vegan loaded fries,,6.0,36.49,0_left.webp,https://scrandle.com/media/o/FvH0pU-X0AIue2Z.webp
-2026-03-20,0,right,Vegetarian burger,With cheesy chips,5.5,38.97,0_right.webp,https://scrandle.com/media/o/f7ad08dbe896.webp
-2026-03-20,1,left,Vegan tacos,,8.0,41.5,1_left.webp,https://scrandle.com/media/o/FPW1HeXXoAcw7cp.webp
-2026-03-20,1,right,Vegan hot dog,"With mustard and relish, price for one",5.2,15.86,1_right.webp,https://scrandle.com/media/o/54ff0ab8979fcce3d35eac5141af3ce6.webp
-2026-03-20,2,left,Vegan range,,4.0,60.9,2_left.webp,https://scrandle.com/media/o/FKHgKeuUcA0L_J6.webp
-2026-03-20,2,right,Vegan chipotle burger,With beer,15.0,75.8,2_right.webp,https://scrandle.com/media/o/F7wUxF5XsAAXKN_.webp
-2026-03-20,3,left,Veggie loaded fries,With no guacamole,11.5,42.39,3_left.webp,https://scrandle.com/media/o/1000043755.webp
-2026-03-20,3,right,Vegan fish and chips,,9.5,31.08,3_right.webp,https://scrandle.com/media/o/FvH0o0WXgAEmPZ_.webp
-2026-03-20,4,left,Vegan pie and chips,,6.0,40.86,4_left.webp,https://scrandle.com/media/o/FvH0nnBXsAARbRH.webp
-2026-03-20,4,right,"Veggie jerk, rice and peas",,7.0,63.42,4_right.webp,https://scrandle.com/media/o/FSBCv3sXsAEfB33.webp
-2026-03-20,5,left,Veggie burger,,8.05,23.18,5_left.webp,https://scrandle.com/media/o/986b15d17113.webp
-2026-03-20,5,right,Veggie dog,With a Molson Canadian,16.6,17.83,5_right.webp,https://scrandle.com/media/o/image1.webp
-2026-03-20,6,left,Nothing,Free for fans,0.0,29.7,6_left.webp,https://scrandle.com/media/o/FKx9YKeWYAY9Ho5.webp
-2026-03-20,6,right,Veggie pizza,With chips and two mojitos,19.8,61.46,6_right.webp,https://scrandle.com/media/o/chile_scrandle.webp
-2026-03-20,7,left,Vegan hot dog,"With vegan loaded fries, price for all",13.0,38.98,7_left.webp,https://scrandle.com/media/o/FvH0qPcWIAAAlrr.webp
-2026-03-20,7,right,Beyond sausage,,11.5,8.23,7_right.webp,https://scrandle.com/media/o/F2FnL_QXEAAjN1U.webp
-2026-03-20,8,left,Miami veggie burger,With wedges,7.6,38.36,8_left.webp,https://scrandle.com/media/o/Gewc5pLXwAA7qna.webp
-2026-03-20,8,right,Veggie dog,,6.0,28.07,8_right.webp,https://scrandle.com/media/o/0ddc99ddc10f.webp
-2026-03-20,9,left,Vegan turkey and pancetta christmas pie,With a tea,9.0,19.62,9_left.webp,https://scrandle.com/media/o/1000029643.webp
-2026-03-20,9,right,Vegan bratwurst,With kimchi,8.9,16.92,9_right.webp,https://scrandle.com/media/o/MN_FC_scran.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2026-03-20,0,left,1653371533669158917,https://x.com/FootyScran/status/1653371533669158917,6.0,36.49,2023,Vegan loaded fries,,Folkestone Invicta F.C.,ENG,0_left.webp,https://scrandle.com/media/o/FvH0pU-X0AIue2Z.webp,scrandle,center,352.318857382208
+2026-03-20,0,right,1002,,5.5,38.97,2025,Vegetarian burger,With cheesy chips,Hassocks FC,ENG,0_right.webp,https://scrandle.com/media/o/f7ad08dbe896.webp,scrandle,center,251.71217570056717
+2026-03-20,1,left,1510312405292756993,https://x.com/FootyScran/status/1510312405292756993,8.0,41.5,2022,Vegan tacos,,Bristol Rovers,ENG,1_left.webp,https://scrandle.com/media/o/FPW1HeXXoAcw7cp.webp,scrandle,center,418.9460708958374
+2026-03-20,1,right,100183,,5.2,15.86,2025,Vegan hot dog,"With mustard and relish, price for one",Seattle,USA,1_right.webp,https://scrandle.com/media/o/54ff0ab8979fcce3d35eac5141af3ce6.webp,scrandle,bottom,210.22000861419238
+2026-03-20,2,left,1486715827973877762,https://x.com/FootyScran/status/1486715827973877762,4.0,60.9,2022,Vegan range,,Forest Green Rovers,ENG,2_left.webp,https://scrandle.com/media/o/FKHgKeuUcA0L_J6.webp,scrandle,center,260.14755226986864
+2026-03-20,2,right,1710264798158434722,https://twitter.com/FootyScran/status/1710264798158434722,15.0,75.8,2023,Vegan chipotle burger,With beer,Bayern Munich,GER,2_right.webp,https://scrandle.com/media/o/F7wUxF5XsAAXKN_.webp,scrandle,center,427.54829962830263
+2026-03-20,3,left,100124,,11.5,42.39,2026,Veggie loaded fries,With no guacamole,Ken Rosewall Arena,AUS,3_left.webp,https://scrandle.com/media/o/1000043755.webp,scrandle,bottom,370.3702199960911
+2026-03-20,3,right,1653371525293043714,https://x.com/FootyScran/status/1653371525293043714,9.5,31.08,2023,Vegan fish and chips,,Tottenham Hotspur,ENG,3_right.webp,https://scrandle.com/media/o/FvH0o0WXgAEmPZ_.webp,scrandle,center,257.35249586351586
+2026-03-20,4,left,1653371503113560065,https://x.com/FootyScran/status/1653371503113560065,6.0,40.86,2023,Vegan pie and chips,,Forest Green Rovers,ENG,4_left.webp,https://scrandle.com/media/o/FvH0nnBXsAARbRH.webp,scrandle,center,390.6034631007397
+2026-03-20,4,right,1522290069427609601,https://x.com/FootyScran/status/1522290069427609601,7.0,63.42,2022,"Veggie jerk, rice and peas",,Wycombe Wanderers,ENG,4_right.webp,https://scrandle.com/media/o/FSBCv3sXsAEfB33.webp,scrandle,center,535.517408764492
+2026-03-20,5,left,2025092001,,8.05,23.18,2025,Veggie burger,,Vancouver FC,CAN,5_left.webp,https://scrandle.com/media/o/986b15d17113.webp,scrandle,center,356.2884026995283
+2026-03-20,5,right,100016,,16.6,17.83,2025,Veggie dog,With a Molson Canadian,"Canada 60 Cricket, Vancouver",CAN,5_right.webp,https://scrandle.com/media/o/image1.webp,scrandle,center,253.0473847935398
+2026-03-20,6,left,1489703437906456578,https://x.com/FootyScran/status/1489703437906456578,0.0,29.7,2022,Nothing,Free for fans,Manchester United,ENG,6_left.webp,https://scrandle.com/media/o/FKx9YKeWYAY9Ho5.webp,scrandle,center,153.6529391750372
+2026-03-20,6,right,100015,,19.8,61.46,2025,Veggie pizza,With chips and two mojitos,"Medical College Country Club, Santiago",CHI,6_right.webp,https://scrandle.com/media/o/chile_scrandle.webp,scrandle,center,527.2630572525991
+2026-03-20,7,left,1653371551729811457,https://x.com/FootyScran/status/1653371551729811457,13.0,38.98,2023,Vegan hot dog,"With vegan loaded fries, price for all",Folkestone Invicta F.C.,ENG,7_left.webp,https://scrandle.com/media/o/FvH0qPcWIAAAlrr.webp,scrandle,center,383.8575769038254
+2026-03-20,7,right,1684741195996536832,https://x.com/FootyScran/status/1684741195996536832,11.5,8.23,2023,Beyond sausage,,SoFi Stadium,USA,7_right.webp,https://scrandle.com/media/o/F2FnL_QXEAAjN1U.webp,scrandle,center,177.23340449827742
+2026-03-20,8,left,1867899739808711119,https://x.com/oldmangroom/status/1867899739808711119,7.6,38.36,2024,Miami veggie burger,With wedges,CBS Arena,ENG,8_left.webp,https://scrandle.com/media/o/Gewc5pLXwAA7qna.webp,scrandle,center,365.20700862242535
+2026-03-20,8,right,2025092002,,6.0,28.07,2025,Veggie dog,,Vancouver Rise FC,CAN,8_right.webp,https://scrandle.com/media/o/0ddc99ddc10f.webp,scrandle,center,266.72638595421586
+2026-03-20,9,left,100148,,9.0,19.62,2026,Vegan turkey and pancetta christmas pie,With a tea,Forest Green Rovers,ENG,9_left.webp,https://scrandle.com/media/o/1000029643.webp,scrandle,bottom,225.13244087362784
+2026-03-20,9,right,100172,,8.9,16.92,2025,Vegan bratwurst,With kimchi,Minnesota United FC,USA,9_right.webp,https://scrandle.com/media/o/MN_FC_scran.webp,scrandle,center,250.109820192921

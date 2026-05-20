@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2026-02-25,0,left,Jerk chicken and rice,,,79.4,0_left.webp,https://scrandle.com/media/o/GXcIwzSWMAA5iZL.webp
-2026-02-25,0,right,Pie and mash,Peas are not available,8.0,30.85,0_right.webp,https://scrandle.com/media/o/Gbj-TnKW8AAkNkS.webp
-2026-02-25,1,left,Chicken tikka wrap,,6.0,67.84,1_left.webp,https://scrandle.com/media/o/FRr833HXoAAo6t7.webp
-2026-02-25,1,right,Apple crumble and custard,,3.5,46.11,1_right.webp,https://scrandle.com/media/o/GUr7uTJWAAAKkXJ.webp
-2026-02-25,2,left,Spicy chicken wings,With chips and curry sauce,,49.91,2_left.webp,https://scrandle.com/media/o/Gk9w2qEWQAAmIv_.webp
-2026-02-25,2,right,Hog Wild,"BBQ pulled pork, mac and cheese, bacon bits, fried onions, sour cream, BBQ sauce",9.0,80.46,2_right.webp,https://scrandle.com/media/o/Gw5fEmpWoAALRSq.webp
-2026-02-25,3,left,Hot Dog,,5.6,28.39,3_left.webp,https://scrandle.com/media/o/Glg3fFMWEAAHSU8.webp
-2026-02-25,3,right,Pig skin in salsa,,2.0,13.8,3_right.webp,https://scrandle.com/media/o/GiLK0HkWwAAmsou.webp
-2026-02-25,4,left,Double cheeseburger,,7.0,51.61,4_left.webp,https://scrandle.com/media/o/FQUdHH-XEAMFFkS.webp
-2026-02-25,4,right,Hot dog,,5.0,9.39,4_right.webp,https://scrandle.com/media/o/FEuwaH_WQAgNlhU.webp
-2026-02-25,5,left,Hunters chicken,,,64.36,5_left.webp,https://scrandle.com/media/o/GXbuGYyWAAAAWcC.webp
-2026-02-25,5,right,The Chessie (2015),1.5lb soft pretzel baked with back fin crab dip and melted cheese,13.3,49.74,5_right.webp,https://scrandle.com/media/o/giant-crab-pretzel.webp
-2026-02-25,6,left,Chili beef loaded fries,,9.5,85.45,6_left.webp,https://scrandle.com/media/o/FIXQmFTX0As0RAg.webp
-2026-02-25,6,right,Pepperoni n sausage combo pizza,,11.0,79.2,6_right.webp,https://scrandle.com/media/o/GPzhVdNWAAIBERC.webp
-2026-02-25,7,left,Cheesy chips,,,52.46,7_left.webp,https://scrandle.com/media/o/GKLN2WiWkAE44pi.webp
-2026-02-25,7,right,Hot Honey Chicken & Chip,,,76.82,7_right.webp,https://scrandle.com/media/o/GWQFkIBWIAA1KfV.webp
-2026-02-25,8,left,Chicken and halloumi gyros,,12.0,69.23,8_left.webp,https://scrandle.com/media/o/GjRdQ-BXkAEg5tn.webp
-2026-02-25,8,right,Sausage roll,,2.0,36.18,8_right.webp,https://scrandle.com/media/o/Gf5hhmyWAAAfe7-.webp
-2026-02-25,9,left,Loaded fries,,7.95,81.94,9_left.webp,https://scrandle.com/media/o/GkERY2MXgAAABUD.webp
-2026-02-25,9,right,1/2lb bacon cheeseburger,With fries,6.5,68.58,9_right.webp,https://scrandle.com/media/o/FZVvSPkXwAI3_Uy.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2026-02-25,0,left,1834945022203998616,https://x.com/NixonJules/status/1834945022203998616,,79.4,2024,Jerk chicken and rice,,Bishops Cleeve FC,ENG,0_left.webp,https://scrandle.com/media/o/GXcIwzSWMAA5iZL.webp,scrandle,center,606.2136858572678
+2026-02-25,0,right,1853510861979369983,https://x.com/DaveHerbert1/status/1853510861979369983,8.0,30.85,2024,Pie and mash,Peas are not available,Brisbane Road,ENG,0_right.webp,https://scrandle.com/media/o/Gbj-TnKW8AAkNkS.webp,scrandle,center,255.80349175331273
+2026-02-25,1,left,1520805865225400320,https://x.com/FootyScran/status/1520805865225400320,6.0,67.84,2022,Chicken tikka wrap,,Sporting Khalsa,ENG,1_left.webp,https://scrandle.com/media/o/FRr833HXoAAo6t7.webp,scrandle,center,555.5587075548951
+2026-02-25,1,right,1822545779484934409,https://x.com/ROBANDTHEMOB/status/1822545779484934409,3.5,46.11,2024,Apple crumble and custard,,Stoke City,ENG,1_right.webp,https://scrandle.com/media/o/GUr7uTJWAAAKkXJ.webp,scrandle,center,357.3495817514774
+2026-02-25,2,left,1895858058468999398,https://x.com/Jimmalteaser/status/1895858058468999398,,49.91,2025,Spicy chicken wings,With chips and curry sauce,Bamber Bridge FC,ENG,2_left.webp,https://scrandle.com/media/o/Gk9w2qEWQAAmIv_.webp,scrandle,center,370.0449901567577
+2026-02-25,2,right,1949600228769767687,https://x.com/FootyScran/status/1949600228769767687,9.0,80.46,2025,Hog Wild,"BBQ pulled pork, mac and cheese, bacon bits, fried onions, sour cream, BBQ sauce",Peoria City,USA,2_right.webp,https://scrandle.com/media/o/Gw5fEmpWoAALRSq.webp,scrandle,center,631.5524477988703
+2026-02-25,3,left,1898328261777629646,https://x.com/SatanicHoops/status/1898328261777629646,5.6,28.39,2025,Hot Dog,,Shamrock Rovers,IRL,3_left.webp,https://scrandle.com/media/o/Glg3fFMWEAAHSU8.webp,scrandle,center,315.919370672545
+2026-02-25,3,right,1883290594254159896,https://x.com/MarcoPF24/status/1883290594254159896,2.0,13.8,2025,Pig skin in salsa,,Pumas UNAM,MEX,3_right.webp,https://scrandle.com/media/o/GiLK0HkWwAAmsou.webp,scrandle,center,212.8948225751436
+2026-02-25,4,left,1514648863499554817,https://x.com/FootyScran/status/1514648863499554817,7.0,51.61,2022,Double cheeseburger,,Aston Villa,ENG,4_left.webp,https://scrandle.com/media/o/FQUdHH-XEAMFFkS.webp,scrandle,center,492.49028401326484
+2026-02-25,4,right,1462456472412041219,https://x.com/FootyScran/status/1462456472412041219,5.0,9.39,2021,Hot dog,,Sunderland,ENG,4_right.webp,https://scrandle.com/media/o/FEuwaH_WQAgNlhU.webp,scrandle,center,195.33387954060842
+2026-02-25,5,left,1834915702546850206,https://x.com/RussNorton96/status/1834915702546850206,,64.36,2024,Hunters chicken,,Hull City,ENG,5_left.webp,https://scrandle.com/media/o/GXbuGYyWAAAAWcC.webp,scrandle,center,582.5729934503745
+2026-02-25,5,right,100081,,13.3,49.74,2015,The Chessie (2015),1.5lb soft pretzel baked with back fin crab dip and melted cheese,"SECU Stadium, Maryland",USA,5_right.webp,https://scrandle.com/media/o/giant-crab-pretzel.webp,scrandle,center,348.79174780479286
+2026-02-25,6,left,1478817410505453573,https://x.com/FootyScran/status/1478817410505453573,9.5,85.45,2022,Chili beef loaded fries,,Folkestone Invicta F.C.,ENG,6_left.webp,https://scrandle.com/media/o/FIXQmFTX0As0RAg.webp,scrandle,center,623.9347680718777
+2026-02-25,6,right,1800561781066416230,https://x.com/FootyScran/status/1800561781066416230,11.0,79.2,2024,Pepperoni n sausage combo pizza,,Peoria City,USA,6_right.webp,https://scrandle.com/media/o/GPzhVdNWAAIBERC.webp,scrandle,center,525.5190091141698
+2026-02-25,7,left,1775223009705394616,https://x.com/FootyScran/status/1775223009705394616,,52.46,2024,Cheesy chips,,Bracknell Town,ENG,7_left.webp,https://scrandle.com/media/o/GKLN2WiWkAE44pi.webp,scrandle,center,360.32391180913567
+2026-02-25,7,right,1829593511458410828,https://x.com/TheDeckfootball/status/1829593511458410828,,76.82,2024,Hot Honey Chicken & Chip,,Kenilworth Road,ENG,7_right.webp,https://scrandle.com/media/o/GWQFkIBWIAA1KfV.webp,scrandle,center,420.46633896584507
+2026-02-25,8,left,1888236696443007320,https://x.com/maxclarke16/status/1888236696443007320,12.0,69.23,2025,Chicken and halloumi gyros,,Prestwich Heys,ENG,8_left.webp,https://scrandle.com/media/o/GjRdQ-BXkAEg5tn.webp,scrandle,center,542.3581515274262
+2026-02-25,8,right,1873041736446165295,https://x.com/MottysMic/status/1873041736446165295,2.0,36.18,2024,Sausage roll,,Eversley & California FC,ENG,8_right.webp,https://scrandle.com/media/o/Gf5hhmyWAAAfe7-.webp,scrandle,center,344.11546333844376
+2026-02-25,9,left,1891812448451072397,https://x.com/MartinLacy18344/status/1891812448451072397,7.95,81.94,2025,Loaded fries,,Elland Road,ENG,9_left.webp,https://scrandle.com/media/o/GkERY2MXgAAABUD.webp,scrandle,center,654.9739500768534
+2026-02-25,9,right,1555271609769943043,https://x.com/FootyScran/status/1555271609769943043,6.5,68.58,2022,1/2lb bacon cheeseburger,With fries,Fairford Town FC,ENG,9_right.webp,https://scrandle.com/media/o/FZVvSPkXwAI3_Uy.webp,scrandle,center,495.4955366935503

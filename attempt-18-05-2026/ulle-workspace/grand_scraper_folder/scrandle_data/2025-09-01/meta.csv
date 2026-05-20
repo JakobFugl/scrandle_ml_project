@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-09-01,0,left,Double cheeseburger,,14.0,70.1,0_left.webp,https://scrandle.com/media/o/GYgFZ_iWIAAeA-X.webp
-2025-09-01,0,right,Chicken strips,,4.0,88.6,0_right.webp,https://scrandle.com/media/o/FPIFOIsXsAEA2L0.webp
-2025-09-01,1,left,Stripped prawns skewer,,0.5,70.5,1_left.webp,https://scrandle.com/media/o/GAq4FwuXUAAEtoN.webp
-2025-09-01,1,right,Loaded roast potatoes,With beef and gravy,5.5,72.6,1_right.webp,https://scrandle.com/media/o/GVQ91PQWMAAogeq.webp
-2025-09-01,2,left,Pork and stuffing baguette,,6.0,74.6,2_left.webp,https://scrandle.com/media/o/FL924AcXoAwJU0C.webp
-2025-09-01,2,right,Lumpia,Spring roll and risol,0.22,78.2,2_right.webp,https://scrandle.com/media/o/F5feP1JWAAAlsku.webp
-2025-09-01,3,left,Cheesy garlic pizza bread,,9.0,84.3,3_left.webp,https://scrandle.com/media/o/F64htGfXAAAMCOy.webp
-2025-09-01,3,right,Double bacon and pulled pork cheeseburger,,4.5,73.3,3_right.webp,https://scrandle.com/media/o/FSQNuO5WYAg5rm_.webp
-2025-09-01,4,left,Gyros platter box,,10.5,90.6,4_left.webp,https://scrandle.com/media/o/FyktQFTXwAIIisl.webp
-2025-09-01,4,right,Pizza,,2.0,39.1,4_right.webp,https://scrandle.com/media/o/Fe40Rl2WAAIv-HJ.webp
-2025-09-01,5,left,Cottage pie,,5.0,74.8,5_left.webp,https://scrandle.com/media/o/GJnXfwlWcAECDkn.webp
-2025-09-01,5,right,Fish and chips,With mushy peas,10.0,87.1,5_right.webp,https://scrandle.com/media/o/Fg-jp9kXoAEWY2i.webp
-2025-09-01,6,left,Cumberland hot dog,,6.0,90.0,6_left.webp,https://scrandle.com/media/o/FMoH7EyXEAcwYt9.webp
-2025-09-01,6,right,Pizza slice,With a can of beer,15.0,19.8,6_right.webp,https://scrandle.com/media/o/FNl1iJvXwAMxM1s.webp
-2025-09-01,7,left,"Pie, mash and gravy",,6.0,78.3,7_left.webp,https://scrandle.com/media/o/FT2N5OXXEAEyVCg.webp
-2025-09-01,7,right,Meat (Unknown) sandwich,,0.67,24.4,7_right.webp,https://scrandle.com/media/o/F89iOy8WQAAmhD_.webp
-2025-09-01,8,left,The Bahama Mama,,7.0,27.1,8_left.webp,https://scrandle.com/media/o/F2uorikXYAA4z1A.webp
-2025-09-01,8,right,Lemon cannoli,,1.2,90.0,8_right.webp,https://scrandle.com/media/o/FmiYaUQWIAE676O.webp
-2025-09-01,9,left,Pulled pork loaded chips,,4.75,85.8,9_left.webp,https://scrandle.com/media/o/FhIGfQRWAAEHwhI.webp
-2025-09-01,9,right,Dairy milk doughnut,,2.95,84.4,9_right.webp,https://scrandle.com/media/o/F5wbTu-XkAAVqV3.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-09-01,0,left,1839726396588921313,https://x.com/FootyScran/status/1839726396588921313,14.0,70.1,2024,Double cheeseburger,,Yeovil Town,ENG,0_left.webp,https://scrandle.com/media/o/GYgFZ_iWIAAeA-X.webp,scrandle,center,508.1189819886331
+2025-09-01,0,right,1509274570376851464,https://twitter.com/FootyScran/status/1509274570376851464,4.0,88.6,2022,Chicken strips,,Independiente Santa Fe,COL,0_right.webp,https://scrandle.com/media/o/FPIFOIsXsAEA2L0.webp,scrandle,center,392.4639701711178
+2025-09-01,1,left,1732399420870738219,https://twitter.com/FootyScran/status/1732399420870738219,0.5,70.5,2023,Stripped prawns skewer,,Penang FC,MAS,1_left.webp,https://scrandle.com/media/o/GAq4FwuXUAAEtoN.webp,scrandle,center,292.5483680069393
+2025-09-01,1,right,1825151740934545787,https://x.com/FootyScran/status/1825151740934545787,5.5,72.6,2024,Loaded roast potatoes,With beef and gravy,South Shields FC,ENG,1_right.webp,https://scrandle.com/media/o/GVQ91PQWMAAogeq.webp,scrandle,center,428.6696977663649
+2025-09-01,2,left,1495044311892865025,https://twitter.com/FootyScran/status/1495044311892865025,6.0,74.6,2022,Pork and stuffing baguette,,Arsenal,ENG,2_left.webp,https://scrandle.com/media/o/FL924AcXoAwJU0C.webp,scrandle,center,340.10867552951504
+2025-09-01,2,right,1700071752821244325,https://twitter.com/FootyScran/status/1700071752821244325,0.22,78.2,2023,Lumpia,Spring roll and risol,Persik Kediri,IDN,2_right.webp,https://scrandle.com/media/o/F5feP1JWAAAlsku.webp,scrandle,center,255.1988560420658
+2025-09-01,3,left,1706338374208909734,https://twitter.com/FootyScran/status/1706338374208909734,9.0,84.3,2023,Cheesy garlic pizza bread,,Bolton Wanderers,ENG,3_left.webp,https://scrandle.com/media/o/F64htGfXAAAMCOy.webp,scrandle,center,407.2481567933718
+2025-09-01,3,right,1523357666810396672,https://twitter.com/FootyScran/status/1523357666810396672,4.5,73.3,2022,Double bacon and pulled pork cheeseburger,,Walnut Tree FC,ENG,3_right.webp,https://scrandle.com/media/o/FSQNuO5WYAg5rm_.webp,scrandle,center,454.9744573329201
+2025-09-01,4,left,1668914895734165504,https://twitter.com/FootyScran/status/1668914895734165504,10.5,90.6,2023,Gyros platter box,,Northcote City FC,AUS,4_left.webp,https://scrandle.com/media/o/FyktQFTXwAIIisl.webp,scrandle,center,555.6207638890077
+2025-09-01,4,right,1580258000392318976,https://twitter.com/FootyScran/status/1580258000392318976,2.0,39.1,2022,Pizza,,Botafogo,BRA,4_right.webp,https://scrandle.com/media/o/Fe40Rl2WAAIv-HJ.webp,scrandle,center,207.70809939386362
+2025-09-01,5,left,1772684884659556600,https://x.com/FootyScran/status/1772684884659556600,5.0,74.8,2024,Cottage pie,,Kidderminster Harriers,ENG,5_left.webp,https://scrandle.com/media/o/GJnXfwlWcAECDkn.webp,scrandle,center,219.97402566863752
+2025-09-01,5,right,1589669145024827392,https://twitter.com/FootyScran/status/1589669145024827392,10.0,87.1,2022,Fish and chips,With mushy peas,Man City,ENG,5_right.webp,https://scrandle.com/media/o/Fg-jp9kXoAEWY2i.webp,scrandle,center,439.82096137204815
+2025-09-01,6,left,1498018544361127943,https://twitter.com/FootyScran/status/1498018544361127943,6.0,90.0,2022,Cumberland hot dog,,Brentford,ENG,6_left.webp,https://scrandle.com/media/o/FMoH7EyXEAcwYt9.webp,scrandle,center,511.05984217947355
+2025-09-01,6,right,1502361185638825984,https://twitter.com/FootyScran/status/1502361185638825984,15.0,19.8,2022,Pizza slice,With a can of beer,Chicago Fire,USA,6_right.webp,https://scrandle.com/media/o/FNl1iJvXwAMxM1s.webp,scrandle,center,376.65032262983004
+2025-09-01,7,left,1530535467162255361,https://twitter.com/FootyScran/status/1530535467162255361,6.0,78.3,2022,"Pie, mash and gravy",,Stockport County,ENG,7_left.webp,https://scrandle.com/media/o/FT2N5OXXEAEyVCg.webp,scrandle,center,285.0328687262413
+2025-09-01,7,right,1715697995029635421,https://twitter.com/FootyScran/status/1715697995029635421,0.67,24.4,2023,Meat (Unknown) sandwich,,Haiphong FC,VIE,7_right.webp,https://scrandle.com/media/o/F89iOy8WQAAmhD_.webp,scrandle,center,115.39299162531688
+2025-09-01,8,left,1687627956611321856,https://twitter.com/FootyScran/status/1687627956611321856,7.0,27.1,2023,The Bahama Mama,,Columbus Crew,USA,8_left.webp,https://scrandle.com/media/o/F2uorikXYAA4z1A.webp,scrandle,center,150.59410339532815
+2025-09-01,8,right,1614708055421366273,https://twitter.com/FootyScran/status/1614708055421366273,1.2,90.0,2023,Lemon cannoli,,CA Juventus,BRA,8_right.webp,https://scrandle.com/media/o/FmiYaUQWIAE676O.webp,scrandle,center,404.5531378586534
+2025-09-01,9,left,1590340764269416448,https://twitter.com/FootyScran/status/1590340764269416448,4.75,85.8,2022,Pulled pork loaded chips,,Hull City,ENG,9_left.webp,https://scrandle.com/media/o/FhIGfQRWAAEHwhI.webp,scrandle,center,456.18739101267556
+2025-09-01,9,right,1701264789807194369,https://twitter.com/FootyScran/status/1701264789807194369,2.95,84.4,2023,Dairy milk doughnut,,Tottenham Hotspur,ENG,9_right.webp,https://scrandle.com/media/o/F5wbTu-XkAAVqV3.webp,scrandle,center,533.4508791967806

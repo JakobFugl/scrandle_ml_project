@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-05-17,0,left,Sausage,,2.3,77.3,0_left.webp,https://scrandle.com/media/o/GTK9xc2X0AAVabe.webp
-2025-05-17,0,right,The Bahama Mama,,7.0,27.1,0_right.webp,https://scrandle.com/media/o/F2uorikXYAA4z1A.webp
-2025-05-17,1,left,Hot dog and chips,With a drink,7.0,90.3,1_left.webp,https://scrandle.com/media/o/FOTAYSZXoAETrkO.webp
-2025-05-17,1,right,Salt and pepper chicken fries,,7.5,91.9,1_right.webp,https://scrandle.com/media/o/F7nicIYXUAAkvIP.webp
-2025-05-17,2,left,Sausage and chips,,8.0,53.8,2_left.webp,https://scrandle.com/media/o/FRv9FlmWYAAYYa4.webp
-2025-05-17,2,right,Bombay sandwich,Chicken Kadai pie and a vegetable samosa in a bun,5.0,62.2,2_right.webp,https://scrandle.com/media/o/FOETKsfXMAICvWi.webp
-2025-05-17,3,left,Steak and chips,With chimichurri -- price includes bottled drink,10.0,85.4,3_left.webp,https://scrandle.com/media/o/GU4ZIV-WMAEkuOR.webp
-2025-05-17,3,right,Garlic fries and cheese pizza,,13.5,32.7,3_right.webp,https://scrandle.com/media/o/FLUYMpBX0AIBUIw.webp
-2025-05-17,4,left,Fried chicken,With mentaiko mayonnaise,4.2,90.7,4_left.webp,https://scrandle.com/media/o/Fs8MVu1XwAApWZd.webp
-2025-05-17,4,right,The Full Monty,"Two beef patties, bacon, sausages, onions, cheese",5.0,80.8,4_right.webp,https://scrandle.com/media/o/FLQC5ZMXMAIo3st.webp
-2025-05-17,5,left,Butter chicken tacos,,11.0,72.4,5_left.webp,https://scrandle.com/media/o/GJZGpi7WQAEwWRN.webp
-2025-05-17,5,right,Scheme poutine,"Fries loaded with haggis, cheddar and peppercorn sauce",7.5,54.4,5_right.webp,https://scrandle.com/media/o/F2in0ofXwBIAUi_.webp
-2025-05-17,6,left,Twenteham,Gammon sandwich with original sauce,4.2,79.0,6_left.webp,https://scrandle.com/media/o/FKCczsmXoAsFRak.webp
-2025-05-17,6,right,"Pie, chips and gravy",,4.6,89.0,6_right.webp,https://scrandle.com/media/o/GOMo_ztXIAAJAR7.webp
-2025-05-17,7,left,Chicken tenders and chips,With a garlic and parmesan sauce,10.0,89.0,7_left.webp,https://scrandle.com/media/o/GF5etl8WYAAd_jT.webp
-2025-05-17,7,right,Squid,As much as you can get on a toothpick,0.33,47.3,7_right.webp,https://scrandle.com/media/o/FU0qkHNXoAEdUam.webp
-2025-05-17,8,left,Lamb keema fries,,10.0,83.3,8_left.webp,https://scrandle.com/media/o/FNz_XIbXIAcXJ61.webp
-2025-05-17,8,right,Chicken and chips,With a cider,6.5,67.9,8_right.webp,https://scrandle.com/media/o/FLjMSJeXEAMLeYf.webp
-2025-05-17,9,left,Pizza slice,,3.5,25.6,9_left.webp,https://scrandle.com/media/o/FRM6KnIX0AMQsAF.webp
-2025-05-17,9,right,Rotisserie chicken,With macaroni cheese,14.0,75.7,9_right.webp,https://scrandle.com/media/o/FvPR6H0WwAI9O6c.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-05-17,0,left,1815722262588235990,https://x.com/FootyScran/status/1815722262588235990,2.3,77.3,2024,Sausage,,Polonia Bytom,POL,0_left.webp,https://scrandle.com/media/o/GTK9xc2X0AAVabe.webp,scrandle,center,388.6821200797032
+2025-05-17,0,right,1687627956611321856,https://twitter.com/FootyScran/status/1687627956611321856,7.0,27.1,2023,The Bahama Mama,,Columbus Crew,USA,0_right.webp,https://scrandle.com/media/o/F2uorikXYAA4z1A.webp,scrandle,center,150.59410339532815
+2025-05-17,1,left,1505539703910678536,https://twitter.com/FootyScran/status/1505539703910678536,7.0,90.3,2022,Hot dog and chips,With a drink,Salford City,ENG,1_left.webp,https://scrandle.com/media/o/FOTAYSZXoAETrkO.webp,scrandle,center,551.0786518939493
+2025-05-17,1,right,1709646513352085904,https://twitter.com/FootyScran/status/1709646513352085904,7.5,91.9,2023,Salt and pepper chicken fries,,Leeds United,ENG,1_right.webp,https://scrandle.com/media/o/F7nicIYXUAAkvIP.webp,scrandle,center,520.3333085084362
+2025-05-17,2,left,1521087576861458432,https://twitter.com/FootyScran/status/1521087576861458432,8.0,53.8,2022,Sausage and chips,,West Ham,ENG,2_left.webp,https://scrandle.com/media/o/FRv9FlmWYAAYYa4.webp,scrandle,center,304.8628170618263
+2025-05-17,2,right,1504504830450089990,https://twitter.com/FootyScran/status/1504504830450089990,5.0,62.2,2022,Bombay sandwich,Chicken Kadai pie and a vegetable samosa in a bun,Rochdale,ENG,2_right.webp,https://scrandle.com/media/o/FOETKsfXMAICvWi.webp,scrandle,center,252.28514446237597
+2025-05-17,3,left,1823422537121817060,https://x.com/FootyScran/status/1823422537121817060,10.0,85.4,2024,Steak and chips,With chimichurri -- price includes bottled drink,Cambridge United,ENG,3_left.webp,https://scrandle.com/media/o/GU4ZIV-WMAEkuOR.webp,scrandle,center,510.01708475459236
+2025-05-17,3,right,1492125462734254090,https://twitter.com/FootyScran/status/1492125462734254090,13.5,32.7,2022,Garlic fries and cheese pizza,,USA v Honduras,USA,3_right.webp,https://scrandle.com/media/o/FLUYMpBX0AIBUIw.webp,scrandle,center,441.3633800317258
+2025-05-17,4,left,1643545965452840960,https://twitter.com/FootyScran/status/1643545965452840960,4.2,90.7,2023,Fried chicken,With mentaiko mayonnaise,Cerezo Osaka,JPN,4_left.webp,https://scrandle.com/media/o/Fs8MVu1XwAApWZd.webp,scrandle,center,563.5283563772521
+2025-05-17,4,right,1491820567795802119,https://twitter.com/FootyScran/status/1491820567795802119,5.0,80.8,2022,The Full Monty,"Two beef patties, bacon, sausages, onions, cheese",Christchurch FC,ENG,4_right.webp,https://scrandle.com/media/o/FLQC5ZMXMAIo3st.webp,scrandle,center,543.0291921779286
+2025-05-17,5,left,1771681189620768869,https://x.com/FootyScran/status/1771681189620768869,11.0,72.4,2024,Butter chicken tacos,,Detroit City FC,USA,5_left.webp,https://scrandle.com/media/o/GJZGpi7WQAEwWRN.webp,scrandle,bottom,528.0590975747198
+2025-05-17,5,right,1686782590366236696,https://twitter.com/FootyScran/status/1686782590366236696,7.5,54.4,2023,Scheme poutine,"Fries loaded with haggis, cheddar and peppercorn sauce",Celtic FC,SCO,5_right.webp,https://scrandle.com/media/o/F2in0ofXwBIAUi_.webp,scrandle,center,275.08262222896803
+2025-05-17,6,left,1486360293731094532,https://twitter.com/FootyScran/status/1486360293731094532,4.2,79.0,2022,Twenteham,Gammon sandwich with original sauce,FC Twente,NED,6_left.webp,https://scrandle.com/media/o/FKCczsmXoAsFRak.webp,scrandle,bottom right,438.6657212297828
+2025-05-17,6,right,1793322158434705883,https://x.com/FootyScran/status/1793322158434705883,4.6,89.0,2024,"Pie, chips and gravy",,Curzon Ashton,ENG,6_right.webp,https://scrandle.com/media/o/GOMo_ztXIAAJAR7.webp,scrandle,center,284.1875038005014
+2025-05-17,7,left,1755945046715617617,https://x.com/FootyScran/status/1755945046715617617,10.0,89.0,2024,Chicken tenders and chips,With a garlic and parmesan sauce,St Albans City,ENG,7_left.webp,https://scrandle.com/media/o/GF5etl8WYAAd_jT.webp,scrandle,center,471.49275185495515
+2025-05-17,7,right,1534929854172372993,https://twitter.com/FootyScran/status/1534929854172372993,0.33,47.3,2022,Squid,As much as you can get on a toothpick,Tanzania v Algeria,TAN,7_right.webp,https://scrandle.com/media/o/FU0qkHNXoAEdUam.webp,scrandle,center,278.4445049774927
+2025-05-17,8,left,1503357162671722501,https://twitter.com/FootyScran/status/1503357162671722501,10.0,83.3,2022,Lamb keema fries,,Birmingham City,ENG,8_left.webp,https://scrandle.com/media/o/FNz_XIbXIAcXJ61.webp,scrandle,center,593.5127250817292
+2025-05-17,8,right,1493167894515101701,https://twitter.com/FootyScran/status/1493167894515101701,6.5,67.9,2022,Chicken and chips,With a cider,Brisbane Roar,AUS,8_right.webp,https://scrandle.com/media/o/FLjMSJeXEAMLeYf.webp,scrandle,center,398.9449677355296
+2025-05-17,9,left,1518621458267791370,https://twitter.com/FootyScran/status/1518621458267791370,3.5,25.6,2022,Pizza slice,,West Brom,ENG,9_left.webp,https://scrandle.com/media/o/FRM6KnIX0AMQsAF.webp,scrandle,center,309.74399389621834
+2025-05-17,9,right,1653896290810621954,https://twitter.com/FootyScran/status/1653896290810621954,14.0,75.7,2023,Rotisserie chicken,With macaroni cheese,LA FC,USA,9_right.webp,https://scrandle.com/media/o/FvPR6H0WwAI9O6c.webp,scrandle,center,427.2193825626793

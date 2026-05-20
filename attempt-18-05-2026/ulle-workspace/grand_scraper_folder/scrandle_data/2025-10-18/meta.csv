@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-10-18,0,left,Hot dog,,7.0,60.05,0_left.webp,https://scrandle.com/media/o/FJZoHJtWQAIhqyz.webp
-2025-10-18,0,right,Katsu chicken,With chips,7.75,70.94,0_right.webp,https://scrandle.com/media/o/GUoct2IW4AA2AcP.webp
-2025-10-18,1,left,Sausage wrap,,7.75,21.47,1_left.webp,https://scrandle.com/media/o/GZur0E_WcAwEpC6.webp
-2025-10-18,1,right,Burger,With chips,,11.52,1_right.webp,https://scrandle.com/media/o/Gf-LBz5W4AAiWAp.webp
-2025-10-18,2,left,"Pie, double mash and liquor",,,29.27,2_left.webp,https://scrandle.com/media/o/Gk9fkF3XQAA8r9C.webp
-2025-10-18,2,right,Chicken tinga tacos,,13.6,58.14,2_right.webp,https://scrandle.com/media/o/F_lLoVIWIAE-Bhi.webp
-2025-10-18,3,left,Nothing,Free for fans,0.0,29.47,3_left.webp,https://scrandle.com/media/o/FKx9YKeWYAY9Ho5.webp
-2025-10-18,3,right,Curry chips,,6.0,55.47,3_right.webp,https://scrandle.com/media/o/GJspU9KXQAA74fF.webp
-2025-10-18,4,left,Ice cream sandwich,,0.5,33.52,4_left.webp,https://scrandle.com/media/o/GvmUh-gWwAA65Fk.webp
-2025-10-18,4,right,Grilled sausage,,2.8,63.9,4_right.webp,https://scrandle.com/media/o/F5cJjz7XsAAZCjl.webp
-2025-10-18,5,left,Hot dog,,7.0,69.39,5_left.webp,https://scrandle.com/media/o/FRC54pVXwAAtBNh.webp
-2025-10-18,5,right,Hooper Special,"Battered sausage, chips and curry sauce",8.6,63.87,5_right.webp,https://scrandle.com/media/o/GoUIfuIWQAAbp-i.webp
-2025-10-18,6,left,Chicken and gammon pie,With gravy,7.4,42.18,6_left.webp,https://scrandle.com/media/o/GJ2mpqMWMAEVwzh.webp
-2025-10-18,6,right,Hot dog,,3.8,19.06,6_right.webp,https://scrandle.com/media/o/GfvIr8FXoAAzF2F.webp
-2025-10-18,7,left,Duck wrap,,9.5,37.38,7_left.webp,https://scrandle.com/media/o/GliXRHlWAAAwpiv.webp
-2025-10-18,7,right,Burger and chips,,5.0,29.87,7_right.webp,https://scrandle.com/media/o/FSKb4y5XsAIE1t-.webp
-2025-10-18,8,left,Double cheeseburger,,7.5,7.71,8_left.webp,https://scrandle.com/media/o/GgnjqdzWgAAKEfa.webp
-2025-10-18,8,right,Cheese pizza,,23.5,13.55,8_right.webp,https://scrandle.com/media/o/GqNTGaoWkAAFJco.webp
-2025-10-18,9,left,Hot dog,,5.0,21.34,9_left.webp,https://scrandle.com/media/o/FrXmIo6WIAoS42s.webp
-2025-10-18,9,right,Festive bowl,,8.1,67.48,9_right.webp,https://scrandle.com/media/o/GeyWzr8WsAAGUJu.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-10-18,0,left,1483487604955918345,https://x.com/FootyScran/status/1483487604955918345,7.0,60.05,2022,Hot dog,,Hull City,ENG,0_left.webp,https://scrandle.com/media/o/FJZoHJtWQAIhqyz.webp,scrandle,center,490.2080318046135
+2025-10-18,0,right,1822300579772653937,https://x.com/ShaneeScFc/status/1822300579772653937,7.75,70.94,2024,Katsu chicken,With chips,Stoke City,ENG,0_right.webp,https://scrandle.com/media/o/GUoct2IW4AA2AcP.webp,scrandle,center,578.9243357773547
+2025-10-18,1,left,1845257389190041647,https://x.com/donegan3201/status/1845257389190041647,7.75,21.47,2024,Sausage wrap,,Austin FC,USA,1_left.webp,https://scrandle.com/media/o/GZur0E_WcAwEpC6.webp,scrandle,center,161.20670624746074
+2025-10-18,1,right,1873368844984598609,https://x.com/DanWestwell/status/1873368844984598609,,11.52,2024,Burger,With chips,Cheltenham Town FC,ENG,1_right.webp,https://scrandle.com/media/o/Gf-LBz5W4AAiWAp.webp,scrandle,center,283.5408959487885
+2025-10-18,2,left,1895839050353033704,https://x.com/cafcBrownsJFT97/status/1895839050353033704,,29.27,2025,"Pie, double mash and liquor",,Leyton Orient,ENG,2_left.webp,https://scrandle.com/media/o/Gk9fkF3XQAA8r9C.webp,scrandle,center,219.03586547277524
+2025-10-18,2,right,1727495096059269578,https://x.com/FootyScran/status/1727495096059269578,13.6,58.14,2023,Chicken tinga tacos,,Seattle Sounders FC,USA,2_right.webp,https://scrandle.com/media/o/F_lLoVIWIAE-Bhi.webp,scrandle,center,407.2886832907526
+2025-10-18,3,left,1489703437906456578,https://x.com/FootyScran/status/1489703437906456578,0.0,29.47,2022,Nothing,Free for fans,Manchester United,ENG,3_left.webp,https://scrandle.com/media/o/FKx9YKeWYAY9Ho5.webp,scrandle,center,153.6529391750372
+2025-10-18,3,right,1773056324869255210,https://x.com/FootyScran/status/1773056324869255210,6.0,55.47,2024,Curry chips,,Ireland v Switzerland,IRL,3_right.webp,https://scrandle.com/media/o/GJspU9KXQAA74fF.webp,scrandle,center,477.72059207769684
+2025-10-18,4,left,1943748034946330679,https://x.com/SportScran/status/1943748034946330679,0.5,33.52,2025,Ice cream sandwich,,Bali United,IDN,4_left.webp,https://scrandle.com/media/o/GvmUh-gWwAA65Fk.webp,scrandle,center,249.73882886810466
+2025-10-18,4,right,1699837899934691714,https://x.com/FootyScran/status/1699837899934691714,2.8,63.9,2023,Grilled sausage,,Polonia Bytom,POL,4_right.webp,https://scrandle.com/media/o/F5cJjz7XsAAZCjl.webp,scrandle,center,414.6927824485179
+2025-10-18,5,left,1517917461697466368,https://x.com/FootyScran/status/1517917461697466368,7.0,69.39,2022,Hot dog,,Birmingham,ENG,5_left.webp,https://scrandle.com/media/o/FRC54pVXwAAtBNh.webp,scrandle,center,534.696934189488
+2025-10-18,5,right,1910942960943870267,https://x.com/SatanicHoops/status/1910942960943870267,8.6,63.87,2025,Hooper Special,"Battered sausage, chips and curry sauce",Shamrock Rovers,IRL,5_right.webp,https://scrandle.com/media/o/GoUIfuIWQAAbp-i.webp,scrandle,center,339.12419529972334
+2025-10-18,6,left,1773757069742555601,https://x.com/JackMartinMoore/status/1773757069742555601,7.4,42.18,2024,Chicken and gammon pie,With gravy,Wycombe Wanderers,ENG,6_left.webp,https://scrandle.com/media/o/GJ2mpqMWMAEVwzh.webp,scrandle,center,366.65320603425954
+2025-10-18,6,right,1872310737378685328,https://x.com/mightyquinn89/status/1872310737378685328,3.8,19.06,2024,Hot dog,,Carlisle United,ENG,6_right.webp,https://scrandle.com/media/o/GfvIr8FXoAAzF2F.webp,scrandle,center,194.72703691266906
+2025-10-18,7,left,1898433569464418632,https://x.com/MikeUTFB/status/1898433569464418632,9.5,37.38,2025,Duck wrap,,Slough Town,ENG,7_left.webp,https://scrandle.com/media/o/GliXRHlWAAAwpiv.webp,scrandle,center,242.96633516971986
+2025-10-18,7,right,1522951147174363136,https://x.com/FootyScran/status/1522951147174363136,5.0,29.87,2022,Burger and chips,,Gornal Athletic,ENG,7_right.webp,https://scrandle.com/media/o/FSKb4y5XsAIE1t-.webp,scrandle,center,279.2937719885608
+2025-10-18,8,left,1876281042677662018,https://x.com/SportScran/status/1876281042677662018,7.5,7.71,2025,Double cheeseburger,,Brighton & Hove Albion,ENG,8_left.webp,https://scrandle.com/media/o/GgnjqdzWgAAKEfa.webp,scrandle,center,192.67121256319436
+2025-10-18,8,right,1919469241620730184,https://x.com/SportScran/status/1919469241620730184,23.5,13.55,2025,Cheese pizza,,DC United,USA,8_right.webp,https://scrandle.com/media/o/GqNTGaoWkAAFJco.webp,scrandle,center,403.235281586716
+2025-10-18,9,left,1636467083465596951,https://x.com/FootyScran/status/1636467083465596951,5.0,21.34,2023,Hot dog,,Southampton,ENG,9_left.webp,https://scrandle.com/media/o/FrXmIo6WIAoS42s.webp,scrandle,center,244.33364836812
+2025-10-18,9,right,1868033766947692895,https://x.com/SportScran/status/1868033766947692895,8.1,67.48,2024,Festive bowl,,Newcastle United,ENG,9_right.webp,https://scrandle.com/media/o/GeyWzr8WsAAGUJu.webp,scrandle,center,401.23069283454845

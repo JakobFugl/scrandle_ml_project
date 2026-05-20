@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2026-01-22,0,left,Pork sandwich with crackling,,10.0,52.2,0_left.webp,https://scrandle.com/media/o/FaeLMFyX0AMsC6p.webp
-2026-01-22,0,right,"Pie, mash and liquor",,7.0,44.5,0_right.webp,https://scrandle.com/media/o/GV2qdZWWcAAXZZU.webp
-2026-01-22,1,left,Chips and nuggets,With ketchup,4.5,50.48,1_left.webp,https://scrandle.com/media/o/FJIpKscXoAQv_GZ.webp
-2026-01-22,1,right,Cheeseburger and fries,,15.0,29.03,1_right.webp,https://scrandle.com/media/o/GUEuhDrWoAAiYvw.webp
-2026-01-22,2,left,Pulled pork burger and hot dog,Price for each,5.5,73.2,2_left.webp,https://scrandle.com/media/o/FMSEajtXMAMyk7K.webp
-2026-01-22,2,right,10 sausages with chips,With a drink,7.0,89.1,2_right.webp,https://scrandle.com/media/o/FsDxbKiXwAEKknp.webp
-2026-01-22,3,left,Burger,With gherkins,5.9,18.83,3_left.webp,https://scrandle.com/media/o/Fw5-4mZXoAI_j5r.webp
-2026-01-22,3,right,Jumbo hot dog,,5.5,31.02,3_right.webp,https://scrandle.com/media/o/GmpuP0lX0AAUY1Q.webp
-2026-01-22,4,left,Angus beef cheeseburger,With waffle fries,10.0,91.6,4_left.webp,https://scrandle.com/media/o/FNPNoIzXEAEiVfP.webp
-2026-01-22,4,right,Peppered steak pie,With chips and gravy,6.0,85.3,4_right.webp,https://scrandle.com/media/o/GTBSwQiWEAEbZ7d.webp
-2026-01-22,5,left,Zapiekanka z salami,,3.8,84.5,5_left.webp,https://scrandle.com/media/o/FPbIm3TWQAMeg_e.webp
-2026-01-22,5,right,Sausage in lompe,,3.5,47.3,5_right.webp,https://scrandle.com/media/o/FpMG3PAXEBoOFTt.webp
-2026-01-22,6,left,Buttermilk chicken burger tray,,11.0,26.2,6_left.webp,https://scrandle.com/media/o/FJkPQb-WQAg3lFJ.webp
-2026-01-22,6,right,Unidentified food,We're at the cricket today,11.4,56.9,6_right.webp,https://scrandle.com/media/o/F5HCmdjWMAAvxU8.webp
-2026-01-22,7,left,Steak and gravy pie,,3.5,88.4,7_left.webp,https://scrandle.com/media/o/Gv6cNN-WAAAA3aq.webp
-2026-01-22,7,right,Pork dumplings,Price for 10,9.0,68.9,7_right.webp,https://scrandle.com/media/o/FRvoKNtWQAAQfw1.webp
-2026-01-22,8,left,Waffle with Nutella,,2.5,57.0,8_left.webp,https://scrandle.com/media/o/FNfhmL3WYAUGiA3.webp
-2026-01-22,8,right,Fried chicken and chips,,7.8,67.5,8_right.webp,https://scrandle.com/media/o/FRV3BEVXsAAcF0t.webp
-2026-01-22,9,left,Pepperoni pizza,,10.95,72.5,9_left.webp,https://scrandle.com/media/o/FSjmb68X0Agr4Ru.webp
-2026-01-22,9,right,Katsu chicken with chips,,7.5,95.4,9_right.webp,https://scrandle.com/media/o/FoMkz6mXgAE7x2U.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2026-01-22,0,left,1560368856505393154,https://twitter.com/FootyScran/status/1560368856505393154,10.0,52.2,2022,Pork sandwich with crackling,,Toronto FC,CAN,0_left.webp,https://scrandle.com/media/o/FaeLMFyX0AMsC6p.webp,scrandle,center,374.6908635291289
+2026-01-22,0,right,1827804458106916964,https://x.com/FootyScran/status/1827804458106916964,7.0,44.5,2024,"Pie, mash and liquor",,Leyton Orient,ENG,0_right.webp,https://scrandle.com/media/o/GV2qdZWWcAAXZZU.webp,scrandle,center,241.2214162671731
+2026-01-22,1,left,1482292496986161154,https://x.com/FootyScran/status/1482292496986161154,4.5,50.48,2022,Chips and nuggets,With ketchup,Cliftonville FC,NIR,1_left.webp,https://scrandle.com/media/o/FJIpKscXoAQv_GZ.webp,scrandle,center,418.40189411535414
+2026-01-22,1,right,1819786879102845191,https://x.com/Sekcjabiegowa/status/1819786879102845191,15.0,29.03,2024,Cheeseburger and fries,,Olympics 2024,FRA,1_right.webp,https://scrandle.com/media/o/GUEuhDrWoAAiYvw.webp,scrandle,center,218.3959412704207
+2026-01-22,2,left,1496466577059086343,https://twitter.com/FootyScran/status/1496466577059086343,5.5,73.2,2022,Pulled pork burger and hot dog,Price for each,Hull City,ENG,2_left.webp,https://scrandle.com/media/o/FMSEajtXMAMyk7K.webp,scrandle,center,463.96885275173213
+2026-01-22,2,right,1639575718303604736,https://twitter.com/FootyScran/status/1639575718303604736,7.0,89.1,2023,10 sausages with chips,With a drink,Whitehawk FC,ENG,2_right.webp,https://scrandle.com/media/o/FsDxbKiXwAEKknp.webp,scrandle,center,349.4461142089718
+2026-01-22,3,left,1661404837437636618,https://x.com/FootyScran/status/1661404837437636618,5.9,18.83,2023,Burger,With gherkins,Brighton & Hove Albion,ENG,3_left.webp,https://scrandle.com/media/o/Fw5-4mZXoAI_j5r.webp,scrandle,center,150.77063200720846
+2026-01-22,3,right,1903455024488886537,https://x.com/MottysMic/status/1903455024488886537,5.5,31.02,2025,Jumbo hot dog,,Glentoran F.C.,NIR,3_right.webp,https://scrandle.com/media/o/GmpuP0lX0AAUY1Q.webp,scrandle,center,385.8241843291064
+2026-01-22,4,left,1500769198099910660,https://twitter.com/FootyScran/status/1500769198099910660,10.0,91.6,2022,Angus beef cheeseburger,With waffle fries,Melbourne City,AUS,4_left.webp,https://scrandle.com/media/o/FNPNoIzXEAEiVfP.webp,scrandle,center,659.7772024255153
+2026-01-22,4,right,1815041643612938635,https://x.com/FootyScran/status/1815041643612938635,6.0,85.3,2024,Peppered steak pie,With chips and gravy,Bamber Bridge FC,ENG,4_right.webp,https://scrandle.com/media/o/GTBSwQiWEAEbZ7d.webp,scrandle,center,322.37617292808204
+2026-01-22,5,left,1510615330107834368,https://twitter.com/FootyScran/status/1510615330107834368,3.8,84.5,2022,Zapiekanka z salami,,Legia Warsaw,POL,5_left.webp,https://scrandle.com/media/o/FPbIm3TWQAMeg_e.webp,scrandle,center,380.13577806028303
+2026-01-22,5,right,1626651446950170635,https://twitter.com/FootyScran/status/1626651446950170635,3.5,47.3,2023,Sausage in lompe,,Skeid,NOR,5_right.webp,https://scrandle.com/media/o/FpMG3PAXEBoOFTt.webp,scrandle,center,222.24923268118042
+2026-01-22,6,left,1484234333154066433,https://twitter.com/FootyScran/status/1484234333154066433,11.0,26.2,2022,Buttermilk chicken burger tray,,Brentford,ENG,6_left.webp,https://scrandle.com/media/o/FJkPQb-WQAg3lFJ.webp,scrandle,center,629.9529550225178
+2026-01-22,6,right,1698352509134197171,https://twitter.com/FootyScran/status/1698352509134197171,11.4,56.9,2023,Unidentified food,We're at the cricket today,Edgbaston,ENG,6_right.webp,https://scrandle.com/media/o/F5HCmdjWMAAvxU8.webp,scrandle,center,380.5523901351269
+2026-01-22,7,left,1945163849486696916,https://x.com/FootyScran/status/1945163849486696916,3.5,88.4,2025,Steak and gravy pie,,Troon FC,SCO,7_left.webp,https://scrandle.com/media/o/Gv6cNN-WAAAA3aq.webp,scrandle,center,449.1234764993305
+2026-01-22,7,right,1521064566213562368,https://twitter.com/FootyScran/status/1521064566213562368,9.0,68.9,2022,Pork dumplings,Price for 10,Wellington Phoenix,NZL,7_right.webp,https://scrandle.com/media/o/FRvoKNtWQAAQfw1.webp,scrandle,center,427.0656753342364
+2026-01-22,8,left,1501917051866292227,https://twitter.com/FootyScran/status/1501917051866292227,2.5,57.0,2022,Waffle with Nutella,,St Etienne,FRA,8_left.webp,https://scrandle.com/media/o/FNfhmL3WYAUGiA3.webp,scrandle,center,272.9676353727285
+2026-01-22,8,right,1519251316010270728,https://twitter.com/FootyScran/status/1519251316010270728,7.8,67.5,2022,Fried chicken and chips,,Wellington Phoenix,NZL,8_right.webp,https://scrandle.com/media/o/FRV3BEVXsAAcF0t.webp,scrandle,center,335.4902663118323
+2026-01-22,9,left,1524721848260476928,https://twitter.com/FootyScran/status/1524721848260476928,10.95,72.5,2022,Pepperoni pizza,,Watford FC,ENG,9_left.webp,https://scrandle.com/media/o/FSjmb68X0Agr4Ru.webp,scrandle,center,420.19372119038445
+2026-01-22,9,right,1622180771795542017,https://twitter.com/FootyScran/status/1622180771795542017,7.5,95.4,2023,Katsu chicken with chips,,Hull City,ENG,9_right.webp,https://scrandle.com/media/o/FoMkz6mXgAE7x2U.webp,scrandle,center,561.3324278864661

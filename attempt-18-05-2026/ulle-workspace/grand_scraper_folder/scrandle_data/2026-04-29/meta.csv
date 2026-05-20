@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2026-04-29,0,left,Lasagna,Eaten with a credit card,,13.67,0_left.webp,https://scrandle.com/media/o/FMXSOy1WYAM3ekJ.webp
-2026-04-29,0,right,Chips and curry,,,43.12,0_right.webp,https://scrandle.com/media/o/GVwWbqAWcAAkiDg.webp
-2026-04-29,1,left,Popcorn,With a soda,17.3,42.78,1_left.webp,https://scrandle.com/media/o/f198ef293302e81af20e32f38006ff25.webp
-2026-04-29,1,right,Jerk chicken,,10.0,71.32,1_right.webp,https://scrandle.com/media/o/GXDltDqXcAAxK7N_Lj81M64.webp
-2026-04-29,2,left,Potatoes,"Free, from the grave of King Frederick II",0.0,38.64,2_left.webp,https://scrandle.com/media/o/d2b3ff7032e5343955ccb77ca42f9cef.webp
-2026-04-29,2,right,Spinach fatayer,,3.4,51.14,2_right.webp,https://scrandle.com/media/o/FVPLR4rWAAMJUe8.webp
-2026-04-29,3,left,Fried banana,,1.0,30.44,3_left.webp,https://scrandle.com/media/o/FSQusvPXMAA6rOm_Pn5rUbo.webp
-2026-04-29,3,right,Spicy samosas,,5.0,41.42,3_right.webp,https://scrandle.com/media/o/FQeC8yEWYAIcXr9.webp
-2026-04-29,4,left,Cheeseburger,,7.8,27.42,4_left.webp,https://scrandle.com/media/o/5901b9f9c825d3d666389dde8bd818a0.webp
-2026-04-29,4,right,Fish finger baguette,Tartar sauce is available,4.5,48.51,4_right.webp,https://scrandle.com/media/o/GtF9Vf9XgAANecu.webp
-2026-04-29,5,left,Chicken curry and rice,With a bottle of Moretti,9.95,59.72,5_left.webp,https://scrandle.com/media/o/GTMPEW8WUAAf-OK.webp
-2026-04-29,5,right,Churro,In the number and shirt-colour of a favourite player,3.2,38.89,5_right.webp,https://scrandle.com/media/o/GoTlZ6DWsAAoc8Y.webp
-2026-04-29,6,left,Cheeseburger and fries,Condiments and toppings free,9.6,38.13,6_left.webp,https://scrandle.com/media/o/23a63cf1fe59ff8258ea763abc0c9e03.webp
-2026-04-29,6,right,Suckling pig sandwich,,7.5,11.02,6_right.webp,https://scrandle.com/media/o/GruYHdkW0AAjMWo.webp
-2026-04-29,7,left,Bacon cheeseburger,,6.0,56.2,7_left.webp,https://scrandle.com/media/o/F4eLIYCXMAAhSNs.webp
-2026-04-29,7,right,Bratwurst with mustard,,3.5,36.73,7_right.webp,https://scrandle.com/media/o/e01ef278b0f24cb65d4eaef0e3a4361b.webp
-2026-04-29,8,left,Curry chips and cheesy dog,,,32.82,8_left.webp,https://scrandle.com/media/o/GSUBXDzXcAApyIN.webp
-2026-04-29,8,right,Pompey pie,,,25.98,8_right.webp,https://scrandle.com/media/o/GKBNub4WcAAbLHh.webp
-2026-04-29,9,left,A slice of Dominos pizza,,2.79,18.21,9_left.webp,https://scrandle.com/media/o/GqCtnfAXMAAY3sB.webp
-2026-04-29,9,right,Dirty fries,"Chips, cheese & BBQ pulled pork",6.0,41.72,9_right.webp,https://scrandle.com/media/o/GZEMZ1cXsAAGM0I.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2026-04-29,0,left,1496833607054381058,https://x.com/FootyScran/status/1496833607054381058,,13.67,2022,Lasagna,Eaten with a credit card,Leeds United,ENG,0_left.webp,https://scrandle.com/media/o/FMXSOy1WYAM3ekJ.webp,scrandle,center,144.4972184097204
+2026-04-29,0,right,1827360220529496398,https://x.com/paulhitchcox/status/1827360220529496398,,43.12,2024,Chips and curry,,Atherton Collieries AFC,ENG,0_right.webp,https://scrandle.com/media/o/GVwWbqAWcAAkiDg.webp,scrandle,center,432.44387468218775
+2026-04-29,1,left,100334,,17.3,42.78,2026,Popcorn,With a soda,"Dodgers Stadium, CA",USA,1_left.webp,https://scrandle.com/media/o/f198ef293302e81af20e32f38006ff25.webp,scrandle,bottom,324.78041774802324
+2026-04-29,1,right,1833870816016003565,https://x.com/FootyScran/status/1833870816016003565,10.0,71.32,2024,Jerk chicken,,Croydon FC,ENG,1_right.webp,https://scrandle.com/media/o/GXDltDqXcAAxK7N_Lj81M64.webp,scrandle,center,589.0105736519182
+2026-04-29,2,left,100350,,0.0,38.64,2026,Potatoes,"Free, from the grave of King Frederick II",Potsdam,GER,2_left.webp,https://scrandle.com/media/o/d2b3ff7032e5343955ccb77ca42f9cef.webp,scrandle,center,311.7646956612155
+2026-04-29,2,right,1536795430192816128,https://x.com/FootyScran/status/1536795430192816128,3.4,51.14,2022,Spinach fatayer,,Ahmad Bin Ali Stadium,QAT,2_right.webp,https://scrandle.com/media/o/FVPLR4rWAAMJUe8.webp,scrandle,center,442.4356278622712
+2026-04-29,3,left,100095,,1.0,30.44,2022,Fried banana,,Manaus FC,BRA,3_left.webp,https://scrandle.com/media/o/FSQusvPXMAA6rOm_Pn5rUbo.webp,scrandle,bottom,302.1365654328532
+2026-04-29,3,right,1515323786580705287,https://x.com/FootyScran/status/1515323786580705287,5.0,41.42,2022,Spicy samosas,,Mickleover FC,ENG,3_right.webp,https://scrandle.com/media/o/FQeC8yEWYAIcXr9.webp,scrandle,center,402.22272779527304
+2026-04-29,4,left,100336,,7.8,27.42,2026,Cheeseburger,,"Accor Arena, Sydney",AUS,4_left.webp,https://scrandle.com/media/o/5901b9f9c825d3d666389dde8bd818a0.webp,scrandle,center,244.07828881991298
+2026-04-29,4,right,1932463528973082929,https://x.com/SportScran/status/1932463528973082929,4.5,48.51,2025,Fish finger baguette,Tartar sauce is available,Histon FC,ENG,4_right.webp,https://scrandle.com/media/o/GtF9Vf9XgAANecu.webp,scrandle,center,386.2698308937606
+2026-04-29,5,left,1815811650538332310,https://x.com/SuperHoops1901/status/1815811650538332310,9.95,59.72,2024,Chicken curry and rice,With a bottle of Moretti,Shamrock Rovers,IRL,5_left.webp,https://scrandle.com/media/o/GTMPEW8WUAAf-OK.webp,scrandle,center,491.9054135807535
+2026-04-29,5,right,1910904392397840755,https://x.com/NewRobDex/status/1910904392397840755,3.2,38.89,2025,Churro,In the number and shirt-colour of a favourite player,Fukuoka FC,JPN,5_right.webp,https://scrandle.com/media/o/GoTlZ6DWsAAoc8Y.webp,scrandle,center,344.14196118007936
+2026-04-29,6,left,100348,,9.6,38.13,2026,Cheeseburger and fries,Condiments and toppings free,"Skagit Speedway, WA",USA,6_left.webp,https://scrandle.com/media/o/23a63cf1fe59ff8258ea763abc0c9e03.webp,scrandle,left,333.6732484328511
+2026-04-29,6,right,1926300532823535935,https://x.com/laurenjjade_/status/1926300532823535935,7.5,11.02,2025,Suckling pig sandwich,,Sporting Lisbon,POR,6_right.webp,https://scrandle.com/media/o/GruYHdkW0AAjMWo.webp,scrandle,center,186.95301791309728
+2026-04-29,7,left,1695477013253898421,https://x.com/FootyScran/status/1695477013253898421,6.0,56.2,2023,Bacon cheeseburger,,Gornal Athletic,ENG,7_left.webp,https://scrandle.com/media/o/F4eLIYCXMAAhSNs.webp,scrandle,bottom left,489.3061656318125
+2026-04-29,7,right,100299,,3.5,36.73,2026,Bratwurst with mustard,,Holstein Kiel,GER,7_right.webp,https://scrandle.com/media/o/e01ef278b0f24cb65d4eaef0e3a4361b.webp,scrandle,center,346.68755657516647
+2026-04-29,8,left,1811855931350630820,https://x.com/turnonthestove/status/1811855931350630820,,32.82,2024,Curry chips and cheesy dog,,Eamonn Deacy Park,IRL,8_left.webp,https://scrandle.com/media/o/GSUBXDzXcAApyIN.webp,scrandle,center,349.6944507949809
+2026-04-29,8,right,1774503802822947229,https://x.com/BeerAgentSean/status/1774503802822947229,,25.98,2024,Pompey pie,,Portsmouth FC,ENG,8_right.webp,https://scrandle.com/media/o/GKBNub4WcAAbLHh.webp,scrandle,center,249.6567350018605
+2026-04-29,9,left,1918982100465635603,https://x.com/FootyScran/status/1918982100465635603,2.79,18.21,2025,A slice of Dominos pizza,,IR Reykjavik,ISL,9_left.webp,https://scrandle.com/media/o/GqCtnfAXMAAY3sB.webp,scrandle,bottom left,245.7733519918928
+2026-04-29,9,right,1842267421689942095,https://x.com/groundopper/status/1842267421689942095,6.0,41.72,2024,Dirty fries,"Chips, cheese & BBQ pulled pork",Snodland Town,ENG,9_right.webp,https://scrandle.com/media/o/GZEMZ1cXsAAGM0I.webp,scrandle,center,426.62010175093855

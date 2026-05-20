@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-12-14,0,left,Cow heart skewer,With potatoes,4.0,33.77,0_left.webp,https://scrandle.com/media/o/Fw6IHDwX0AA50p0.webp
-2025-12-14,0,right,Cheeseburger meal,With a eazy IPA,13.9,65.15,0_right.webp,https://scrandle.com/media/o/GrynecFXAAAkbhi.webp
-2025-12-14,1,left,Pølse i vaffel,,2.95,55.78,1_left.webp,https://scrandle.com/media/o/GzdI6CQWQAA5CM7.webp
-2025-12-14,1,right,Roast pork,"With stuffing, chips and onion gravy",7.0,71.55,1_right.webp,https://scrandle.com/media/o/FHNeYl5XwAYJ_Eu.webp
-2025-12-14,2,left,New York loaded fries,"Pastrami, mustard, crispy onions and pickles",10.0,84.1,2_left.webp,https://scrandle.com/media/o/F3_Bs5MWYAAFUq4.webp
-2025-12-14,2,right,Chicken and pork skewers,Sides not included in price,7.5,94.0,2_right.webp,https://scrandle.com/media/o/F3fAWzKWEAEBApC.webp
-2025-12-14,3,left,Rocky Mountain Oysters,With chips,8.2,30.11,3_left.webp,https://scrandle.com/media/o/GntfY_zW0AArZ94.webp
-2025-12-14,3,right,Apple and mince pie crumble,With custard,6.0,21.01,3_right.webp,https://scrandle.com/media/o/Gf05BHOWcAA3tns.webp
-2025-12-14,4,left,Salchipapas,Hot dog sausage and chips,1.5,50.79,4_left.webp,https://scrandle.com/media/o/GaNQRF0XsAIMgMH.webp
-2025-12-14,4,right,Meat in a bun,,2.3,69.11,4_right.webp,https://scrandle.com/media/o/GZ8ouELWQAA8i5e.webp
-2025-12-14,5,left,Chicken and chips,,7.0,59.0,5_left.webp,https://scrandle.com/media/o/FL8-Ls2XEAA015J.webp
-2025-12-14,5,right,Chinese chicken wrap,With cheesy fries and chicken pieces,8.5,89.6,5_right.webp,https://scrandle.com/media/o/GyQUg2cXYAIKVnO.webp
-2025-12-14,6,left,Meat and potato pie,With chips and gravy,4.0,41.63,6_left.webp,https://scrandle.com/media/o/FI-gPT4XsAMLV0f.webp
-2025-12-14,6,right,Vegan fish and chips,,9.5,25.66,6_right.webp,https://scrandle.com/media/o/FvH0o0WXgAEmPZ_.webp
-2025-12-14,7,left,Burger,,,35.63,7_left.webp,https://scrandle.com/media/o/GZNsq4XWYAA3cFC.webp
-2025-12-14,7,right,Loaded fries,"With sliced pepperoni, garlic ciabatta, mozzarella, tomato sugo & basil",7.5,66.86,7_right.webp,https://scrandle.com/media/o/GnOfxOhXgAAxGhI.webp
-2025-12-14,8,left,Choripan,,4.0,73.1,8_left.webp,https://scrandle.com/media/o/FSlrnRtXwAIMZXe.webp
-2025-12-14,8,right,Sri Lankan food platter,Free for fans,0.0,93.7,8_right.webp,https://scrandle.com/media/o/FR2_o7PXwAIkq09.webp
-2025-12-14,9,left,Salted pretzel,With cheese,3.8,32.28,9_left.webp,https://scrandle.com/media/o/Pretzel_with_Cheese.webp
-2025-12-14,9,right,Mitrailette,,6.9,14.88,9_right.webp,https://scrandle.com/media/o/GvsV-RCWUAAq5uW.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-12-14,0,left,1661414975070404629,https://x.com/FootyScran/status/1661414975070404629,4.0,33.77,2023,Cow heart skewer,With potatoes,Club Alianza Lima,PER,0_left.webp,https://scrandle.com/media/o/Fw6IHDwX0AA50p0.webp,scrandle,center,346.8605119388374
+2025-12-14,0,right,1926599841490128973,https://x.com/NixonJules/status/1926599841490128973,13.9,65.15,2025,Cheeseburger meal,With a eazy IPA,Wembley,ENG,0_right.webp,https://scrandle.com/media/o/GrynecFXAAAkbhi.webp,scrandle,center,462.99264983971943
+2025-12-14,1,left,1961116332889350620,https://x.com/alicerosecp/status/1961116332889350620,2.95,55.78,2025,Pølse i vaffel,,Fredrikstad  Stadion,NOR,1_left.webp,https://scrandle.com/media/o/GzdI6CQWQAA5CM7.webp,scrandle,center,336.38854852286624
+2025-12-14,1,right,1473625284549165057,https://x.com/FootyScran/status/1473625284549165057,7.0,71.55,2021,Roast pork,"With stuffing, chips and onion gravy",Wolves,ENG,1_right.webp,https://scrandle.com/media/o/FHNeYl5XwAYJ_Eu.webp,scrandle,center,438.423744781317
+2025-12-14,2,left,1693284973275758716,https://twitter.com/FootyScran/status/1693284973275758716,10.0,84.1,2023,New York loaded fries,"Pastrami, mustard, crispy onions and pickles",Barnsley FC,ENG,2_left.webp,https://scrandle.com/media/o/F3_Bs5MWYAAFUq4.webp,scrandle,center,503.4360288284353
+2025-12-14,2,right,1691031688787189760,https://twitter.com/FootyScran/status/1691031688787189760,7.5,94.0,2023,Chicken and pork skewers,Sides not included in price,Northcote City,AUS,2_right.webp,https://scrandle.com/media/o/F3fAWzKWEAEBApC.webp,scrandle,center,348.9181927180875
+2025-12-14,3,left,1908224163220951444,https://x.com/CRForeignLegion/status/1908224163220951444,8.2,30.11,2025,Rocky Mountain Oysters,With chips,"Coors Field, Denver",USA,3_left.webp,https://scrandle.com/media/o/GntfY_zW0AArZ94.webp,scrandle,center,264.70948620155167
+2025-12-14,3,right,1872715713947025469,https://x.com/albiongirl68/status/1872715713947025469,6.0,21.01,2024,Apple and mince pie crumble,With custard,Brighton & Hove Albion,ENG,3_right.webp,https://scrandle.com/media/o/Gf05BHOWcAA3tns.webp,scrandle,center,217.275902912505
+2025-12-14,4,left,1847408533169377629,https://x.com/FootyScran/status/1847408533169377629,1.5,50.79,2024,Salchipapas,Hot dog sausage and chips,Independiente Medellín,COL,4_left.webp,https://scrandle.com/media/o/GaNQRF0XsAIMgMH.webp,scrandle,center,414.89895909138846
+2025-12-14,4,right,1846240325511057452,https://x.com/FootyScran/status/1846240325511057452,2.3,69.11,2024,Meat in a bun,,Viktoria Žižkov,CZE,4_right.webp,https://scrandle.com/media/o/GZ8ouELWQAA8i5e.webp,scrandle,center,514.5815952319249
+2025-12-14,5,left,1494981980550803458,https://twitter.com/FootyScran/status/1494981980550803458,7.0,59.0,2022,Chicken and chips,,Melbourne Victory,AUS,5_left.webp,https://scrandle.com/media/o/FL8-Ls2XEAA015J.webp,scrandle,center,316.8821288667813
+2025-12-14,5,right,1955710699998462334,https://x.com/FootyScran/status/1955710699998462334,8.5,89.6,2025,Chinese chicken wrap,With cheesy fries and chicken pieces,Troon FC,SCO,5_right.webp,https://scrandle.com/media/o/GyQUg2cXYAIKVnO.webp,scrandle,center,486.8094224343801
+2025-12-14,6,left,1481579014133272579,https://x.com/FootyScran/status/1481579014133272579,4.0,41.63,2022,Meat and potato pie,With chips and gravy,Curzon Ashton,ENG,6_left.webp,https://scrandle.com/media/o/FI-gPT4XsAMLV0f.webp,scrandle,center,381.25389854565316
+2025-12-14,6,right,1653371525293043714,https://x.com/FootyScran/status/1653371525293043714,9.5,25.66,2023,Vegan fish and chips,,Tottenham Hotspur,ENG,6_right.webp,https://scrandle.com/media/o/FvH0o0WXgAEmPZ_.webp,scrandle,center,257.35249586351586
+2025-12-14,7,left,1842936162761224239,https://x.com/bishttid1882/status/1842936162761224239,,35.63,2024,Burger,,Brighton & Hove Albion,ENG,7_left.webp,https://scrandle.com/media/o/GZNsq4XWYAA3cFC.webp,scrandle,center,285.008156277575
+2025-12-14,7,right,1906042752975921196,https://x.com/RentsFaeLeith/status/1906042752975921196,7.5,66.86,2025,Loaded fries,"With sliced pepperoni, garlic ciabatta, mozzarella, tomato sugo & basil",Hibernian FC,SCO,7_right.webp,https://scrandle.com/media/o/GnOfxOhXgAAxGhI.webp,scrandle,center,435.99354264091613
+2025-12-14,8,left,1524868275708084229,https://twitter.com/FootyScran/status/1524868275708084229,4.0,73.1,2022,Choripan,,Boca Juniors,ARG,8_left.webp,https://scrandle.com/media/o/FSlrnRtXwAIMZXe.webp,scrandle,center,220.92833972306852
+2025-12-14,8,right,1521582969177190402,https://twitter.com/FootyScran/status/1521582969177190402,0.0,93.7,2022,Sri Lankan food platter,Free for fans,AS Velasca,ITA,8_right.webp,https://scrandle.com/media/o/FR2_o7PXwAIkq09.webp,scrandle,center,510.8569162370755
+2025-12-14,9,left,100086,,3.8,32.28,2025,Salted pretzel,With cheese,University of Toledo,USA,9_left.webp,https://scrandle.com/media/o/Pretzel_with_Cheese.webp,scrandle,center,217.29937387828002
+2025-12-14,9,right,1944305494711316859,https://x.com/FootyScran/status/1944305494711316859,6.9,14.88,2025,Mitrailette,,KVC Wilrijk,BEL,9_right.webp,https://scrandle.com/media/o/GvsV-RCWUAAq5uW.webp,scrandle,center,289.0292990735104

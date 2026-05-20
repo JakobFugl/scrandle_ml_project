@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-08-24,0,left,Tottenham fried chicken,With a bag of chips,8.95,88.6,0_left.webp,https://scrandle.com/media/o/FlZsvhyXgAE7OBh.webp
-2025-08-24,0,right,Fischbrötchen,Fish in a bun,4.0,27.1,0_right.webp,https://scrandle.com/media/o/F7m4PJRWcAASTzt.webp
-2025-08-24,1,left,Kebab,,9.5,66.7,1_left.webp,https://scrandle.com/media/o/F_ZJ5HWW8AA9ydv.webp
-2025-08-24,1,right,"Pie, mushy peas and gravy",,4.0,24.7,1_right.webp,https://scrandle.com/media/o/FOoiqCxXMAksiUF.webp
-2025-08-24,2,left,Hot dog,Most viewed scran of 2023,6.5,65.0,2_left.webp,https://scrandle.com/media/o/GCs5AgYW8AAY3ae.webp
-2025-08-24,2,right,Prego,Steak and egg roll,4.0,82.4,2_right.webp,https://scrandle.com/media/o/FRGVdREWUAEIac1.webp
-2025-08-24,3,left,Pepperoni pizza,,5.5,72.1,3_left.webp,https://scrandle.com/media/o/Fv4nydxWwAEcK-p.webp
-2025-08-24,3,right,Ham and cheese toastie,With cheesy fries,10.0,71.6,3_right.webp,https://scrandle.com/media/o/Fg4dkwGXEAATh2E.webp
-2025-08-24,4,left,"Steak pie, gravy and mushy peas",,5.5,65.6,4_left.webp,https://scrandle.com/media/o/GiKjcjnWoAAWvYj.webp
-2025-08-24,4,right,The Avro Bomber Box,,10.0,94.6,4_right.webp,https://scrandle.com/media/o/FM3yQ4BWQAYykf4.webp
-2025-08-24,5,left,Spicy popcorn chicken,With hash brown bites,9.5,83.7,5_left.webp,https://scrandle.com/media/o/FpfxIAhXoAAXbZ8.webp
-2025-08-24,5,right,"Sausage, bread and gherkin",,3.4,76.5,5_right.webp,https://scrandle.com/media/o/FleEKjGX0AEZJ43.webp
-2025-08-24,6,left,The gaffer burger,"6oz beef patty with lettuce, cheese, crispy chicken strips, bacon and crispy onions",9.0,92.1,6_left.webp,https://scrandle.com/media/o/GVMh_OaXYAA1C0e.webp
-2025-08-24,6,right,Pulled beef and gravy topped chips,,6.0,89.5,6_right.webp,https://scrandle.com/media/o/F2suve6WgAAw_7z.webp
-2025-08-24,7,left,Chicken and bacon pizza,,4.99,83.7,7_left.webp,https://scrandle.com/media/o/Fu96u3QXsAEkJnP.webp
-2025-08-24,7,right,Macaroni cheese pie,,2.5,64.2,7_right.webp,https://scrandle.com/media/o/FLaSSxKX0AseZLD.webp
-2025-08-24,8,left,Smash burger deal,With a drink,11.0,88.3,8_left.webp,https://scrandle.com/media/o/FTw2DdYXwAIVVrK.webp
-2025-08-24,8,right,Wigan kebab,Pie in a roll,2.5,53.7,8_right.webp,https://scrandle.com/media/o/FKNNqBFWUAQPsba.webp
-2025-08-24,9,left,Hot dog,"With bacon, cheese and a quail egg",2.4,79.5,9_left.webp,https://scrandle.com/media/o/F3gzqwWXgAE7EXY.webp
-2025-08-24,9,right,Hot dog,,6.0,13.1,9_right.webp,https://scrandle.com/media/o/FwA7vqsWYAIP6Td.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-08-24,0,left,1609593488844419073,https://twitter.com/FootyScran/status/1609593488844419073,8.95,88.6,2023,Tottenham fried chicken,With a bag of chips,Tottenham Hotspur,ENG,0_left.webp,https://scrandle.com/media/o/FlZsvhyXgAE7OBh.webp,scrandle,center,548.0349840913796
+2025-08-24,0,right,1709600110529712534,https://twitter.com/FootyScran/status/1709600110529712534,4.0,27.1,2023,Fischbrötchen,Fish in a bun,Leipzig,GER,0_right.webp,https://scrandle.com/media/o/F7m4PJRWcAASTzt.webp,scrandle,center,222.00234971418496
+2025-08-24,1,left,1726648757423648950,https://twitter.com/FootyScran/status/1726648757423648950,9.5,66.7,2023,Kebab,,Fulham FC,ENG,1_left.webp,https://scrandle.com/media/o/F_ZJ5HWW8AA9ydv.webp,scrandle,center,280.1162397201134
+2025-08-24,1,right,1507055137000497156,https://twitter.com/FootyScran/status/1507055137000497156,4.0,24.7,2022,"Pie, mushy peas and gravy",,Bacup Borough,ENG,1_right.webp,https://scrandle.com/media/o/FOoiqCxXMAksiUF.webp,scrandle,center,245.52189218648454
+2025-08-24,2,left,1741548366796832957,https://twitter.com/FootyScran/status/1741548366796832957,6.5,65.0,2023,Hot dog,Most viewed scran of 2023,Everton,ENG,2_left.webp,https://scrandle.com/media/o/GCs5AgYW8AAY3ae.webp,scrandle,center,201.66219523172285
+2025-08-24,2,right,1518158883625312256,https://twitter.com/FootyScran/status/1518158883625312256,4.0,82.4,2022,Prego,Steak and egg roll,Benfica,POR,2_right.webp,https://scrandle.com/media/o/FRGVdREWUAEIac1.webp,scrandle,center,349.79214515762044
+2025-08-24,3,left,1656805471133609989,https://twitter.com/FootyScran/status/1656805471133609989,5.5,72.1,2023,Pepperoni pizza,,Nashville SC,USA,3_left.webp,https://scrandle.com/media/o/Fv4nydxWwAEcK-p.webp,scrandle,center,504.1432810642779
+2025-08-24,3,right,1589240241181052928,https://twitter.com/FootyScran/status/1589240241181052928,10.0,71.6,2022,Ham and cheese toastie,With cheesy fries,Man City,ENG,3_right.webp,https://scrandle.com/media/o/Fg4dkwGXEAATh2E.webp,scrandle,center,416.18460410314776
+2025-08-24,4,left,1883247310228136309,https://x.com/FootyScran/status/1883247310228136309,5.5,65.6,2025,"Steak pie, gravy and mushy peas",,Wigan Athletic,ENG,4_left.webp,https://scrandle.com/media/o/GiKjcjnWoAAWvYj.webp,scrandle,center,232.03746915065665
+2025-08-24,4,right,1499120641718554639,https://twitter.com/FootyScran/status/1499120641718554639,10.0,94.6,2022,The Avro Bomber Box,,Avro FC,ENG,4_right.webp,https://scrandle.com/media/o/FM3yQ4BWQAYykf4.webp,scrandle,center,594.8484959024222
+2025-08-24,5,left,1628034914506383366,https://twitter.com/FootyScran/status/1628034914506383366,9.5,83.7,2023,Spicy popcorn chicken,With hash brown bites,Port Vale,ENG,5_left.webp,https://scrandle.com/media/o/FpfxIAhXoAAXbZ8.webp,scrandle,center,488.03636109277136
+2025-08-24,5,right,1609900715547164679,https://twitter.com/FootyScran/status/1609900715547164679,3.4,76.5,2023,"Sausage, bread and gherkin",,Pogon Szczecin,POL,5_right.webp,https://scrandle.com/media/o/FleEKjGX0AEZJ43.webp,scrandle,center,333.96894855101675
+2025-08-24,6,left,1824839663208796240,https://x.com/FootyScran/status/1824839663208796240,9.0,92.1,2024,The gaffer burger,"6oz beef patty with lettuce, cheese, crispy chicken strips, bacon and crispy onions",Tilbury FC,ENG,6_left.webp,https://scrandle.com/media/o/GVMh_OaXYAA1C0e.webp,scrandle,center,638.8408385480618
+2025-08-24,6,right,1687493882618028032,https://twitter.com/FootyScran/status/1687493882618028032,6.0,89.5,2023,Pulled beef and gravy topped chips,,Hartlepool United,ENG,6_right.webp,https://scrandle.com/media/o/F2suve6WgAAw_7z.webp,scrandle,center,478.0698167338192
+2025-08-24,7,left,1652674537949995013,https://twitter.com/FootyScran/status/1652674537949995013,4.99,83.7,2023,Chicken and bacon pizza,,MK Dons FC,ENG,7_left.webp,https://scrandle.com/media/o/Fu96u3QXsAEkJnP.webp,scrandle,center,537.9928210168558
+2025-08-24,7,right,1492541183515582471,https://twitter.com/FootyScran/status/1492541183515582471,2.5,64.2,2022,Macaroni cheese pie,,Elgin City,SCO,7_right.webp,https://scrandle.com/media/o/FLaSSxKX0AseZLD.webp,scrandle,bottom,108.36908309754743
+2025-08-24,8,left,1530157417060872193,https://twitter.com/FootyScran/status/1530157417060872193,11.0,88.3,2022,Smash burger deal,With a drink,IF Brommapojkarna,SWE,8_left.webp,https://scrandle.com/media/o/FTw2DdYXwAIVVrK.webp,scrandle,center,539.9191484739019
+2025-08-24,8,right,1487117692108779521,https://twitter.com/FootyScran/status/1487117692108779521,2.5,53.7,2022,Wigan kebab,Pie in a roll,Nairn County FC,SCO,8_right.webp,https://scrandle.com/media/o/FKNNqBFWUAQPsba.webp,scrandle,center,145.8881369357875
+2025-08-24,9,left,1691158475034726401,https://twitter.com/FootyScran/status/1691158475034726401,2.4,79.5,2023,Hot dog,"With bacon, cheese and a quail egg",Atlético Nacional,COL,9_left.webp,https://scrandle.com/media/o/F3gzqwWXgAE7EXY.webp,scrandle,center,392.8790126037649
+2025-08-24,9,right,1657390358160973826,https://twitter.com/FootyScran/status/1657390358160973826,6.0,13.1,2023,Hot dog,,Chelsea,ENG,9_right.webp,https://scrandle.com/media/o/FwA7vqsWYAIP6Td.webp,scrandle,center,136.6347630807391

@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-08-01,0,left,Sausage,With potato salad,4.5,14.6,0_left.webp,https://scrandle.com/media/o/GAAPqwhXkAAUnAw.webp
-2025-08-01,0,right,Vegan curry sausage,With french fries,3.0,37.1,0_right.webp,https://scrandle.com/media/o/FraREefXsAEN3n2.webp
-2025-08-01,1,left,Four beef baozi,"With three vegetable jiaozi, fried chicken and a hard-boiled egg",1.45,87.7,1_left.webp,https://scrandle.com/media/o/FuOUPuAWAAIw9Il.webp
-2025-08-01,1,right,Singapore Hainanese chicken rice,,2.5,93.4,1_right.webp,https://scrandle.com/media/o/F224YQAWEAAADug.webp
-2025-08-01,2,left,Dumplings,With mushroom sauce and vegetables,3.0,13.6,2_left.webp,https://scrandle.com/media/o/FpWxCBHWIAER8uf.webp
-2025-08-01,2,right,Maultaschen (Swabian dumplings),With herb sauce and green beans,2.9,16.9,2_right.webp,https://scrandle.com/media/o/FsSywvEXgAIqfJV.webp
-2025-08-01,3,left,Vegan Oriental Dream Bowl,"Falafel, vegetable couscous, soy yoghurt, lentil salad, mint, sultanas, nuts",2.95,84.6,3_left.webp,https://scrandle.com/media/o/FohbYSfWIAAPYXW.webp
-2025-08-01,3,right,Cheeseburger,With fries,4.85,60.9,3_right.webp,https://scrandle.com/media/o/Fod4HK1WcAEFCaq.webp
-2025-08-01,4,left,Glass noodles,With sweet chili sauce and avocado,2.1,39.0,4_left.webp,https://scrandle.com/media/o/FW6lBpWWYAAAA1n.webp
-2025-08-01,4,right,Lentils with soy pea cream,With a piece of ciabatta bread,2.1,27.7,4_right.webp,https://scrandle.com/media/o/FvTGijPXoAAdMLE.webp
-2025-08-01,5,left,Jumbo laugen hot dog bonanza,,5.2,71.6,5_left.webp,https://scrandle.com/media/o/FoMWgZ1XkAEeDLO.webp
-2025-08-01,5,right,Vegan curry sausage,With fries and a small salad,4.8,73.0,5_right.webp,https://scrandle.com/media/o/F3kZiYcX0AIBA8x.webp
-2025-08-01,6,left,Kitsune udon,Udon in dashi broth with abura-age,1.05,93.2,6_left.webp,https://scrandle.com/media/o/FpHIuHBWcAIBSRO.webp
-2025-08-01,6,right,Chikuwa-ten soba,With half-boiled egg,2.1,90.5,6_right.webp,https://scrandle.com/media/o/Fr0euYgWIAAZoNl.webp
-2025-08-01,7,left,Pizza speciale,With apple strudel and vanilla sauce,3.4,83.0,7_left.webp,https://scrandle.com/media/o/FrbuOMCWAAEYYTO.webp
-2025-08-01,7,right,Vegetarian pizza,"With bell pepper, mushrooms, spinach, arugula",2.9,92.8,7_right.webp,https://scrandle.com/media/o/FuJXmGbXgAkiuJO.webp
-2025-08-01,8,left,Cuban rice,"With egg, schnitzel with potato salad, bread, a pear and a glass of red wine",3.05,79.1,8_left.webp,https://scrandle.com/media/o/F_2GPLtW4AAAa4P.webp
-2025-08-01,8,right,Chili con carne,,2.4,80.1,8_right.webp,https://scrandle.com/media/o/F9sHkjWWoAAxMng.webp
-2025-08-01,9,left,Wrap with guacamole,"With falafel, cabbage and sweet and sour sauce",3.05,18.3,9_left.webp,https://scrandle.com/media/o/Fn8_LtEXgAAz6ms.webp
-2025-08-01,9,right,Scrambled eggs,"With potatoes, spinach and a chocolate pudding",2.0,36.9,9_right.webp,https://scrandle.com/media/o/Fqnp5u9WcAMvjRM.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-08-01,0,left,1729399495530602876,https://x.com/MensaScran/status/1729399495530602876,4.5,14.6,2023,Sausage,With potato salad,St. Pius Gymnasium Coesfeld,GER,0_left.webp,https://scrandle.com/media/o/GAAPqwhXkAAUnAw.webp,mensa,center,350.0
+2025-08-01,0,right,1636655027690303489,https://x.com/MensaScran/status/1636655027690303489,3.0,37.1,2023,Vegan curry sausage,With french fries,University of Leipzig,GER,0_right.webp,https://scrandle.com/media/o/FraREefXsAEN3n2.webp,mensa,center,450.0
+2025-08-01,1,left,1649324892276379649,https://x.com/MensaScran/status/1649324892276379649,1.45,87.7,2023,Four beef baozi,"With three vegetable jiaozi, fried chicken and a hard-boiled egg",Peking University,CHN,1_left.webp,https://scrandle.com/media/o/FuOUPuAWAAIw9Il.webp,mensa,center,350.0
+2025-08-01,1,right,1688208166528356352,https://x.com/MensaScran/status/1688208166528356352,2.5,93.4,2023,Singapore Hainanese chicken rice,,Shenyang,CHN,1_right.webp,https://scrandle.com/media/o/F224YQAWEAAADug.webp,mensa,center,450.0
+2025-08-01,2,left,1627401493346238471,https://x.com/MensaScran/status/1627401493346238471,3.0,13.6,2023,Dumplings,With mushroom sauce and vegetables,FH Münster,GER,2_left.webp,https://scrandle.com/media/o/FpWxCBHWIAER8uf.webp,mensa,center,400.0
+2025-08-01,2,right,1640632720903532544,https://x.com/MensaScran/status/1640632720903532544,2.9,16.9,2023,Maultaschen (Swabian dumplings),With herb sauce and green beans,FH Münster,GER,2_right.webp,https://scrandle.com/media/o/FsSywvEXgAIqfJV.webp,mensa,center,400.0
+2025-08-01,3,left,1623648143727362048,https://x.com/MensaScran/status/1623648143727362048,2.95,84.6,2023,Vegan Oriental Dream Bowl,"Falafel, vegetable couscous, soy yoghurt, lentil salad, mint, sultanas, nuts",Otto-von-Guericke-Universität Magdeburg,GER,3_left.webp,https://scrandle.com/media/o/FohbYSfWIAAPYXW.webp,mensa,center,350.0
+2025-08-01,3,right,1623398260768485380,https://x.com/MensaScran/status/1623398260768485380,4.85,60.9,2023,Cheeseburger,With fries,TU Darmstadt,GER,3_right.webp,https://scrandle.com/media/o/Fod4HK1WcAEFCaq.webp,mensa,center,450.0
+2025-08-01,4,left,1544353181026717697,https://x.com/MensaScran/status/1544353181026717697,2.1,39.0,2022,Glass noodles,With sweet chili sauce and avocado,Universität Leipzig,GER,4_left.webp,https://scrandle.com/media/o/FW6lBpWWYAAAA1n.webp,mensa,center,350.0
+2025-08-01,4,right,1654165290513465347,https://x.com/MensaScran/status/1654165290513465347,2.1,27.7,2023,Lentils with soy pea cream,With a piece of ciabatta bread,University of Leipzig,GER,4_right.webp,https://scrandle.com/media/o/FvTGijPXoAAdMLE.webp,mensa,center,450.0
+2025-08-01,5,left,1622165041934893056,https://x.com/MensaScran/status/1622165041934893056,5.2,71.6,2023,Jumbo laugen hot dog bonanza,,University Clinic of Hamburg,GER,5_left.webp,https://scrandle.com/media/o/FoMWgZ1XkAEeDLO.webp,mensa,center,350.0
+2025-08-01,5,right,1691411220107034624,https://x.com/MensaScran/status/1691411220107034624,4.8,73.0,2023,Vegan curry sausage,With fries and a small salad,MPI-NAT in Göttingen,GER,5_right.webp,https://scrandle.com/media/o/F3kZiYcX0AIBA8x.webp,mensa,center,450.0
+2025-08-01,6,left,1626301638947311617,https://x.com/MensaScran/status/1626301638947311617,1.05,93.2,2023,Kitsune udon,Udon in dashi broth with abura-age,Kyoto University of Foreign Studies,JPN,6_left.webp,https://scrandle.com/media/o/FpHIuHBWcAIBSRO.webp,mensa,center,350.0
+2025-08-01,6,right,1638499627820351490,https://x.com/MensaScran/status/1638499627820351490,2.1,90.5,2023,Chikuwa-ten soba,With half-boiled egg,Tokyo City University,JPN,6_right.webp,https://scrandle.com/media/o/Fr0euYgWIAAZoNl.webp,mensa,center,450.0
+2025-08-01,7,left,1636757447544291328,https://x.com/MensaScran/status/1636757447544291328,3.4,83.0,2023,Pizza speciale,With apple strudel and vanilla sauce,Hochschule Reutlingen,GER,7_left.webp,https://scrandle.com/media/o/FrbuOMCWAAEYYTO.webp,mensa,center,450.0
+2025-08-01,7,right,1648976730261004289,https://x.com/MensaScran/status/1648976730261004289,2.9,92.8,2023,Vegetarian pizza,"With bell pepper, mushrooms, spinach, arugula",Uni Freiburg,GER,7_right.webp,https://scrandle.com/media/o/FuJXmGbXgAkiuJO.webp,mensa,center,350.0
+2025-08-01,8,left,1728685432584454291,https://x.com/MensaScran/status/1728685432584454291,3.05,79.1,2023,Cuban rice,"With egg, schnitzel with potato salad, bread, a pear and a glass of red wine",University of Granada,ESP,8_left.webp,https://scrandle.com/media/o/F_2GPLtW4AAAa4P.webp,mensa,center,450.0
+2025-08-01,8,right,1718976014972256528,https://x.com/MensaScran/status/1718976014972256528,2.4,80.1,2023,Chili con carne,,Fachhochschule Kiel,GER,8_right.webp,https://scrandle.com/media/o/F9sHkjWWoAAxMng.webp,mensa,center,350.0
+2025-08-01,9,left,1621083869410639873,https://x.com/MensaScran/status/1621083869410639873,3.05,18.3,2023,Wrap with guacamole,"With falafel, cabbage and sweet and sour sauce",University of Leipzig,GER,9_left.webp,https://scrandle.com/media/o/Fn8_LtEXgAAz6ms.webp,mensa,center,350.0
+2025-08-01,9,right,1633093524999602176,https://x.com/MensaScran/status/1633093524999602176,2.0,36.9,2023,Scrambled eggs,"With potatoes, spinach and a chocolate pudding",FH Dortmund,GER,9_right.webp,https://scrandle.com/media/o/Fqnp5u9WcAMvjRM.webp,mensa,center,450.0

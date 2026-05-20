@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2026-02-05,0,left,Black and white cookie shake,,11.5,60.86,0_left.webp,https://scrandle.com/media/o/GZ87bF7WEAACKIZ_NoVKSHU.webp
-2026-02-05,0,right,Chicken tinga burrito,,6.0,67.1,0_right.webp,https://scrandle.com/media/o/GZsWO3UWgAYonXV.webp
-2026-02-05,1,left,Cheeseburger,,3.9,8.3,1_left.webp,https://scrandle.com/media/o/F8Z76YKWIAACJuk.webp
-2026-02-05,1,right,Brisket grilled cheese,,9.5,84.5,1_right.webp,https://scrandle.com/media/o/F6g0bKGWYAAFZaO.webp
-2026-02-05,2,left,Chilli chicken loaded fries,,7.5,93.5,2_left.webp,https://scrandle.com/media/o/F5M4qqLXwAAZeS4.webp
-2026-02-05,2,right,Fish and chips,,9.5,69.6,2_right.webp,https://scrandle.com/media/o/FLlMp1CXsAs6MSz.webp
-2026-02-05,3,left,Hot dog,,,44.92,3_left.webp,https://scrandle.com/media/o/FDq8ww9X0AoYTlT.webp
-2026-02-05,3,right,"Burger, cheese and relish",,6.75,35.81,3_right.webp,https://scrandle.com/media/o/GfuyTYyWsAAzqWQ.webp
-2026-02-05,4,left,Jockey whopper burger,"3 burgers, 3 bacon, 3 sausage, 3 cheese",10.0,85.8,4_left.webp,https://scrandle.com/media/o/Gog1zH_XcAAr5Ek.webp
-2026-02-05,4,right,Double southern fried chicken breast,"On a toasted brioche with chicken tenders, chilli wings, loaded fries and a pint",10.0,69.5,4_right.webp,https://scrandle.com/media/o/Ggd5cQaWkAApe-b.webp
-2026-02-05,5,left,Salt and pepper chicken balls,With chips,6.0,56.57,5_left.webp,https://scrandle.com/media/o/Fgp7hioX0AQkjMv.webp
-2026-02-05,5,right,Margherita pizza,,4.5,30.34,5_right.webp,https://scrandle.com/media/o/FEQ9-ZTXsAcHgGJ.webp
-2026-02-05,6,left,"Pie, chips and gravy",,4.5,37.15,6_left.webp,https://scrandle.com/media/o/GWUGFXUXAAEHZ5M.webp
-2026-02-05,6,right,Zapiekanka,With a pepsi,5.2,17.29,6_right.webp,https://scrandle.com/media/o/GaMNcSqXEAAdlj4.webp
-2026-02-05,7,left,Double smokehouse burger,,7.0,90.6,7_left.webp,https://scrandle.com/media/o/FNqyG5aXoBAI4ry.webp
-2026-02-05,7,right,Spicy popcorn chicken,With hash brown bites,9.5,83.7,7_right.webp,https://scrandle.com/media/o/FpfxIAhXoAAXbZ8.webp
-2026-02-05,8,left,Cheese and ham panini,,7.0,29.81,8_left.webp,https://scrandle.com/media/o/Gr9-A67XwAAteXW.webp
-2026-02-05,8,right,Meatball burger,,3.7,37.35,8_right.webp,https://scrandle.com/media/o/FQD-wrpWYAE-HIw.webp
-2026-02-05,9,left,"The ""Moms bad boy"" hot dog",,,31.08,9_left.webp,https://scrandle.com/media/o/GjWdQYfXsAAjcSU.webp
-2026-02-05,9,right,Chicken kebab,Fries inside,6.5,59.85,9_right.webp,https://scrandle.com/media/o/FkHffExXwAE9DPr.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2026-02-05,0,left,1846273040029741555,https://x.com/FootyScran/status/1846273040029741555,11.5,60.86,2024,Black and white cookie shake,,New York Yankees,USA,0_left.webp,https://scrandle.com/media/o/GZ87bF7WEAACKIZ_NoVKSHU.webp,scrandle,center,578.8599146994089
+2026-02-05,0,right,1845092923957760377,https://x.com/geedub1977/status/1845092923957760377,6.0,67.1,2024,Chicken tinga burrito,,Taunton Town FC,ENG,0_right.webp,https://scrandle.com/media/o/GZsWO3UWgAYonXV.webp,scrandle,center,523.5712002844049
+2026-02-05,1,left,1713192958558674944,https://twitter.com/FootyScran/status/1713192958558674944,3.9,8.3,2023,Cheeseburger,,Hartlepool United,ENG,1_left.webp,https://scrandle.com/media/o/F8Z76YKWIAACJuk.webp,scrandle,center,206.83846947357168
+2026-02-05,1,right,1704670105861312954,https://twitter.com/FootyScran/status/1704670105861312954,9.5,84.5,2023,Brisket grilled cheese,,Atlanta United,USA,1_right.webp,https://scrandle.com/media/o/F6g0bKGWYAAFZaO.webp,scrandle,center,393.7540901739383
+2026-02-05,2,left,1698763795655536862,https://twitter.com/FootyScran/status/1698763795655536862,7.5,93.5,2023,Chilli chicken loaded fries,,Doncaster Rovers,ENG,2_left.webp,https://scrandle.com/media/o/F5M4qqLXwAAZeS4.webp,scrandle,center,530.8384998217393
+2026-02-05,2,right,1493309044743974927,https://twitter.com/FootyScran/status/1493309044743974927,9.5,69.6,2022,Fish and chips,,Tottenham,ENG,2_right.webp,https://scrandle.com/media/o/FLlMp1CXsAs6MSz.webp,scrandle,center,449.76656525820374
+2026-02-05,3,left,1457684979463426051,https://x.com/FootyScran/status/1457684979463426051,,44.92,2021,Hot dog,,Grimsby Town,ENG,3_left.webp,https://scrandle.com/media/o/FDq8ww9X0AoYTlT.webp,scrandle,center,432.2005008325758
+2026-02-05,3,right,1872286122426110398,https://x.com/VMEconomics/status/1872286122426110398,6.75,35.81,2024,"Burger, cheese and relish",,MK Stadium,ENG,3_right.webp,https://scrandle.com/media/o/GfuyTYyWsAAzqWQ.webp,scrandle,center,258.35021679656967
+2026-02-05,4,left,1911837202633417179,https://x.com/SportScran/status/1911837202633417179,10.0,85.8,2025,Jockey whopper burger,"3 burgers, 3 bacon, 3 sausage, 3 cheese",Newmarket Town FC,ENG,4_left.webp,https://scrandle.com/media/o/Gog1zH_XcAAr5Ek.webp,scrandle,center,692.0678711852362
+2026-02-05,4,right,1875601298986582372,https://x.com/DavidMo78790767/status/1875601298986582372,10.0,69.5,2025,Double southern fried chicken breast,"On a toasted brioche with chicken tenders, chilli wings, loaded fries and a pint",Wrexham AFC,WAL,4_right.webp,https://scrandle.com/media/o/Ggd5cQaWkAApe-b.webp,scrandle,center,579.8369288893601
+2026-02-05,5,left,1588217642569322497,https://x.com/FootyScran/status/1588217642569322497,6.0,56.57,2022,Salt and pepper chicken balls,With chips,Avro FC,ENG,5_left.webp,https://scrandle.com/media/o/Fgp7hioX0AQkjMv.webp,scrandle,center,395.35752988396206
+2026-02-05,5,right,1460360331180576769,https://x.com/FootyScran/status/1460360331180576769,4.5,30.34,2021,Margherita pizza,,Carlisle United,ENG,5_right.webp,https://scrandle.com/media/o/FEQ9-ZTXsAcHgGJ.webp,scrandle,center,322.1423776256582
+2026-02-05,6,left,1829875519170756765,https://x.com/matt_johnson_89/status/1829875519170756765,4.5,37.15,2024,"Pie, chips and gravy",,New Mills FC,ENG,6_left.webp,https://scrandle.com/media/o/GWUGFXUXAAEHZ5M.webp,scrandle,center,359.14303205824365
+2026-02-05,6,right,1847336257224872388,https://x.com/FootyScran/status/1847336257224872388,5.2,17.29,2024,Zapiekanka,With a pepsi,Wisła Kraków,POL,6_right.webp,https://scrandle.com/media/o/GaMNcSqXEAAdlj4.webp,scrandle,center,232.18699752478386
+2026-02-05,7,left,1502709264481140742,https://twitter.com/FootyScran/status/1502709264481140742,7.0,90.6,2022,Double smokehouse burger,,Wycombe Wanderers,ENG,7_left.webp,https://scrandle.com/media/o/FNqyG5aXoBAI4ry.webp,scrandle,center,582.5343930305888
+2026-02-05,7,right,1628034914506383366,https://twitter.com/FootyScran/status/1628034914506383366,9.5,83.7,2023,Spicy popcorn chicken,With hash brown bites,Port Vale,ENG,7_right.webp,https://scrandle.com/media/o/FpfxIAhXoAAXbZ8.webp,scrandle,center,488.03636109277136
+2026-02-05,8,left,1927397725659660635,https://x.com/SportScran/status/1927397725659660635,7.0,29.81,2025,Cheese and ham panini,,Manchester United,ENG,8_left.webp,https://scrandle.com/media/o/Gr9-A67XwAAteXW.webp,scrandle,center,253.76910111369097
+2026-02-05,8,right,1513489592988704777,https://x.com/FootyScran/status/1513489592988704777,3.7,37.35,2022,Meatball burger,,PEC Zwolle,NED,8_right.webp,https://scrandle.com/media/o/FQD-wrpWYAE-HIw.webp,scrandle,center,353.3426114786786
+2026-02-05,9,left,1888588542114210167,https://x.com/andy_cov93/status/1888588542114210167,,31.08,2025,"The ""Moms bad boy"" hot dog",,Coventry,ENG,9_left.webp,https://scrandle.com/media/o/GjWdQYfXsAAjcSU.webp,scrandle,center,303.79783093567784
+2026-02-05,9,right,1603808679735828480,https://x.com/FootyScran/status/1603808679735828480,6.5,59.85,2022,Chicken kebab,Fries inside,Grimsby Town,ENG,9_right.webp,https://scrandle.com/media/o/FkHffExXwAE9DPr.webp,scrandle,center,513.6767971335781

@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-08-16,0,left,Wigan kebab,"Pie, peas and gravy in a roll",4.0,34.1,0_left.webp,https://scrandle.com/media/o/FNqiLOjXwAoJyI6.webp
-2025-08-16,0,right,Mozzarella pizza,,4.2,70.9,0_right.webp,https://scrandle.com/media/o/Fyc9KC6XgAMFHVD.webp
-2025-08-16,1,left,Chicken gyros,,8.0,89.0,1_left.webp,https://scrandle.com/media/o/FRIIhTeX0AE_7Zs.webp
-2025-08-16,1,right,Lebanese chicken flatbread,,6.95,96.3,1_right.webp,https://scrandle.com/media/o/F27UmlKXEAAlEW3.webp
-2025-08-16,2,left,Pork dumplings,Price for 10,9.0,68.9,2_left.webp,https://scrandle.com/media/o/FRvoKNtWQAAQfw1.webp
-2025-08-16,2,right,"Roast pork, stuffing and gravy",In a baguette,6.0,80.7,2_right.webp,https://scrandle.com/media/o/FNvju7XX0AUDHn2.webp
-2025-08-16,3,left,Full English breakfast box,,7.0,84.1,3_left.webp,https://scrandle.com/media/o/FeJwbRxXwAAT5Pc.webp
-2025-08-16,3,right,Cheeseburger,,3.9,38.3,3_right.webp,https://scrandle.com/media/o/FvJHI7zWwA07glM.webp
-2025-08-16,4,left,Slider Box,"6 burgers, 4 mozzarella sticks, beer-battered onion rings, and tater tots",20.8,87.5,4_left.webp,https://scrandle.com/media/o/GL4BPyoWEAAVKKS.webp
-2025-08-16,4,right,Kasnocken,Cheese spaetzle,4.3,74.7,4_right.webp,https://scrandle.com/media/o/F9DjmzuW4AAhtvw.webp
-2025-08-16,5,left,Wigan kebab,"Pie, peas and gravy in a roll",4.0,34.1,5_left.webp,https://scrandle.com/media/o/FNqiLOjXwAoJyI6.webp
-2025-08-16,5,right,Butter chicken tikka and rice,,6.0,90.1,5_right.webp,https://scrandle.com/media/o/F9H7LJaXsAA-6T-.webp
-2025-08-16,6,left,Burger,,5.0,6.4,6_left.webp,https://scrandle.com/media/o/FXufs-wVUAAmIGH.webp
-2025-08-16,6,right,Horseradish and red onion on bread,,1.4,40.6,6_right.webp,https://scrandle.com/media/o/Fn0qXKnXoA8w9A4.webp
-2025-08-16,7,left,Loaded hash browns,,5.0,83.5,7_left.webp,https://scrandle.com/media/o/FYcBTyiWAAIy-_c.webp
-2025-08-16,7,right,Ham and cheese toastie,With cheesy fries,10.0,71.6,7_right.webp,https://scrandle.com/media/o/Fg4dkwGXEAATh2E.webp
-2025-08-16,8,left,Sri Lankan food platter,Free for fans,0.0,93.7,8_left.webp,https://scrandle.com/media/o/FR2_o7PXwAIkq09.webp
-2025-08-16,8,right,Yangnyeom chicken,"With rice, kimchi and a triple whiskey highball",7.5,92.4,8_right.webp,https://scrandle.com/media/o/FzionhbXsAAG08i.webp
-2025-08-16,9,left,French hot dog,,3.3,46.3,9_left.webp,https://scrandle.com/media/o/FOTWSQ3XwAEHZUk.webp
-2025-08-16,9,right,Coeur de Canard,Duck heart,7.0,52.2,9_right.webp,https://scrandle.com/media/o/FqeH5B4WAAYH_14.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-08-16,0,left,1502691744579833864,https://twitter.com/FootyScran/status/1502691744579833864,4.0,34.1,2022,Wigan kebab,"Pie, peas and gravy in a roll",Rochdale,ENG,0_left.webp,https://scrandle.com/media/o/FNqiLOjXwAoJyI6.webp,scrandle,center,235.49366289385387
+2025-08-16,0,right,1668369434732265474,https://twitter.com/FootyScran/status/1668369434732265474,4.2,70.9,2023,Mozzarella pizza,,Neo-Quimica Arena,BRA,0_right.webp,https://scrandle.com/media/o/Fyc9KC6XgAMFHVD.webp,scrandle,center,299.4565534618952
+2025-08-16,1,left,1518285404121743361,https://twitter.com/FootyScran/status/1518285404121743361,8.0,89.0,2022,Chicken gyros,,Birmingham City,ENG,1_left.webp,https://scrandle.com/media/o/FRIIhTeX0AE_7Zs.webp,scrandle,center,630.351388058717
+2025-08-16,1,right,1688520673935663104,https://twitter.com/FootyScran/status/1688520673935663104,6.95,96.3,2023,Lebanese chicken flatbread,,Barnsley FC,ENG,1_right.webp,https://scrandle.com/media/o/F27UmlKXEAAlEW3.webp,scrandle,center,563.1269408126273
+2025-08-16,2,left,1521064566213562368,https://twitter.com/FootyScran/status/1521064566213562368,9.0,68.9,2022,Pork dumplings,Price for 10,Wellington Phoenix,NZL,2_left.webp,https://scrandle.com/media/o/FRvoKNtWQAAQfw1.webp,scrandle,center,427.0656753342364
+2025-08-16,2,right,1503045312797188097,https://twitter.com/FootyScran/status/1503045312797188097,6.0,80.7,2022,"Roast pork, stuffing and gravy",In a baguette,Arsenal,ENG,2_right.webp,https://scrandle.com/media/o/FNvju7XX0AUDHn2.webp,scrandle,center,337.66793781622977
+2025-08-16,3,left,1576946458552455169,https://twitter.com/FootyScran/status/1576946458552455169,7.0,84.1,2022,Full English breakfast box,,Tilbury FC,ENG,3_left.webp,https://scrandle.com/media/o/FeJwbRxXwAAT5Pc.webp,twitter,center,400.0
+2025-08-16,3,right,1653462237607018510,https://twitter.com/FootyScran/status/1653462237607018510,3.9,38.3,2023,Cheeseburger,,Hartlepool United,ENG,3_right.webp,https://scrandle.com/media/o/FvJHI7zWwA07glM.webp,scrandle,center,274.5763147648716
+2025-08-16,4,left,1782863879317414357,https://x.com/FootyScran/status/1782863879317414357,20.8,87.5,2024,Slider Box,"6 burgers, 4 mozzarella sticks, beer-battered onion rings, and tater tots",Sporting Kansas City,USA,4_left.webp,https://scrandle.com/media/o/GL4BPyoWEAAVKKS.webp,scrandle,center,654.7757820157819
+2025-08-16,4,right,1716121721307070867,https://twitter.com/FootyScran/status/1716121721307070867,4.3,74.7,2023,Kasnocken,Cheese spaetzle,SV Austria Salzburg,AUT,4_right.webp,https://scrandle.com/media/o/F9DjmzuW4AAhtvw.webp,scrandle,center,224.40838802325646
+2025-08-16,5,left,1502691744579833864,https://twitter.com/FootyScran/status/1502691744579833864,4.0,34.1,2022,Wigan kebab,"Pie, peas and gravy in a roll",Rochdale,ENG,5_left.webp,https://scrandle.com/media/o/FNqiLOjXwAoJyI6.webp,scrandle,center,235.49366289385387
+2025-08-16,5,right,1716429107481694682,https://twitter.com/FootyScran/status/1716429107481694682,6.0,90.1,2023,Butter chicken tikka and rice,,Preston North End,ENG,5_right.webp,https://scrandle.com/media/o/F9H7LJaXsAA-6T-.webp,scrandle,center,482.6870206829902
+2025-08-16,6,left,1548006498466291713,https://twitter.com/FootyScran/status/1548006498466291713,5.0,6.4,2022,Burger,,Aberdeen FC,SCO,6_left.webp,https://scrandle.com/media/o/FXufs-wVUAAmIGH.webp,scrandle,center,151.56016009701867
+2025-08-16,6,right,1620498024224149504,https://twitter.com/FootyScran/status/1620498024224149504,1.4,40.6,2023,Horseradish and red onion on bread,,Slavia Prague,CZE,6_right.webp,https://scrandle.com/media/o/Fn0qXKnXoA8w9A4.webp,scrandle,center,224.17353791263434
+2025-08-16,7,left,1551210040849321984,https://twitter.com/FootyScran/status/1551210040849321984,5.0,83.5,2022,Loaded hash browns,,Corinthian Casuals,ENG,7_left.webp,https://scrandle.com/media/o/FYcBTyiWAAIy-_c.webp,scrandle,center,445.8252881721578
+2025-08-16,7,right,1589240241181052928,https://twitter.com/FootyScran/status/1589240241181052928,10.0,71.6,2022,Ham and cheese toastie,With cheesy fries,Man City,ENG,7_right.webp,https://scrandle.com/media/o/Fg4dkwGXEAATh2E.webp,scrandle,center,416.18460410314776
+2025-08-16,8,left,1521582969177190402,https://twitter.com/FootyScran/status/1521582969177190402,0.0,93.7,2022,Sri Lankan food platter,Free for fans,AS Velasca,ITA,8_left.webp,https://scrandle.com/media/o/FR2_o7PXwAIkq09.webp,scrandle,center,510.8569162370755
+2025-08-16,8,right,1673272669456695297,https://twitter.com/FootyScran/status/1673272669456695297,7.5,92.4,2023,Yangnyeom chicken,"With rice, kimchi and a triple whiskey highball",Omiya Ardija,JPN,8_right.webp,https://scrandle.com/media/o/FzionhbXsAAG08i.webp,scrandle,center,641.2468519899011
+2025-08-16,9,left,1505563789562945543,https://twitter.com/FootyScran/status/1505563789562945543,3.3,46.3,2022,French hot dog,,Copenhagen,DEN,9_left.webp,https://scrandle.com/media/o/FOTWSQ3XwAEHZUk.webp,scrandle,center,245.2263233248986
+2025-08-16,9,right,1632422807886786561,https://twitter.com/FootyScran/status/1632422807886786561,7.0,52.2,2023,Coeur de Canard,Duck heart,Toulouse FC,FRA,9_right.webp,https://scrandle.com/media/o/FqeH5B4WAAYH_14.webp,scrandle,center,276.6244303918121

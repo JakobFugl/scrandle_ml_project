@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-12-18,0,left,Sausage water,,2.0,20.5,0_left.webp,https://scrandle.com/media/o/FPb7fnCXMA8EP8x.webp
-2025-12-18,0,right,Cheesy chips,,3.5,13.6,0_right.webp,https://scrandle.com/media/o/FSAe0L4XwAA6IZ6.webp
-2025-12-18,1,left,Loaded roast potatoes,With beef and gravy,5.5,50.37,1_left.webp,https://scrandle.com/media/o/GVQ91PQWMAAogeq_HjlgNrf.webp
-2025-12-18,1,right,Pie,,4.8,9.6,1_right.webp,https://scrandle.com/media/o/GeHsMMEWUAA4I3h.webp
-2025-12-18,2,left,64 pints of Grolsch,,279.0,59.27,2_left.webp,https://scrandle.com/media/o/GlStBmEXcAAe0Wq.webp
-2025-12-18,2,right,Korean BBQ chicken waffle cone,,6.0,66.57,2_right.webp,https://scrandle.com/media/o/GKFDvHqXwAAalFb.webp
-2025-12-18,3,left,Hot dog,,4.5,9.46,3_left.webp,https://scrandle.com/media/o/GXbueCXXEAA7-eb.webp
-2025-12-18,3,right,Hot Dog Meal,,8.5,30.82,3_right.webp,https://scrandle.com/media/o/GvcGg0LWgAADk6f.webp
-2025-12-18,4,left,Today's Special,,,81.63,4_left.webp,https://scrandle.com/media/o/GUnsjuXXMAEuhtH.webp
-2025-12-18,4,right,Chips and nuggets,With ketchup,4.5,51.5,4_right.webp,https://scrandle.com/media/o/FJIpKscXoAQv_GZ.webp
-2025-12-18,5,left,Chicken and chips,,10.75,65.8,5_left.webp,https://scrandle.com/media/o/FO3LEjmXsAAQoQ2.webp
-2025-12-18,5,right,Fried chicken and seasoned fries,,11.0,89.1,5_right.webp,https://scrandle.com/media/o/FtsZalBXsAA_Ifi.webp
-2025-12-18,6,left,Hot dog,,3.5,28.38,6_left.webp,https://scrandle.com/media/o/FsZcXbFXgAAfvOG.webp
-2025-12-18,6,right,"Pie, peas and gravy",,4.0,41.76,6_right.webp,https://scrandle.com/media/o/GZIZSKDW4AAG2Pp.webp
-2025-12-18,7,left,Slider box deal,"6 beef sliders, mozza sticks, onion rings, fries",20.0,70.5,7_left.webp,https://scrandle.com/media/o/Gro32BCWsAEnzql.webp
-2025-12-18,7,right,Two balti pies,With two cokes,14.9,51.66,7_right.webp,https://scrandle.com/media/o/GKe8rmwWIAAAA6f.webp
-2025-12-18,8,left,Drayton Belly Buster,,,47.39,8_left.webp,https://scrandle.com/media/o/GW4IQDJWsAArSqn.webp
-2025-12-18,8,right,Glystarkes and beer,Cinnamon-flavoured crusty bread rusk,6.0,38.01,8_right.webp,https://scrandle.com/media/o/G6vx_RvXUAAtTl_.webp
-2025-12-18,9,left,Lamb and chicken tikka naans,,9.95,93.6,9_left.webp,https://scrandle.com/media/o/Fqc-y8zWAAEUQWC.webp
-2025-12-18,9,right,Pizza and cannolis,,10.0,77.5,9_right.webp,https://scrandle.com/media/o/FgzoNW7XEAY2KlZ.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-12-18,0,left,1510671249462251520,https://twitter.com/FootyScran/status/1510671249462251520,2.0,20.5,2022,Sausage water,,Bodø/Glimt,NOR,0_left.webp,https://scrandle.com/media/o/FPb7fnCXMA8EP8x.webp,scrandle,center,114.51572613100112
+2025-12-18,0,right,1522250560719790081,https://twitter.com/FootyScran/status/1522250560719790081,3.5,13.6,2022,Cheesy chips,,Billericay Town,ENG,0_right.webp,https://scrandle.com/media/o/FSAe0L4XwAA6IZ6.webp,scrandle,center,207.43014832142762
+2025-12-18,1,left,1826676199508341063,https://x.com/FootyScran/status/1826676199508341063,5.5,50.37,2024,Loaded roast potatoes,With beef and gravy,South Shields FC,ENG,1_left.webp,https://scrandle.com/media/o/GVQ91PQWMAAogeq_HjlgNrf.webp,scrandle,center,404.76130593013437
+2025-12-18,1,right,1865031420705431844,https://x.com/SportScran/status/1865031420705431844,4.8,9.6,2024,Pie,,Manchester United,ENG,1_right.webp,https://scrandle.com/media/o/GeHsMMEWUAA4I3h.webp,scrandle,center,162.59403791824133
+2025-12-18,2,left,1897331590835175907,https://x.com/SportScran/status/1897331590835175907,279.0,59.27,2025,64 pints of Grolsch,,FC Twente,NED,2_left.webp,https://scrandle.com/media/o/GlStBmEXcAAe0Wq.webp,scrandle,center,424.2324585326122
+2025-12-18,2,right,1774774217793265831,https://x.com/MrsWiggy73/status/1774774217793265831,6.0,66.57,2024,Korean BBQ chicken waffle cone,,Preston North End,ENG,2_right.webp,https://scrandle.com/media/o/GKFDvHqXwAAalFb.webp,scrandle,center,496.20362687846455
+2025-12-18,3,left,1834916138456612973,https://x.com/willbarrington/status/1834916138456612973,4.5,9.46,2024,Hot dog,,Northampton Town F.C.,ENG,3_left.webp,https://scrandle.com/media/o/GXbueCXXEAA7-eb.webp,scrandle,center,127.45853228307072
+2025-12-18,3,right,1943028938785034604,https://x.com/MottysMic/status/1943028938785034604,8.5,30.82,2025,Hot Dog Meal,,Daventry Sports Park,ENG,3_right.webp,https://scrandle.com/media/o/GvcGg0LWgAADk6f.webp,scrandle,center,381.10151273767724
+2025-12-18,4,left,1822247630635774443,https://x.com/ashtontownfc/status/1822247630635774443,,81.63,2024,Today's Special,,Ashton Town FC,ENG,4_left.webp,https://scrandle.com/media/o/GUnsjuXXMAEuhtH.webp,scrandle,center,658.3846015945758
+2025-12-18,4,right,1482292496986161154,https://x.com/FootyScran/status/1482292496986161154,4.5,51.5,2022,Chips and nuggets,With ketchup,Cliftonville FC,NIR,4_right.webp,https://scrandle.com/media/o/FJIpKscXoAQv_GZ.webp,scrandle,center,418.40189411535414
+2025-12-18,5,left,1508084734722818049,https://twitter.com/FootyScran/status/1508084734722818049,10.75,65.8,2022,Chicken and chips,,Wembley Stadium,ENG,5_left.webp,https://scrandle.com/media/o/FO3LEjmXsAAQoQ2.webp,scrandle,center,443.9697036400282
+2025-12-18,5,right,1646938038000295939,https://twitter.com/FootyScran/status/1646938038000295939,11.0,89.1,2023,Fried chicken and seasoned fries,,Aston Villa,ENG,5_right.webp,https://scrandle.com/media/o/FtsZalBXsAA_Ifi.webp,scrandle,center,400.76113752917684
+2025-12-18,6,left,1641100676905197568,https://x.com/FootyScran/status/1641100676905197568,3.5,28.38,2023,Hot dog,,Australia v Ecuador,AUS,6_left.webp,https://scrandle.com/media/o/FsZcXbFXgAAfvOG.webp,scrandle,center,181.73646218285495
+2025-12-18,6,right,1842563005298655340,https://x.com/shauno67/status/1842563005298655340,4.0,41.76,2024,"Pie, peas and gravy",,Padiham FC,ENG,6_right.webp,https://scrandle.com/media/o/GZIZSKDW4AAG2Pp.webp,scrandle,center,303.7680859872622
+2025-12-18,7,left,1925913201775960216,https://x.com/SportScran/status/1925913201775960216,20.0,70.5,2025,Slider box deal,"6 beef sliders, mozza sticks, onion rings, fries",Sporting Kansas City,USA,7_left.webp,https://scrandle.com/media/o/Gro32BCWsAEnzql.webp,scrandle,center,457.2537018188331
+2025-12-18,7,right,1776596094929015030,https://x.com/TimC9/status/1776596094929015030,14.9,51.66,2024,Two balti pies,With two cokes,Blackburn Rovers,ENG,7_right.webp,https://scrandle.com/media/o/GKe8rmwWIAAAA6f.webp,scrandle,center,293.0712232072047
+2025-12-18,8,left,1832411173225890170,https://x.com/MDTFC/status/1832411173225890170,,47.39,2024,Drayton Belly Buster,,Market Drayton Town FC,ENG,8_left.webp,https://scrandle.com/media/o/GW4IQDJWsAArSqn.webp,scrandle,center,360.04115939743485
+2025-12-18,8,right,100118,,6.0,38.01,2025,Glystarkes and beer,Cinnamon-flavoured crusty bread rusk,Limassol Stadium,CYP,8_right.webp,https://scrandle.com/media/o/G6vx_RvXUAAtTl_.webp,scrandle,bottom,285.67252234535613
+2025-12-18,9,left,1632342445856792577,https://twitter.com/FootyScran/status/1632342445856792577,9.95,93.6,2023,Lamb and chicken tikka naans,,Wycome Wanderers,ENG,9_left.webp,https://scrandle.com/media/o/Fqc-y8zWAAEUQWC.webp,scrandle,center,676.2766616526094
+2025-12-18,9,right,1588900094631628803,https://twitter.com/FootyScran/status/1588900094631628803,10.0,77.5,2022,Pizza and cannolis,,Bolton Wanderers,ENG,9_right.webp,https://scrandle.com/media/o/FgzoNW7XEAY2KlZ.webp,scrandle,center,260.24756020823094

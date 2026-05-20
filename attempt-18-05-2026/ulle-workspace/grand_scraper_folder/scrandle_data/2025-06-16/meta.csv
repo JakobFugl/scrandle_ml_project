@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-06-16,0,left,Bag of fried insects,,0.45,31.3,0_left.webp,https://scrandle.com/media/o/FoWI0RGXsAM6ex9.webp
-2025-06-16,0,right,Chicken tenders and fries,,11.5,60.0,0_right.webp,https://scrandle.com/media/o/F80rNnUWYAAaH10.webp
-2025-06-16,1,left,Salt and pepper steak,,5.0,86.1,1_left.webp,https://scrandle.com/media/o/FPhksFxX0As-Q8x.webp
-2025-06-16,1,right,Double cheeseburger jumbo hot dog,,7.0,79.0,1_right.webp,https://scrandle.com/media/o/FuZWnxSX0AA7ULC.webp
-2025-06-16,2,left,Cheeseburger with chips,,6.0,94.4,2_left.webp,https://scrandle.com/media/o/Fqt2RWgWYAozwaI.webp
-2025-06-16,2,right,"Meatballs, chips, peas and gravy",,5.0,57.6,2_right.webp,https://scrandle.com/media/o/F8GBbNqXYAAMlct.webp
-2025-06-16,3,left,Yiros pack,,5.8,87.6,3_left.webp,https://scrandle.com/media/o/FO7GxEkXEAIyZDr.webp
-2025-06-16,3,right,"Pork shank, sausage and cheese sandwich",,4.8,87.8,3_right.webp,https://scrandle.com/media/o/Fv94rfCWAAA0R15.webp
-2025-06-16,4,left,Sausage roll,,4.0,6.6,4_left.webp,https://scrandle.com/media/o/Flfc720WQAMvvwu.webp
-2025-06-16,4,right,Knappers burger,"Double beef, bacon, cheese and onions",6.0,87.4,4_right.webp,https://scrandle.com/media/o/FcxoSt9WAAEVCOq.webp
-2025-06-16,5,left,Steak sandwich,"With chips, onion rings and a drink",27.0,45.5,5_left.webp,https://scrandle.com/media/o/GESObpLWgAAKbQN.webp
-2025-06-16,5,right,Chicken Balti pie,,4.0,15.1,5_right.webp,https://scrandle.com/media/o/FZe474kWYAIW7Qq.webp
-2025-06-16,6,left,Bratwurst,,2.6,90.7,6_left.webp,https://scrandle.com/media/o/F_tkXOEXIAA18Nh.webp
-2025-06-16,6,right,Chicken and chips,,10.75,65.8,6_right.webp,https://scrandle.com/media/o/FO3LEjmXsAAQoQ2.webp
-2025-06-16,7,left,Tequeño,,1.5,84.0,7_left.webp,https://scrandle.com/media/o/FWsKk8EWYAIK1vx.webp
-2025-06-16,7,right,Chili chicken wrap,,9.0,14.5,7_right.webp,https://scrandle.com/media/o/FW1w3BIXwAEjUkA.webp
-2025-06-16,8,left,Peruvian Rotisserie,"half chicken, fries, and Hucaiana cheese sauce",14.0,92.3,8_left.webp,https://scrandle.com/media/o/GHgkp9aWAAIB8nb.webp
-2025-06-16,8,right,Grilled sausage with bread,,2.4,73.1,8_right.webp,https://scrandle.com/media/o/FadMs56WYAA10Hz.webp
-2025-06-16,9,left,Pork and stuffing baguette,,6.0,74.6,9_left.webp,https://scrandle.com/media/o/FL924AcXoAwJU0C.webp
-2025-06-16,9,right,Ribman pie,"With mash, mushy peas and gravy",9.0,75.1,9_right.webp,https://scrandle.com/media/o/FWa-RpwWAAMSkAo.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-06-16,0,left,1622853677538050049,https://twitter.com/FootyScran/status/1622853677538050049,0.45,31.3,2023,Bag of fried insects,,Sukhothai FC,THA,0_left.webp,https://scrandle.com/media/o/FoWI0RGXsAM6ex9.webp,scrandle,center,127.56841328992063
+2025-06-16,0,right,1715074555952181648,https://twitter.com/FootyScran/status/1715074555952181648,11.5,60.0,2023,Chicken tenders and fries,,Wembley,ENG,0_right.webp,https://scrandle.com/media/o/F80rNnUWYAAaH10.webp,scrandle,center,416.9383902263771
+2025-06-16,1,left,1511068389015494656,https://twitter.com/FootyScran/status/1511068389015494656,5.0,86.1,2022,Salt and pepper steak,,Avro FC,ENG,1_left.webp,https://scrandle.com/media/o/FPhksFxX0As-Q8x.webp,scrandle,center,473.74894396381916
+2025-06-16,1,right,1650101559642947588,https://twitter.com/FootyScran/status/1650101559642947588,7.0,79.0,2023,Double cheeseburger jumbo hot dog,,Dagenham & Redbridge,ENG,1_right.webp,https://scrandle.com/media/o/FuZWnxSX0AA7ULC.webp,scrandle,center,347.5847947874042
+2025-06-16,2,left,1633529337214320641,https://twitter.com/FootyScran/status/1633529337214320641,6.0,94.4,2023,Cheeseburger with chips,,Harpenden Town,ENG,2_left.webp,https://scrandle.com/media/o/Fqt2RWgWYAozwaI.webp,scrandle,center,528.1697279921631
+2025-06-16,2,right,1711791644729577764,https://twitter.com/FootyScran/status/1711791644729577764,5.0,57.6,2023,"Meatballs, chips, peas and gravy",,Dafen AFC,WAL,2_right.webp,https://scrandle.com/media/o/F8GBbNqXYAAMlct.webp,scrandle,center,345.55485087631695
+2025-06-16,3,left,1508361476569980936,https://twitter.com/FootyScran/status/1508361476569980936,5.8,87.6,2022,Yiros pack,,West Adelaide Raptors,AUS,3_left.webp,https://scrandle.com/media/o/FO7GxEkXEAIyZDr.webp,scrandle,center,502.6250101621938
+2025-06-16,3,right,1657175880026791936,https://twitter.com/FootyScran/status/1657175880026791936,4.8,87.8,2023,"Pork shank, sausage and cheese sandwich",,Corinthians,BRA,3_right.webp,https://scrandle.com/media/o/Fv94rfCWAAA0R15.webp,scrandle,center,413.30266625897013
+2025-06-16,4,left,1609998320298074113,https://twitter.com/FootyScran/status/1609998320298074113,4.0,6.6,2023,Sausage roll,,West Brom,ENG,4_left.webp,https://scrandle.com/media/o/Flfc720WQAMvvwu.webp,scrandle,center,123.3799611626395
+2025-06-16,4,right,1570745045791408139,https://twitter.com/FootyScran/status/1570745045791408139,6.0,87.4,2022,Knappers burger,"Double beef, bacon, cheese and onions",Knaphill FC,ENG,4_right.webp,https://scrandle.com/media/o/FcxoSt9WAAEVCOq.webp,scrandle,center,409.7809277231255
+2025-06-16,5,left,1748679166768070774,https://twitter.com/FootyScran/status/1748679166768070774,27.0,45.5,2024,Steak sandwich,"With chips, onion rings and a drink",Arsenal,ENG,5_left.webp,https://scrandle.com/media/o/GESObpLWgAAKbQN.webp,scrandle,center,440.59511222775996
+2025-06-16,5,right,1555915577998426112,https://twitter.com/FootyScran/status/1555915577998426112,4.0,15.1,2022,Chicken Balti pie,,Leeds,ENG,5_right.webp,https://scrandle.com/media/o/FZe474kWYAIW7Qq.webp,scrandle,center,177.01900470085943
+2025-06-16,6,left,1728085238457225556,https://twitter.com/FootyScran/status/1728085238457225556,2.6,90.7,2023,Bratwurst,,Viktoria Koln,GER,6_left.webp,https://scrandle.com/media/o/F_tkXOEXIAA18Nh.webp,scrandle,center,356.9800961361614
+2025-06-16,6,right,1508084734722818049,https://twitter.com/FootyScran/status/1508084734722818049,10.75,65.8,2022,Chicken and chips,,Wembley Stadium,ENG,6_right.webp,https://scrandle.com/media/o/FO3LEjmXsAAQoQ2.webp,scrandle,center,443.9697036400282
+2025-06-16,7,left,1543338932775124992,https://twitter.com/FootyScran/status/1543338932775124992,1.5,84.0,2022,Tequeño,,Deportivo Tachira,VEN,7_left.webp,https://scrandle.com/media/o/FWsKk8EWYAIK1vx.webp,scrandle,center,275.4078829076164
+2025-06-16,7,right,1544014363346014214,https://twitter.com/FootyScran/status/1544014363346014214,9.0,14.5,2022,Chili chicken wrap,,Michael Buble concert,ENG,7_right.webp,https://scrandle.com/media/o/FW1w3BIXwAEjUkA.webp,scrandle,center,173.3394387114843
+2025-06-16,8,left,1763199569964212608,https://x.com/FootyScran/status/1763199569964212608,14.0,92.3,2024,Peruvian Rotisserie,"half chicken, fries, and Hucaiana cheese sauce",LA FC,USA,8_left.webp,https://scrandle.com/media/o/GHgkp9aWAAIB8nb.webp,scrandle,center,671.1098894067591
+2025-06-16,8,right,1560300136135331842,https://twitter.com/FootyScran/status/1560300136135331842,2.4,73.1,2022,Grilled sausage with bread,,SK Hranice,CZE,8_right.webp,https://scrandle.com/media/o/FadMs56WYAA10Hz.webp,scrandle,center,273.3628804683795
+2025-06-16,9,left,1495044311892865025,https://twitter.com/FootyScran/status/1495044311892865025,6.0,74.6,2022,Pork and stuffing baguette,,Arsenal,ENG,9_left.webp,https://scrandle.com/media/o/FL924AcXoAwJU0C.webp,scrandle,center,340.10867552951504
+2025-06-16,9,right,1542129138596777984,https://twitter.com/FootyScran/status/1542129138596777984,9.0,75.1,2022,Ribman pie,"With mash, mushy peas and gravy",Wimbledon,ENG,9_right.webp,https://scrandle.com/media/o/FWa-RpwWAAMSkAo.webp,scrandle,center,219.47113934428396

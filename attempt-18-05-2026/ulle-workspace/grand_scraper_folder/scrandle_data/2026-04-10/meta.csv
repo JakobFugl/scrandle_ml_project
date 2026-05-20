@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2026-04-10,0,left,Fish and chips,With tartar sauce,6.0,87.7,0_left.webp,https://scrandle.com/media/o/FXiRFNwWAAE-T_C.webp
-2026-04-10,0,right,Fish and chips,With mushy peas and curry sauce,12.0,63.1,0_right.webp,https://scrandle.com/media/o/GGEZymaXUAAycz-.webp
-2026-04-10,1,left,Fish and chips,With mushy peas,10.0,78.1,1_left.webp,https://scrandle.com/media/o/Ftcp__TXwAA8_RY.webp
-2026-04-10,1,right,Fish and chips,,9.95,84.0,1_right.webp,https://scrandle.com/media/o/FPbrz5lWYAId_Nz.webp
-2026-04-10,2,left,Fish and chips,,9.5,69.6,2_left.webp,https://scrandle.com/media/o/FLlMp1CXsAs6MSz.webp
-2026-04-10,2,right,Fish and chips,With mushy peas,11.0,75.8,2_right.webp,https://scrandle.com/media/o/FTcSDoMXsAAnty3.webp
-2026-04-10,3,left,Fish and chips,With gherkins,10.0,67.3,3_left.webp,https://scrandle.com/media/o/FUprV7eX0AUlOZo.webp
-2026-04-10,3,right,Fish and chips,With a pint,11.6,83.9,3_right.webp,https://scrandle.com/media/o/FMCF0kjXMAUyiQ1.webp
-2026-04-10,4,left,Fish and chips,With mushy peas,10.0,76.81,4_left.webp,https://scrandle.com/media/o/GZjfL56XAAkn2j6.webp
-2026-04-10,4,right,Fish and chips,Included in hospitality ticket,0.0,75.62,4_right.webp,https://scrandle.com/media/o/Ghk-7j8XsAAcGaf.webp
-2026-04-10,5,left,Fish and chips,With mushy peas and curry sauce,17.0,31.78,5_left.webp,https://scrandle.com/media/o/FyworYMXsBY7Mh8.webp
-2026-04-10,5,right,Fish and chips,With tartar sauce,15.4,57.69,5_right.webp,https://scrandle.com/media/o/GagL1uhXYAEjO5B.webp
-2026-04-10,6,left,Fish and chips,,4.8,91.5,6_left.webp,https://scrandle.com/media/o/F1kKduEXoAEL3Yz.webp
-2026-04-10,6,right,Beavertown battered haddock and chips,With mushy peas and tartar sauce,10.0,86.9,6_right.webp,https://scrandle.com/media/o/Fc3uzu_WQAMs9X2.webp
-2026-04-10,7,left,Vegan fish and chips,,9.5,29.64,7_left.webp,https://scrandle.com/media/o/FvH0o0WXgAEmPZ_.webp
-2026-04-10,7,right,Cod and chips,"With mushy peas, halloumi and chaat masala",9.0,72.66,7_right.webp,https://scrandle.com/media/o/FF78FqKWQAEx2W7.webp
-2026-04-10,8,left,Fish and chips,With mushy peas,10.0,87.1,8_left.webp,https://scrandle.com/media/o/Fg-jp9kXoAEWY2i.webp
-2026-04-10,8,right,Fish and chips,With fried halloumi and curry sauce,12.0,81.8,8_right.webp,https://scrandle.com/media/o/F_j1QhBXUAAxZGq.webp
-2026-04-10,9,left,Fish and chips,,7.0,87.4,9_left.webp,https://scrandle.com/media/o/FrGK8b6XgAEaB3i.webp
-2026-04-10,9,right,Fish and chips,With curry sauce,10.0,73.2,9_right.webp,https://scrandle.com/media/o/FSF_R36WYAEjzrO.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2026-04-10,0,left,1547146042910597120,https://twitter.com/FootyScran/status/1547146042910597120,6.0,87.7,2022,Fish and chips,With tartar sauce,Wellington Phoenix,NZL,0_left.webp,https://scrandle.com/media/o/FXiRFNwWAAE-T_C.webp,scrandle,center,403.8372222102516
+2026-04-10,0,right,1756713694136852628,https://x.com/FootyScran/status/1756713694136852628,12.0,63.1,2024,Fish and chips,With mushy peas and curry sauce,Brighton and Hove Albion,ENG,0_right.webp,https://scrandle.com/media/o/GGEZymaXUAAycz-.webp,scrandle,center,249.40126880235448
+2026-04-10,1,left,1645830376789508108,https://twitter.com/FootyScran/status/1645830376789508108,10.0,78.1,2023,Fish and chips,With mushy peas,Wycombe Wanderers,ENG,1_left.webp,https://scrandle.com/media/o/Ftcp__TXwAA8_RY.webp,scrandle,center,365.65209231846234
+2026-04-10,1,right,1510654007055982596,https://twitter.com/FootyScran/status/1510654007055982596,9.95,84.0,2022,Fish and chips,,Tottenham Hotspur,ENG,1_right.webp,https://scrandle.com/media/o/FPbrz5lWYAId_Nz.webp,scrandle,center,506.7663016879047
+2026-04-10,2,left,1493309044743974927,https://twitter.com/FootyScran/status/1493309044743974927,9.5,69.6,2022,Fish and chips,,Tottenham,ENG,2_left.webp,https://scrandle.com/media/o/FLlMp1CXsAs6MSz.webp,scrandle,center,449.76656525820374
+2026-04-10,2,right,1528710458114547712,https://twitter.com/FootyScran/status/1528710458114547712,11.0,75.8,2022,Fish and chips,With mushy peas,Brighton & Hove Albion,ENG,2_right.webp,https://scrandle.com/media/o/FTcSDoMXsAAnty3.webp,scrandle,center,318.96283853629154
+2026-04-10,3,left,1534156654308204547,https://twitter.com/FootyScran/status/1534156654308204547,10.0,67.3,2022,Fish and chips,With gherkins,Tottenham Hotspur,ENG,3_left.webp,https://scrandle.com/media/o/FUprV7eX0AUlOZo.webp,scrandle,center,343.86003387019963
+2026-04-10,3,right,1495342221142417409,https://twitter.com/FootyScran/status/1495342221142417409,11.6,83.9,2022,Fish and chips,With a pint,Melbourne City,AUS,3_right.webp,https://scrandle.com/media/o/FMCF0kjXMAUyiQ1.webp,scrandle,center,396.71575890915966
+2026-04-10,4,left,1844469447765131458,https://x.com/SportScran/status/1844469447765131458,10.0,76.81,2024,Fish and chips,With mushy peas,Man City,ENG,4_left.webp,https://scrandle.com/media/o/GZjfL56XAAkn2j6.webp,scrandle,center,575.877202974909
+2026-04-10,4,right,1880603532094738532,https://x.com/daveingrimsby/status/1880603532094738532,0.0,75.62,2025,Fish and chips,Included in hospitality ticket,Grimsby Town,ENG,4_right.webp,https://scrandle.com/media/o/Ghk-7j8XsAAcGaf.webp,scrandle,center,579.4142495825428
+2026-04-10,5,left,1669754291215642639,https://x.com/FootyScran/status/1669754291215642639,17.0,31.78,2023,Fish and chips,With mushy peas and curry sauce,Arsenal,ENG,5_left.webp,https://scrandle.com/media/o/FyworYMXsBY7Mh8.webp,scrandle,center,288.7555001201276
+2026-04-10,5,right,1848740669424095588,https://x.com/SportScran/status/1848740669424095588,15.4,57.69,2024,Fish and chips,With tartar sauce,Anaheim Ducks,USA,5_right.webp,https://scrandle.com/media/o/GagL1uhXYAEjO5B.webp,scrandle,center,482.97257524564804
+2026-04-10,6,left,1682387446992891904,https://twitter.com/FootyScran/status/1682387446992891904,4.8,91.5,2023,Fish and chips,,Eden Park,NZL,6_left.webp,https://scrandle.com/media/o/F1kKduEXoAEL3Yz.webp,scrandle,center,441.4855710063429
+2026-04-10,6,right,1571174426183344129,https://twitter.com/FootyScran/status/1571174426183344129,10.0,86.9,2022,Beavertown battered haddock and chips,With mushy peas and tartar sauce,Tottenham Hotspur,ENG,6_right.webp,https://scrandle.com/media/o/Fc3uzu_WQAMs9X2.webp,scrandle,center,402.81914586339576
+2026-04-10,7,left,1653371525293043714,https://x.com/FootyScran/status/1653371525293043714,9.5,29.64,2023,Vegan fish and chips,,Tottenham Hotspur,ENG,7_left.webp,https://scrandle.com/media/o/FvH0o0WXgAEmPZ_.webp,scrandle,center,257.35249586351586
+2026-04-10,7,right,1467887708236300289,https://x.com/FootyScran/status/1467887708236300289,9.0,72.66,2021,Cod and chips,"With mushy peas, halloumi and chaat masala",Aston Villa,ENG,7_right.webp,https://scrandle.com/media/o/FF78FqKWQAEx2W7.webp,scrandle,center,574.5397799062386
+2026-04-10,8,left,1589669145024827392,https://twitter.com/FootyScran/status/1589669145024827392,10.0,87.1,2022,Fish and chips,With mushy peas,Man City,ENG,8_left.webp,https://scrandle.com/media/o/Fg-jp9kXoAEWY2i.webp,scrandle,center,439.82096137204815
+2026-04-10,8,right,1727400131379568965,https://twitter.com/FootyScran/status/1727400131379568965,12.0,81.8,2023,Fish and chips,With fried halloumi and curry sauce,Slough Town FC,ENG,8_right.webp,https://scrandle.com/media/o/F_j1QhBXUAAxZGq.webp,scrandle,center,399.15606671919005
+2026-04-10,9,left,1635240916515708929,https://twitter.com/FootyScran/status/1635240916515708929,7.0,87.4,2023,Fish and chips,,Melbourne Victory,AUS,9_left.webp,https://scrandle.com/media/o/FrGK8b6XgAEaB3i.webp,scrandle,center,486.7614311952458
+2026-04-10,9,right,1522638098487730180,https://twitter.com/FootyScran/status/1522638098487730180,10.0,73.2,2022,Fish and chips,With curry sauce,Man City,ENG,9_right.webp,https://scrandle.com/media/o/FSF_R36WYAEjzrO.webp,scrandle,center,469.97315638258465

@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-12-11,0,left,Sausage roll,With vegetable soup,3.0,26.0,0_left.webp,https://scrandle.com/media/o/GnjSeVHW0AA6Q3l.webp
-2025-12-11,0,right,Chocolate donut,,2.0,53.66,0_right.webp,https://scrandle.com/media/o/Fx4jJOMWYAEHAQM.webp
-2025-12-11,1,left,Black and white cookie shake,,11.5,57.87,1_left.webp,https://scrandle.com/media/o/GZ87bF7WEAACKIZ_NoVKSHU.webp
-2025-12-11,1,right,Sausage and bread,,1.2,38.93,1_right.webp,https://scrandle.com/media/o/GNZfNE_XcAAWwuC.webp
-2025-12-11,2,left,Double Cheese And Bacon Burger,,7.5,68.5,2_left.webp,https://scrandle.com/media/o/GSoP0qWWsAADNRQ.webp
-2025-12-11,2,right,Double cheeseburger,,,59.07,2_right.webp,https://scrandle.com/media/o/GnNeaI3W4AArZDh.webp
-2025-12-11,3,left,Tater tots,With southwest chipotle sauce,6.0,40.5,3_left.webp,https://scrandle.com/media/o/FUMG0swWYAE29vG.webp
-2025-12-11,3,right,Pølse i vaffel,,2.95,58.95,3_right.webp,https://scrandle.com/media/o/GzdI6CQWQAA5CM7.webp
-2025-12-11,4,left,Chicken tikka dirty fries,,,75.21,4_left.webp,https://scrandle.com/media/o/GUsENpXXoAEgOSt.webp
-2025-12-11,4,right,Thai meal deal,With a can of pop,10.0,80.6,4_right.webp,https://scrandle.com/media/o/GnysET_W8AAWr0v.webp
-2025-12-11,5,left,Chimichurri steak and chips,,6.5,89.5,5_left.webp,https://scrandle.com/media/o/FPCuFbdXEAso6_2.webp
-2025-12-11,5,right,Meatball sandwich,With packet of crisps,7.0,12.9,5_right.webp,https://scrandle.com/media/o/F-RItAnWkAAB3xr.webp
-2025-12-11,6,left,Hot dog,,4.0,18.6,6_left.webp,https://scrandle.com/media/o/F9dppGpXsAAe5oU.webp
-2025-12-11,6,right,Burger,,4.5,8.4,6_right.webp,https://scrandle.com/media/o/F2ygi4YWsAI3UkJ.webp
-2025-12-11,7,left,Hot dog,,2.0,21.8,7_left.webp,https://scrandle.com/media/o/FjO8961XoAEfeFV.webp
-2025-12-11,7,right,Meatzza Pizza Fries,"Pepperoni, italian sausage, mozzarella, pizza sauce and nacho cheese sauce",14.0,48.1,7_right.webp,https://scrandle.com/media/o/GluAFAUXEAAA1ZJ.webp
-2025-12-11,8,left,Chicken tinga burrito,,6.0,72.41,8_left.webp,https://scrandle.com/media/o/GZsWO3UWgAYonXV.webp
-2025-12-11,8,right,Hot Dog,,5.0,86.07,8_right.webp,https://scrandle.com/media/o/FD1jid-XIAYQHeW.webp
-2025-12-11,9,left,Carapulcra con Sopa Seca,,4.85,25.27,9_left.webp,https://scrandle.com/media/o/GwT4iemXUAA-Ghv.webp
-2025-12-11,9,right,Spicy sausage,With two pieces of bread,2.5,52.26,9_right.webp,https://scrandle.com/media/o/FTCpUzPWYAMNKMb.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-12-11,0,left,1907505869329150209,https://x.com/MottysMic/status/1907505869329150209,3.0,26.0,2025,Sausage roll,With vegetable soup,Long Buckby A.F.C.,ENG,0_left.webp,https://scrandle.com/media/o/GnjSeVHW0AA6Q3l.webp,scrandle,center,286.7911078164374
+2025-12-11,0,right,1665807558001524736,https://x.com/FootyScran/status/1665807558001524736,2.0,53.66,2023,Chocolate donut,,Atlante,MEX,0_right.webp,https://scrandle.com/media/o/Fx4jJOMWYAEHAQM.webp,scrandle,center,259.7606068806788
+2025-12-11,1,left,1846273040029741555,https://x.com/FootyScran/status/1846273040029741555,11.5,57.87,2024,Black and white cookie shake,,New York Yankees,USA,1_left.webp,https://scrandle.com/media/o/GZ87bF7WEAACKIZ_NoVKSHU.webp,scrandle,center,578.8599146994089
+2025-12-11,1,right,1789722590619009424,https://x.com/FootyScran/status/1789722590619009424,1.2,38.93,2024,Sausage and bread,,Wisla Krakow,CZE,1_right.webp,https://scrandle.com/media/o/GNZfNE_XcAAWwuC.webp,scrandle,center,269.85006178465744
+2025-12-11,2,left,1813279576329507171,https://x.com/groundopper/status/1813279576329507171,7.5,68.5,2024,Double Cheese And Bacon Burger,,Deal Town,ENG,2_left.webp,https://scrandle.com/media/o/GSoP0qWWsAADNRQ.webp,scrandle,center,516.4811673087797
+2025-12-11,2,right,1905970878883475812,https://x.com/FootyScran/status/1905970878883475812,,59.07,2025,Double cheeseburger,,Bites by Steve Edwards,ENG,2_right.webp,https://scrandle.com/media/o/GnNeaI3W4AArZDh.webp,scrandle,center,400.58010870349517
+2025-12-11,3,left,1532075805425434625,https://x.com/FootyScran/status/1532075805425434625,6.0,40.5,2022,Tater tots,With southwest chipotle sauce,York United FC,CAN,3_left.webp,https://scrandle.com/media/o/FUMG0swWYAE29vG.webp,scrandle,center,359.93043908863615
+2025-12-11,3,right,1961116332889350620,https://x.com/alicerosecp/status/1961116332889350620,2.95,58.95,2025,Pølse i vaffel,,Fredrikstad  Stadion,NOR,3_right.webp,https://scrandle.com/media/o/GzdI6CQWQAA5CM7.webp,scrandle,center,336.38854852286624
+2025-12-11,4,left,1822555109915603295,https://x.com/andrea_wxm/status/1822555109915603295,,75.21,2024,Chicken tikka dirty fries,,Wrexham AFC,ENG,4_left.webp,https://scrandle.com/media/o/GUsENpXXoAEgOSt.webp,scrandle,center,426.6192401151032
+2025-12-11,4,right,1908904810633449567,https://x.com/FootyScran/status/1908904810633449567,10.0,80.6,2025,Thai meal deal,With a can of pop,Bolton Wanderers,ENG,4_right.webp,https://scrandle.com/media/o/GnysET_W8AAWr0v.webp,scrandle,center,552.5963069118976
+2025-12-11,5,left,1508897291704406028,https://twitter.com/FootyScran/status/1508897291704406028,6.5,89.5,2022,Chimichurri steak and chips,,Avro FC,ENG,5_left.webp,https://scrandle.com/media/o/FPCuFbdXEAso6_2.webp,scrandle,center,532.1570297568484
+2025-12-11,5,right,1721580901857915335,https://twitter.com/FootyScran/status/1721580901857915335,7.0,12.9,2023,Meatball sandwich,With packet of crisps,PEC Zwolle,NED,5_right.webp,https://scrandle.com/media/o/F-RItAnWkAAB3xr.webp,scrandle,center,175.26359254554893
+2025-12-11,6,left,1717957943709020581,https://twitter.com/FootyScran/status/1717957943709020581,4.0,18.6,2023,Hot dog,,AZ Alkmaar,NED,6_left.webp,https://scrandle.com/media/o/F9dppGpXsAAe5oU.webp,scrandle,center,183.99951169509734
+2025-12-11,6,right,1687900486723162112,https://twitter.com/FootyScran/status/1687900486723162112,4.5,8.4,2023,Burger,,Dundee United,SCO,6_right.webp,https://scrandle.com/media/o/F2ygi4YWsAI3UkJ.webp,scrandle,center,215.97869258348828
+2025-12-11,7,left,1599830073154359296,https://twitter.com/FootyScran/status/1599830073154359296,2.0,21.8,2022,Hot dog,,Evesham United,ENG,7_left.webp,https://scrandle.com/media/o/FjO8961XoAEfeFV.webp,scrandle,center,247.51338395534341
+2025-12-11,7,right,1899252499627798638,https://x.com/FootyScran/status/1899252499627798638,14.0,48.1,2025,Meatzza Pizza Fries,"Pepperoni, italian sausage, mozzarella, pizza sauce and nacho cheese sauce",FC Dallas,USA,7_right.webp,https://scrandle.com/media/o/GluAFAUXEAAA1ZJ.webp,scrandle,center,444.79002713743625
+2025-12-11,8,left,1845092923957760377,https://x.com/geedub1977/status/1845092923957760377,6.0,72.41,2024,Chicken tinga burrito,,Taunton Town FC,ENG,8_left.webp,https://scrandle.com/media/o/GZsWO3UWgAYonXV.webp,scrandle,center,523.5712002844049
+2025-12-11,8,right,1458431316945408010,https://x.com/FootyScran/status/1458431316945408010,5.0,86.07,2021,Hot Dog,,Salford City FC,ENG,8_right.webp,https://scrandle.com/media/o/FD1jid-XIAYQHeW.webp,scrandle,center,629.0999796425513
+2025-12-11,9,left,1946955477591478621,https://x.com/FootyScran/status/1946955477591478621,4.85,25.27,2025,Carapulcra con Sopa Seca,,Alejandro Villanueva Stadium,PER,9_left.webp,https://scrandle.com/media/o/GwT4iemXUAA-Ghv.webp,scrandle,center,477.44111123380486
+2025-12-11,9,right,1526906453038186498,https://x.com/FootyScran/status/1526906453038186498,2.5,52.26,2022,Spicy sausage,With two pieces of bread,Slavia Prague,CZE,9_right.webp,https://scrandle.com/media/o/FTCpUzPWYAMNKMb.webp,scrandle,center,349.68688331083774

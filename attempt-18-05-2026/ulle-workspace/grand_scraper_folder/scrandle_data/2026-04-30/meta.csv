@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2026-04-30,0,left,"Sausages, chips and curry sauce",In a hollowed cob,4.5,42.14,0_left.webp,https://scrandle.com/media/o/Ga6kzSmWsAE5x8m.webp
-2026-04-30,0,right,Gięta stadionowa,"Sausage in a bun with onion, ketchup, mustard",4.5,55.41,0_right.webp,https://scrandle.com/media/o/8f9109de0937.webp
-2026-04-30,1,left,Inordinately long hot dog,,,58.0,1_left.webp,https://scrandle.com/media/o/GXtNJQHWgAAzZmh.webp
-2026-04-30,1,right,Sausage and chips with curry sauce,In a cob,,39.39,1_right.webp,https://scrandle.com/media/o/FDXSB1VXIA4p-b4.webp
-2026-04-30,2,left,Pig skin,With spicy salsa and lemon,1.85,23.2,2_left.webp,https://scrandle.com/media/o/GhHlkw8W4AEuvqT.webp
-2026-04-30,2,right,Sausage pizza,,6.5,33.38,2_right.webp,https://scrandle.com/media/o/F7YtxMEW4AALJi0.webp
-2026-04-30,3,left,Chips with Pork and Stuffing and Gravy,,5.0,42.17,3_left.webp,https://scrandle.com/media/o/FJKFfTKXIAQaaAz.webp
-2026-04-30,3,right,"A pie, a twix and a WKD",Any flavour of WKD permissible,7.8,33.28,3_right.webp,https://scrandle.com/media/o/FvDsrWmWwAIHRnh.webp
-2026-04-30,4,left,BBQ beef brisket,"With mac and cheese, cornbread and two dill pickle slices",14.25,57.24,4_left.webp,https://scrandle.com/media/o/1000051732.webp
-2026-04-30,4,right,Pizza,,8.0,32.87,4_right.webp,https://scrandle.com/media/o/GUn2d3MXwAAefUn.webp
-2026-04-30,5,left,Chip butty on saturday,,,21.19,5_left.webp,https://scrandle.com/media/o/GwYVvhKW4AAN-9h.webp
-2026-04-30,5,right,Apple crumble,With custard,,39.74,5_right.webp,https://scrandle.com/media/o/Gf_00A3WkAAMt8Q.webp
-2026-04-30,6,left,Breakfast,Included in hospitality ticket,0.0,59.41,6_left.webp,https://scrandle.com/media/o/GXb0WtZWIAABhzy.webp
-2026-04-30,6,right,BBQ brisket,With coleslaw,18.0,36.48,6_right.webp,https://scrandle.com/media/o/FzGIgWJWAAYIAkp.webp
-2026-04-30,7,left,Beef brisket and pulled pork,In a roll,7.0,60.4,7_left.webp,https://scrandle.com/media/o/FOyWxtwWUA4FCBu.webp
-2026-04-30,7,right,Retro day bargain,"Salt and vinegar discos, tea and a curly wurly",2.7,35.2,7_right.webp,https://scrandle.com/media/o/a2926d4153349c9f76bbc0278c583f67.webp
-2026-04-30,8,left,"Steak pie, peas and gravy",,2.0,29.11,8_left.webp,https://scrandle.com/media/o/FPBBp_fXEAo3N1l.webp
-2026-04-30,8,right,Currywurst and chips,,6.05,61.65,8_right.webp,https://scrandle.com/media/o/FD03aGFXEAMjXCQ.webp
-2026-04-30,9,left,Hot Dog,,,44.22,9_left.webp,https://scrandle.com/media/o/GM0RAOzWEAANdox.webp
-2026-04-30,9,right,Sharer box,,,71.63,9_right.webp,https://scrandle.com/media/o/GbE9RGmXkAAfWAE.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2026-04-30,0,left,1850597703266312303,https://x.com/SportScran/status/1850597703266312303,4.5,42.14,2024,"Sausages, chips and curry sauce",In a hollowed cob,Merthyr Town FC,WAL,0_left.webp,https://scrandle.com/media/o/Ga6kzSmWsAE5x8m.webp,scrandle,center,327.26155505221885
+2026-04-30,0,right,21092025001,,4.5,55.41,2025,Gięta stadionowa,"Sausage in a bun with onion, ketchup, mustard",WKS Śląsk Wrocław,POL,0_right.webp,https://scrandle.com/media/o/8f9109de0937.webp,scrandle,center,381.28712409584625
+2026-04-30,1,left,1836146100983734297,https://x.com/wilkesneil/status/1836146100983734297,,58.0,2024,Inordinately long hot dog,,Baseball in Dallas,USA,1_left.webp,https://scrandle.com/media/o/GXtNJQHWgAAzZmh.webp,scrandle,center,463.72175617279635
+2026-04-30,1,right,1456300996351647748,https://x.com/FootyScran/status/1456300996351647748,,39.39,2021,Sausage and chips with curry sauce,In a cob,Merthyr Town FC,WAL,1_right.webp,https://scrandle.com/media/o/FDXSB1VXIA4p-b4.webp,scrandle,center,383.0939351645166
+2026-04-30,2,left,1878891656767996222,https://x.com/FootyScran/status/1878891656767996222,1.85,23.2,2025,Pig skin,With spicy salsa and lemon,Pumas v Nexaca,MEX,2_left.webp,https://scrandle.com/media/o/GhHlkw8W4AEuvqT.webp,scrandle,center,220.15015523021515
+2026-04-30,2,right,1708603436885827830,https://x.com/FootyScran/status/1708603436885827830,6.5,33.38,2023,Sausage pizza,,Chicago Fire,USA,2_right.webp,https://scrandle.com/media/o/F7YtxMEW4AALJi0.webp,scrandle,center,338.93576977075844
+2026-04-30,3,left,1482394004452958210,https://x.com/FootyScran/status/1482394004452958210,5.0,42.17,2022,Chips with Pork and Stuffing and Gravy,,Stafford Rangers,ENG,3_left.webp,https://scrandle.com/media/o/FJKFfTKXIAQaaAz.webp,scrandle,center,280.2578760972759
+2026-04-30,3,right,1653081302889906179,https://x.com/FootyScran/status/1653081302889906179,7.8,33.28,2023,"A pie, a twix and a WKD",Any flavour of WKD permissible,Newcastle United,ENG,3_right.webp,https://scrandle.com/media/o/FvDsrWmWwAIHRnh.webp,scrandle,center,350.4825395825956
+2026-04-30,4,left,100012,,14.25,57.24,2025,BBQ beef brisket,"With mac and cheese, cornbread and two dill pickle slices","Little Caesar's Arena, MI",USA,4_left.webp,https://scrandle.com/media/o/1000051732.webp,scrandle,right,501.53188586973675
+2026-04-30,4,right,1822258534089642192,https://x.com/Hugheslegend/status/1822258534089642192,8.0,32.87,2024,Pizza,,Yeovil Town F.C.,ENG,4_right.webp,https://scrandle.com/media/o/GUn2d3MXwAAefUn.webp,scrandle,center,278.5626954088037
+2026-04-30,5,left,1947267797899235454,https://x.com/groundhopp/status/1947267797899235454,,21.19,2025,Chip butty on saturday,,Sutton Coldfield,ENG,5_left.webp,https://scrandle.com/media/o/GwYVvhKW4AAN-9h.webp,scrandle,center,208.85624343042628
+2026-04-30,5,right,1873485147414409539,https://x.com/HanJD5/status/1873485147414409539,,39.74,2024,Apple crumble,With custard,Pride Park,ENG,5_right.webp,https://scrandle.com/media/o/Gf_00A3WkAAMt8Q.webp,scrandle,center,311.80628947512514
+2026-04-30,6,left,1834922574939087075,https://x.com/alexbe11/status/1834922574939087075,0.0,59.41,2024,Breakfast,Included in hospitality ticket,AFC Wimbledon,ENG,6_left.webp,https://scrandle.com/media/o/GXb0WtZWIAABhzy.webp,scrandle,center,402.0157639239685
+2026-04-30,6,right,1671267030438383617,https://x.com/FootyScran/status/1671267030438383617,18.0,36.48,2023,BBQ brisket,With coleslaw,"USA v Canada, Las Vegas",USA,6_right.webp,https://scrandle.com/media/o/FzGIgWJWAAYIAkp.webp,scrandle,center,246.1439588617318
+2026-04-30,7,left,1507745760665911298,https://x.com/FootyScran/status/1507745760665911298,7.0,60.4,2022,Beef brisket and pulled pork,In a roll,AFC Wimbledon,ENG,7_left.webp,https://scrandle.com/media/o/FOyWxtwWUA4FCBu.webp,scrandle,center,448.5271469449778
+2026-04-30,7,right,100268,,2.7,35.2,2026,Retro day bargain,"Salt and vinegar discos, tea and a curly wurly",Aston Villa FC,ENG,7_right.webp,https://scrandle.com/media/o/a2926d4153349c9f76bbc0278c583f67.webp,scrandle,center,320.3658450418331
+2026-04-30,8,left,1508778070949388294,https://x.com/FootyScran/status/1508778070949388294,2.0,29.11,2022,"Steak pie, peas and gravy",,Emley AFC,ENG,8_left.webp,https://scrandle.com/media/o/FPBBp_fXEAo3N1l.webp,scrandle,center,302.9982491410102
+2026-04-30,8,right,1458382780753235970,https://x.com/FootyScran/status/1458382780753235970,6.05,61.65,2021,Currywurst and chips,,Hertha Berlin,GER,8_right.webp,https://scrandle.com/media/o/FD03aGFXEAMjXCQ.webp,scrandle,center,475.4453108619964
+2026-04-30,9,left,1787103354461544573,https://x.com/andyroberts117/status/1787103354461544573,,44.22,2024,Hot Dog,,Joie Stadium,ENG,9_left.webp,https://scrandle.com/media/o/GM0RAOzWEAANdox.webp,scrandle,center,357.21784756965377
+2026-04-30,9,right,1851332697731326223,https://x.com/FootyScran/status/1851332697731326223,,71.63,2024,Sharer box,,Brentford FC,ENG,9_right.webp,https://scrandle.com/media/o/GbE9RGmXkAAfWAE.webp,scrandle,center,453.961928564225

@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-12-26,0,left,A slice of Dominos pizza,,2.79,18.14,0_left.webp,https://scrandle.com/media/o/GqCtnfAXMAAY3sB.webp
-2025-12-26,0,right,Baguette,,6.0,12.43,0_right.webp,https://scrandle.com/media/o/GaQjBs5XYAA8oIA.webp
-2025-12-26,1,left,Spicy sausage,,3.0,84.04,1_left.webp,https://scrandle.com/media/o/Gdj9KJIWAAAKWbL.webp
-2025-12-26,1,right,Lovely balti pie,,,39.83,1_right.webp,https://scrandle.com/media/o/GcBukmubwAAL8U9.webp
-2025-12-26,2,left,Fish,"free for Martin Odegaard, the man of the match",0.0,29.5,2_left.webp,https://scrandle.com/media/o/F5b3ZWoXwAAgeVF.webp
-2025-12-26,2,right,Cheeseburger,With beans,4.35,28.06,2_right.webp,https://scrandle.com/media/o/FzFJ1i3XsAcIKQG.webp
-2025-12-26,3,left,Burger,,9.05,28.82,3_left.webp,https://scrandle.com/media/o/Gsx_SE_X0AAMzwr.webp
-2025-12-26,3,right,Biscoff cake,,5.5,76.52,3_right.webp,https://scrandle.com/media/o/GY_UuneW8AAiCe2.webp
-2025-12-26,4,left,Cheese quesadilla,With a pint,24.15,10.76,4_left.webp,https://scrandle.com/media/o/GZXposEXgAEy8QG.webp
-2025-12-26,4,right,Cheesy hot dog,,0.85,27.25,4_right.webp,https://scrandle.com/media/o/Fg_BFd1WQAAdIUV.webp
-2025-12-26,5,left,Vegan tacos,,8.0,32.35,5_left.webp,https://scrandle.com/media/o/FPW1HeXXoAcw7cp.webp
-2025-12-26,5,right,Octopus sandwich,,7.0,42.4,5_right.webp,https://scrandle.com/media/o/GlJMxEjXEAAxqCy_8LrXjwl.webp
-2025-12-26,6,left,Sausage stick,,3.1,44.86,6_left.webp,https://scrandle.com/media/o/GqdpEIsa4AAdgIg.webp
-2025-12-26,6,right,"A pie, a pint and a pack of crisps",With a picture of Alex Ferguson,,72.34,6_right.webp,https://scrandle.com/media/o/GbeDL3DaUAArZVN.webp
-2025-12-26,7,left,Potatoes with spicy mayo,,2.0,41.25,7_left.webp,https://scrandle.com/media/o/Fdrl5C9XkBgow14.webp
-2025-12-26,7,right,The Skyrosa,Cheese coney on top of a pizza slice,9.5,73.37,7_right.webp,https://scrandle.com/media/o/GSu9BrGXoAA7_He.webp
-2025-12-26,8,left,A red-necked phalarope,"Free, from the air",0.0,38.13,8_left.webp,https://scrandle.com/media/o/G0j4xTjaQAABnOo.webp
-2025-12-26,8,right,Vodka and mint slush,,3.1,41.8,8_right.webp,https://scrandle.com/media/o/375883050_1008680263808994_8782814372900131446_n.webp
-2025-12-26,9,left,Cotton candy burrito,,11.45,10.28,9_left.webp,https://scrandle.com/media/o/GUUazRKa8AYI5x9.webp
-2025-12-26,9,right,Mac Chocolate Potato,マックチョコポテト,1.65,49.85,9_right.webp,https://scrandle.com/media/o/GS4s5XVasAEcEAG.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-12-26,0,left,1918982100465635603,https://x.com/FootyScran/status/1918982100465635603,2.79,18.14,2025,A slice of Dominos pizza,,IR Reykjavik,ISL,0_left.webp,https://scrandle.com/media/o/GqCtnfAXMAAY3sB.webp,scrandle,bottom left,245.7733519918928
+2025-12-26,0,right,1847640267135864971,https://x.com/Lewisgaskell04/status/1847640267135864971,6.0,12.43,2024,Baguette,,Bromley,ENG,0_right.webp,https://scrandle.com/media/o/GaQjBs5XYAA8oIA.webp,scrandle,center,144.5954160754027
+2025-12-26,1,left,1862516801084486113,https://x.com/SportScran/status/1862516801084486113,3.0,84.04,2024,Spicy sausage,,Sparta Prague,CZE,1_left.webp,https://scrandle.com/media/o/Gdj9KJIWAAAKWbL.webp,scrandle,center,572.576135676114
+2025-12-26,1,right,1855604638470341057,https://x.com/ci188ty4/status/1855604638470341057,,39.83,2024,Lovely balti pie,,Manchester United,ENG,1_right.webp,https://scrandle.com/media/o/GcBukmubwAAL8U9.webp,scrandle,center,275.97101997887876
+2025-12-26,2,left,1699817928927871254,https://x.com/FootyScran/status/1699817928927871254,0.0,29.5,2023,Fish,"free for Martin Odegaard, the man of the match",Real Sociedad,ESP,2_left.webp,https://scrandle.com/media/o/F5b3ZWoXwAAgeVF.webp,scrandle,bottom,195.14467045181667
+2025-12-26,2,right,1671198126458150912,https://x.com/FootyScran/status/1671198126458150912,4.35,28.06,2023,Cheeseburger,With beans,Malta v England,MLT,2_right.webp,https://scrandle.com/media/o/FzFJ1i3XsAcIKQG.webp,scrandle,center,274.8007813842975
+2025-12-26,3,left,1931058299803414692,https://x.com/Padraigkelleher/status/1931058299803414692,9.05,28.82,2025,Burger,,AVIVA Stadium,IRL,3_left.webp,https://scrandle.com/media/o/Gsx_SE_X0AAMzwr.webp,scrandle,center,295.643106291567
+2025-12-26,3,right,1841924673938063817,https://x.com/SportScran/status/1841924673938063817,5.5,76.52,2024,Biscoff cake,,Nottingham Panthers,ENG,3_right.webp,https://scrandle.com/media/o/GY_UuneW8AAiCe2.webp,scrandle,center,543.4067846252568
+2025-12-26,4,left,1843636512497512658,https://x.com/SportScran/status/1843636512497512658,24.15,10.76,2024,Cheese quesadilla,With a pint,LA Rams,USA,4_left.webp,https://scrandle.com/media/o/GZXposEXgAEy8QG.webp,scrandle,center,300.8220326353061
+2025-12-26,4,right,1589701501832040448,https://x.com/FootyScran/status/1589701501832040448,0.85,27.25,2022,Cheesy hot dog,,FK Metta,LVA,4_right.webp,https://scrandle.com/media/o/Fg_BFd1WQAAdIUV.webp,scrandle,center,227.3318423236036
+2025-12-26,5,left,1510312405292756993,https://x.com/FootyScran/status/1510312405292756993,8.0,32.35,2022,Vegan tacos,,Bristol Rovers,ENG,5_left.webp,https://scrandle.com/media/o/FPW1HeXXoAcw7cp.webp,scrandle,center,418.9460708958374
+2025-12-26,5,right,1896663091104149786,https://x.com/FootyScran/status/1896663091104149786,7.0,42.4,2025,Octopus sandwich,,SSC Bari,ITA,5_right.webp,https://scrandle.com/media/o/GlJMxEjXEAAxqCy_8LrXjwl.webp,scrandle,center,246.78826210783416
+2025-12-26,6,left,1920619326521929747,https://x.com/pukupuku_vw/status/1920619326521929747,3.1,44.86,2025,Sausage stick,,Ise Shrine,JPN,6_left.webp,https://scrandle.com/media/o/GqdpEIsa4AAdgIg.webp,scrandle,center,361.4912886984699
+2025-12-26,6,right,1853094018189492332,https://x.com/mulzo7/status/1853094018189492332,,72.34,2024,"A pie, a pint and a pack of crisps",With a picture of Alex Ferguson,Old Trafford,ENG,6_right.webp,https://scrandle.com/media/o/GbeDL3DaUAArZVN.webp,scrandle,center,413.33437014853894
+2025-12-26,7,left,1574823804014137360,https://x.com/FootyScran/status/1574823804014137360,2.0,41.25,2022,Potatoes with spicy mayo,,Man City Women,ENG,7_left.webp,https://scrandle.com/media/o/Fdrl5C9XkBgow14.webp,scrandle,center,296.01915852036433
+2025-12-26,7,right,1813751115521081617,https://x.com/2_gnar/status/1813751115521081617,9.5,73.37,2024,The Skyrosa,Cheese coney on top of a pizza slice,FC Cincinnati,USA,7_right.webp,https://scrandle.com/media/o/GSu9BrGXoAA7_He.webp,scrandle,center,421.668142624302
+2025-12-26,8,left,1966094776652148907,https://x.com/cyucyulovely39/status/1966094776652148907,0.0,38.13,2025,A red-necked phalarope,"Free, from the air",Zozo Marine Stadium,JPN,8_left.webp,https://scrandle.com/media/o/G0j4xTjaQAABnOo.webp,scrandle,center,260.1167799839064
+2025-12-26,8,right,100073,https://www.instagram.com/p/Cw4cE5ZIg6w/,3.1,41.8,2023,Vodka and mint slush,,FC Stoppenberg,GER,8_right.webp,https://scrandle.com/media/o/375883050_1008680263808994_8782814372900131446_n.webp,scrandle,center,318.70549366112726
+2025-12-26,9,left,100093,https://x.com/CardsMarkD/status/1820891173638304086,11.45,10.28,2024,Cotton candy burrito,,Arizona Cardinals,USA,9_left.webp,https://scrandle.com/media/o/GUUazRKa8AYI5x9.webp,scrandle,center,248.5384254635292
+2025-12-26,9,right,1814437065712693570,https://x.com/masamakun/status/1814437065712693570,1.65,49.85,2024,Mac Chocolate Potato,マックチョコポテト,McDonalds,JPN,9_right.webp,https://scrandle.com/media/o/GS4s5XVasAEcEAG.webp,scrandle,center,380.7911609456251

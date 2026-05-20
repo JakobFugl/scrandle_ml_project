@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2026-05-08,0,left,Hot dog,With mayo,3.0,26.17,0_left.webp,https://scrandle.com/media/o/FPrySPzXIAcW974.webp
-2026-05-08,0,right,Hot dog,"German sausage, pickles, ketchup",6.5,36.01,0_right.webp,https://scrandle.com/media/o/PXL_20250928_164616031.webp
-2026-05-08,1,left,Spicy sausage hot dog,,3.0,53.71,1_left.webp,https://scrandle.com/media/o/FZPW2GwVEAExvJN.webp
-2026-05-08,1,right,Foot long hot dog,,9.3,17.11,1_right.webp,https://scrandle.com/media/o/GcHxaIZXUAAlYrk.webp
-2026-05-08,2,left,Hot dog,,6.95,13.48,2_left.webp,https://scrandle.com/media/o/GVguaPYXYAAIKl7.webp
-2026-05-08,2,right,Witches Cat hot dog,Bun shaped like cat's paw,5.5,6.88,2_right.webp,https://scrandle.com/media/o/2e347ce4f10c8dd85ce6e6dc00f91db8.webp
-2026-05-08,3,left,Hot dog with onion,,2.65,11.46,3_left.webp,https://scrandle.com/media/o/ed58343c5ea2c9ae5208d066f511d128.webp
-2026-05-08,3,right,"Hot dog, popcorn and coke",,16.3,36.31,3_right.webp,https://scrandle.com/media/o/e37ea3af8f1b19e6f6a911aa80372217.webp
-2026-05-08,4,left,Hot dog,,4.2,30.1,4_left.webp,https://scrandle.com/media/o/FOsmrc5X0AQW76p.webp
-2026-05-08,4,right,Two sausage hot dog,"With teriyaki sauce, seaweed and scrambled egg",6.5,34.81,4_right.webp,https://scrandle.com/media/o/FQYn3muX0AUHI3-.webp
-2026-05-08,5,left,The Anti-Hero,"2ft long hot dog inside 11 powdered donuts, mustard-ketchup drizzle",,26.84,5_left.webp,https://scrandle.com/media/o/3146d1fca8532c1d18eaadafdec787c6.webp
-2026-05-08,5,right,Hotdog,,5.9,32.12,5_right.webp,https://scrandle.com/media/o/4de499af9f40f3568290290c13a5beb6.webp
-2026-05-08,6,left,Hot dog,,,58.3,6_left.webp,https://scrandle.com/media/o/6d68697877ae637f9c41c1ab14008eac.webp
-2026-05-08,6,right,Hot dog,Free with admission,0.0,22.8,6_right.webp,https://scrandle.com/media/o/0e293ea8038ba3bb41df40ac756e75c6.webp
-2026-05-08,7,left,"Spicy ""taco style"" hot dog",,8.5,49.07,7_left.webp,https://scrandle.com/media/o/FSCNgHtWUAEm9Ci.webp
-2026-05-08,7,right,Taco hotdog,With a coke,4.75,17.98,7_right.webp,https://scrandle.com/media/o/GrKCn5hW8AAK-d2.webp
-2026-05-08,8,left,Hot dog,,3.45,46.67,8_left.webp,https://scrandle.com/media/o/GvB0vlJWUAAGtjQ.webp
-2026-05-08,8,right,Hot dog,With mustard and ketchup,3.3,51.1,8_right.webp,https://scrandle.com/media/o/IMG_20251027_181549_607.webp
-2026-05-08,9,left,Open hotdog,,1.4,42.76,9_left.webp,https://scrandle.com/media/o/image2.webp
-2026-05-08,9,right,Hotdog,,6.5,34.73,9_right.webp,https://scrandle.com/media/o/Ga5i8mRWQAA4DIH.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2026-05-08,0,left,1511787025984364545,https://x.com/FootyScran/status/1511787025984364545,3.0,26.17,2022,Hot dog,With mayo,Gremio,BRA,0_left.webp,https://scrandle.com/media/o/FPrySPzXIAcW974.webp,scrandle,center,196.91657098973255
+2026-05-08,0,right,100017,,6.5,36.01,2025,Hot dog,"German sausage, pickles, ketchup",Bulgarian National Stadium,BUL,0_right.webp,https://scrandle.com/media/o/PXL_20250928_164616031.webp,scrandle,center,303.0460589748809
+2026-05-08,1,left,1554822533878140928,https://x.com/FootyScran/status/1554822533878140928,3.0,53.71,2022,Spicy sausage hot dog,,Sparta Prague,CZE,1_left.webp,https://scrandle.com/media/o/FZPW2GwVEAExvJN.webp,scrandle,center,335.9591643902669
+2026-05-08,1,right,1856029957320835345,https://x.com/SportScran/status/1856029957320835345,9.3,17.11,2024,Foot long hot dog,,Ole Miss Rebels,USA,1_right.webp,https://scrandle.com/media/o/GcHxaIZXUAAlYrk.webp,scrandle,bottom right,199.80783810392163
+2026-05-08,2,left,1826260863139152069,https://x.com/OzzyPatlar/status/1826260863139152069,6.95,13.48,2024,Hot dog,,Leicester City,ENG,2_left.webp,https://scrandle.com/media/o/GVguaPYXYAAIKl7.webp,scrandle,center,281.07839165396797
+2026-05-08,2,right,100237,,5.5,6.88,2026,Witches Cat hot dog,Bun shaped like cat's paw,"Studio Ghibli Park, Nagakute",JPN,2_right.webp,https://scrandle.com/media/o/2e347ce4f10c8dd85ce6e6dc00f91db8.webp,scrandle,center,154.40750763124672
+2026-05-08,3,left,100469,,2.65,11.46,2026,Hot dog with onion,,Perth Soccer Club,AUS,3_left.webp,https://scrandle.com/media/o/ed58343c5ea2c9ae5208d066f511d128.webp,scrandle,bottom,139.70777215630088
+2026-05-08,3,right,100452,,16.3,36.31,2026,"Hot dog, popcorn and coke",,"Fenway Park, Boston",USA,3_right.webp,https://scrandle.com/media/o/e37ea3af8f1b19e6f6a911aa80372217.webp,scrandle,bottom,256.6813827116478
+2026-05-08,4,left,1507341033474084889,https://x.com/FootyScran/status/1507341033474084889,4.2,30.1,2022,Hot dog,,Inter,ITA,4_left.webp,https://scrandle.com/media/o/FOsmrc5X0AQW76p.webp,scrandle,center,244.66969360325834
+2026-05-08,4,right,1514942167525072908,https://x.com/FootyScran/status/1514942167525072908,6.5,34.81,2022,Two sausage hot dog,"With teriyaki sauce, seaweed and scrambled egg",Yokohama FC,JPN,4_right.webp,https://scrandle.com/media/o/FQYn3muX0AUHI3-.webp,scrandle,center,347.8091581200842
+2026-05-08,5,left,100303,,,26.84,2026,The Anti-Hero,"2ft long hot dog inside 11 powdered donuts, mustard-ketchup drizzle",Hartford Yard Goats,USA,5_left.webp,https://scrandle.com/media/o/3146d1fca8532c1d18eaadafdec787c6.webp,scrandle,center,177.88042424577927
+2026-05-08,5,right,100468,,5.9,32.12,2026,Hotdog,,"The Sphere, Las Vegas",USA,5_right.webp,https://scrandle.com/media/o/4de499af9f40f3568290290c13a5beb6.webp,scrandle,bottom,293.85357306148893
+2026-05-08,6,left,100359,,,58.3,2026,Hot dog,,Unknown Location,USA,6_left.webp,https://scrandle.com/media/o/6d68697877ae637f9c41c1ab14008eac.webp,scrandle,center,376.203169792873
+2026-05-08,6,right,100418,,0.0,22.8,2026,Hot dog,Free with admission,Unknown Location,USA,6_right.webp,https://scrandle.com/media/o/0e293ea8038ba3bb41df40ac756e75c6.webp,scrandle,center,178.91610440713205
+2026-05-08,7,left,1522372265970737152,https://x.com/FootyScran/status/1522372265970737152,8.5,49.07,2022,"Spicy ""taco style"" hot dog",,Austin FC,USA,7_left.webp,https://scrandle.com/media/o/FSCNgHtWUAEm9Ci.webp,scrandle,center,349.3759843408057
+2026-05-08,7,right,1923743624094777763,https://x.com/_DeclanJC/status/1923743624094777763,4.75,17.98,2025,Taco hotdog,With a coke,Valerenga Oslo,NOR,7_right.webp,https://scrandle.com/media/o/GrKCn5hW8AAK-d2.webp,scrandle,bottom left,188.166841151308
+2026-05-08,8,left,1941179808551141380,https://x.com/DanAllen100/status/1941179808551141380,3.45,46.67,2025,Hot dog,,LNK Sporta Parks,LVA,8_left.webp,https://scrandle.com/media/o/GvB0vlJWUAAGtjQ.webp,scrandle,center,407.99421365792125
+2026-05-08,8,right,100041,,3.3,51.1,2025,Hot dog,With mustard and ketchup,Gazprom Arena,RUS,8_right.webp,https://scrandle.com/media/o/IMG_20251027_181549_607.webp,scrandle,center,306.01377648100004
+2026-05-08,9,left,100028,,1.4,42.76,2024,Open hotdog,,Engenhão-RJ Botafogo FC,BRA,9_left.webp,https://scrandle.com/media/o/image2.webp,scrandle,center,286.38132427879043
+2026-05-08,9,right,1850525294571950418,https://x.com/SportScran/status/1850525294571950418,6.5,34.73,2024,Hotdog,,Everton FC,ENG,9_right.webp,https://scrandle.com/media/o/Ga5i8mRWQAA4DIH.webp,scrandle,center,385.04733643832924

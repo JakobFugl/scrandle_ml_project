@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-08-12,0,left,Tropeiro,"Pork steak, sausage, rice, vegetables and fried egg",2.1,82.9,0_left.webp,https://scrandle.com/media/o/FKciczfXwAYyLY8.webp
-2025-08-12,0,right,Pølse med lompe,,3.0,33.4,0_right.webp,https://scrandle.com/media/o/FueqrWPXgAEIrMC.webp
-2025-08-12,1,left,Giant yorkshire pudding wrap,"Filled with beef, pigs in blankets, stuffing, mash, veg and gravy",8.0,91.4,1_left.webp,https://scrandle.com/media/o/FjEYyhxWAAI3U6R.webp
-2025-08-12,1,right,Bacon roll,,4.6,9.9,1_right.webp,https://scrandle.com/media/o/Fe4cxaYXkAEEPKD.webp
-2025-08-12,2,left,Double cheeseburger,,14.0,70.1,2_left.webp,https://scrandle.com/media/o/GYgFZ_iWIAAeA-X.webp
-2025-08-12,2,right,The Bahama Mama,,7.0,27.1,2_right.webp,https://scrandle.com/media/o/F2uorikXYAA4z1A.webp
-2025-08-12,3,left,Meat and potato pie,With mushy peas and gravy,3.0,60.5,3_left.webp,https://scrandle.com/media/o/FxDWtbAWwAA0szA.webp
-2025-08-12,3,right,Chicken and halloumi wrap,With salt and pepper chips,9.0,85.3,3_right.webp,https://scrandle.com/media/o/Fb0TCX1XkAAASP-.webp
-2025-08-12,4,left,Botervlaai,Sugar crumble pastry (free),0.0,87.5,4_left.webp,https://scrandle.com/media/o/FooKrvzWACI2zbf.webp
-2025-08-12,4,right,Sausage and Vegeta,,1.5,67.9,4_right.webp,https://scrandle.com/media/o/FKXC0HAWQAIUF5i.webp
-2025-08-12,5,left,Salt n pepper chicken and chips,,8.2,83.6,5_left.webp,https://scrandle.com/media/o/GkJytszWMAAe28R.webp
-2025-08-12,5,right,Caramel and chocolate churros,,1.6,87.2,5_right.webp,https://scrandle.com/media/o/Fbma3fdX0AYVT9Y.webp
-2025-08-12,6,left,Tropeiro,"Rice, pork, pork crackling and a fried egg",3.0,84.0,6_left.webp,https://scrandle.com/media/o/FWIUlLxXoAE9IDz.webp
-2025-08-12,6,right,BBQ hot dog,,7.0,82.3,6_right.webp,https://scrandle.com/media/o/FoyDYUdXgAAjkHv.webp
-2025-08-12,7,left,Korean chicken and chips,,6.5,93.3,7_left.webp,https://scrandle.com/media/o/GGnk6HeWUAA9odl.webp
-2025-08-12,7,right,Bavette steak with potatoes and garlic,Food included with ticket,86.0,63.3,7_right.webp,https://scrandle.com/media/o/FlJ9FgsXgAM5AFJ.webp
-2025-08-12,8,left,"Chicken, pork and halloumi souvlakis",Price for each,7.0,83.8,8_left.webp,https://scrandle.com/media/o/GuOidAnWMAAyj0q.webp
-2025-08-12,8,right,"Pie, mash and gravy",,6.0,78.3,8_right.webp,https://scrandle.com/media/o/FT2N5OXXEAEyVCg.webp
-2025-08-12,9,left,Katsudon,Pork cutlet with rice and curry sauce,3.7,93.1,9_left.webp,https://scrandle.com/media/o/FwpDbH7WcAA5lEv.webp
-2025-08-12,9,right,"Steak pie, gravy and mushy peas",,5.5,65.6,9_right.webp,https://scrandle.com/media/o/GiKjcjnWoAAWvYj.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-08-12,0,left,1488196084350570500,https://twitter.com/FootyScran/status/1488196084350570500,2.1,82.9,2022,Tropeiro,"Pork steak, sausage, rice, vegetables and fried egg",Atletico Mineiro,BRA,0_left.webp,https://scrandle.com/media/o/FKciczfXwAYyLY8.webp,scrandle,center,601.1512523432596
+2025-08-12,0,right,1650475455961604097,https://twitter.com/FootyScran/status/1650475455961604097,3.0,33.4,2023,Pølse med lompe,,Lillestrøm,NOR,0_right.webp,https://scrandle.com/media/o/FueqrWPXgAEIrMC.webp,scrandle,center,196.15179996306105
+2025-08-12,1,left,1599086614311219200,https://twitter.com/FootyScran/status/1599086614311219200,8.0,91.4,2022,Giant yorkshire pudding wrap,"Filled with beef, pigs in blankets, stuffing, mash, veg and gravy",Hyde United,ENG,1_left.webp,https://scrandle.com/media/o/FjEYyhxWAAI3U6R.webp,scrandle,center,468.64022358720973
+2025-08-12,1,right,1580232164595359744,https://twitter.com/FootyScran/status/1580232164595359744,4.6,9.9,2022,Bacon roll,,Reading FC,ENG,1_right.webp,https://scrandle.com/media/o/Fe4cxaYXkAEEPKD.webp,scrandle,center,98.84878599469917
+2025-08-12,2,left,1839726396588921313,https://x.com/FootyScran/status/1839726396588921313,14.0,70.1,2024,Double cheeseburger,,Yeovil Town,ENG,2_left.webp,https://scrandle.com/media/o/GYgFZ_iWIAAeA-X.webp,scrandle,center,508.1189819886331
+2025-08-12,2,right,1687627956611321856,https://twitter.com/FootyScran/status/1687627956611321856,7.0,27.1,2023,The Bahama Mama,,Columbus Crew,USA,2_right.webp,https://scrandle.com/media/o/F2uorikXYAA4z1A.webp,scrandle,center,150.59410339532815
+2025-08-12,3,left,1662064343339397123,https://twitter.com/FootyScran/status/1662064343339397123,3.0,60.5,2023,Meat and potato pie,With mushy peas and gravy,Chorley FC,ENG,3_left.webp,https://scrandle.com/media/o/FxDWtbAWwAA0szA.webp,scrandle,center,245.4613574640913
+2025-08-12,3,right,1566429182787289088,https://twitter.com/FootyScran/status/1566429182787289088,9.0,85.3,2022,Chicken and halloumi wrap,With salt and pepper chips,Avro FC,ENG,3_right.webp,https://scrandle.com/media/o/Fb0TCX1XkAAASP-.webp,scrandle,center,493.1993455753672
+2025-08-12,4,left,1624122368242089993,https://twitter.com/FootyScran/status/1624122368242089993,0.0,87.5,2023,Botervlaai,Sugar crumble pastry (free),VVV Venlo,NED,4_left.webp,https://scrandle.com/media/o/FooKrvzWACI2zbf.webp,scrandle,center,458.74500742592664
+2025-08-12,4,right,1487809456771584002,https://twitter.com/FootyScran/status/1487809456771584002,1.5,67.9,2022,Sausage and Vegeta,,Kamenica Sasa,MKD,4_right.webp,https://scrandle.com/media/o/FKXC0HAWQAIUF5i.webp,scrandle,center,236.833918472679
+2025-08-12,5,left,1892200928377258142,https://x.com/FootyScran/status/1892200928377258142,8.2,83.6,2025,Salt n pepper chicken and chips,,Newcastle United,ENG,5_left.webp,https://scrandle.com/media/o/GkJytszWMAAe28R.webp,scrandle,center,371.25317036451395
+2025-08-12,5,right,1565452632277372932,https://twitter.com/FootyScran/status/1565452632277372932,1.6,87.2,2022,Caramel and chocolate churros,,Flamengo,BRA,5_right.webp,https://scrandle.com/media/o/Fbma3fdX0AYVT9Y.webp,scrandle,center,439.2404693888283
+2025-08-12,6,left,1540816655944716288,https://twitter.com/FootyScran/status/1540816655944716288,3.0,84.0,2022,Tropeiro,"Rice, pork, pork crackling and a fried egg",Cruzeiro,BRA,6_left.webp,https://scrandle.com/media/o/FWIUlLxXoAE9IDz.webp,scrandle,center,581.3728560787669
+2025-08-12,6,right,1624818024166395906,https://twitter.com/FootyScran/status/1624818024166395906,7.0,82.3,2023,BBQ hot dog,,Birmingham City Womens,ENG,6_right.webp,https://scrandle.com/media/o/FoyDYUdXgAAjkHv.webp,scrandle,center,556.0314412964661
+2025-08-12,7,left,1759188822917546334,https://x.com/FootyScran/status/1759188822917546334,6.5,93.3,2024,Korean chicken and chips,,Farsley Celtic,ENG,7_left.webp,https://scrandle.com/media/o/GGnk6HeWUAA9odl.webp,scrandle,center,571.3988132340927
+2025-08-12,7,right,1608485558531280898,https://twitter.com/FootyScran/status/1608485558531280898,86.0,63.3,2022,Bavette steak with potatoes and garlic,Food included with ticket,"Le Deck, PSG",FRA,7_right.webp,https://scrandle.com/media/o/FlJ9FgsXgAM5AFJ.webp,scrandle,center,357.5786094954
+2025-08-12,8,left,1490023164423905281,https://twitter.com/FootyScran/status/1490023164423905281,7.0,83.8,2022,"Chicken, pork and halloumi souvlakis",Price for each,Dulwich Hamlet,ENG,8_left.webp,https://scrandle.com/media/o/GuOidAnWMAAyj0q.webp,scrandle,center,628.2562947716456
+2025-08-12,8,right,1530535467162255361,https://twitter.com/FootyScran/status/1530535467162255361,6.0,78.3,2022,"Pie, mash and gravy",,Stockport County,ENG,8_right.webp,https://scrandle.com/media/o/FT2N5OXXEAEyVCg.webp,scrandle,center,285.0328687262413
+2025-08-12,9,left,1660213550625746947,https://twitter.com/FootyScran/status/1660213550625746947,3.7,93.1,2023,Katsudon,Pork cutlet with rice and curry sauce,Albirex Niigata,JPN,9_left.webp,https://scrandle.com/media/o/FwpDbH7WcAA5lEv.webp,scrandle,center,545.6115430708564
+2025-08-12,9,right,1883247310228136309,https://x.com/FootyScran/status/1883247310228136309,5.5,65.6,2025,"Steak pie, gravy and mushy peas",,Wigan Athletic,ENG,9_right.webp,https://scrandle.com/media/o/GiKjcjnWoAAWvYj.webp,scrandle,center,232.03746915065665

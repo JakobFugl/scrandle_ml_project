@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2026-05-01,0,left,I love pickles!,,,22.0,0_left.webp,https://scrandle.com/media/o/c2443e0314c765773c9dcb15e009900c.webp
-2026-05-01,0,right,I hate pickles!,,,13.0,0_right.webp,https://scrandle.com/media/o/38a01dc25a02e03e8aba73808b7dee42.webp
-2026-05-01,1,left,I have tried oat milk,,,40.0,1_left.webp,https://scrandle.com/media/o/cb96b8f1801a4b5e1aa3abf692385e20.webp
-2026-05-01,1,right,I have tried almond milk,,,44.0,1_right.webp,https://scrandle.com/media/o/87b7d9063edd5ef6905ef9549afd5d31.webp
-2026-05-01,2,left,Chinese is my fave foreign cuisine!,,,19.0,2_left.webp,https://scrandle.com/media/o/ae60840ea76874e4cdfcd4412ee04ddf.webp
-2026-05-01,2,right,Indian is my fave foreign cuisine!,,,17.0,2_right.webp,https://scrandle.com/media/o/a17e716cfee51cbe7af4284068f4f8e4.webp
-2026-05-01,3,left,I'd rather have a pudding than a starter,,,50.0,3_left.webp,https://scrandle.com/media/o/9874f6fd4cd0498f2562d6958a1df8d7.webp
-2026-05-01,3,right,I'd rather have a starter than a pudding,,,43.0,3_right.webp,https://scrandle.com/media/o/f7ff9836abffca195cc1e2852ecb091a.webp
-2026-05-01,4,left,I would never eat crickets,,,62.0,4_left.webp,https://scrandle.com/media/o/5bea9ce634447fc0c917136d4e171753.webp
-2026-05-01,4,right,I would never eat dog meat,,,70.0,4_right.webp,https://scrandle.com/media/o/ced5add12e565d9cce093b1d59e107e7.webp
-2026-05-01,5,left,I have never tried boba tea,,,71.0,5_left.webp,https://scrandle.com/media/o/935ffa429a6bdbc74c743a1cacb5bd2b.webp
-2026-05-01,5,right,I have never used an air fryer,,,40.0,5_right.webp,https://scrandle.com/media/o/9dff153bd5c24300cc196d474b57b4d4.webp
-2026-05-01,6,left,I consider croissants/pastries to be bread,,,48.0,6_left.webp,https://scrandle.com/media/o/960fd064dd38b6f06505c62b845b97ad.webp
-2026-05-01,6,right,I have eaten octopus,,,42.0,6_right.webp,https://scrandle.com/media/o/6dd27002bd4edddb275bb697cbacb86d.webp
-2026-05-01,7,left,I prefer sparkling water to still water,,,19.0,7_left.webp,https://scrandle.com/media/o/b1b7d76ac90e8b499da240d114f39058.webp
-2026-05-01,7,right,I keep my bread in the fridge,,,14.0,7_right.webp,https://scrandle.com/media/o/004aae9ab3ae22eef049e2dbfaeadb4b.webp
-2026-05-01,8,left,I consider soup to be a drink,,,4.0,8_left.webp,https://scrandle.com/media/o/3093f6e69078525fa04ed7781b755b69.webp
-2026-05-01,8,right,I have tried potato milk,,,2.0,8_right.webp,https://scrandle.com/media/o/65e0ff2e180b50d31765a1fc9f1f769f.webp
-2026-05-01,9,left,I think the world is getting worse,,,70.0,9_left.webp,https://scrandle.com/media/o/f7a8388b639771fb95ce24a9b549fddc.webp
-2026-05-01,9,right,I have never had food stolen or attacked by a seagull,,,73.0,9_right.webp,https://scrandle.com/media/o/1263f907d64fccd618818dc3f07d36bc.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2026-05-01,0,left,100392,,,22.0,2026,I love pickles!,,YouGov polling data,ENG,0_left.webp,https://scrandle.com/media/o/c2443e0314c765773c9dcb15e009900c.webp,twitter,center,450.0
+2026-05-01,0,right,100393,,,13.0,2026,I hate pickles!,,YouGov polling data,ENG,0_right.webp,https://scrandle.com/media/o/38a01dc25a02e03e8aba73808b7dee42.webp,twitter,center,350.0
+2026-05-01,1,left,100394,,,40.0,2026,I have tried oat milk,,YouGov polling data,ENG,1_left.webp,https://scrandle.com/media/o/cb96b8f1801a4b5e1aa3abf692385e20.webp,twitter,center,350.0
+2026-05-01,1,right,100395,,,44.0,2026,I have tried almond milk,,YouGov polling data,ENG,1_right.webp,https://scrandle.com/media/o/87b7d9063edd5ef6905ef9549afd5d31.webp,twitter,center,450.0
+2026-05-01,2,left,100396,,,19.0,2026,Chinese is my fave foreign cuisine!,,YouGov polling data,ENG,2_left.webp,https://scrandle.com/media/o/ae60840ea76874e4cdfcd4412ee04ddf.webp,twitter,center,450.0
+2026-05-01,2,right,100397,,,17.0,2026,Indian is my fave foreign cuisine!,,YouGov polling data,ENG,2_right.webp,https://scrandle.com/media/o/a17e716cfee51cbe7af4284068f4f8e4.webp,twitter,center,350.0
+2026-05-01,3,left,100398,,,50.0,2026,I'd rather have a pudding than a starter,,YouGov polling data,ENG,3_left.webp,https://scrandle.com/media/o/9874f6fd4cd0498f2562d6958a1df8d7.webp,twitter,center,450.0
+2026-05-01,3,right,100399,,,43.0,2026,I'd rather have a starter than a pudding,,YouGov polling data,ENG,3_right.webp,https://scrandle.com/media/o/f7ff9836abffca195cc1e2852ecb091a.webp,twitter,center,350.0
+2026-05-01,4,left,100400,,,62.0,2026,I would never eat crickets,,YouGov polling data,ENG,4_left.webp,https://scrandle.com/media/o/5bea9ce634447fc0c917136d4e171753.webp,twitter,center,350.0
+2026-05-01,4,right,100401,,,70.0,2026,I would never eat dog meat,,YouGov polling data,ENG,4_right.webp,https://scrandle.com/media/o/ced5add12e565d9cce093b1d59e107e7.webp,twitter,center,450.0
+2026-05-01,5,left,100402,,,71.0,2026,I have never tried boba tea,,YouGov polling data,ENG,5_left.webp,https://scrandle.com/media/o/935ffa429a6bdbc74c743a1cacb5bd2b.webp,twitter,center,450.0
+2026-05-01,5,right,100403,,,40.0,2026,I have never used an air fryer,,YouGov polling data,ENG,5_right.webp,https://scrandle.com/media/o/9dff153bd5c24300cc196d474b57b4d4.webp,twitter,center,350.0
+2026-05-01,6,left,100404,,,48.0,2026,I consider croissants/pastries to be bread,,YouGov polling data,ENG,6_left.webp,https://scrandle.com/media/o/960fd064dd38b6f06505c62b845b97ad.webp,twitter,center,450.0
+2026-05-01,6,right,100405,,,42.0,2026,I have eaten octopus,,YouGov polling data,ENG,6_right.webp,https://scrandle.com/media/o/6dd27002bd4edddb275bb697cbacb86d.webp,twitter,center,350.0
+2026-05-01,7,left,100406,,,19.0,2026,I prefer sparkling water to still water,,YouGov polling data,ENG,7_left.webp,https://scrandle.com/media/o/b1b7d76ac90e8b499da240d114f39058.webp,twitter,center,450.0
+2026-05-01,7,right,100407,,,14.0,2026,I keep my bread in the fridge,,YouGov polling data,ENG,7_right.webp,https://scrandle.com/media/o/004aae9ab3ae22eef049e2dbfaeadb4b.webp,twitter,center,350.0
+2026-05-01,8,left,100408,,,4.0,2026,I consider soup to be a drink,,YouGov polling data,ENG,8_left.webp,https://scrandle.com/media/o/3093f6e69078525fa04ed7781b755b69.webp,twitter,center,450.0
+2026-05-01,8,right,100409,,,2.0,2026,I have tried potato milk,,YouGov polling data,ENG,8_right.webp,https://scrandle.com/media/o/65e0ff2e180b50d31765a1fc9f1f769f.webp,twitter,center,350.0
+2026-05-01,9,left,100410,,,70.0,2026,I think the world is getting worse,,YouGov polling data,ENG,9_left.webp,https://scrandle.com/media/o/f7a8388b639771fb95ce24a9b549fddc.webp,twitter,center,450.0
+2026-05-01,9,right,100411,,,73.0,2026,I have never had food stolen or attacked by a seagull,,YouGov polling data,ENG,9_right.webp,https://scrandle.com/media/o/1263f907d64fccd618818dc3f07d36bc.webp,twitter,center,350.0

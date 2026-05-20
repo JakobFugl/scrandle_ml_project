@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-08-14,0,left,Black and gold creampuff,Banana cream in pastry topped with fudge sauce,5.75,71.4,0_left.webp,https://scrandle.com/media/o/FNrmGxZXsAE2l9c.webp
-2025-08-14,0,right,Two slices of pizza,,2.9,53.0,0_right.webp,https://scrandle.com/media/o/FOEyk_tWQAUQDCZ.webp
-2025-08-14,1,left,Pulled pork hot dog,,5.0,89.8,1_left.webp,https://scrandle.com/media/o/FMXxQe1XwAAHOJU.webp
-2025-08-14,1,right,Chicken and chips,,7.0,69.1,1_right.webp,https://scrandle.com/media/o/FKHF-TLWQAEKceX.webp
-2025-08-14,2,left,Double cheeseburger,With sausage and bacon,7.0,91.7,2_left.webp,https://scrandle.com/media/o/GiAGPNrXoAEFrxq.webp
-2025-08-14,2,right,"Pie, chips, peas and gravy",,5.0,74.6,2_right.webp,https://scrandle.com/media/o/GGYWWMqWoAA6PNN.webp
-2025-08-14,3,left,Chicken burger,With bacon and a hash brown,8.0,95.7,3_left.webp,https://scrandle.com/media/o/F9h2ytJWIAAotHi.webp
-2025-08-14,3,right,Gourmet Cheese Burger,,3.45,90.8,3_right.webp,https://scrandle.com/media/o/FRqT6PjXMAAr-EO.webp
-2025-08-14,4,left,Yorkshire pudding wrap,,7.95,78.2,4_left.webp,https://scrandle.com/media/o/GAHmq2AWgAA-dPf.webp
-2025-08-14,4,right,Cheeseburger and cheesy chips,With water,18.0,32.1,4_right.webp,https://scrandle.com/media/o/FLtPmfgXIAEnWVz.webp
-2025-08-14,5,left,O-nuts,Price for 6,9.0,58.5,5_left.webp,https://scrandle.com/media/o/FO23uRTX0Ac1dZV.webp
-2025-08-14,5,right,Giant yorkshire pudding wrap,"Filled with beef, pigs in blankets, stuffing, mash, veg and gravy",8.0,91.4,5_right.webp,https://scrandle.com/media/o/FjEYyhxWAAI3U6R.webp
-2025-08-14,6,left,Burger,,4.2,15.9,6_left.webp,https://scrandle.com/media/o/FMN3ssTXIAYbw84.webp
-2025-08-14,6,right,Pizza and Peroni,,8.8,83.9,6_right.webp,https://scrandle.com/media/o/FmgfF86WAAEJ7Sr.webp
-2025-08-14,7,left,Burger and chips,,9.5,54.3,7_left.webp,https://scrandle.com/media/o/FYSolg8XkAcOoHH.webp
-2025-08-14,7,right,Chicken burger,,8.4,84.6,7_right.webp,https://scrandle.com/media/o/FZ0oIAmXwAEOUD4.webp
-2025-08-14,8,left,Rindscurry,,3.3,88.1,8_left.webp,https://scrandle.com/media/o/FMEKOKUWYAY6nNW.webp
-2025-08-14,8,right,Honey BBQ chicken strips,With chips,8.5,85.8,8_right.webp,https://scrandle.com/media/o/Fp0eUgPWwAE-DPL.webp
-2025-08-14,9,left,Pulled pork and gravy roll,,4.0,81.9,9_left.webp,https://scrandle.com/media/o/FMhyGESXMAEHpGl.webp
-2025-08-14,9,right,Paella and a beer,,4.4,90.2,9_right.webp,https://scrandle.com/media/o/Ft7eu68WIAk1Cq2.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-08-14,0,left,1502766442562871301,https://twitter.com/FootyScran/status/1502766442562871301,5.75,71.4,2022,Black and gold creampuff,Banana cream in pastry topped with fudge sauce,Columbus Crew,USA,0_left.webp,https://scrandle.com/media/o/FNrmGxZXsAE2l9c.webp,scrandle,center,484.58895878262604
+2025-08-14,0,right,1504539368203112451,https://twitter.com/FootyScran/status/1504539368203112451,2.9,53.0,2022,Two slices of pizza,,Inter,ITA,0_right.webp,https://scrandle.com/media/o/FOEyk_tWQAUQDCZ.webp,scrandle,center,242.15628137005385
+2025-08-14,1,left,1496867721371430912,https://twitter.com/FootyScran/status/1496867721371430912,5.0,89.8,2022,Pulled pork hot dog,,Frome Town,ENG,1_left.webp,https://scrandle.com/media/o/FMXxQe1XwAAHOJU.webp,scrandle,center,484.6215206929595
+2025-08-14,1,right,1486687031447199746,https://twitter.com/FootyScran/status/1486687031447199746,7.0,69.1,2022,Chicken and chips,,Tooting Bec,ENG,1_right.webp,https://scrandle.com/media/o/FKHF-TLWQAEKceX.webp,scrandle,center,310.9948505640388
+2025-08-14,2,left,1882511510079222242,https://x.com/FootyScran/status/1882511510079222242,7.0,91.7,2025,Double cheeseburger,With sausage and bacon,Torquay United,ENG,2_left.webp,https://scrandle.com/media/o/GiAGPNrXoAEFrxq.webp,scrandle,center,593.5986835670694
+2025-08-14,2,right,1758117281605800002,https://x.com/FootyScran/status/1758117281605800002,5.0,74.6,2024,"Pie, chips, peas and gravy",,Lancaster City FC,ENG,2_right.webp,https://scrandle.com/media/o/GGYWWMqWoAA6PNN.webp,scrandle,center,231.1981565830608
+2025-08-14,3,left,1718253879991656547,https://twitter.com/FootyScran/status/1718253879991656547,8.0,95.7,2023,Chicken burger,With bacon and a hash brown,St Albans City FC,ENG,3_left.webp,https://scrandle.com/media/o/F9h2ytJWIAAotHi.webp,scrandle,center,619.6279606531244
+2025-08-14,3,right,1520690458598383616,https://twitter.com/FootyScran/status/1520690458598383616,3.45,90.8,2022,Gourmet Cheese Burger,,Johor Darul Ta'zim,MAS,3_right.webp,https://scrandle.com/media/o/FRqT6PjXMAAr-EO.webp,scrandle,center,490.21370489488555
+2025-08-14,4,left,1729917360440549399,https://twitter.com/FootyScran/status/1729917360440549399,7.95,78.2,2023,Yorkshire pudding wrap,,Portsmouth FC,ENG,4_left.webp,https://scrandle.com/media/o/GAHmq2AWgAA-dPf.webp,scrandle,center,316.375390604246
+2025-08-14,4,right,1493875229113860098,https://twitter.com/FootyScran/status/1493875229113860098,18.0,32.1,2022,Cheeseburger and cheesy chips,With water,PSG,FRA,4_right.webp,https://scrandle.com/media/o/FLtPmfgXIAEnWVz.webp,scrandle,center,228.9923834057661
+2025-08-14,5,left,1508063460969660422,https://twitter.com/FootyScran/status/1508063460969660422,9.0,58.5,2022,O-nuts,Price for 6,Leyton Orient,ENG,5_left.webp,https://scrandle.com/media/o/FO23uRTX0Ac1dZV.webp,scrandle,center,292.8463380298765
+2025-08-14,5,right,1599086614311219200,https://twitter.com/FootyScran/status/1599086614311219200,8.0,91.4,2022,Giant yorkshire pudding wrap,"Filled with beef, pigs in blankets, stuffing, mash, veg and gravy",Hyde United,ENG,5_right.webp,https://scrandle.com/media/o/FjEYyhxWAAI3U6R.webp,scrandle,center,468.64022358720973
+2025-08-14,6,left,1496171117580636160,https://twitter.com/FootyScran/status/1496171117580636160,4.2,15.9,2022,Burger,,Rotherham,ENG,6_left.webp,https://scrandle.com/media/o/FMN3ssTXIAYbw84.webp,scrandle,center,280.77976073228973
+2025-08-14,6,right,1614574660447772672,https://twitter.com/FootyScran/status/1614574660447772672,8.8,83.9,2023,Pizza and Peroni,,Roma,ITA,6_right.webp,https://scrandle.com/media/o/FmgfF86WAAEJ7Sr.webp,scrandle,center,375.829055836059
+2025-08-14,7,left,1550549538221465601,https://twitter.com/FootyScran/status/1550549538221465601,9.5,54.3,2022,Burger and chips,,Burton Albion,ENG,7_left.webp,https://scrandle.com/media/o/FYSolg8XkAcOoHH.webp,scrandle,center,267.58467728355316
+2025-08-14,7,right,1557445172601962497,https://twitter.com/FootyScran/status/1557445172601962497,8.4,84.6,2022,Chicken burger,,Helsinki Olympic Stadium,FIN,7_right.webp,https://scrandle.com/media/o/FZ0oIAmXwAEOUD4.webp,scrandle,center,449.40045344337307
+2025-08-14,8,left,1495487794592026625,https://twitter.com/FootyScran/status/1495487794592026625,3.3,88.1,2022,Rindscurry,,Türkspor Kiel,GER,8_left.webp,https://scrandle.com/media/o/FMEKOKUWYAY6nNW.webp,scrandle,center,403.3925589716984
+2025-08-14,8,right,1629491983029792770,https://twitter.com/FootyScran/status/1629491983029792770,8.5,85.8,2023,Honey BBQ chicken strips,With chips,Birmingham City FC,ENG,8_right.webp,https://scrandle.com/media/o/Fp0eUgPWwAE-DPL.webp,scrandle,center,608.0412445280616
+2025-08-14,9,left,1497572329727143938,https://twitter.com/FootyScran/status/1497572329727143938,4.0,81.9,2022,Pulled pork and gravy roll,,St Brelades,ENG,9_left.webp,https://scrandle.com/media/o/FMhyGESXMAEHpGl.webp,scrandle,center,558.6554578768782
+2025-08-14,9,right,1647999417125928961,https://twitter.com/FootyScran/status/1647999417125928961,4.4,90.2,2023,Paella and a beer,,Mar Menor FC,ESP,9_right.webp,https://scrandle.com/media/o/Ft7eu68WIAk1Cq2.webp,scrandle,center,182.8974401131658

@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2026-03-21,0,left,Macaroni cheese pie,,2.5,64.2,0_left.webp,https://scrandle.com/media/o/FLaSSxKX0AseZLD.webp
-2026-03-21,0,right,"Pie, chips and gravy",,5.5,80.9,0_right.webp,https://scrandle.com/media/o/FjT3i9QXwAQpxlO.webp
-2026-03-21,1,left,Brazilian BBQ,,11.5,69.25,1_left.webp,https://scrandle.com/media/o/GLC6EnKXgAADXsN.webp
-2026-03-21,1,right,Chicken and chips,,7.25,83.84,1_right.webp,https://scrandle.com/media/o/Fw5mW0BWcAYJHuR.webp
-2026-03-21,2,left,Veggie dog,,6.0,27.02,2_left.webp,https://scrandle.com/media/o/0ddc99ddc10f.webp
-2026-03-21,2,right,Chicken tikka wrap,,6.0,74.14,2_right.webp,https://scrandle.com/media/o/FRr833HXoAAo6t7.webp
-2026-03-21,3,left,Cheeseburger,,6.5,11.1,3_left.webp,https://scrandle.com/media/o/GgNsP7tXQAAMktc.webp
-2026-03-21,3,right,Pizza slice,,4.0,28.33,3_right.webp,https://scrandle.com/media/o/FfhWvgOXEAIH9Zd.webp
-2026-03-21,4,left,Cornish pasty,With chips and gravy,5.0,51.84,4_left.webp,https://scrandle.com/media/o/FJPWemzWYAcgLmG.webp
-2026-03-21,4,right,Bar of chocolate,,4.0,39.18,4_right.webp,https://scrandle.com/media/o/Ga0Y6LzbQAAH5Gk.webp
-2026-03-21,5,left,Chicken and chips,,7.5,88.71,5_left.webp,https://scrandle.com/media/o/GK3uOc2WQAAhPmq.webp
-2026-03-21,5,right,Witches Cat hot dog,Bun shaped like cat's paw,5.5,7.16,5_right.webp,https://scrandle.com/media/o/2e347ce4f10c8dd85ce6e6dc00f91db8.webp
-2026-03-21,6,left,Coconut shrimp on truffle oil fries,,10.3,79.2,6_left.webp,https://scrandle.com/media/o/F5rvY2xWUAAC1bi.webp
-2026-03-21,6,right,Spicy chicken bucket,,3.0,95.3,6_right.webp,https://scrandle.com/media/o/FZt9OX2XgAAwlQC.webp
-2026-03-21,7,left,Double cheeseburger and chips,,11.95,83.1,7_left.webp,https://scrandle.com/media/o/FZGDyPCXEAAuogY.webp
-2026-03-21,7,right,Curry in a cup,With a pint,7.65,76.7,7_right.webp,https://scrandle.com/media/o/FmnbTcqXEAI5TzC.webp
-2026-03-21,8,left,Seekh kebab roll,,5.0,61.4,8_left.webp,https://scrandle.com/media/o/FdmUrS2XkBQGKcw.webp
-2026-03-21,8,right,Pie and mash,,9.5,18.94,8_right.webp,https://scrandle.com/media/o/GbIvA_TWoAAVQSV.webp
-2026-03-21,9,left,Spicy sausage,,3.3,90.8,9_left.webp,https://scrandle.com/media/o/Fs4XLECXoAI4kxm.webp
-2026-03-21,9,right,Sloppy joe burger,"2 beef patties, cheese, onions, jalapenos and chilli beef bites",9.0,75.0,9_right.webp,https://scrandle.com/media/o/FMnIHOjXMAE7Qtq.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2026-03-21,0,left,1492541183515582471,https://twitter.com/FootyScran/status/1492541183515582471,2.5,64.2,2022,Macaroni cheese pie,,Elgin City,SCO,0_left.webp,https://scrandle.com/media/o/FLaSSxKX0AseZLD.webp,scrandle,bottom,108.36908309754743
+2026-03-21,0,right,1600175957419388928,https://twitter.com/FootyScran/status/1600175957419388928,5.5,80.9,2022,"Pie, chips and gravy",,Accrington Stanley,ENG,0_right.webp,https://scrandle.com/media/o/FjT3i9QXwAQpxlO.webp,scrandle,center,374.7254123493648
+2026-03-21,1,left,1779126448059465951,https://x.com/FootyScran/status/1779126448059465951,11.5,69.25,2024,Brazilian BBQ,,Western United,AUS,1_left.webp,https://scrandle.com/media/o/GLC6EnKXgAADXsN.webp,scrandle,center,476.2748969390197
+2026-03-21,1,right,1661377861612126211,https://x.com/FootyScran/status/1661377861612126211,7.25,83.84,2023,Chicken and chips,,Man City,ENG,1_right.webp,https://scrandle.com/media/o/Fw5mW0BWcAYJHuR.webp,scrandle,center,577.2332100067629
+2026-03-21,2,left,2025092002,,6.0,27.02,2025,Veggie dog,,Vancouver Rise FC,CAN,2_left.webp,https://scrandle.com/media/o/0ddc99ddc10f.webp,scrandle,center,266.72638595421586
+2026-03-21,2,right,1520805865225400320,https://x.com/FootyScran/status/1520805865225400320,6.0,74.14,2022,Chicken tikka wrap,,Sporting Khalsa,ENG,2_right.webp,https://scrandle.com/media/o/FRr833HXoAAo6t7.webp,scrandle,center,555.5587075548951
+2026-03-21,3,left,1874460895931457939,https://x.com/joshparr00/status/1874460895931457939,6.5,11.1,2025,Cheeseburger,,Barnsley,ENG,3_left.webp,https://scrandle.com/media/o/GgNsP7tXQAAMktc.webp,scrandle,center,126.11932065828432
+2026-03-21,3,right,1583110654814474240,https://x.com/FootyScran/status/1583110654814474240,4.0,28.33,2022,Pizza slice,,Queens Park Rangers,ENG,3_right.webp,https://scrandle.com/media/o/FfhWvgOXEAIH9Zd.webp,scrandle,center,217.16058694426903
+2026-03-21,4,left,1482764531386535939,https://x.com/FootyScran/status/1482764531386535939,5.0,51.84,2022,Cornish pasty,With chips and gravy,Northwich Victoria FC,ENG,4_left.webp,https://scrandle.com/media/o/FJPWemzWYAcgLmG.webp,scrandle,center,363.12813621285136
+2026-03-21,4,right,1850162414282543226,https://x.com/Ethan_bha/status/1850162414282543226,4.0,39.18,2024,Bar of chocolate,,Brighton & Hove Albion,ENG,4_right.webp,https://scrandle.com/media/o/Ga0Y6LzbQAAH5Gk.webp,scrandle,center,239.45166154346387
+2026-03-21,5,left,1778339365132886250,https://x.com/milnes2161/status/1778339365132886250,7.5,88.71,2024,Chicken and chips,,Leeds United,ENG,5_left.webp,https://scrandle.com/media/o/GK3uOc2WQAAhPmq.webp,scrandle,center,642.7001977389967
+2026-03-21,5,right,100237,,5.5,7.16,2026,Witches Cat hot dog,Bun shaped like cat's paw,"Studio Ghibli Park, Nagakute",JPN,5_right.webp,https://scrandle.com/media/o/2e347ce4f10c8dd85ce6e6dc00f91db8.webp,scrandle,center,154.40750763124672
+2026-03-21,6,left,1700935024176980171,https://twitter.com/FootyScran/status/1700935024176980171,10.3,79.2,2023,Coconut shrimp on truffle oil fries,,Atlanta United,USA,6_left.webp,https://scrandle.com/media/o/F5rvY2xWUAAC1bi.webp,scrandle,center,416.6326432362511
+2026-03-21,6,right,1556975788532142081,https://twitter.com/FootyScran/status/1556975788532142081,3.0,95.3,2022,Spicy chicken bucket,,FC Seoul,KOR,6_right.webp,https://scrandle.com/media/o/FZt9OX2XgAAwlQC.webp,scrandle,center,627.036592455819
+2026-03-21,7,left,1554168253412409347,https://twitter.com/FootyScran/status/1554168253412409347,11.95,83.1,2022,Double cheeseburger and chips,,Tottenham Hotspur,ENG,7_left.webp,https://scrandle.com/media/o/FZGDyPCXEAAuogY.webp,scrandle,center,569.9438817920527
+2026-03-21,7,right,1615063079892488222,https://twitter.com/FootyScran/status/1615063079892488222,7.65,76.7,2023,Curry in a cup,With a pint,Stockport County,ENG,7_right.webp,https://scrandle.com/media/o/FmnbTcqXEAI5TzC.webp,scrandle,center,377.29287224864174
+2026-03-21,8,left,1574453021274144768,https://x.com/FootyScran/status/1574453021274144768,5.0,61.4,2022,Seekh kebab roll,,The Footy Curry,ENG,8_left.webp,https://scrandle.com/media/o/FdmUrS2XkBQGKcw.webp,scrandle,center,440.01936215516264
+2026-03-21,8,right,1851594097498235305,https://x.com/Parsons_92/status/1851594097498235305,9.5,18.94,2024,Pie and mash,,Stockport County FC,ENG,8_right.webp,https://scrandle.com/media/o/GbIvA_TWoAAVQSV.webp,scrandle,center,240.1234598266147
+2026-03-21,9,left,1643276398524522496,https://twitter.com/FootyScran/status/1643276398524522496,3.3,90.8,2023,Spicy sausage,,Sparta Prague,CZE,9_left.webp,https://scrandle.com/media/o/Fs4XLECXoAI4kxm.webp,scrandle,center,528.6587492558841
+2026-03-21,9,right,1497948382089949184,https://twitter.com/FootyScran/status/1497948382089949184,9.0,75.0,2022,Sloppy joe burger,"2 beef patties, cheese, onions, jalapenos and chilli beef bites",Folkestone Invicta,ENG,9_right.webp,https://scrandle.com/media/o/FMnIHOjXMAE7Qtq.webp,scrandle,center,467.1751391626499

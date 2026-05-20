@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-07-03,0,left,"Sausage, pickle and bread",,3.7,75.4,0_left.webp,https://scrandle.com/media/o/F3k-kAmagAAOuCQ.webp
-2025-07-03,0,right,Currywurst and fries,,8.0,79.4,0_right.webp,https://scrandle.com/media/o/GQHzc6eXUAAYbzP.webp
-2025-07-03,1,left,Fried chicken and chilli,,7.0,95.3,1_left.webp,https://scrandle.com/media/o/GXiPHs9XsAAO8oQ.webp
-2025-07-03,1,right,Meat (Unknown) sandwich,,0.67,24.4,1_right.webp,https://scrandle.com/media/o/F89iOy8WQAAmhD_.webp
-2025-07-03,2,left,Caramel and chocolate churros,,1.6,87.2,2_left.webp,https://scrandle.com/media/o/Fbma3fdX0AYVT9Y.webp
-2025-07-03,2,right,Chorizo and truffle topped mac and cheese,,6.0,86.5,2_right.webp,https://scrandle.com/media/o/F-vtOLLWcAA-vF4.webp
-2025-07-03,3,left,Cheese and onion baguette,,2.0,22.1,3_left.webp,https://scrandle.com/media/o/FNVDT1PXIAESAbF.webp
-2025-07-03,3,right,Yakisoba,Stir fried noodles with beer,7.0,91.2,3_right.webp,https://scrandle.com/media/o/Fy-VQkdWcAEsTZE.webp
-2025-07-03,4,left,Double bacon cheeseburger,,4.2,47.0,4_left.webp,https://scrandle.com/media/o/FNWz8N6VQAAzXQd.webp
-2025-07-03,4,right,Grilled cheese,,1.2,64.1,4_right.webp,https://scrandle.com/media/o/FnMBaDgWYBMkei_.webp
-2025-07-03,5,left,Bacon and cheese fries,With a cheese steak,6.0,92.9,5_left.webp,https://scrandle.com/media/o/FRWYxEtWQAIYLsM.webp
-2025-07-03,5,right,Curry and sausage loaded fries,,5.0,68.9,5_right.webp,https://scrandle.com/media/o/FNBeP3DXEAM277D.webp
-2025-07-03,6,left,Bombay chicken curry,"With a garlic & coriander naan, rice and mango chutney",7.5,86.2,6_left.webp,https://scrandle.com/media/o/GlhYLXYWgAAhu5K.webp
-2025-07-03,6,right,Double bacon and pulled pork cheeseburger,,4.5,73.3,6_right.webp,https://scrandle.com/media/o/FSQNuO5WYAg5rm_.webp
-2025-07-03,7,left,Burger,,5.0,6.4,7_left.webp,https://scrandle.com/media/o/FXufs-wVUAAmIGH.webp
-2025-07-03,7,right,Takoyaki,Fried balls of octopus and a pint,5.0,80.9,7_right.webp,https://scrandle.com/media/o/GDuH_hEXgAAc6KF.webp
-2025-07-03,8,left,10 sausages with chips,With a drink,7.0,89.1,8_left.webp,https://scrandle.com/media/o/FsDxbKiXwAEKknp.webp
-2025-07-03,8,right,The Bahama Mama,,7.0,27.1,8_right.webp,https://scrandle.com/media/o/F2uorikXYAA4z1A.webp
-2025-07-03,9,left,Chicken burger,,8.0,89.4,9_left.webp,https://scrandle.com/media/o/FJ3qLmZXsAEjXRw.webp
-2025-07-03,9,right,Chilli chicken loaded fries,,7.5,93.5,9_right.webp,https://scrandle.com/media/o/F5M4qqLXwAAZeS4.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-07-03,0,left,1691451942592282625,https://twitter.com/FootyScran/status/1691451942592282625,3.7,75.4,2023,"Sausage, pickle and bread",,Polonia Warszawa,POL,0_left.webp,https://scrandle.com/media/o/F3k-kAmagAAOuCQ.webp,scrandle,center,285.48613886716663
+2025-07-03,0,right,1801989009880559862,https://x.com/FootyScran/status/1801989009880559862,8.0,79.4,2024,Currywurst and fries,,Euro 2024,GER,0_right.webp,https://scrandle.com/media/o/GQHzc6eXUAAYbzP.webp,scrandle,center,513.6362917047273
+2025-07-03,1,left,1835374216704671848,https://x.com/FootyScran/status/1835374216704671848,7.0,95.3,2024,Fried chicken and chilli,,Crawley town,ENG,1_left.webp,https://scrandle.com/media/o/GXiPHs9XsAAO8oQ.webp,scrandle,center,609.5728924761378
+2025-07-03,1,right,1715697995029635421,https://twitter.com/FootyScran/status/1715697995029635421,0.67,24.4,2023,Meat (Unknown) sandwich,,Haiphong FC,VIE,1_right.webp,https://scrandle.com/media/o/F89iOy8WQAAmhD_.webp,scrandle,center,115.39299162531688
+2025-07-03,2,left,1565452632277372932,https://twitter.com/FootyScran/status/1565452632277372932,1.6,87.2,2022,Caramel and chocolate churros,,Flamengo,BRA,2_left.webp,https://scrandle.com/media/o/Fbma3fdX0AYVT9Y.webp,scrandle,center,439.2404693888283
+2025-07-03,2,right,1723732136228741251,https://twitter.com/FootyScran/status/1723732136228741251,6.0,86.5,2023,Chorizo and truffle topped mac and cheese,,Farnham Town,ENG,2_right.webp,https://scrandle.com/media/o/F-vtOLLWcAA-vF4.webp,scrandle,center,422.71852258101524
+2025-07-03,3,left,1501180063353606144,https://twitter.com/FootyScran/status/1501180063353606144,2.0,22.1,2022,Cheese and onion baguette,,CB Hounslow,ENG,3_left.webp,https://scrandle.com/media/o/FNVDT1PXIAESAbF.webp,scrandle,center,199.32317791662507
+2025-07-03,3,right,1670718103469080576,https://twitter.com/FootyScran/status/1670718103469080576,7.0,91.2,2023,Yakisoba,Stir fried noodles with beer,Kyoto Sanga FC,JPN,3_right.webp,https://scrandle.com/media/o/Fy-VQkdWcAEsTZE.webp,scrandle,center,449.2523462455289
+2025-07-03,4,left,1501303903970803714,https://twitter.com/FootyScran/status/1501303903970803714,4.2,47.0,2022,Double bacon cheeseburger,,Barnsley FC,ENG,4_left.webp,https://scrandle.com/media/o/FNWz8N6VQAAzXQd.webp,scrandle,center,213.40212676883547
+2025-07-03,4,right,1617638246607118336,https://twitter.com/FootyScran/status/1617638246607118336,1.2,64.1,2023,Grilled cheese,,Clube de Regatas,BRA,4_right.webp,https://scrandle.com/media/o/FnMBaDgWYBMkei_.webp,scrandle,center,209.05658859820062
+2025-07-03,5,left,1519288423600824321,https://twitter.com/FootyScran/status/1519288423600824321,6.0,92.9,2022,Bacon and cheese fries,With a cheese steak,Man City,ENG,5_left.webp,https://scrandle.com/media/o/FRWYxEtWQAIYLsM.webp,scrandle,center,607.3531288918578
+2025-07-03,5,right,1499802308317753349,https://twitter.com/FootyScran/status/1499802308317753349,5.0,68.9,2022,Curry and sausage loaded fries,,AFC Sudbury,ENG,5_right.webp,https://scrandle.com/media/o/FNBeP3DXEAM277D.webp,scrandle,center,333.0509188166147
+2025-07-03,6,left,1898364204026831192,https://x.com/FootyScran/status/1898364204026831192,7.5,86.2,2025,Bombay chicken curry,"With a garlic & coriander naan, rice and mango chutney",Brighton and Hove Albion,ENG,6_left.webp,https://scrandle.com/media/o/GlhYLXYWgAAhu5K.webp,scrandle,center,489.35470531819993
+2025-07-03,6,right,1523357666810396672,https://twitter.com/FootyScran/status/1523357666810396672,4.5,73.3,2022,Double bacon and pulled pork cheeseburger,,Walnut Tree FC,ENG,6_right.webp,https://scrandle.com/media/o/FSQNuO5WYAg5rm_.webp,scrandle,center,454.9744573329201
+2025-07-03,7,left,1548006498466291713,https://twitter.com/FootyScran/status/1548006498466291713,5.0,6.4,2022,Burger,,Aberdeen FC,SCO,7_left.webp,https://scrandle.com/media/o/FXufs-wVUAAmIGH.webp,scrandle,center,151.56016009701867
+2025-07-03,7,right,1746138812609090003,https://twitter.com/FootyScran/status/1746138812609090003,5.0,80.9,2024,Takoyaki,Fried balls of octopus and a pint,Consadole Sapporo,JPN,7_right.webp,https://scrandle.com/media/o/GDuH_hEXgAAc6KF.webp,scrandle,center,418.2410011263347
+2025-07-03,8,left,1639575718303604736,https://twitter.com/FootyScran/status/1639575718303604736,7.0,89.1,2023,10 sausages with chips,With a drink,Whitehawk FC,ENG,8_left.webp,https://scrandle.com/media/o/FsDxbKiXwAEKknp.webp,scrandle,center,349.4461142089718
+2025-07-03,8,right,1687627956611321856,https://twitter.com/FootyScran/status/1687627956611321856,7.0,27.1,2023,The Bahama Mama,,Columbus Crew,USA,8_right.webp,https://scrandle.com/media/o/F2uorikXYAA4z1A.webp,scrandle,center,150.59410339532815
+2025-07-03,9,left,1485600942301093894,https://twitter.com/FootyScran/status/1485600942301093894,8.0,89.4,2022,Chicken burger,,Ipswich,ENG,9_left.webp,https://scrandle.com/media/o/FJ3qLmZXsAEjXRw.webp,scrandle,center,527.6009161592848
+2025-07-03,9,right,1698763795655536862,https://twitter.com/FootyScran/status/1698763795655536862,7.5,93.5,2023,Chilli chicken loaded fries,,Doncaster Rovers,ENG,9_right.webp,https://scrandle.com/media/o/F5M4qqLXwAAZeS4.webp,scrandle,center,530.8384998217393

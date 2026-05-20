@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-12-07,0,left,Beef brisket roll,,,87.98,0_left.webp,https://scrandle.com/media/o/FUfMOedWQAAmoX1.webp
-2025-12-07,0,right,Bacon wrapped hot dog,,10.5,72.49,0_right.webp,https://scrandle.com/media/o/FS1gfgvXsAEIUi_.webp
-2025-12-07,1,left,Bombay sandwich,Chicken Kadai pie and a vegetable samosa in a bun,5.0,62.2,1_left.webp,https://scrandle.com/media/o/FOETKsfXMAICvWi.webp
-2025-12-07,1,right,BBQ hot dog,,7.0,82.3,1_right.webp,https://scrandle.com/media/o/FoyDYUdXgAAjkHv.webp
-2025-12-07,2,left,Poutine,,8.95,34.19,2_left.webp,https://scrandle.com/media/o/GI_Xqd-W8AAY2IZ.webp
-2025-12-07,2,right,Butter Chicken loaded fries,,,64.82,2_right.webp,https://scrandle.com/media/o/Galdk0nXsAA1q0R.webp
-2025-12-07,3,left,Chicken and chips,With purple slaw and garlic mayo,10.0,89.4,3_left.webp,https://scrandle.com/media/o/GWpYLZ6WIAAS6LT.webp
-2025-12-07,3,right,Fish and chips,,9.5,69.6,3_right.webp,https://scrandle.com/media/o/FLlMp1CXsAs6MSz.webp
-2025-12-07,4,left,Skyline nachos,,,12.44,4_left.webp,https://scrandle.com/media/o/GLAAuKEWkAAM6Eo.webp
-2025-12-07,4,right,Loaded mac n cheese,With a can of IPA,22.5,46.27,4_right.webp,https://scrandle.com/media/o/FepuXfBWQAQsEcU.webp
-2025-12-07,5,left,Chili cheese tots,With a screw,3.4,36.91,5_left.webp,https://scrandle.com/media/o/G1KujBQXUAEZE0d.webp
-2025-12-07,5,right,Grilled salmon,With fries and salad,10.8,52.68,5_right.webp,https://scrandle.com/media/o/FQNltoJX0AAGHOl.webp
-2025-12-07,6,left,Pizza,,20.0,21.25,6_left.webp,https://scrandle.com/media/o/GvQ9WarWEAEscrL.webp
-2025-12-07,6,right,Pot noodle,Chicken and mushroom,2.5,53.22,6_right.webp,https://scrandle.com/media/o/FJKbL1rXwAApv2I.webp
-2025-12-07,7,left,Kebab pie,,3.5,52.44,7_left.webp,https://scrandle.com/media/o/Gf5c8vaXkAApXCg.webp
-2025-12-07,7,right,"Deep South"" burger",,7.0,64.75,7_right.webp,https://scrandle.com/media/o/FNbzRJ5XEAImG3E.webp
-2025-12-07,8,left,Cheesy chips and a sausage,,5.0,30.98,8_left.webp,https://scrandle.com/media/o/FJUcItSX0AMYHbn.webp
-2025-12-07,8,right,Sausage on a stick,,2.5,54.55,8_right.webp,https://scrandle.com/media/o/Go6-AqJWgAAaPHn.webp
-2025-12-07,9,left,Curry and rice,With a can,5.0,75.6,9_left.webp,https://scrandle.com/media/o/GnxqlITXsAAddXe.webp
-2025-12-07,9,right,"Pepperoni pizza, calzone and garlic knots",All in one,,66.2,9_right.webp,https://scrandle.com/media/o/GyviHXoagAAaun5.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-12-07,0,left,1533418753093951490,https://x.com/FootyScran/status/1533418753093951490,,87.98,2022,Beef brisket roll,,Tottenham Hotspurs,ENG,0_left.webp,https://scrandle.com/media/o/FUfMOedWQAAmoX1.webp,scrandle,center,542.8860329351753
+2025-12-07,0,right,1525981950481252352,https://x.com/FootyScran/status/1525981950481252352,10.5,72.49,2022,Bacon wrapped hot dog,,LA Galaxy,USA,0_right.webp,https://scrandle.com/media/o/FS1gfgvXsAEIUi_.webp,scrandle,center,438.7067963703433
+2025-12-07,1,left,1504504830450089990,https://twitter.com/FootyScran/status/1504504830450089990,5.0,62.2,2022,Bombay sandwich,Chicken Kadai pie and a vegetable samosa in a bun,Rochdale,ENG,1_left.webp,https://scrandle.com/media/o/FOETKsfXMAICvWi.webp,scrandle,center,252.28514446237597
+2025-12-07,1,right,1624818024166395906,https://twitter.com/FootyScran/status/1624818024166395906,7.0,82.3,2023,BBQ hot dog,,Birmingham City Womens,ENG,1_right.webp,https://scrandle.com/media/o/FoyDYUdXgAAjkHv.webp,scrandle,center,556.0314412964661
+2025-12-07,2,left,1769870310784872917,https://x.com/n4rcissy/status/1769870310784872917,8.95,34.19,2024,Poutine,,Ottawa Senators,CAN,2_left.webp,https://scrandle.com/media/o/GI_Xqd-W8AAY2IZ.webp,scrandle,center,310.62108897846963
+2025-12-07,2,right,1849112798615543823,https://x.com/FootyScran/status/1849112798615543823,,64.82,2024,Butter Chicken loaded fries,,Aston Villa,ENG,2_right.webp,https://scrandle.com/media/o/Galdk0nXsAA1q0R.webp,scrandle,center,502.42673692426155
+2025-12-07,3,left,1831373161067323410,https://x.com/FootyScran/status/1831373161067323410,10.0,89.4,2024,Chicken and chips,With purple slaw and garlic mayo,Salisbury FC,ENG,3_left.webp,https://scrandle.com/media/o/GWpYLZ6WIAAS6LT.webp,scrandle,center,485.51956806515875
+2025-12-07,3,right,1493309044743974927,https://twitter.com/FootyScran/status/1493309044743974927,9.5,69.6,2022,Fish and chips,,Tottenham,ENG,3_right.webp,https://scrandle.com/media/o/FLlMp1CXsAs6MSz.webp,scrandle,center,449.76656525820374
+2025-12-07,4,left,1778922651341250736,https://x.com/FootyScran/status/1778922651341250736,,12.44,2024,Skyline nachos,,Great American Ballpark,USA,4_left.webp,https://scrandle.com/media/o/GLAAuKEWkAAM6Eo.webp,scrandle,center,293.29948256786446
+2025-12-07,4,right,1579195974182141952,https://x.com/FootyScran/status/1579195974182141952,22.5,46.27,2022,Loaded mac n cheese,With a can of IPA,Columbus Crew,USA,4_right.webp,https://scrandle.com/media/o/FepuXfBWQAQsEcU.webp,scrandle,center,461.92383705286977
+2025-12-07,5,left,1968827908165702056,https://x.com/Runabayo/status/1968827908165702056/photo/1,3.4,36.91,2025,Chili cheese tots,With a screw,Sonic,USA,5_left.webp,https://scrandle.com/media/o/G1KujBQXUAEZE0d.webp,scrandle,center,244.04009827097747
+2025-12-07,5,right,1514165741788049410,https://x.com/FootyScran/status/1514165741788049410,10.8,52.68,2022,Grilled salmon,With fries and salad,Melbourne Victory,AUS,5_right.webp,https://scrandle.com/media/o/FQNltoJX0AAGHOl.webp,scrandle,center,421.1941811882674
+2025-12-07,6,left,1942244804861301043,https://x.com/SportScran/status/1942244804861301043,20.0,21.25,2025,Pizza,,Oasis concert,ENG,6_left.webp,https://scrandle.com/media/o/GvQ9WarWEAEscrL.webp,scrandle,center,203.00164648724635
+2025-12-07,6,right,1482417859296956420,https://x.com/FootyScran/status/1482417859296956420,2.5,53.22,2022,Pot noodle,Chicken and mushroom,Dagenham and Redbridge,ENG,6_right.webp,https://scrandle.com/media/o/FJKbL1rXwAApv2I.webp,scrandle,center,417.5449404469895
+2025-12-07,7,left,1873064999092175199,https://x.com/FootyScran/status/1873064999092175199,3.5,52.44,2024,Kebab pie,,Raith Rovers,SCO,7_left.webp,https://scrandle.com/media/o/Gf5c8vaXkAApXCg.webp,scrandle,center,370.81139574458035
+2025-12-07,7,right,1501655008122654722,https://x.com/FootyScran/status/1501655008122654722,7.0,64.75,2022,"Deep South"" burger",,Man City,ENG,7_right.webp,https://scrandle.com/media/o/FNbzRJ5XEAImG3E.webp,scrandle,center,556.6766888361711
+2025-12-07,8,left,1483122592751960070,https://x.com/FootyScran/status/1483122592751960070,5.0,30.98,2022,Cheesy chips and a sausage,,Coalville Town,ENG,8_left.webp,https://scrandle.com/media/o/FJUcItSX0AMYHbn.webp,scrandle,center,353.2956908121863
+2025-12-07,8,right,1913675815738605958,https://x.com/SportScran/status/1913675815738605958,2.5,54.55,2025,Sausage on a stick,,Workington AFC,ENG,8_right.webp,https://scrandle.com/media/o/Go6-AqJWgAAaPHn.webp,scrandle,center,457.0031048062745
+2025-12-07,9,left,1908517544325001456,https://x.com/p3nno/status/1908517544325001456,5.0,75.6,2025,Curry and rice,With a can,Tadcaster Albion,ENG,9_left.webp,https://scrandle.com/media/o/GnxqlITXsAAddXe.webp,scrandle,center,451.1381695805254
+2025-12-07,9,right,1957907119702962664,https://x.com/FatKidDeals/status/1957907119702962664,,66.2,2025,"Pepperoni pizza, calzone and garlic knots",All in one,"Roselle Park, NJ",USA,9_right.webp,https://scrandle.com/media/o/GyviHXoagAAaun5.webp,scrandle,center,526.1631478636791

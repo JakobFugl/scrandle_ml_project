@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-10-01,0,left,"Sausage, pickle and bread",With a beer,5.5,74.1,0_left.webp,https://scrandle.com/media/o/GmwJaV4awAAYTkI.webp
-2025-10-01,0,right,Mixed meat,,1.0,44.1,0_right.webp,https://scrandle.com/media/o/FkgW58LUcAAGKh-.webp
-2025-10-01,1,left,Currywurst and fries,,8.0,79.4,1_left.webp,https://scrandle.com/media/o/GQHzc6eXUAAYbzP.webp
-2025-10-01,1,right,Butter chicken poutine,,10.0,88.7,1_right.webp,https://scrandle.com/media/o/FNqQy4jXwAA8n7e.webp
-2025-10-01,2,left,Buffalo popcorn chicken,With waffle fries underneath,10.95,89.3,2_left.webp,https://scrandle.com/media/o/GwDxOhjXoAAjHtZ.webp
-2025-10-01,2,right,Cheesy bacon chips,,5.0,68.6,2_right.webp,https://scrandle.com/media/o/FnLei3hXEBwJbAf.webp
-2025-10-01,3,left,Air pie,,,30.99,3_left.webp,https://scrandle.com/media/o/GZJnqhaXcAAQHJC.webp
-2025-10-01,3,right,"Chicken, mushroom and spinach pie",With mushy peas and chips,8.0,35.54,3_right.webp,https://scrandle.com/media/o/GfvOGfOWYAEWxrp.webp
-2025-10-01,4,left,Cheesy chips,,3.5,13.6,4_left.webp,https://scrandle.com/media/o/FSAe0L4XwAA6IZ6.webp
-2025-10-01,4,right,Buttermilk chicken burger tray,,11.0,26.2,4_right.webp,https://scrandle.com/media/o/FJkPQb-WQAg3lFJ.webp
-2025-10-01,5,left,Bratwurst and pretzel,,5.0,72.7,5_left.webp,https://scrandle.com/media/o/FX7_MjcXoAE_knt.webp
-2025-10-01,5,right,Bratwurst,,3.4,85.3,5_right.webp,https://scrandle.com/media/o/F6OCYroWwAAbkmr.webp
-2025-10-01,6,left,Cheeseburger,,4.7,13.9,6_left.webp,https://scrandle.com/media/o/FquVZitXwAMZZjQ.webp
-2025-10-01,6,right,Burger,,5.0,8.6,6_right.webp,https://scrandle.com/media/o/F1KaPUaXsAMU42t.webp
-2025-10-01,7,left,Pizza,,19.95,18.6,7_left.webp,https://scrandle.com/media/o/FRBao9tX0AAy42N.webp
-2025-10-01,7,right,Pizza,,12.0,83.1,7_right.webp,https://scrandle.com/media/o/FoNwj59XEAciXZD.webp
-2025-10-01,8,left,Double bacon cheeseburger,,6.5,6.9,8_left.webp,https://scrandle.com/media/o/Fsug4HwWAAYu8HD.webp
-2025-10-01,8,right,Pizza slice,,2.0,12.6,8_right.webp,https://scrandle.com/media/o/FTYKWU2WAAIePIB.webp
-2025-10-01,9,left,Brisket mac and cheese,,14.0,79.0,9_left.webp,https://scrandle.com/media/o/Fw2TUeuWYAE0hC_.webp
-2025-10-01,9,right,Spicy chicken bucket,,3.0,95.3,9_right.webp,https://scrandle.com/media/o/FZt9OX2XgAAwlQC.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-10-01,0,left,1903907098695455218,https://x.com/FootyScran/status/1903907098695455218,5.5,74.1,2025,"Sausage, pickle and bread",With a beer,Zabkovia Zabki,POL,0_left.webp,https://scrandle.com/media/o/GmwJaV4awAAYTkI.webp,scrandle,center,396.4060147651655
+2025-10-01,0,right,1605558461529366529,https://twitter.com/FootyScran/status/1605558461529366529,1.0,44.1,2022,Mixed meat,,Cambodia v Philippines,CAM,0_right.webp,https://scrandle.com/media/o/FkgW58LUcAAGKh-.webp,scrandle,center,210.80848933747927
+2025-10-01,1,left,1801989009880559862,https://x.com/FootyScran/status/1801989009880559862,8.0,79.4,2024,Currywurst and fries,,Euro 2024,GER,1_left.webp,https://scrandle.com/media/o/GQHzc6eXUAAYbzP.webp,scrandle,center,513.6362917047273
+2025-10-01,1,right,1502672634819006467,https://twitter.com/FootyScran/status/1502672634819006467,10.0,88.7,2022,Butter chicken poutine,,Birmingham City,ENG,1_right.webp,https://scrandle.com/media/o/FNqQy4jXwAA8n7e.webp,scrandle,center,536.6029267574366
+2025-10-01,2,left,1945820278082199961,https://x.com/FootyScran/status/1945820278082199961,10.95,89.3,2025,Buffalo popcorn chicken,With waffle fries underneath,Tottenham Hotspur,ENG,2_left.webp,https://scrandle.com/media/o/GwDxOhjXoAAjHtZ.webp,scrandle,center,648.0481988556442
+2025-10-01,2,right,1617599914938142746,https://twitter.com/FootyScran/status/1617599914938142746,5.0,68.6,2023,Cheesy bacon chips,,Folkestone Invicta,ENG,2_right.webp,https://scrandle.com/media/o/FnLei3hXEBwJbAf.webp,scrandle,center,397.29406964030863
+2025-10-01,3,left,1842649183787884926,https://x.com/chap1862/status/1842649183787884926,,30.99,2024,Air pie,,Notts County FC,ENG,3_left.webp,https://scrandle.com/media/o/GZJnqhaXcAAQHJC.webp,scrandle,center,227.07859530355478
+2025-10-01,3,right,1872316687196033542,https://x.com/HossSolim/status/1872316687196033542,8.0,35.54,2024,"Chicken, mushroom and spinach pie",With mushy peas and chips,Unknown Location,ENG,3_right.webp,https://scrandle.com/media/o/GfvOGfOWYAEWxrp.webp,scrandle,center,331.17168830053396
+2025-10-01,4,left,1522250560719790081,https://twitter.com/FootyScran/status/1522250560719790081,3.5,13.6,2022,Cheesy chips,,Billericay Town,ENG,4_left.webp,https://scrandle.com/media/o/FSAe0L4XwAA6IZ6.webp,scrandle,center,207.43014832142762
+2025-10-01,4,right,1484234333154066433,https://twitter.com/FootyScran/status/1484234333154066433,11.0,26.2,2022,Buttermilk chicken burger tray,,Brentford,ENG,4_right.webp,https://scrandle.com/media/o/FJkPQb-WQAg3lFJ.webp,scrandle,center,629.9529550225178
+2025-10-01,5,left,1548955917294739456,https://twitter.com/FootyScran/status/1548955917294739456,5.0,72.7,2022,Bratwurst and pretzel,,FC Koln,GER,5_left.webp,https://scrandle.com/media/o/FX7_MjcXoAE_knt.webp,scrandle,center,371.6454004014874
+2025-10-01,5,right,1703348449553318205,https://twitter.com/FootyScran/status/1703348449553318205,3.4,85.3,2023,Bratwurst,,FC Köln,GER,5_right.webp,https://scrandle.com/media/o/F6OCYroWwAAbkmr.webp,scrandle,center,379.7396164948248
+2025-10-01,6,left,1633563561216581632,https://twitter.com/FootyScran/status/1633563561216581632,4.7,13.9,2023,Cheeseburger,,Hibernian FC,SCO,6_left.webp,https://scrandle.com/media/o/FquVZitXwAMZZjQ.webp,scrandle,center,211.6005480329171
+2025-10-01,6,right,1680575203334664192,https://twitter.com/FootyScran/status/1680575203334664192,5.0,8.6,2023,Burger,,Chesterfield FC,ENG,6_right.webp,https://scrandle.com/media/o/F1KaPUaXsAMU42t.webp,scrandle,center,127.8946399328905
+2025-10-01,7,left,1517812740206825475,https://twitter.com/FootyScran/status/1517812740206825475,19.95,18.6,2022,Pizza,,Arsenal,ENG,7_left.webp,https://scrandle.com/media/o/FRBao9tX0AAy42N.webp,scrandle,center,331.0474782374632
+2025-10-01,7,right,1622264058140311560,https://twitter.com/FootyScran/status/1622264058140311560,12.0,83.1,2023,Pizza,,Bolton Wanderers,ENG,7_right.webp,https://scrandle.com/media/o/FoNwj59XEAciXZD.webp,scrandle,center,471.4996368391037
+2025-10-01,8,left,1642583383048966144,https://twitter.com/FootyScran/status/1642583383048966144,6.5,6.9,2023,Double bacon cheeseburger,,Hibernian FC,SCO,8_left.webp,https://scrandle.com/media/o/Fsug4HwWAAYu8HD.webp,twitter,center,265.52842150810903
+2025-10-01,8,right,1528420506742964224,https://twitter.com/FootyScran/status/1528420506742964224,2.0,12.6,2022,Pizza slice,,Chelsea FC,ENG,8_right.webp,https://scrandle.com/media/o/FTYKWU2WAAIePIB.webp,scrandle,center,235.68799515311082
+2025-10-01,9,left,1661145825987424256,https://twitter.com/FootyScran/status/1661145825987424256,14.0,79.0,2023,Brisket mac and cheese,,St Louis City SC,USA,9_left.webp,https://scrandle.com/media/o/Fw2TUeuWYAE0hC_.webp,scrandle,center,561.9654876021892
+2025-10-01,9,right,1556975788532142081,https://twitter.com/FootyScran/status/1556975788532142081,3.0,95.3,2022,Spicy chicken bucket,,FC Seoul,KOR,9_right.webp,https://scrandle.com/media/o/FZt9OX2XgAAwlQC.webp,scrandle,center,627.036592455819

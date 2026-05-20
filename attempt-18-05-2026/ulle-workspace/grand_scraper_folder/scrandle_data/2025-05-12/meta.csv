@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-05-12,0,left,Currywurst mit pommes frites,,5.0,79.4,0_left.webp,https://scrandle.com/media/o/FTOTeO4WYAIzAb3.webp
-2025-05-12,0,right,Horseradish and red onion on bread,,1.4,40.6,0_right.webp,https://scrandle.com/media/o/Fn0qXKnXoA8w9A4.webp
-2025-05-12,1,left,Doughnuts,Price for each,5.0,70.9,1_left.webp,https://scrandle.com/media/o/FefJC_AXgAI9EtF.webp
-2025-05-12,1,right,Buffs special -- sausage and haggis toastie,With chips and peppercorn sauce,4.5,83.3,1_right.webp,https://scrandle.com/media/o/FMTqyliXwAA5CIB.webp
-2025-05-12,2,left,"Chips, cheese and curry sauce",,4.0,38.2,2_left.webp,https://scrandle.com/media/o/FMx6_j8WQAY3KXW.webp
-2025-05-12,2,right,"Sausages, chips and curry sauce in a cob",,4.5,73.6,2_right.webp,https://scrandle.com/media/o/FKS5t4MWYAcW7hS.webp
-2025-05-12,3,left,Chorizo hot dog,With a mustard and pesto sauce and a tropical drink,4.5,79.6,3_left.webp,https://scrandle.com/media/o/GEJlvHnXUAAINiB.webp
-2025-05-12,3,right,Fish and chips,,7.0,87.4,3_right.webp,https://scrandle.com/media/o/FrGK8b6XgAEaB3i.webp
-2025-05-12,4,left,Hot dog,,5.0,63.8,4_left.webp,https://scrandle.com/media/o/FTtMXHAXsAoF16K.webp
-2025-05-12,4,right,Chicken tenders,"With waffle fries, hot sauce and ranch",7.5,94.1,4_right.webp,https://scrandle.com/media/o/GbTiJAsXsAAbZPJ.webp
-2025-05-12,5,left,Double cheese burger with bacon,,6.0,85.4,5_left.webp,https://scrandle.com/media/o/FKSeFprX0AoEdGR.webp
-2025-05-12,5,right,Ultimate Burger with chips,"Two patties, onions, tomato, bacon, cheese, egg, mushroom",5.2,91.0,5_right.webp,https://scrandle.com/media/o/FOiMRWGX0AMnNsI.webp
-2025-05-12,6,left,Lunch box,,6.0,84.4,6_left.webp,https://scrandle.com/media/o/FLykRI3XwAA3TvU.webp
-2025-05-12,6,right,Tikka naan,,6.0,79.4,6_right.webp,https://scrandle.com/media/o/FOKA7ncXMAA7P-M.webp
-2025-05-12,7,left,Roast lamb,"With roast potatoes, yorkshire pudding and gravy",5.0,84.7,7_left.webp,https://scrandle.com/media/o/FgZnKd1WQAA8Dmc.webp
-2025-05-12,7,right,Sausage roll,,2.5,12.5,7_right.webp,https://scrandle.com/media/o/FuU6LW7XgAE0MEy.webp
-2025-05-12,8,left,Grilled sausage with bread,,2.4,73.1,8_left.webp,https://scrandle.com/media/o/FadMs56WYAA10Hz.webp
-2025-05-12,8,right,Pizza,,12.0,83.1,8_right.webp,https://scrandle.com/media/o/FoNwj59XEAciXZD.webp
-2025-05-12,9,left,Macaroni cheese pie,,2.5,64.2,9_left.webp,https://scrandle.com/media/o/FLaSSxKX0AseZLD.webp
-2025-05-12,9,right,Chicken curry and chips,,4.0,83.5,9_right.webp,https://scrandle.com/media/o/FMSlsShXEAI5k_8.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-05-12,0,left,1527726851581526017,https://twitter.com/FootyScran/status/1527726851581526017,5.0,79.4,2022,Currywurst mit pommes frites,,Augsburg,GER,0_left.webp,https://scrandle.com/media/o/FTOTeO4WYAIzAb3.webp,scrandle,center,374.0144465815998
+2025-05-12,0,right,1620498024224149504,https://twitter.com/FootyScran/status/1620498024224149504,1.4,40.6,2023,Horseradish and red onion on bread,,Slavia Prague,CZE,0_right.webp,https://scrandle.com/media/o/Fn0qXKnXoA8w9A4.webp,scrandle,center,224.17353791263434
+2025-05-12,1,left,1578451263364431873,https://twitter.com/FootyScran/status/1578451263364431873,5.0,70.9,2022,Doughnuts,Price for each,England v USA Women,ENG,1_left.webp,https://scrandle.com/media/o/FefJC_AXgAI9EtF.webp,scrandle,center,464.90845929429685
+2025-05-12,1,right,1496579137313644564,https://twitter.com/FootyScran/status/1496579137313644564,4.5,83.3,2022,Buffs special -- sausage and haggis toastie,With chips and peppercorn sauce,Kilwinning Rangers,SCO,1_right.webp,https://scrandle.com/media/o/FMTqyliXwAA5CIB.webp,scrandle,center,281.44311731087146
+2025-05-12,2,left,1498708014823530499,https://twitter.com/FootyScran/status/1498708014823530499,4.0,38.2,2022,"Chips, cheese and curry sauce",,Rangers FC,SCO,2_left.webp,https://scrandle.com/media/o/FMx6_j8WQAY3KXW.webp,scrandle,center,220.8822698887318
+2025-05-12,2,right,1487517980212740096,https://twitter.com/FootyScran/status/1487517980212740096,4.5,73.6,2022,"Sausages, chips and curry sauce in a cob",,Merthyr Town FC,WAL,2_right.webp,https://scrandle.com/media/o/FKS5t4MWYAcW7hS.webp,scrandle,center,382.6717317827593
+2025-05-12,3,left,1748071470763258371,https://twitter.com/FootyScran/status/1748071470763258371,4.5,79.6,2024,Chorizo hot dog,With a mustard and pesto sauce and a tropical drink,Municipal Liberia,CRC,3_left.webp,https://scrandle.com/media/o/GEJlvHnXUAAINiB.webp,scrandle,center,333.01827959981546
+2025-05-12,3,right,1635240916515708929,https://twitter.com/FootyScran/status/1635240916515708929,7.0,87.4,2023,Fish and chips,,Melbourne Victory,AUS,3_right.webp,https://scrandle.com/media/o/FrGK8b6XgAEaB3i.webp,scrandle,center,486.7614311952458
+2025-05-12,4,left,1529900471728713739,https://twitter.com/FootyScran/status/1529900471728713739,5.0,63.8,2022,Hot dog,,Barcelona,ESP,4_left.webp,https://scrandle.com/media/o/FTtMXHAXsAoF16K.webp,scrandle,center,419.9663402264184
+2025-05-12,4,right,1852353996633092517,https://x.com/FootyScran/status/1852353996633092517,7.5,94.1,2024,Chicken tenders,"With waffle fries, hot sauce and ranch",Oldham Athletic,ENG,4_right.webp,https://scrandle.com/media/o/GbTiJAsXsAAbZPJ.webp,scrandle,center,658.5936386762774
+2025-05-12,5,left,1487487601187729411,https://twitter.com/FootyScran/status/1487487601187729411,6.0,85.4,2022,Double cheese burger with bacon,,Badshot Lea FC,ENG,5_left.webp,https://scrandle.com/media/o/FKSeFprX0AoEdGR.webp,scrandle,center,648.8848173125797
+2025-05-12,5,right,1506608310329425922,https://twitter.com/FootyScran/status/1506608310329425922,5.2,91.0,2022,Ultimate Burger with chips,"Two patties, onions, tomato, bacon, cheese, egg, mushroom",Runcorn Town,ENG,5_right.webp,https://scrandle.com/media/o/FOiMRWGX0AMnNsI.webp,scrandle,center,583.7418321966164
+2025-05-12,6,left,1494249807292080129,https://twitter.com/FootyScran/status/1494249807292080129,6.0,84.4,2022,Lunch box,,Shonan Bellmare,JPN,6_left.webp,https://scrandle.com/media/o/FLykRI3XwAA3TvU.webp,scrandle,center,625.9543529129303
+2025-05-12,6,right,1504906991990415369,https://twitter.com/FootyScran/status/1504906991990415369,6.0,79.4,2022,Tikka naan,,Wolves FC,ENG,6_right.webp,https://scrandle.com/media/o/FOKA7ncXMAA7P-M.webp,scrandle,center,446.2517606690889
+2025-05-12,7,left,1587069356206395392,https://twitter.com/FootyScran/status/1587069356206395392,5.0,84.7,2022,Roast lamb,"With roast potatoes, yorkshire pudding and gravy",Bracknell Town,ENG,7_left.webp,https://scrandle.com/media/o/FgZnKd1WQAA8Dmc.webp,scrandle,center,367.02395822985443
+2025-05-12,7,right,1649788811944009729,https://twitter.com/FootyScran/status/1649788811944009729,2.5,12.5,2023,Sausage roll,,Inverness,SCO,7_right.webp,https://scrandle.com/media/o/FuU6LW7XgAE0MEy.webp,scrandle,center,142.00053315175853
+2025-05-12,8,left,1560300136135331842,https://twitter.com/FootyScran/status/1560300136135331842,2.4,73.1,2022,Grilled sausage with bread,,SK Hranice,CZE,8_left.webp,https://scrandle.com/media/o/FadMs56WYAA10Hz.webp,scrandle,center,273.3628804683795
+2025-05-12,8,right,1622264058140311560,https://twitter.com/FootyScran/status/1622264058140311560,12.0,83.1,2023,Pizza,,Bolton Wanderers,ENG,8_right.webp,https://scrandle.com/media/o/FoNwj59XEAciXZD.webp,scrandle,center,471.4996368391037
+2025-05-12,9,left,1492541183515582471,https://twitter.com/FootyScran/status/1492541183515582471,2.5,64.2,2022,Macaroni cheese pie,,Elgin City,SCO,9_left.webp,https://scrandle.com/media/o/FLaSSxKX0AseZLD.webp,scrandle,bottom,108.36908309754743
+2025-05-12,9,right,1496503163557457922,https://twitter.com/FootyScran/status/1496503163557457922,4.0,83.5,2022,Chicken curry and chips,,Keynsham Town,ENG,9_right.webp,https://scrandle.com/media/o/FMSlsShXEAI5k_8.webp,scrandle,center,251.86928803003934

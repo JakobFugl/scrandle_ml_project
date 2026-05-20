@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2026-03-30,0,left,Hot dog,,5.9,10.44,0_left.webp,https://scrandle.com/media/o/FK1h43yXoAEKUHj.webp
-2026-03-30,0,right,Veggie burger,,5.2,18.64,0_right.webp,https://scrandle.com/media/o/GOzbEP9WUAAeOgS.webp
-2026-03-30,1,left,Chicken and chips,,7.5,89.21,1_left.webp,https://scrandle.com/media/o/GK3uOc2WQAAhPmq.webp
-2026-03-30,1,right,Lebanese chicken flatbread,,6.95,75.87,1_right.webp,https://scrandle.com/media/o/GDvfhERXAAAk7nu.webp
-2026-03-30,2,left,Build it burger,"Beef, sausage, bacon, egg and cheese",8.5,84.1,2_left.webp,https://scrandle.com/media/o/FoOjn44WIAI-AV8.webp
-2026-03-30,2,right,Double bacon cheeseburger,With chips,7.5,96.0,2_right.webp,https://scrandle.com/media/o/F51oMmNWkAEDaiS.webp
-2026-03-30,3,left,Chicken Satay box,,8.6,71.77,3_left.webp,https://scrandle.com/media/o/GXYBJyGWgAAnakU.webp
-2026-03-30,3,right,Cheesy hot dog,,0.85,30.92,3_right.webp,https://scrandle.com/media/o/Fg_BFd1WQAAdIUV.webp
-2026-03-30,4,left,BLT biscuits,With BBQ chips,11.9,46.25,4_left.webp,https://scrandle.com/media/o/GqDxJ2cXMAAKLpP.webp
-2026-03-30,4,right,Pizza,,4.2,73.29,4_right.webp,https://scrandle.com/media/o/GGUQ6hkXEAAC9rT.webp
-2026-03-30,5,left,Cheeseburger,,4.5,7.6,5_left.webp,https://scrandle.com/media/o/F93lUrhWYAE4iRD.webp
-2026-03-30,5,right,Mushy peas,,1.5,20.3,5_right.webp,https://scrandle.com/media/o/FRxOi7zX0AE8JPW.webp
-2026-03-30,6,left,Hot dog,With can of corona,21.0,15.19,6_left.webp,https://scrandle.com/media/o/Ga1y41qWQAEoj2o.webp
-2026-03-30,6,right,Burger,,5.8,25.41,6_right.webp,https://scrandle.com/media/o/GIqejC8WcAAjzGS.webp
-2026-03-30,7,left,Chicken mayo onigiri,,0.9,38.5,7_left.webp,https://scrandle.com/media/o/b27b882814d39f9e74fdd4507b1403e6.webp
-2026-03-30,7,right,"Pie, mash, gravy and peas",In a box,5.0,31.54,7_right.webp,https://scrandle.com/media/o/FIRvYMUXIAkfXyP.webp
-2026-03-30,8,left,What Up Corn Dog,Honey-battered corn dog coated in crushed Takis,,34.65,8_left.webp,https://scrandle.com/media/o/y0t6g0yci5se1.webp
-2026-03-30,8,right,Gourmet burger,"Two beef patties, cheese, bacon, onions, hash browns",4.0,70.18,8_right.webp,https://scrandle.com/media/o/FOUDP4AXMAI3imw.webp
-2026-03-30,9,left,Hot dog,,4.0,15.8,9_left.webp,https://scrandle.com/media/o/FfNEVh8XoAIKnWU.webp
-2026-03-30,9,right,Steak pie,With mash and gravy,7.5,87.0,9_right.webp,https://scrandle.com/media/o/GyaEe5sX0AAz7oS.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2026-03-30,0,left,1489954692511805442,https://x.com/FootyScran/status/1489954692511805442,5.9,10.44,2022,Hot dog,,Chelsea,ENG,0_left.webp,https://scrandle.com/media/o/FK1h43yXoAEKUHj.webp,scrandle,center,121.3355278499055
+2026-03-30,0,right,1796051220462743751,https://x.com/Sergio_RSampaio/status/1796051220462743751,5.2,18.64,2024,Veggie burger,,Europa Conference League,GRE,0_right.webp,https://scrandle.com/media/o/GOzbEP9WUAAeOgS.webp,scrandle,center,282.71294190816036
+2026-03-30,1,left,1778339365132886250,https://x.com/milnes2161/status/1778339365132886250,7.5,89.21,2024,Chicken and chips,,Leeds United,ENG,1_left.webp,https://scrandle.com/media/o/GK3uOc2WQAAhPmq.webp,scrandle,center,642.7001977389967
+2026-03-30,1,right,1746235046682317119,https://x.com/FootyScran/status/1746235046682317119,6.95,75.87,2024,Lebanese chicken flatbread,,Barnsley FC,ENG,1_right.webp,https://scrandle.com/media/o/GDvfhERXAAAk7nu.webp,scrandle,center,523.4137705220354
+2026-03-30,2,left,1622320201503997953,https://twitter.com/FootyScran/status/1622320201503997953,8.5,84.1,2023,Build it burger,"Beef, sausage, bacon, egg and cheese",Badshot Lea FC,ENG,2_left.webp,https://scrandle.com/media/o/FoOjn44WIAI-AV8.webp,scrandle,center,589.3282679419999
+2026-03-30,2,right,1701630805338923310,https://twitter.com/FootyScran/status/1701630805338923310,7.5,96.0,2023,Double bacon cheeseburger,With chips,Horsham FC,ENG,2_right.webp,https://scrandle.com/media/o/F51oMmNWkAEDaiS.webp,scrandle,center,658.0494590201116
+2026-03-30,3,left,1834655197420769617,https://x.com/StadiumSafariEC/status/1834655197420769617,8.6,71.77,2024,Chicken Satay box,,Hull City,ENG,3_left.webp,https://scrandle.com/media/o/GXYBJyGWgAAnakU.webp,scrandle,center,517.4917906939463
+2026-03-30,3,right,1589701501832040448,https://x.com/FootyScran/status/1589701501832040448,0.85,30.92,2022,Cheesy hot dog,,FK Metta,LVA,3_right.webp,https://scrandle.com/media/o/Fg_BFd1WQAAdIUV.webp,scrandle,center,227.3318423236036
+2026-03-30,4,left,1918798605877391857,https://x.com/CalebWilliams13/status/1918798605877391857,11.9,46.25,2025,BLT biscuits,With BBQ chips,Columbus Crew,USA,4_left.webp,https://scrandle.com/media/o/GqDxJ2cXMAAKLpP.webp,scrandle,center,318.41278822014624
+2026-03-30,4,right,1757829832656683168,https://x.com/FootyScran/status/1757829832656683168,4.2,73.29,2024,Pizza,,Lazio,ITA,4_right.webp,https://scrandle.com/media/o/GGUQ6hkXEAAC9rT.webp,scrandle,center,516.2127956940278
+2026-03-30,5,left,1719782783562784819,https://twitter.com/FootyScran/status/1719782783562784819,4.5,7.6,2023,Cheeseburger,,Crewe Alexandra,ENG,5_left.webp,https://scrandle.com/media/o/F93lUrhWYAE4iRD.webp,scrandle,center,179.96329131223243
+2026-03-30,5,right,1521177140783468544,https://twitter.com/FootyScran/status/1521177140783468544,1.5,20.3,2022,Mushy peas,,Notts County,ENG,5_right.webp,https://scrandle.com/media/o/FRxOi7zX0AE8JPW.webp,scrandle,center,121.30721800729691
+2026-03-30,6,left,1850261353904156777,https://x.com/SportScran/status/1850261353904156777,21.0,15.19,2024,Hot dog,With can of corona,New York Knicks,USA,6_left.webp,https://scrandle.com/media/o/Ga1y41qWQAEoj2o.webp,scrandle,center,334.6316575776515
+2026-03-30,6,right,1768400132943327485,https://x.com/atabhafc/status/1768400132943327485,5.8,25.41,2024,Burger,,Brighton,USA,6_right.webp,https://scrandle.com/media/o/GIqejC8WcAAjzGS.webp,scrandle,center,218.60331710998082
+2026-03-30,7,left,100259,,0.9,38.5,2026,Chicken mayo onigiri,,"Indomilk Arena, Tangerang",IDN,7_left.webp,https://scrandle.com/media/o/b27b882814d39f9e74fdd4507b1403e6.webp,scrandle,center,288.13067542457685
+2026-03-30,7,right,1478429042764390412,https://x.com/FootyScran/status/1478429042764390412,5.0,31.54,2022,"Pie, mash, gravy and peas",In a box,Stockport County,ENG,7_right.webp,https://scrandle.com/media/o/FIRvYMUXIAkfXyP.webp,scrandle,center,201.64051736883908
+2026-03-30,8,left,100094,,,34.65,2025,What Up Corn Dog,Honey-battered corn dog coated in crushed Takis,Seattle Mariners,USA,8_left.webp,https://scrandle.com/media/o/y0t6g0yci5se1.webp,scrandle,center,366.1741518394151
+2026-03-30,8,right,1505613227417288705,https://x.com/FootyScran/status/1505613227417288705,4.0,70.18,2022,Gourmet burger,"Two beef patties, cheese, bacon, onions, hash browns",Prescot Cables FC,ENG,8_right.webp,https://scrandle.com/media/o/FOUDP4AXMAI3imw.webp,scrandle,center,523.7139424701065
+2026-03-30,9,left,1581683041910411264,https://twitter.com/FootyScran/status/1581683041910411264,4.0,15.8,2022,Hot dog,,Barnet FC,ENG,9_left.webp,https://scrandle.com/media/o/FfNEVh8XoAIKnWU.webp,scrandle,center,182.4765496379975
+2026-03-30,9,right,1956396760546562175,https://x.com/FootyScran/status/1956396760546562175,7.5,87.0,2025,Steak pie,With mash and gravy,Harrogate Town,ENG,9_right.webp,https://scrandle.com/media/o/GyaEe5sX0AAz7oS.webp,scrandle,center,481.08820569915093

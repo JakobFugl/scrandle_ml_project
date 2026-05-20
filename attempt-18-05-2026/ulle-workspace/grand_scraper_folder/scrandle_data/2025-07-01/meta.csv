@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-07-01,0,left,Breakfast bap,"2 sausage, 2 bacon and an egg with 2 hash browns",5.5,91.7,0_left.webp,https://scrandle.com/media/o/GiUNxL8W8AAiBu0.webp
-2025-07-01,0,right,Curry rice,With scotch egg,6.7,84.9,0_right.webp,https://scrandle.com/media/o/GKPcYhVXoAAGZGU.webp
-2025-07-01,1,left,Gloucester monster burger,,6.5,96.4,1_left.webp,https://scrandle.com/media/o/F07vj4rWIA0adXM.webp
-2025-07-01,1,right,Hot dog,,2.0,21.8,1_right.webp,https://scrandle.com/media/o/FjO8961XoAEfeFV.webp
-2025-07-01,2,left,Fish and chips,,7.0,87.4,2_left.webp,https://scrandle.com/media/o/FrGK8b6XgAEaB3i.webp
-2025-07-01,2,right,Pizza,,2.3,65.0,2_right.webp,https://scrandle.com/media/o/FvUlPVHXwAEOuhM.webp
-2025-07-01,3,left,Chicken and chips,,10.75,65.8,3_left.webp,https://scrandle.com/media/o/FO3LEjmXsAAQoQ2.webp
-2025-07-01,3,right,Peppered chicken,On chow mein noodles,8.0,93.3,3_right.webp,https://scrandle.com/media/o/GWfLTnIWQBciICg.webp
-2025-07-01,4,left,Cheeseburger and fries,,7.5,69.7,4_left.webp,https://scrandle.com/media/o/FNKXQ20XwAYIKsL.webp
-2025-07-01,4,right,Cheeseburger,,4.5,12.9,4_right.webp,https://scrandle.com/media/o/FvnjzzmWIAAPQ_J.webp
-2025-07-01,5,left,Mystery scran,No price data,0.0,8.4,5_left.webp,https://scrandle.com/media/o/FKNio4-WYAEp20t.webp
-2025-07-01,5,right,Spicy chicken flatbread,Includes a pint,9.9,91.5,5_right.webp,https://scrandle.com/media/o/Fx3Hl5vX0AIPY8g.webp
-2025-07-01,6,left,The pit master,"Burnt ends, pulled pork, spiced chicken, jalapeno muffin, cream corn and beans",8.5,93.2,6_left.webp,https://scrandle.com/media/o/FW_wa5BX0AQbLgF.webp
-2025-07-01,6,right,Roast potatoes,With beef gravy,3.5,84.5,6_right.webp,https://scrandle.com/media/o/GV0i6ZnWAAAsiah.webp
-2025-07-01,7,left,Pulled pork sandwich and chips,,12.5,52.3,7_left.webp,https://scrandle.com/media/o/FrXF6MTWwBYVJj-.webp
-2025-07-01,7,right,Hot dog and chips,With a drink,7.0,90.3,7_right.webp,https://scrandle.com/media/o/FOTAYSZXoAETrkO.webp
-2025-07-01,8,left,Currywurst,,5.5,84.0,8_left.webp,https://scrandle.com/media/o/FbPrkbkXwAMElnh.webp
-2025-07-01,8,right,Pulled turkey sandwich,With curry mayo,4.8,81.0,8_right.webp,https://scrandle.com/media/o/Fpq5vYHXsAAul_1.webp
-2025-07-01,9,left,Sticky Korean chicken,With chips,5.0,92.7,9_left.webp,https://scrandle.com/media/o/Fo8LmJ2WcAIdFss.webp
-2025-07-01,9,right,The chippy tea butty,"fishcake on a bed of chips, topped with mushy peas and tartar sauce",8.0,77.8,9_right.webp,https://scrandle.com/media/o/GEtn4mjWkAAnP8J.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-07-01,0,left,1883927165307408748,https://x.com/FootyScran/status/1883927165307408748,5.5,91.7,2025,Breakfast bap,"2 sausage, 2 bacon and an egg with 2 hash browns",Newmarket Town FC,ENG,0_left.webp,https://scrandle.com/media/o/GiUNxL8W8AAiBu0.webp,scrandle,center,573.8608966381483
+2025-07-01,0,right,1775504996202643563,https://x.com/FootyScran/status/1775504996202643563,6.7,84.9,2024,Curry rice,With scotch egg,Yokohama F.Marinos,JPN,0_right.webp,https://scrandle.com/media/o/GKPcYhVXoAAGZGU.webp,scrandle,center,560.7063426202761
+2025-07-01,1,left,1679543121317879810,https://twitter.com/FootyScran/status/1679543121317879810,6.5,96.4,2023,Gloucester monster burger,,Gloucester City AFC,ENG,1_left.webp,https://scrandle.com/media/o/F07vj4rWIA0adXM.webp,scrandle,center,643.5154702951602
+2025-07-01,1,right,1599830073154359296,https://twitter.com/FootyScran/status/1599830073154359296,2.0,21.8,2022,Hot dog,,Evesham United,ENG,1_right.webp,https://scrandle.com/media/o/FjO8961XoAEfeFV.webp,scrandle,center,247.51338395534341
+2025-07-01,2,left,1635240916515708929,https://twitter.com/FootyScran/status/1635240916515708929,7.0,87.4,2023,Fish and chips,,Melbourne Victory,AUS,2_left.webp,https://scrandle.com/media/o/FrGK8b6XgAEaB3i.webp,scrandle,center,486.7614311952458
+2025-07-01,2,right,1654269389330325505,https://twitter.com/FootyScran/status/1654269389330325505,2.3,65.0,2023,Pizza,,Botafogo,BRA,2_right.webp,https://scrandle.com/media/o/FvUlPVHXwAEOuhM.webp,scrandle,center,269.3077566690543
+2025-07-01,3,left,1508084734722818049,https://twitter.com/FootyScran/status/1508084734722818049,10.75,65.8,2022,Chicken and chips,,Wembley Stadium,ENG,3_left.webp,https://scrandle.com/media/o/FO3LEjmXsAAQoQ2.webp,scrandle,center,443.9697036400282
+2025-07-01,3,right,1830655319195939221,https://x.com/FootyScran/status/1830655319195939221,8.0,93.3,2024,Peppered chicken,On chow mein noodles,Welling United,ENG,3_right.webp,https://scrandle.com/media/o/GWfLTnIWQBciICg.webp,twitter,center,488.653952341573
+2025-07-01,4,left,1500427947701907458,https://twitter.com/FootyScran/status/1500427947701907458,7.5,69.7,2022,Cheeseburger and fries,,Oxford City,ENG,4_left.webp,https://scrandle.com/media/o/FNKXQ20XwAYIKsL.webp,scrandle,center,303.8380031982276
+2025-07-01,4,right,1655604822001762306,https://twitter.com/FootyScran/status/1655604822001762306,4.5,12.9,2023,Cheeseburger,,Everton,ENG,4_right.webp,https://scrandle.com/media/o/FvnjzzmWIAAPQ_J.webp,scrandle,center,155.74495363960446
+2025-07-01,5,left,1487140761468608512,https://twitter.com/FootyScran/status/1487140761468608512,0.0,8.4,2022,Mystery scran,No price data,USA,USA,5_left.webp,https://scrandle.com/media/o/FKNio4-WYAEp20t.webp,scrandle,center,127.20295936150792
+2025-07-01,5,right,1665706895787671553,https://twitter.com/FootyScran/status/1665706895787671553,9.9,91.5,2023,Spicy chicken flatbread,Includes a pint,FC Twente,NED,5_right.webp,https://scrandle.com/media/o/Fx3Hl5vX0AIPY8g.webp,scrandle,center,363.80237113504444
+2025-07-01,6,left,1544717547609653249,https://twitter.com/FootyScran/status/1544717547609653249,8.5,93.2,2022,The pit master,"Burnt ends, pulled pork, spiced chicken, jalapeno muffin, cream corn and beans",Sporting Kansas City,USA,6_left.webp,https://scrandle.com/media/o/FW_wa5BX0AQbLgF.webp,scrandle,center,601.9500298045722
+2025-07-01,6,right,1827655415858913601,https://x.com/FootyScran/status/1827655415858913601,3.5,84.5,2024,Roast potatoes,With beef gravy,Huddersfield Town,ENG,6_right.webp,https://scrandle.com/media/o/GV0i6ZnWAAAsiah.webp,scrandle,center,324.49103295826046
+2025-07-01,7,left,1636431647603081222,https://twitter.com/FootyScran/status/1636431647603081222,12.5,52.3,2023,Pulled pork sandwich and chips,,Orlando City SC,USA,7_left.webp,https://scrandle.com/media/o/FrXF6MTWwBYVJj-.webp,scrandle,center,223.3757071935552
+2025-07-01,7,right,1505539703910678536,https://twitter.com/FootyScran/status/1505539703910678536,7.0,90.3,2022,Hot dog and chips,With a drink,Salford City,ENG,7_right.webp,https://scrandle.com/media/o/FOTAYSZXoAETrkO.webp,scrandle,center,551.0786518939493
+2025-07-01,8,left,1563852513652137986,https://twitter.com/FootyScran/status/1563852513652137986,5.5,84.0,2022,Currywurst,,Bayern Munich,GER,8_left.webp,https://scrandle.com/media/o/FbPrkbkXwAMElnh.webp,scrandle,center,472.52549099155533
+2025-07-01,8,right,1628818448225558529,https://twitter.com/FootyScran/status/1628818448225558529,4.8,81.0,2023,Pulled turkey sandwich,With curry mayo,Ajax,NED,8_right.webp,https://scrandle.com/media/o/Fpq5vYHXsAAul_1.webp,scrandle,center,398.9473774786538
+2025-07-01,9,left,1625530748429107202,https://twitter.com/FootyScran/status/1625530748429107202,5.0,92.7,2023,Sticky Korean chicken,With chips,Sunderland,ENG,9_left.webp,https://scrandle.com/media/o/Fo8LmJ2WcAIdFss.webp,scrandle,center,635.4943393132969
+2025-07-01,9,right,1750607109178208307,https://x.com/FootyScran/status/1750607109178208307,8.0,77.8,2024,The chippy tea butty,"fishcake on a bed of chips, topped with mushy peas and tartar sauce",Doncaster Rovers,ENG,9_right.webp,https://scrandle.com/media/o/GEtn4mjWkAAnP8J.webp,scrandle,center,467.5967936918733

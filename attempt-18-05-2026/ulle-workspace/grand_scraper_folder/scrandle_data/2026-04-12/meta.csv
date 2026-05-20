@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2026-04-12,0,left,Meat pie,"With mash potato, mushy peas and gravy",5.0,37.9,0_left.webp,https://scrandle.com/media/o/FUvgMs5WUAMyby2.webp
-2026-04-12,0,right,"Pie, mash, peas and gravy",,9.0,69.1,0_right.webp,https://scrandle.com/media/o/FRXO4psWYAMSoEF.webp
-2026-04-12,1,left,Cheesy chips,,2.0,9.04,1_left.webp,https://scrandle.com/media/o/GfbUry_W8AAwbqx.webp
-2026-04-12,1,right,Double cheeseburger,,7.0,24.78,1_right.webp,https://scrandle.com/media/o/GYFd6dbWoAAnaoV.webp
-2026-04-12,2,left,"Chips, pork and stuffing",With onions and gravy,6.0,55.95,2_left.webp,https://scrandle.com/media/o/FI19e9tXoAAgtMN.webp
-2026-04-12,2,right,BBQ mac and cheese,With pulled pork and fried crispy onions,10.4,28.03,2_right.webp,https://scrandle.com/media/o/IMG_8735.webp
-2026-04-12,3,left,Hot dog,With pepperoni and cheese,5.0,75.1,3_left.webp,https://scrandle.com/media/o/FxZfzv2WAAIQl3Q.webp
-2026-04-12,3,right,Katsu chicken bowl,,7.5,93.7,3_right.webp,https://scrandle.com/media/o/FpqQph1XgAI0_FH.webp
-2026-04-12,4,left,Pollo a la Brasa,Roast chicken with chips,14.5,72.2,4_left.webp,https://scrandle.com/media/o/FWXFJN2WYAQDcKT.webp
-2026-04-12,4,right,Sausage and a beer,,12.0,40.0,4_right.webp,https://scrandle.com/media/o/FPlb46sXsAcIRLE.webp
-2026-04-12,5,left,Chocolate brownie,With biscotti,6.25,54.29,5_left.webp,https://scrandle.com/media/o/GjhZliaWsAAvoYg.webp
-2026-04-12,5,right,Sausage casserole,With mash and peas,6.0,38.37,5_right.webp,https://scrandle.com/media/o/FjDW6LmWYAEVX5l.webp
-2026-04-12,6,left,Bombay chicken curry,"With a garlic & coriander naan, rice and mango chutney",7.5,86.2,6_left.webp,https://scrandle.com/media/o/GlhYLXYWgAAhu5K.webp
-2026-04-12,6,right,Tantuni Kebab,Free to first 100 customers,0.0,94.2,6_right.webp,https://scrandle.com/media/o/FgqqQgjXEAA1tPr.webp
-2026-04-12,7,left,Roast potatoes,Topped with black pudding and peppercorn sauce,5.5,41.63,7_left.webp,https://scrandle.com/media/o/GwEu4S-WcAA-Ros.webp
-2026-04-12,7,right,Foot long cheese kransky,,8.0,49.6,7_right.webp,https://scrandle.com/media/o/FPFfyp6WUAEt8DE.webp
-2026-04-12,8,left,Loaded fries,,7.0,82.6,8_left.webp,https://scrandle.com/media/o/FjYOTmlXoAAZAOj.webp
-2026-04-12,8,right,Sausage,,3.3,50.8,8_right.webp,https://scrandle.com/media/o/GnPJFyTWMAEZ_c2.webp
-2026-04-12,9,left,Cheesy chips,With spring onion and crispy onions,3.5,84.5,9_left.webp,https://scrandle.com/media/o/FjteZoCXgAI0fXC.webp
-2026-04-12,9,right,Sziros kenyer,With a pint,2.8,57.2,9_right.webp,https://scrandle.com/media/o/FqOX8DeWcAEcFdE.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2026-04-12,0,left,1534566612094828544,https://twitter.com/FootyScran/status/1534566612094828544,5.0,37.9,2022,Meat pie,"With mash potato, mushy peas and gravy",Stockport County,ENG,0_left.webp,https://scrandle.com/media/o/FUvgMs5WUAMyby2.webp,scrandle,center,176.40194163384157
+2026-04-12,0,right,1519347927164112897,https://twitter.com/FootyScran/status/1519347927164112897,9.0,69.1,2022,"Pie, mash, peas and gravy",,AFC Wimbledon,ENG,0_right.webp,https://scrandle.com/media/o/FRXO4psWYAMSoEF.webp,scrandle,center,305.845230856271
+2026-04-12,1,left,1870916548279640238,https://x.com/SportScran/status/1870916548279640238,2.0,9.04,2024,Cheesy chips,,Pennsylvania Quakers,USA,1_left.webp,https://scrandle.com/media/o/GfbUry_W8AAwbqx.webp,scrandle,center,195.25464660232757
+2026-04-12,1,right,1837853392393125920,https://x.com/AlexArnsy01/status/1837853392393125920,7.0,24.78,2024,Double cheeseburger,,Brighton,ENG,1_right.webp,https://scrandle.com/media/o/GYFd6dbWoAAnaoV.webp,scrandle,center,356.2934948252029
+2026-04-12,2,left,1480977829366054912,https://x.com/FootyScran/status/1480977829366054912,6.0,55.95,2022,"Chips, pork and stuffing",With onions and gravy,Sunderland,ENG,2_left.webp,https://scrandle.com/media/o/FI19e9tXoAAgtMN.webp,scrandle,center,433.0838240252866
+2026-04-12,2,right,100194,,10.4,28.03,2025,BBQ mac and cheese,With pulled pork and fried crispy onions,Carolina Panthers,USA,2_right.webp,https://scrandle.com/media/o/IMG_8735.webp,scrandle,center,329.90586748552107
+2026-04-12,3,left,1663622461219299329,https://twitter.com/FootyScran/status/1663622461219299329,5.0,75.1,2023,Hot dog,With pepperoni and cheese,Chivas Guadalajara,MEX,3_left.webp,https://scrandle.com/media/o/FxZfzv2WAAIQl3Q.webp,scrandle,center,366.0918896698537
+2026-04-12,3,right,1628773275567259648,https://twitter.com/FootyScran/status/1628773275567259648,7.5,93.7,2023,Katsu chicken bowl,,Hull City,ENG,3_right.webp,https://scrandle.com/media/o/FpqQph1XgAI0_FH.webp,scrandle,center,537.5080157706777
+2026-04-12,4,left,1541855214877249544,https://twitter.com/FootyScran/status/1541855214877249544,14.5,72.2,2022,Pollo a la Brasa,Roast chicken with chips,LA FC,USA,4_left.webp,https://scrandle.com/media/o/FWXFJN2WYAQDcKT.webp,scrandle,center,566.2547021155231
+2026-04-12,4,right,1511340191788711937,https://twitter.com/FootyScran/status/1511340191788711937,12.0,40.0,2022,Sausage and a beer,,Brøndby,DEN,4_right.webp,https://scrandle.com/media/o/FPlb46sXsAcIRLE.webp,scrandle,center,238.35475560106056
+2026-04-12,5,left,1889358550159233234,https://x.com/SportScran/status/1889358550159233234,6.25,54.29,2025,Chocolate brownie,With biscotti,Hull City,ENG,5_left.webp,https://scrandle.com/media/o/GjhZliaWsAAvoYg.webp,scrandle,center,489.9447853088398
+2026-04-12,5,right,1599014168702558210,https://x.com/FootyScran/status/1599014168702558210,6.0,38.37,2022,Sausage casserole,With mash and peas,York City FC,ENG,5_right.webp,https://scrandle.com/media/o/FjDW6LmWYAEVX5l.webp,scrandle,center,386.83201519210934
+2026-04-12,6,left,1898364204026831192,https://x.com/FootyScran/status/1898364204026831192,7.5,86.2,2025,Bombay chicken curry,"With a garlic & coriander naan, rice and mango chutney",Brighton and Hove Albion,ENG,6_left.webp,https://scrandle.com/media/o/GlhYLXYWgAAhu5K.webp,scrandle,center,489.35470531819993
+2026-04-12,6,right,1588269032624504832,https://twitter.com/FootyScran/status/1588269032624504832,0.0,94.2,2022,Tantuni Kebab,Free to first 100 customers,St Louis City SC,USA,6_right.webp,https://scrandle.com/media/o/FgqqQgjXEAA1tPr.webp,scrandle,center,467.5306875780531
+2026-04-12,7,left,1945888065110585423,https://x.com/FootyScran/status/1945888065110585423,5.5,41.63,2025,Roast potatoes,Topped with black pudding and peppercorn sauce,Bury FC,ENG,7_left.webp,https://scrandle.com/media/o/GwEu4S-WcAA-Ros.webp,scrandle,center,353.31547619621176
+2026-04-12,7,right,1509092681355464707,https://x.com/FootyScran/status/1509092681355464707,8.0,49.6,2022,Foot long cheese kransky,,Brisbane Lions,AUS,7_right.webp,https://scrandle.com/media/o/FPFfyp6WUAEt8DE.webp,scrandle,center,443.0454506935719
+2026-04-12,8,left,1600482478023647239,https://twitter.com/FootyScran/status/1600482478023647239,7.0,82.6,2022,Loaded fries,,Chester FC,ENG,8_left.webp,https://scrandle.com/media/o/FjYOTmlXoAAZAOj.webp,scrandle,center,416.6847541985101
+2026-04-12,8,right,1906088175891513568,https://x.com/FootyScran/status/1906088175891513568,3.3,50.8,2025,Sausage,,Holstein Kiel,GER,8_right.webp,https://scrandle.com/media/o/GnPJFyTWMAEZ_c2.webp,scrandle,center,188.59035369759468
+2026-04-12,9,left,1601977894020222976,https://twitter.com/FootyScran/status/1601977894020222976,3.5,84.5,2022,Cheesy chips,With spring onion and crispy onions,Hungerford Town,ENG,9_left.webp,https://scrandle.com/media/o/FjteZoCXgAI0fXC.webp,scrandle,center,430.3021526541379
+2026-04-12,9,right,1631314553882419201,https://twitter.com/FootyScran/status/1631314553882419201,2.8,57.2,2023,Sziros kenyer,With a pint,Budafoki FC,HUN,9_right.webp,https://scrandle.com/media/o/FqOX8DeWcAEcFdE.webp,scrandle,center,307.1703293973318

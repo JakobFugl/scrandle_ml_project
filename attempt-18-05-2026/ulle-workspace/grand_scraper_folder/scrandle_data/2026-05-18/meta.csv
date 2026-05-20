@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2026-05-18,0,left,Pimento cheese milkshake,"Vanilla ice cream, vanilla syrup, pimento cheese, potato chips",,20.93,0_left.webp,https://scrandle.com/media/o/2baec2f02037fd555dd80db10dfaaecc.webp
-2026-05-18,0,right,Italian beff combo,,,38.55,0_right.webp,https://scrandle.com/media/o/GPl8RuqXQAAko9v.webp
-2026-05-18,1,left,Smoked turkey wrap,,11.3,41.72,1_left.webp,https://scrandle.com/media/o/47c1a64c32ffd4f6fda77ad3a1f11fec.webp
-2026-05-18,1,right,Double cheeseburger,,7.5,9.88,1_right.webp,https://scrandle.com/media/o/GgnjqdzWgAAKEfa.webp
-2026-05-18,2,left,Beef pie,,4.5,13.55,2_left.webp,https://scrandle.com/media/o/FE42QUVXsAoUAXf.webp
-2026-05-18,2,right,The LX Hammer Burger,"Cheeseburger, bone-in braised beef shank, roasted mirepoix demi-glace, bleu cheese fondue, brioche bun",132.0,47.71,2_right.webp,https://scrandle.com/media/o/bafkreihom7p5jh7ial3h57libatrpr36af7o3ojkmvnpvhdpe4t35wwymm.webp
-2026-05-18,3,left,Chilli cheese dog,,10.5,73.84,3_left.webp,https://scrandle.com/media/o/FOFbL98WQA05H6_.webp
-2026-05-18,3,right,Bacon cheeseburger,,6.0,48.57,3_right.webp,https://scrandle.com/media/o/FSqEIRrWAAAlInY.webp
-2026-05-18,4,left,Quesabirria tacos,With elote,,65.49,4_left.webp,https://scrandle.com/media/o/GHYV6FNXMAAxA3r.webp
-2026-05-18,4,right,Lamb kofta and rice,With mint sauce,,53.68,4_right.webp,https://scrandle.com/media/o/GTf4TBHWkAAFGfe.webp
-2026-05-18,5,left,Swedish meatball sub,,12.25,8.3,5_left.webp,https://scrandle.com/media/o/GlDt9FtWUAAsb5U.webp
-2026-05-18,5,right,Walking on Sunshine Freakshake,,11.4,50.43,5_right.webp,https://scrandle.com/media/o/GXypNm_XYAAZEGq.webp
-2026-05-18,6,left,Bacon roll,,6.0,13.05,6_left.webp,https://scrandle.com/media/o/6816386e99cebe955293f5613ce5fc9a.webp
-2026-05-18,6,right,Waffle chips,With mayo and roasted onion bits,4.0,63.83,6_right.webp,https://scrandle.com/media/o/FQpQD_9WYAwoiC9.webp
-2026-05-18,7,left,Nachos,,5.0,21.68,7_left.webp,https://scrandle.com/media/o/FU1smylWYAgdv0z.webp
-2026-05-18,7,right,Shoyu chicken and kalua pork platter,,13.2,53.7,7_right.webp,https://scrandle.com/media/o/scrandle_-_Copy.webp
-2026-05-18,8,left,Cheeseburger,,4.0,36.14,8_left.webp,https://scrandle.com/media/o/GrbHxMnXUAAK_Wo.webp
-2026-05-18,8,right,"Pie, mash and liquor",,7.0,17.3,8_right.webp,https://scrandle.com/media/o/FjoQy_kX0AEITGW.webp
-2026-05-18,9,left,Two dollar tacos,Price for each,1.5,40.79,9_left.webp,https://scrandle.com/media/o/9f3303e6e469d474383a150af2317ed0.webp
-2026-05-18,9,right,Pulled pork and chips,,2.5,77.99,9_right.webp,https://scrandle.com/media/o/FanwCFNWIAE8TvT.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2026-05-18,0,left,100354,,,20.93,2026,Pimento cheese milkshake,"Vanilla ice cream, vanilla syrup, pimento cheese, potato chips",University of Miami,USA,0_left.webp,https://scrandle.com/media/o/2baec2f02037fd555dd80db10dfaaecc.webp,scrandle,center,123.33388758922361
+2026-05-18,0,right,1799606183658917902,https://x.com/C_Jarhart/status/1799606183658917902,,38.55,2024,Italian beff combo,,Red Stars FC,USA,0_right.webp,https://scrandle.com/media/o/GPl8RuqXQAAko9v.webp,scrandle,center,420.3734702103781
+2026-05-18,1,left,100329,,11.3,41.72,2026,Smoked turkey wrap,,Texas Furry Fiesta,USA,1_left.webp,https://scrandle.com/media/o/47c1a64c32ffd4f6fda77ad3a1f11fec.webp,scrandle,center,407.06451911654136
+2026-05-18,1,right,1876281042677662018,https://x.com/SportScran/status/1876281042677662018,7.5,9.88,2025,Double cheeseburger,,Brighton & Hove Albion,ENG,1_right.webp,https://scrandle.com/media/o/GgnjqdzWgAAKEfa.webp,scrandle,center,192.67121256319436
+2026-05-18,2,left,1463166587847036935,https://x.com/FootyScran/status/1463166587847036935,4.5,13.55,2021,Beef pie,,Man City,ENG,2_left.webp,https://scrandle.com/media/o/FE42QUVXsAoUAXf.webp,scrandle,center,232.87740890690816
+2026-05-18,2,right,100200,,132.0,47.71,2026,The LX Hammer Burger,"Cheeseburger, bone-in braised beef shank, roasted mirepoix demi-glace, bleu cheese fondue, brioche bun",Super Bowl LX,USA,2_right.webp,https://scrandle.com/media/o/bafkreihom7p5jh7ial3h57libatrpr36af7o3ojkmvnpvhdpe4t35wwymm.webp,scrandle,bottom,397.28129462085576
+2026-05-18,3,left,1504584017856720938,https://x.com/FootyScran/status/1504584017856720938,10.5,73.84,2022,Chilli cheese dog,,Houston Dynamo,USA,3_left.webp,https://scrandle.com/media/o/FOFbL98WQA05H6_.webp,scrandle,center,536.7283961117911
+2026-05-18,3,right,1525176706159587332,https://x.com/FootyScran/status/1525176706159587332,6.0,48.57,2022,Bacon cheeseburger,,West Brom,ENG,3_right.webp,https://scrandle.com/media/o/FSqEIRrWAAAlInY.webp,scrandle,center,369.22635210660576
+2026-05-18,4,left,1762631292762362134,https://x.com/FootyScran/status/1762631292762362134,,65.49,2024,Quesabirria tacos,With elote,Philadelphia Union,USA,4_left.webp,https://scrandle.com/media/o/GHYV6FNXMAAxA3r.webp,scrandle,center,454.41966508610756
+2026-05-18,4,right,1817193988148891989,https://x.com/realguysmith/status/1817193988148891989,,53.68,2024,Lamb kofta and rice,With mint sauce,Avro FC,ENG,4_right.webp,https://scrandle.com/media/o/GTf4TBHWkAAFGfe.webp,scrandle,center,352.1687540949814
+2026-05-18,5,left,1896277082201813039,https://x.com/SportScran/status/1896277082201813039,12.25,8.3,2025,Swedish meatball sub,,Minnesota United FC,USA,5_left.webp,https://scrandle.com/media/o/GlDt9FtWUAAsb5U.webp,scrandle,center,176.96034330039114
+2026-05-18,5,right,1836528805017792587,https://x.com/SportScran/status/1836528805017792587,11.4,50.43,2024,Walking on Sunshine Freakshake,,New York Yankees,USA,5_right.webp,https://scrandle.com/media/o/GXypNm_XYAAZEGq.webp,scrandle,center,391.19409753610597
+2026-05-18,6,left,100272,,6.0,13.05,2026,Bacon roll,,Southampton FC,ENG,6_left.webp,https://scrandle.com/media/o/6816386e99cebe955293f5613ce5fc9a.webp,scrandle,center,172.80544122003408
+2026-05-18,6,right,1516112258560151552,https://x.com/FootyScran/status/1516112258560151552,4.0,63.83,2022,Waffle chips,With mayo and roasted onion bits,HIFK,FIN,6_right.webp,https://scrandle.com/media/o/FQpQD_9WYAwoiC9.webp,scrandle,center,520.6895550680188
+2026-05-18,7,left,1535002468333015041,https://x.com/FootyScran/status/1535002468333015041,5.0,21.68,2022,Nachos,,The Etihad,ENG,7_left.webp,https://scrandle.com/media/o/FU1smylWYAgdv0z.webp,scrandle,center,327.7819258107492
+2026-05-18,7,right,100214,,13.2,53.7,2026,Shoyu chicken and kalua pork platter,,Moda Center,USA,7_right.webp,https://scrandle.com/media/o/scrandle_-_Copy.webp,scrandle,center,457.30150422915824
+2026-05-18,8,left,1924945544608125328,https://x.com/MottysMic/status/1924945544608125328,4.0,36.14,2025,Cheeseburger,,Westoning FC,ENG,8_left.webp,https://scrandle.com/media/o/GrbHxMnXUAAK_Wo.webp,scrandle,center,301.27022373136555
+2026-05-18,8,right,1601611091985203200,https://x.com/FootyScran/status/1601611091985203200,7.0,17.3,2022,"Pie, mash and liquor",,Millwall,ENG,8_right.webp,https://scrandle.com/media/o/FjoQy_kX0AEITGW.webp,scrandle,center,203.25572910787153
+2026-05-18,9,left,100475,https://x.com/HyeseongKimMuse/status/2050082680490909702/photo/1,1.5,40.79,2026,Two dollar tacos,Price for each,Oklahoma City Comets,USA,9_left.webp,https://scrandle.com/media/o/9f3303e6e469d474383a150af2317ed0.webp,scrandle,center,252.17287165353267
+2026-05-18,9,right,1561042672642580485,https://x.com/FootyScran/status/1561042672642580485,2.5,77.99,2022,Pulled pork and chips,,Darlington,ENG,9_right.webp,https://scrandle.com/media/o/FanwCFNWIAE8TvT.webp,scrandle,center,486.6332722514007

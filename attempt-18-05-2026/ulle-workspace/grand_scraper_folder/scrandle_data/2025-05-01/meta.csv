@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-05-01,0,left,Burger,,4.5,8.4,0_left.webp,https://scrandle.com/media/o/F2ygi4YWsAI3UkJ.webp
-2025-05-01,0,right,Sausage and a pint,Free for fans,0.0,92.1,0_right.webp,https://scrandle.com/media/o/Fj3C2MmWQAAy3Ug.webp
-2025-05-01,1,left,Red Leicester filled sausage roll,,4.0,77.1,1_left.webp,https://scrandle.com/media/o/FNgsBdAWYAEwfym.webp
-2025-05-01,1,right,Pulled pork loaded chips,,4.5,87.5,1_right.webp,https://scrandle.com/media/o/FKRu7afXMAMdv0G.webp
-2025-05-01,2,left,Pizza,,2.3,65.0,2_left.webp,https://scrandle.com/media/o/FvUlPVHXwAEOuhM.webp
-2025-05-01,2,right,Pulled pork hot dog,,5.0,89.8,2_right.webp,https://scrandle.com/media/o/FMXxQe1XwAAHOJU.webp
-2025-05-01,3,left,Pulled pork and beef sandwiches with gravy,"Three sandwiches, with pints of Stella",13.5,92.4,3_left.webp,https://scrandle.com/media/o/F43lRCcWMAA-QZf.webp
-2025-05-01,3,right,Fan village breakfast,Included in the per-night cost,200.0,52.1,3_right.webp,https://scrandle.com/media/o/FiEpqs3XoAUMoKi.webp
-2025-05-01,4,left,Wings and chips,,6.0,90.1,4_left.webp,https://scrandle.com/media/o/FMnjOf-X0AIPc0W.webp
-2025-05-01,4,right,Sausage,,2.6,49.3,4_right.webp,https://scrandle.com/media/o/GUzdY9WXYAASZTS.webp
-2025-05-01,5,left,Double bacon and pulled pork cheeseburger,,4.5,73.3,5_left.webp,https://scrandle.com/media/o/FSQNuO5WYAg5rm_.webp
-2025-05-01,5,right,Pollo a la brasa,Grilled chicken and rice,2.4,76.7,5_right.webp,https://scrandle.com/media/o/FReJX0tX0AIjEKb.webp
-2025-05-01,6,left,"Roast pork, stuffing and gravy",In a baguette,6.0,80.7,6_left.webp,https://scrandle.com/media/o/FNvju7XX0AUDHn2.webp
-2025-05-01,6,right,Loaded hash browns,,5.0,83.5,6_right.webp,https://scrandle.com/media/o/FYcBTyiWAAIy-_c.webp
-2025-05-01,7,left,Yorkshire pudding wrap,"Filled with sausages and stuffing, with a pot of gravy",5.0,92.3,7_left.webp,https://scrandle.com/media/o/F6OaaRrXYAAeYrv.webp
-2025-05-01,7,right,Steak sandwich,"Black garlic mayo, rocket, onion rings, chips",24.0,64.9,7_right.webp,https://scrandle.com/media/o/GLy-zt3WgAAA1Hp.webp
-2025-05-01,8,left,Pulled pork and beef sandwiches with gravy,"Three sandwiches, with pints of Stella",13.5,92.4,8_left.webp,https://scrandle.com/media/o/F43lRCcWMAA-QZf.webp
-2025-05-01,8,right,Roast potatoes,With beef brisket gravy,3.9,92.0,8_right.webp,https://scrandle.com/media/o/FvnALiSWIAMAEtd.webp
-2025-05-01,9,left,Double rib eye cheeseburger,,6.0,88.8,9_left.webp,https://scrandle.com/media/o/FpbQ7N_WAAQ9vnf.webp
-2025-05-01,9,right,Cheeseburger,,5.5,8.5,9_right.webp,https://scrandle.com/media/o/GFAsj3GWoAAkg1A.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-05-01,0,left,1687900486723162112,https://twitter.com/FootyScran/status/1687900486723162112,4.5,8.4,2023,Burger,,Dundee United,SCO,0_left.webp,https://scrandle.com/media/o/F2ygi4YWsAI3UkJ.webp,scrandle,center,215.97869258348828
+2025-05-01,0,right,1602651322721128450,https://twitter.com/FootyScran/status/1602651322721128450,0.0,92.1,2022,Sausage and a pint,Free for fans,KTS Weszlo,POL,0_right.webp,https://scrandle.com/media/o/Fj3C2MmWQAAy3Ug.webp,scrandle,center,329.7890641000596
+2025-05-01,1,left,1501998883999825925,https://twitter.com/FootyScran/status/1501998883999825925,4.0,77.1,2022,Red Leicester filled sausage roll,,Leicester,ENG,1_left.webp,https://scrandle.com/media/o/FNgsBdAWYAEwfym.webp,scrandle,center,312.38193927647666
+2025-05-01,1,right,1487435751554002950,https://twitter.com/FootyScran/status/1487435751554002950,4.5,87.5,2022,Pulled pork loaded chips,,Hull City,ENG,1_right.webp,https://scrandle.com/media/o/FKRu7afXMAMdv0G.webp,twitter,center,450.0
+2025-05-01,2,left,1654269389330325505,https://twitter.com/FootyScran/status/1654269389330325505,2.3,65.0,2023,Pizza,,Botafogo,BRA,2_left.webp,https://scrandle.com/media/o/FvUlPVHXwAEOuhM.webp,scrandle,center,269.3077566690543
+2025-05-01,2,right,1496867721371430912,https://twitter.com/FootyScran/status/1496867721371430912,5.0,89.8,2022,Pulled pork hot dog,,Frome Town,ENG,2_right.webp,https://scrandle.com/media/o/FMXxQe1XwAAHOJU.webp,scrandle,center,484.6215206929595
+2025-05-01,3,left,1697264722851287167,https://twitter.com/FootyScran/status/1697264722851287167,13.5,92.4,2023,Pulled pork and beef sandwiches with gravy,"Three sandwiches, with pints of Stella",Marske United,ENG,3_left.webp,https://scrandle.com/media/o/F43lRCcWMAA-QZf.webp,scrandle,center,304.0034607549463
+2025-05-01,3,right,1594601567143227392,https://twitter.com/FootyScran/status/1594601567143227392,200.0,52.1,2022,Fan village breakfast,Included in the per-night cost,Qatar World Cup,QAT,3_right.webp,https://scrandle.com/media/o/FiEpqs3XoAUMoKi.webp,scrandle,center,196.1072558475019
+2025-05-01,4,left,1497978198180741121,https://twitter.com/FootyScran/status/1497978198180741121,6.0,90.1,2022,Wings and chips,,Barton Rovers,ENG,4_left.webp,https://scrandle.com/media/o/FMnjOf-X0AIPc0W.webp,scrandle,center,657.022569495374
+2025-05-01,4,right,1823075378815987959,https://x.com/FootyScran/status/1823075378815987959,2.6,49.3,2024,Sausage,,FK Proseč,CZE,4_right.webp,https://scrandle.com/media/o/GUzdY9WXYAASZTS.webp,scrandle,center,362.78067734654263
+2025-05-01,5,left,1523357666810396672,https://twitter.com/FootyScran/status/1523357666810396672,4.5,73.3,2022,Double bacon and pulled pork cheeseburger,,Walnut Tree FC,ENG,5_left.webp,https://scrandle.com/media/o/FSQNuO5WYAg5rm_.webp,scrandle,center,454.9744573329201
+2025-05-01,5,right,1519834446387625984,https://twitter.com/FootyScran/status/1519834446387625984,2.4,76.7,2022,Pollo a la brasa,Grilled chicken and rice,Barcelona SC,ESP,5_right.webp,https://scrandle.com/media/o/FReJX0tX0AIjEKb.webp,scrandle,center,376.7653819579188
+2025-05-01,6,left,1503045312797188097,https://twitter.com/FootyScran/status/1503045312797188097,6.0,80.7,2022,"Roast pork, stuffing and gravy",In a baguette,Arsenal,ENG,6_left.webp,https://scrandle.com/media/o/FNvju7XX0AUDHn2.webp,scrandle,center,337.66793781622977
+2025-05-01,6,right,1551210040849321984,https://twitter.com/FootyScran/status/1551210040849321984,5.0,83.5,2022,Loaded hash browns,,Corinthian Casuals,ENG,6_right.webp,https://scrandle.com/media/o/FYcBTyiWAAIy-_c.webp,scrandle,center,445.8252881721578
+2025-05-01,7,left,1703374865305145600,https://twitter.com/FootyScran/status/1703374865305145600,5.0,92.3,2023,Yorkshire pudding wrap,"Filled with sausages and stuffing, with a pot of gravy",Derby County,ENG,7_left.webp,https://scrandle.com/media/o/F6OaaRrXYAAeYrv.webp,scrandle,center,337.7189238038019
+2025-05-01,7,right,1782509354370859279,https://x.com/FootyScran/status/1782509354370859279,24.0,64.9,2024,Steak sandwich,"Black garlic mayo, rocket, onion rings, chips",Arsenal Women,ENG,7_right.webp,https://scrandle.com/media/o/GLy-zt3WgAAA1Hp.webp,scrandle,center,384.97368886907003
+2025-05-01,8,left,1697264722851287167,https://twitter.com/FootyScran/status/1697264722851287167,13.5,92.4,2023,Pulled pork and beef sandwiches with gravy,"Three sandwiches, with pints of Stella",Marske United,ENG,8_left.webp,https://scrandle.com/media/o/F43lRCcWMAA-QZf.webp,scrandle,center,304.0034607549463
+2025-05-01,8,right,1655565647797944325,https://twitter.com/FootyScran/status/1655565647797944325,3.9,92.0,2023,Roast potatoes,With beef brisket gravy,Huddersfield Town,ENG,8_right.webp,https://scrandle.com/media/o/FvnALiSWIAMAEtd.webp,scrandle,center,356.98543090118096
+2025-05-01,9,left,1627718047719882781,https://twitter.com/FootyScran/status/1627718047719882781,6.0,88.8,2023,Double rib eye cheeseburger,,Ashton Town,ENG,9_left.webp,https://scrandle.com/media/o/FpbQ7N_WAAQ9vnf.webp,scrandle,center,499.0231039299132
+2025-05-01,9,right,1751949255055495193,https://x.com/FootyScran/status/1751949255055495193,5.5,8.5,2024,Cheeseburger,,Chesterfield FC,ENG,9_right.webp,https://scrandle.com/media/o/GFAsj3GWoAAkg1A.webp,scrandle,center,118.61207744753638

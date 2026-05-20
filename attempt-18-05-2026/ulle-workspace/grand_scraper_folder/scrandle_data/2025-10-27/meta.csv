@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-10-27,0,left,Mushrooms and bread,With a pint,6.8,40.98,0_left.webp,https://scrandle.com/media/o/FURKXRDWUBofHQV.webp
-2025-10-27,0,right,Meat and potato pie,"With chips, peas and gravy and a pint of Pomona",12.0,19.78,0_right.webp,https://scrandle.com/media/o/GJCBGCFXEAAhVix.webp
-2025-10-27,1,left,Jerk chicken and rice,,,75.37,1_left.webp,https://scrandle.com/media/o/GJ2y6pgXUAAsNVR.webp
-2025-10-27,1,right,Korean chicken and chips,,7.5,86.12,1_right.webp,https://scrandle.com/media/o/FGRdbU6WQAQGvR8.webp
-2025-10-27,2,left,Beef and pork yorkshire pudding,"With gravy, stuffing and veg",7.0,29.95,2_left.webp,https://scrandle.com/media/o/FjtAyNlXoAESiA1.webp
-2025-10-27,2,right,Hot dog,,,17.07,2_right.webp,https://scrandle.com/media/o/GiJZgL_WwAA-gnf.webp
-2025-10-27,3,left,Meatballs and pasta,,2.0,69.83,3_left.webp,https://scrandle.com/media/o/FQY5busX0AUAy86.webp
-2025-10-27,3,right,Cheesesteak,With crisps and a pint,21.0,51.32,3_right.webp,https://scrandle.com/media/o/F2pOtXjWAAA2DnR.webp
-2025-10-27,4,left,Burger and chips,With a drink,11.0,66.38,4_left.webp,https://scrandle.com/media/o/GXNzhcmW0AAywGv.webp
-2025-10-27,4,right,Burger,,9.05,34.62,4_right.webp,https://scrandle.com/media/o/Gsx_SE_X0AAMzwr.webp
-2025-10-27,5,left,Rocky Mountain Oysters,With chips,8.2,29.09,5_left.webp,https://scrandle.com/media/o/GntfY_zW0AArZ94.webp
-2025-10-27,5,right,Japanese Scran,,8.5,63.45,5_right.webp,https://scrandle.com/media/o/GtKH9CDbMAIXzgX.webp
-2025-10-27,6,left,Thai meal deal,With a can of pop,10.0,81.79,6_left.webp,https://scrandle.com/media/o/GnysET_W8AAWr0v.webp
-2025-10-27,6,right,Meat in a bun,,2.3,74.15,6_right.webp,https://scrandle.com/media/o/GZ8ouELWQAA8i5e.webp
-2025-10-27,7,left,Butter chicken naan,,7.95,80.1,7_left.webp,https://scrandle.com/media/o/GVcLd7QWYAAWRcH.webp
-2025-10-27,7,right,Double bacon cheeseburger,,6.5,6.9,7_right.webp,https://scrandle.com/media/o/Fsug4HwWAAYu8HD.webp
-2025-10-27,8,left,Cheeseburger,,4.0,5.43,8_left.webp,https://scrandle.com/media/o/Fq8mH7xX0AAv3yx.webp
-2025-10-27,8,right,Pie and peas,With brown sauce,3.5,14.33,8_right.webp,https://scrandle.com/media/o/FYdMK1lXwAAZzhW.webp
-2025-10-27,9,left,"Steak, chips and chimichurri",,10.0,75.59,9_left.webp,https://scrandle.com/media/o/GU4e2p1W8AA05Br.webp
-2025-10-27,9,right,Japanese Scran,,8.5,63.45,9_right.webp,https://scrandle.com/media/o/GtKH9CDbMAIXzgX.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-10-27,0,left,1532431540952645632,https://x.com/FootyScran/status/1532431540952645632,6.8,40.98,2022,Mushrooms and bread,With a pint,FSV Ochtrup,GER,0_left.webp,https://scrandle.com/media/o/FURKXRDWUBofHQV.webp,scrandle,center,428.9830346891657
+2025-10-27,0,right,1770056596913098978,https://x.com/jrahughes/status/1770056596913098978,12.0,19.78,2024,Meat and potato pie,"With chips, peas and gravy and a pint of Pomona",Altrincham F.C.,ENG,0_right.webp,https://scrandle.com/media/o/GJCBGCFXEAAhVix.webp,scrandle,center,528.5133461893464
+2025-10-27,1,left,1773770656296923291,https://x.com/tompnefc/status/1773770656296923291,,75.37,2024,Jerk chicken and rice,,Preston North End,ENG,1_left.webp,https://scrandle.com/media/o/GJ2y6pgXUAAsNVR.webp,scrandle,center,485.64196856218143
+2025-10-27,1,right,1469402106973065223,https://x.com/FootyScran/status/1469402106973065223,7.5,86.12,2021,Korean chicken and chips,,Tottenham Hotspurs,ENG,1_right.webp,https://scrandle.com/media/o/FGRdbU6WQAQGvR8.webp,scrandle,center,631.6116787933007
+2025-10-27,2,left,1601945331905748992,https://x.com/FootyScran/status/1601945331905748992,7.0,29.95,2022,Beef and pork yorkshire pudding,"With gravy, stuffing and veg",Grimsby Town,ENG,2_left.webp,https://scrandle.com/media/o/FjtAyNlXoAESiA1.webp,scrandle,center,367.69237129604295
+2025-10-27,2,right,1883166026076225852,https://x.com/LiamMacca21/status/1883166026076225852,,17.07,2025,Hot dog,,Anfield,ENG,2_right.webp,https://scrandle.com/media/o/GiJZgL_WwAA-gnf.webp,scrandle,center,245.84898285162006
+2025-10-27,3,left,1514961478788526085,https://x.com/FootyScran/status/1514961478788526085,2.0,69.83,2022,Meatballs and pasta,,AFC Newquay,ENG,3_left.webp,https://scrandle.com/media/o/FQY5busX0AUAy86.webp,scrandle,center,487.18835327232415
+2025-10-27,3,right,1687247558077276160,https://x.com/FootyScran/status/1687247558077276160,21.0,51.32,2023,Cheesesteak,With crisps and a pint,Orlando City SC,USA,3_right.webp,https://scrandle.com/media/o/F2pOtXjWAAA2DnR.webp,scrandle,center,383.38156324286393
+2025-10-27,4,left,1833936503887757499,https://x.com/bluentangerine7/status/1833936503887757499,11.0,66.38,2024,Burger and chips,With a drink,Avro FC,ENG,4_left.webp,https://scrandle.com/media/o/GXNzhcmW0AAywGv.webp,scrandle,center,529.964435482261
+2025-10-27,4,right,1931058299803414692,https://x.com/Padraigkelleher/status/1931058299803414692,9.05,34.62,2025,Burger,,AVIVA Stadium,IRL,4_right.webp,https://scrandle.com/media/o/Gsx_SE_X0AAMzwr.webp,scrandle,center,295.643106291567
+2025-10-27,5,left,1908224163220951444,https://x.com/CRForeignLegion/status/1908224163220951444,8.2,29.09,2025,Rocky Mountain Oysters,With chips,"Coors Field, Denver",USA,5_left.webp,https://scrandle.com/media/o/GntfY_zW0AArZ94.webp,scrandle,center,264.70948620155167
+2025-10-27,5,right,1932808938497458332,https://x.com/FootyScran/status/1932808938497458332,8.5,63.45,2025,Japanese Scran,,Kyoto Sanga,JPN,5_right.webp,https://scrandle.com/media/o/GtKH9CDbMAIXzgX.webp,scrandle,center,457.59550625099143
+2025-10-27,6,left,1908904810633449567,https://x.com/FootyScran/status/1908904810633449567,10.0,81.79,2025,Thai meal deal,With a can of pop,Bolton Wanderers,ENG,6_left.webp,https://scrandle.com/media/o/GnysET_W8AAWr0v.webp,scrandle,center,552.5963069118976
+2025-10-27,6,right,1846240325511057452,https://x.com/FootyScran/status/1846240325511057452,2.3,74.15,2024,Meat in a bun,,Viktoria Žižkov,CZE,6_right.webp,https://scrandle.com/media/o/GZ8ouELWQAA8i5e.webp,scrandle,center,514.5815952319249
+2025-10-27,7,left,1825940788477571390,https://x.com/FootyScran/status/1825940788477571390,7.95,80.1,2024,Butter chicken naan,,Leicester City,ENG,7_left.webp,https://scrandle.com/media/o/GVcLd7QWYAAWRcH.webp,scrandle,center,431.2389471186137
+2025-10-27,7,right,1642583383048966144,https://twitter.com/FootyScran/status/1642583383048966144,6.5,6.9,2023,Double bacon cheeseburger,,Hibernian FC,SCO,7_right.webp,https://scrandle.com/media/o/Fsug4HwWAAYu8HD.webp,twitter,center,265.52842150810903
+2025-10-27,8,left,1634567111824613378,https://x.com/FootyScran/status/1634567111824613378,4.0,5.43,2023,Cheeseburger,,Barnsley,ENG,8_left.webp,https://scrandle.com/media/o/Fq8mH7xX0AAv3yx.webp,scrandle,center,111.08956648949399
+2025-10-27,8,right,1551292350609215490,https://x.com/FootyScran/status/1551292350609215490,3.5,14.33,2022,Pie and peas,With brown sauce,Farsley Celtic,ENG,8_right.webp,https://scrandle.com/media/o/FYdMK1lXwAAZzhW.webp,scrandle,center,222.67878682841953
+2025-10-27,9,left,1823428839067779215,https://x.com/JamesParrish/status/1823428839067779215,10.0,75.59,2024,"Steak, chips and chimichurri",,Cambridge United,ENG,9_left.webp,https://scrandle.com/media/o/GU4e2p1W8AA05Br.webp,scrandle,center,608.9558205903526
+2025-10-27,9,right,1932808938497458332,https://x.com/FootyScran/status/1932808938497458332,8.5,63.45,2025,Japanese Scran,,Kyoto Sanga,JPN,9_right.webp,https://scrandle.com/media/o/GtKH9CDbMAIXzgX.webp,scrandle,center,457.59550625099143

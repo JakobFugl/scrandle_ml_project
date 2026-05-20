@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2026-04-24,0,left,Potatoes and quark,Free with the birth of a child,0.0,9.05,0_left.webp,https://scrandle.com/media/o/f845c913c47e1fffac1afca97b132634.webp
-2026-04-24,0,right,Tea and biscuits,Free with the birth of a child,0.0,90.95,0_right.webp,https://scrandle.com/media/o/046bd176e26cc4a3aae1ad41c4a08df5.webp
-2026-04-24,1,left,Low-histamine diet,,0.0,78.52,1_left.webp,https://scrandle.com/media/o/a1a087e638ee79b66ec5c6f4abdc7ca5.webp
-2026-04-24,1,right,Low-histamine diet,,0.0,21.48,1_right.webp,https://scrandle.com/media/o/580cd65f6503b3ea5844d01dee7d1700.webp
-2026-04-24,2,left,Mashed potatoes,Free for ICU patients,0.0,22.74,2_left.webp,https://scrandle.com/media/o/72ad7bb8f833ebb47cde5c97c7190e3a.webp
-2026-04-24,2,right,"Sausage, mash and peas",Free for patients,0.0,77.26,2_right.webp,https://scrandle.com/media/o/b44ba6dc65ca0cd2bc095cff3867cd50.webp
-2026-04-24,3,left,"Schnitzel with rice, soup, salad, tiny cake",Free before a big surgery,0.0,13.41,3_left.webp,https://scrandle.com/media/o/9381cee5b4dadbc205f168dd13ae6904.webp
-2026-04-24,3,right,"Coq au vin, cheesecake, lingonberry drink",Free for patients,0.0,86.59,3_right.webp,https://scrandle.com/media/o/ef306aa3b7047d8d20139532b7058794.webp
-2026-04-24,4,left,Savoury mince and potato,Free with the birth of a child,0.0,22.61,4_left.webp,https://scrandle.com/media/o/7a859583f1810e887f7482e4ed196fc8.webp
-2026-04-24,4,right,Cornish pasty,Free with the birth of a child,0.0,77.39,4_right.webp,https://scrandle.com/media/o/e59b13323ee27e3dde39381b2cdbe40f.webp
-2026-04-24,5,left,"Plain pasta, fish balls and mash",Free with the birth of a child,0.0,39.21,5_left.webp,https://scrandle.com/media/o/34c25f1a0d2cba72abf67c9eaa4ac9c9.webp
-2026-04-24,5,right,Level 4 Purée Meal,With some custard,0.0,60.79,5_right.webp,https://scrandle.com/media/o/3a13caedeea27601061c3514ad03e061.webp
-2026-04-24,6,left,Pita bread with sausage and cheese,Free for patients,0.0,24.81,6_left.webp,https://scrandle.com/media/o/179448b2ac461d9934a8f46170ac5669.webp
-2026-04-24,6,right,Cheese and vegetable sandwiches,Free with the birth of a child,0.0,75.19,6_right.webp,https://scrandle.com/media/o/c63bdd3671839f9a706559c0e9801e6a.webp
-2026-04-24,7,left,"Curry rice, pasta, takoyaki, miso soup, kimchi",Free for children who swallow batteries,0.0,58.39,7_left.webp,https://scrandle.com/media/o/120030268786bd525197cfa8b0d348e7.webp
-2026-04-24,7,right,"Tenders, mash, corn, gravy",Free before a colonoscopy,0.0,41.61,7_right.webp,https://scrandle.com/media/o/e5448feae1dbbf7c3e4058aeefc1a0e0.webp
-2026-04-24,8,left,Low-histamine diet,"Rice, pumpkin, cucumber",0.0,86.1,8_left.webp,https://scrandle.com/media/o/90a45b0d690bcebf42a1556579906318.webp
-2026-04-24,8,right,Vegetarian dinner,"Bread, butter, mushroom spread",0.0,13.9,8_right.webp,https://scrandle.com/media/o/4068f97ae1edf9557517d434220ba210.webp
-2026-04-24,9,left,"Sausages with mash, gravy and peas",Free with an electrocution,0.0,94.01,9_left.webp,https://scrandle.com/media/o/14232d2ff07a2b7ddd5ee32bb2fcea2b.webp
-2026-04-24,9,right,Pasta salad,Free with a broken leg,0.0,5.99,9_right.webp,https://scrandle.com/media/o/70f33bb1d3ae9d43cd77f86bcf262b4a.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2026-04-24,0,left,100388,,0.0,9.05,2026,Potatoes and quark,Free with the birth of a child,Unknown Hospital,GER,0_left.webp,https://scrandle.com/media/o/f845c913c47e1fffac1afca97b132634.webp,live,center,350.0
+2026-04-24,0,right,100387,,0.0,90.95,2026,Tea and biscuits,Free with the birth of a child,Unknown Hospital,ITA,0_right.webp,https://scrandle.com/media/o/046bd176e26cc4a3aae1ad41c4a08df5.webp,live,bottom,450.0
+2026-04-24,1,left,100385,,0.0,78.52,2026,Low-histamine diet,,Unknown Psychiatric Hospital,GER,1_left.webp,https://scrandle.com/media/o/a1a087e638ee79b66ec5c6f4abdc7ca5.webp,live,center,450.0
+2026-04-24,1,right,100386,,0.0,21.48,2026,Low-histamine diet,,Unknown Psychiatric Hospital,GER,1_right.webp,https://scrandle.com/media/o/580cd65f6503b3ea5844d01dee7d1700.webp,live,center,350.0
+2026-04-24,2,left,100390,,0.0,22.74,2026,Mashed potatoes,Free for ICU patients,Unknown Hospital,GER,2_left.webp,https://scrandle.com/media/o/72ad7bb8f833ebb47cde5c97c7190e3a.webp,live,center,350.0
+2026-04-24,2,right,100389,,0.0,77.26,2026,"Sausage, mash and peas",Free for patients,"QEUH, Glasgow",SCO,2_right.webp,https://scrandle.com/media/o/b44ba6dc65ca0cd2bc095cff3867cd50.webp,live,center,450.0
+2026-04-24,3,left,100381,,0.0,13.41,2026,"Schnitzel with rice, soup, salad, tiny cake",Free before a big surgery,AKH Vienna,AUT,3_left.webp,https://scrandle.com/media/o/9381cee5b4dadbc205f168dd13ae6904.webp,live,center,350.0
+2026-04-24,3,right,100382,,0.0,86.59,2026,"Coq au vin, cheesecake, lingonberry drink",Free for patients,Unknown Hospital,SWE,3_right.webp,https://scrandle.com/media/o/ef306aa3b7047d8d20139532b7058794.webp,live,center,450.0
+2026-04-24,4,left,100371,,0.0,22.61,2026,Savoury mince and potato,Free with the birth of a child,Unknown Hospital,AUS,4_left.webp,https://scrandle.com/media/o/7a859583f1810e887f7482e4ed196fc8.webp,live,center,350.0
+2026-04-24,4,right,100372,,0.0,77.39,2026,Cornish pasty,Free with the birth of a child,Unknown Hospital,ENG,4_right.webp,https://scrandle.com/media/o/e59b13323ee27e3dde39381b2cdbe40f.webp,live,center,450.0
+2026-04-24,5,left,100384,,0.0,39.21,2026,"Plain pasta, fish balls and mash",Free with the birth of a child,Unknown Hospital,ITA,5_left.webp,https://scrandle.com/media/o/34c25f1a0d2cba72abf67c9eaa4ac9c9.webp,live,center,350.0
+2026-04-24,5,right,100383,,0.0,60.79,2026,Level 4 Purée Meal,With some custard,Oxford University Hospital,ENG,5_right.webp,https://scrandle.com/media/o/3a13caedeea27601061c3514ad03e061.webp,live,center,450.0
+2026-04-24,6,left,100380,,0.0,24.81,2026,Pita bread with sausage and cheese,Free for patients,Unknown Psych Ward,ENG,6_left.webp,https://scrandle.com/media/o/179448b2ac461d9934a8f46170ac5669.webp,live,center,350.0
+2026-04-24,6,right,100379,,0.0,75.19,2026,Cheese and vegetable sandwiches,Free with the birth of a child,Unknown Hospital,SWE,6_right.webp,https://scrandle.com/media/o/c63bdd3671839f9a706559c0e9801e6a.webp,live,center,450.0
+2026-04-24,7,left,100377,,0.0,58.39,2026,"Curry rice, pasta, takoyaki, miso soup, kimchi",Free for children who swallow batteries,Unknown Hospital,KOR,7_left.webp,https://scrandle.com/media/o/120030268786bd525197cfa8b0d348e7.webp,live,center,450.0
+2026-04-24,7,right,100378,,0.0,41.61,2026,"Tenders, mash, corn, gravy",Free before a colonoscopy,Unknown Hospital,USA,7_right.webp,https://scrandle.com/media/o/e5448feae1dbbf7c3e4058aeefc1a0e0.webp,live,bottom,350.0
+2026-04-24,8,left,100375,,0.0,86.11,2026,Low-histamine diet,"Rice, pumpkin, cucumber",Unknown Psychiatric Hospital,GER,8_left.webp,https://scrandle.com/media/o/90a45b0d690bcebf42a1556579906318.webp,live,center,450.0
+2026-04-24,8,right,100376,,0.0,13.89,2026,Vegetarian dinner,"Bread, butter, mushroom spread",Unknown Hospital,GER,8_right.webp,https://scrandle.com/media/o/4068f97ae1edf9557517d434220ba210.webp,live,center,350.0
+2026-04-24,9,left,100373,,0.0,94.01,2026,"Sausages with mash, gravy and peas",Free with an electrocution,Southampton,ENG,9_left.webp,https://scrandle.com/media/o/14232d2ff07a2b7ddd5ee32bb2fcea2b.webp,live,center,450.0
+2026-04-24,9,right,100391,,0.0,5.99,2026,Pasta salad,Free with a broken leg,Manchester,ENG,9_right.webp,https://scrandle.com/media/o/70f33bb1d3ae9d43cd77f86bcf262b4a.webp,live,center,350.0

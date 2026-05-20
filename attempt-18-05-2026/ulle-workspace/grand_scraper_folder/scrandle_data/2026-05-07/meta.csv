@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2026-05-07,0,left,Meat pie,With a can of Harp,20.7,24.88,0_left.webp,https://scrandle.com/media/o/8ace1f7b997a68df634eff3b17c02b91.webp
-2026-05-07,0,right,"Steak pie, mash and gravy",With a drink,6.75,39.2,0_right.webp,https://scrandle.com/media/o/Gog-EdRXYAAHwoP.webp
-2026-05-07,1,left,Hotdog,,,42.63,1_left.webp,https://scrandle.com/media/o/edb041cd9adfaff5b467388f840f4ba4.webp
-2026-05-07,1,right,Big burger,,,64.3,1_right.webp,https://scrandle.com/media/o/9-xJMzUci6senHe9.webp
-2026-05-07,2,left,Chocolate brownie,With biscotti,6.25,56.36,2_left.webp,https://scrandle.com/media/o/GjhZliaWsAAvoYg.webp
-2026-05-07,2,right,Cheeseburger,"With lettuce, tomato, cucumber, black/purple Doritos and burger sauce",9.0,34.89,2_right.webp,https://scrandle.com/media/o/a1965075ecf8912c6715643aa263876b.webp
-2026-05-07,3,left,Jalapeño cheese sausage,With salsa verde,9.0,25.68,3_left.webp,https://scrandle.com/media/o/IMG_5727.webp
-2026-05-07,3,right,Sausage wrap,,11.0,19.24,3_right.webp,https://scrandle.com/media/o/GhHCRjHW0AAsz_2.webp
-2026-05-07,4,left,Class Chips Mince and Onion Pie Peas and Gravy,,6.0,36.48,4_left.webp,https://scrandle.com/media/o/329fc7b18f4bdc6773d40da3b241ace9.webp
-2026-05-07,4,right,Pizza,,10.4,10.74,4_right.webp,https://scrandle.com/media/o/GT3TPaLXYAAvzjK.webp
-2026-05-07,5,left,Fish,With 6 chips,,44.57,5_left.webp,https://scrandle.com/media/o/GUsdVvUWYAAAyiD.webp
-2026-05-07,5,right,Hot Honey Chicken & Chip,,,72.78,5_right.webp,https://scrandle.com/media/o/GWQFkIBWIAA1KfV.webp
-2026-05-07,6,left,Double cheeseburger,,7.5,10.15,6_left.webp,https://scrandle.com/media/o/GgnjqdzWgAAKEfa.webp
-2026-05-07,6,right,Southern Fried Chicken burger,With Pepsi Max,21.25,27.89,6_right.webp,https://scrandle.com/media/o/GUsvmekWwAATuaE.webp
-2026-05-07,7,left,Duck wrap,,9.5,31.78,7_left.webp,https://scrandle.com/media/o/GliXRHlWAAAwpiv.webp
-2026-05-07,7,right,Hot dog,,4.25,43.05,7_right.webp,https://scrandle.com/media/o/abebdf118479f3daa3f2768be77a40f6.webp
-2026-05-07,8,left,Pizza,,8.9,30.36,8_left.webp,https://scrandle.com/media/o/ce940af4b16fd6611fd35c3c207eded4.webp
-2026-05-07,8,right,Burger,,5.0,6.27,8_right.webp,https://scrandle.com/media/o/FaTqnr2XwAQcOxX.webp
-2026-05-07,9,left,Nachos,"Cheese sauce, salsa, jalapeños",6.6,38.66,9_left.webp,https://scrandle.com/media/o/58864b60d74920601bc6957fb1e0d30c.webp
-2026-05-07,9,right,Din Tai Fung,Spicy wontons,12.0,50.92,9_right.webp,https://scrandle.com/media/o/FWcXQZgXoAUdS0Q.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2026-05-07,0,left,100458,,20.7,24.88,2026,Meat pie,With a can of Harp,"Orlando City, SC",USA,0_left.webp,https://scrandle.com/media/o/8ace1f7b997a68df634eff3b17c02b91.webp,scrandle,bottom,275.16608734299473
+2026-05-07,0,right,1911846465174974774,https://x.com/EddieSneddon/status/1911846465174974774,6.75,39.2,2025,"Steak pie, mash and gravy",With a drink,City Academy,,0_right.webp,https://scrandle.com/media/o/Gog-EdRXYAAHwoP.webp,scrandle,center,344.80740234400093
+2026-05-07,1,left,100365,,,42.63,2026,Hotdog,,Aston Villa FC,ENG,1_left.webp,https://scrandle.com/media/o/edb041cd9adfaff5b467388f840f4ba4.webp,scrandle,center,383.0511253489487
+2026-05-07,1,right,1903851843840606255,https://x.com/HeavensAbove5/status/1903851843840606255,,64.3,2025,Big burger,,Badshot Lea FC,ENG,1_right.webp,https://scrandle.com/media/o/9-xJMzUci6senHe9.webp,scrandle,center,495.1403589775027
+2026-05-07,2,left,1889358550159233234,https://x.com/SportScran/status/1889358550159233234,6.25,56.36,2025,Chocolate brownie,With biscotti,Hull City,ENG,2_left.webp,https://scrandle.com/media/o/GjhZliaWsAAvoYg.webp,scrandle,center,489.9447853088398
+2026-05-07,2,right,100442,,9.0,34.89,2026,Cheeseburger,"With lettuce, tomato, cucumber, black/purple Doritos and burger sauce","Fylkir v Ægir, Fylkisvöllur",ISL,2_right.webp,https://scrandle.com/media/o/a1965075ecf8912c6715643aa263876b.webp,scrandle,center,314.9731847526344
+2026-05-07,3,left,100022,,9.0,25.68,2025,Jalapeño cheese sausage,With salsa verde,Unknown Location,USA,3_left.webp,https://scrandle.com/media/o/IMG_5727.webp,scrandle,bottom,281.2436575144578
+2026-05-07,3,right,1878496130826121699,https://x.com/SportScran/status/1878496130826121699,11.0,19.24,2025,Sausage wrap,,Austin FC,USA,3_right.webp,https://scrandle.com/media/o/GhHCRjHW0AAsz_2.webp,scrandle,center,181.35855453131165
+2026-05-07,4,left,100265,,6.0,36.48,2026,Class Chips Mince and Onion Pie Peas and Gravy,,Clitheroe FC,ENG,4_left.webp,https://scrandle.com/media/o/329fc7b18f4bdc6773d40da3b241ace9.webp,scrandle,center,357.4797082417037
+2026-05-07,4,right,1818842097266704758,https://x.com/ramosernesto8/status/1818842097266704758,10.4,10.74,2024,Pizza,,PayPal Park,USA,4_right.webp,https://scrandle.com/media/o/GT3TPaLXYAAvzjK.webp,scrandle,bottom,185.48140963641526
+2026-05-07,5,left,1822582738899120241,https://x.com/dkdk1486/status/1822582738899120241,,44.57,2024,Fish,With 6 chips,Stockport County,ENG,5_left.webp,https://scrandle.com/media/o/GUsdVvUWYAAAyiD.webp,scrandle,center,277.5697700610387
+2026-05-07,5,right,1829593511458410828,https://x.com/TheDeckfootball/status/1829593511458410828,,72.78,2024,Hot Honey Chicken & Chip,,Kenilworth Road,ENG,5_right.webp,https://scrandle.com/media/o/GWQFkIBWIAA1KfV.webp,scrandle,center,420.46633896584507
+2026-05-07,6,left,1876281042677662018,https://x.com/SportScran/status/1876281042677662018,7.5,10.15,2025,Double cheeseburger,,Brighton & Hove Albion,ENG,6_left.webp,https://scrandle.com/media/o/GgnjqdzWgAAKEfa.webp,scrandle,center,192.67121256319436
+2026-05-07,6,right,1822602816994656426,https://x.com/ArchibaldChump/status/1822602816994656426,21.25,27.89,2024,Southern Fried Chicken burger,With Pepsi Max,Arsenal,ENG,6_right.webp,https://scrandle.com/media/o/GUsvmekWwAATuaE.webp,scrandle,center,297.26744012046726
+2026-05-07,7,left,1898433569464418632,https://x.com/MikeUTFB/status/1898433569464418632,9.5,31.78,2025,Duck wrap,,Slough Town,ENG,7_left.webp,https://scrandle.com/media/o/GliXRHlWAAAwpiv.webp,scrandle,center,242.96633516971986
+2026-05-07,7,right,100428,,4.25,43.05,2026,Hot dog,,Orlando Storm vs St. Louis Battlehawks,USA,7_right.webp,https://scrandle.com/media/o/abebdf118479f3daa3f2768be77a40f6.webp,scrandle,bottom,358.52413584056615
+2026-05-07,8,left,100360,,8.9,30.36,2026,Pizza,,"Martinsville Speedway, VA",USA,8_left.webp,https://scrandle.com/media/o/ce940af4b16fd6611fd35c3c207eded4.webp,scrandle,bottom,229.64353941248976
+2026-05-07,8,right,100040,,5.0,6.27,2025,Burger,,"Banbury, Oxfordshire",ENG,8_right.webp,https://scrandle.com/media/o/FaTqnr2XwAQcOxX.webp,scrandle,center,173.11227376931961
+2026-05-07,9,left,100457,,6.6,38.66,2026,Nachos,"Cheese sauce, salsa, jalapeños","Coors Field, CO",USA,9_left.webp,https://scrandle.com/media/o/58864b60d74920601bc6957fb1e0d30c.webp,scrandle,center,322.3243935631724
+2026-05-07,9,right,1542226972599779329,https://x.com/FootyScran/status/1542226972599779329,12.0,50.92,2022,Din Tai Fung,Spicy wontons,Seattle Sounders FC,USA,9_right.webp,https://scrandle.com/media/o/FWcXQZgXoAUdS0Q.webp,scrandle,center,470.2802843508406

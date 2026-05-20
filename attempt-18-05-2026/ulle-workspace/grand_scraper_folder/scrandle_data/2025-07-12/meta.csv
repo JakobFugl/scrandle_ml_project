@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-07-12,0,left,Roast potatoes with beef and gravy,,3.9,84.0,0_left.webp,https://scrandle.com/media/o/FkMd3fiXkAAMIHA.webp
-2025-07-12,0,right,Cob on the Tyne,"Sausages, chips and gravy in a hollowed bread",3.0,78.1,0_right.webp,https://scrandle.com/media/o/FSGiko1XsAIzS1v.webp
-2025-07-12,1,left,Pork sandwich,,2.5,83.4,1_left.webp,https://scrandle.com/media/o/FTjNsr4WYAQ--tE.webp
-2025-07-12,1,right,Fish finger sandwich,,3.0,44.5,1_right.webp,https://scrandle.com/media/o/FNp9JYEXsAA6KDw.webp
-2025-07-12,2,left,Smash cheeseburger with bacon,,3.8,91.1,2_left.webp,https://scrandle.com/media/o/Fih2pLkXEAEtI2r.webp
-2025-07-12,2,right,Pizza,,2.3,65.0,2_right.webp,https://scrandle.com/media/o/FvUlPVHXwAEOuhM.webp
-2025-07-12,3,left,Yangnyeom chicken,"With rice, kimchi and a triple whiskey highball",7.5,92.4,3_left.webp,https://scrandle.com/media/o/FzionhbXsAAG08i.webp
-2025-07-12,3,right,Fish and chips,,4.8,91.5,3_right.webp,https://scrandle.com/media/o/F1kKduEXoAEL3Yz.webp
-2025-07-12,4,left,Chicken tikka naan and chips,,6.0,76.1,4_left.webp,https://scrandle.com/media/o/FL-LgY4WUAIZgQU.webp
-2025-07-12,4,right,Cheeseburger,,4.5,12.9,4_right.webp,https://scrandle.com/media/o/FvnjzzmWIAAPQ_J.webp
-2025-07-12,5,left,"Pie, mash and gravy",,6.5,80.6,5_left.webp,https://scrandle.com/media/o/FJ48yMdXIAMpXWp.webp
-2025-07-12,5,right,Steak and sausage,With rice and beans,3.9,89.7,5_right.webp,https://scrandle.com/media/o/F_5r5AKXIAAMZIQ.webp
-2025-07-12,6,left,Hot dog,,6.5,50.7,6_left.webp,https://scrandle.com/media/o/F3Wf4yTW0AAMPtY.webp
-2025-07-12,6,right,Deep fried cheese in a roll,,3.3,73.7,6_right.webp,https://scrandle.com/media/o/FKmBIoYXMAcZyvn.webp
-2025-07-12,7,left,Knappers burger,"Double beef, bacon, cheese and onions",6.0,87.4,7_left.webp,https://scrandle.com/media/o/FcxoSt9WAAEVCOq.webp
-2025-07-12,7,right,Pizza slice,With a can of beer,15.0,19.8,7_right.webp,https://scrandle.com/media/o/FNl1iJvXwAMxM1s.webp
-2025-07-12,8,left,Fried chicken and chips,With sticky buffalo sauce and jalapeno mayonnaise,9.0,91.7,8_left.webp,https://scrandle.com/media/o/Fc76TPnXEAIrOnp.webp
-2025-07-12,8,right,Rocks burger,With chips and masala sauce,3.0,76.3,8_right.webp,https://scrandle.com/media/o/FQOYBFrWYAYusXv.webp
-2025-07-12,9,left,Hot dog,,4.0,24.7,9_left.webp,https://scrandle.com/media/o/Fp1JcyRWYAAWfoa.webp
-2025-07-12,9,right,"Haddock, chips, mushy peas","Wnd batter scraps, in pita",6.5,86.1,9_right.webp,https://scrandle.com/media/o/GmvTt3SXsAA_4e6.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-07-12,0,left,1604158739267092481,https://twitter.com/FootyScran/status/1604158739267092481,3.9,84.0,2022,Roast potatoes with beef and gravy,,Huddersfield Town,ENG,0_left.webp,https://scrandle.com/media/o/FkMd3fiXkAAMIHA.webp,scrandle,center,383.20734935868705
+2025-07-12,0,right,1522676905324994561,https://twitter.com/FootyScran/status/1522676905324994561,3.0,78.1,2022,Cob on the Tyne,"Sausages, chips and gravy in a hollowed bread",South Shields,ENG,0_right.webp,https://scrandle.com/media/o/FSGiko1XsAIzS1v.webp,twitter,center,400.0
+2025-07-12,1,left,1529198246161154048,https://twitter.com/FootyScran/status/1529198246161154048,2.5,83.4,2022,Pork sandwich,,Corinthians,BRA,1_left.webp,https://scrandle.com/media/o/FTjNsr4WYAQ--tE.webp,scrandle,center,370.5857746927643
+2025-07-12,1,right,1502651036607078405,https://twitter.com/FootyScran/status/1502651036607078405,3.0,44.5,2022,Fish finger sandwich,,Holyport FC,ENG,1_right.webp,https://scrandle.com/media/o/FNp9JYEXsAA6KDw.webp,scrandle,center,304.0249183098068
+2025-07-12,2,left,1596656525439037440,https://twitter.com/FootyScran/status/1596656525439037440,3.8,91.1,2022,Smash cheeseburger with bacon,,Gremio,BRA,2_left.webp,https://scrandle.com/media/o/Fih2pLkXEAEtI2r.webp,scrandle,center,422.49377676293113
+2025-07-12,2,right,1654269389330325505,https://twitter.com/FootyScran/status/1654269389330325505,2.3,65.0,2023,Pizza,,Botafogo,BRA,2_right.webp,https://scrandle.com/media/o/FvUlPVHXwAEOuhM.webp,scrandle,center,269.3077566690543
+2025-07-12,3,left,1673272669456695297,https://twitter.com/FootyScran/status/1673272669456695297,7.5,92.4,2023,Yangnyeom chicken,"With rice, kimchi and a triple whiskey highball",Omiya Ardija,JPN,3_left.webp,https://scrandle.com/media/o/FzionhbXsAAG08i.webp,scrandle,center,641.2468519899011
+2025-07-12,3,right,1682387446992891904,https://twitter.com/FootyScran/status/1682387446992891904,4.8,91.5,2023,Fish and chips,,Eden Park,NZL,3_right.webp,https://scrandle.com/media/o/F1kKduEXoAEL3Yz.webp,scrandle,center,441.4855710063429
+2025-07-12,4,left,1495066995691298824,https://twitter.com/FootyScran/status/1495066995691298824,6.0,76.1,2022,Chicken tikka naan and chips,,Debenham LC FC,ENG,4_left.webp,https://scrandle.com/media/o/FL-LgY4WUAIZgQU.webp,scrandle,center,413.2795142702482
+2025-07-12,4,right,1655604822001762306,https://twitter.com/FootyScran/status/1655604822001762306,4.5,12.9,2023,Cheeseburger,,Everton,ENG,4_right.webp,https://scrandle.com/media/o/FvnjzzmWIAAPQ_J.webp,scrandle,center,155.74495363960446
+2025-07-12,5,left,1485691766716211200,https://twitter.com/FootyScran/status/1485691766716211200,6.5,80.6,2022,"Pie, mash and gravy",,Charlton Athletic,ENG,5_left.webp,https://scrandle.com/media/o/FJ48yMdXIAMpXWp.webp,scrandle,bottom,291.25748481484794
+2025-07-12,5,right,1728937939697328144,https://twitter.com/FootyScran/status/1728937939697328144,3.9,89.7,2023,Steak and sausage,With rice and beans,C.D FAS,SLV,5_right.webp,https://scrandle.com/media/o/F_5r5AKXIAAMZIQ.webp,scrandle,center,365.7782559431445
+2025-07-12,6,left,1690433037207511040,https://twitter.com/FootyScran/status/1690433037207511040,6.5,50.7,2023,Hot dog,,Everton,ENG,6_left.webp,https://scrandle.com/media/o/F3Wf4yTW0AAMPtY.webp,scrandle,center,198.85197815980382
+2025-07-12,6,right,1488863148014723079,https://twitter.com/FootyScran/status/1488863148014723079,3.3,73.7,2022,Deep fried cheese in a roll,,Sparta Rotterdam,NED,6_right.webp,https://scrandle.com/media/o/FKmBIoYXMAcZyvn.webp,scrandle,center,270.27426274732267
+2025-07-12,7,left,1570745045791408139,https://twitter.com/FootyScran/status/1570745045791408139,6.0,87.4,2022,Knappers burger,"Double beef, bacon, cheese and onions",Knaphill FC,ENG,7_left.webp,https://scrandle.com/media/o/FcxoSt9WAAEVCOq.webp,scrandle,center,409.7809277231255
+2025-07-12,7,right,1502361185638825984,https://twitter.com/FootyScran/status/1502361185638825984,15.0,19.8,2022,Pizza slice,With a can of beer,Chicago Fire,USA,7_right.webp,https://scrandle.com/media/o/FNl1iJvXwAMxM1s.webp,scrandle,center,376.65032262983004
+2025-07-12,8,left,1571468534902923264,https://twitter.com/FootyScran/status/1571468534902923264,9.0,91.7,2022,Fried chicken and chips,With sticky buffalo sauce and jalapeno mayonnaise,Tottenham Hotspur,ENG,8_left.webp,https://scrandle.com/media/o/Fc76TPnXEAIrOnp.webp,scrandle,center,516.5083030549081
+2025-07-12,8,right,1514221051152060420,https://twitter.com/FootyScran/status/1514221051152060420,3.0,76.3,2022,Rocks burger,With chips and masala sauce,Bognor Regis Town FC,ENG,8_right.webp,https://scrandle.com/media/o/FQOYBFrWYAYusXv.webp,scrandle,center,506.41936696139726
+2025-07-12,9,left,1629539403142971395,https://twitter.com/FootyScran/status/1629539403142971395,4.0,24.7,2023,Hot dog,,Gillingham,ENG,9_left.webp,https://scrandle.com/media/o/Fp1JcyRWYAAWfoa.webp,scrandle,center,225.38002620952733
+2025-07-12,9,right,1903848080769733080,https://x.com/FootyScran/status/1903848080769733080,6.5,86.1,2025,"Haddock, chips, mushy peas","Wnd batter scraps, in pita",Grimsby Town,ENG,9_right.webp,https://scrandle.com/media/o/GmvTt3SXsAA_4e6.webp,scrandle,center,334.04662786838384

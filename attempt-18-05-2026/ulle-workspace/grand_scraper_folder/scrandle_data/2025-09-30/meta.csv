@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-09-30,0,left,Mushy peas,,1.5,20.3,0_left.webp,https://scrandle.com/media/o/FRxOi7zX0AE8JPW.webp
-2025-09-30,0,right,Malang Meatball,,2.5,52.1,0_right.webp,https://scrandle.com/media/o/F_n9akfXkAAPvfX.webp
-2025-09-30,1,left,Sausage stromboli,,9.8,93.3,1_left.webp,https://scrandle.com/media/o/FrImJRHXwAU43hH.webp
-2025-09-30,1,right,Kielbasa,,1.7,79.3,1_right.webp,https://scrandle.com/media/o/FOxojpHXsAM7zpn.webp
-2025-09-30,2,left,Double smokehouse burger,,7.0,90.6,2_left.webp,https://scrandle.com/media/o/FNqyG5aXoBAI4ry.webp
-2025-09-30,2,right,Margherita pizza,,10.0,83.6,2_right.webp,https://scrandle.com/media/o/FXtQS5UUIAMKv28.webp
-2025-09-30,3,left,Chicken bucket,,17.5,63.5,3_left.webp,https://scrandle.com/media/o/FNrWYG0WQAAtzaN.webp
-2025-09-30,3,right,Pizza,(Papa John's tagged in tweet),6.0,80.8,3_right.webp,https://scrandle.com/media/o/GG4gi94WcAAxlay.webp
-2025-09-30,4,left,Unidentified food,We're at the cricket today,11.4,56.9,4_left.webp,https://scrandle.com/media/o/F5HCmdjWMAAvxU8.webp
-2025-09-30,4,right,Doughnuts,Price for each,5.0,70.9,4_right.webp,https://scrandle.com/media/o/FefJC_AXgAI9EtF.webp
-2025-09-30,5,left,Cheesy chips,,3.0,26.1,5_left.webp,https://scrandle.com/media/o/FQJ_9cXXoAk9QJO.webp
-2025-09-30,5,right,Double cheeseburger jumbo hot dog,,7.0,79.0,5_right.webp,https://scrandle.com/media/o/FuZWnxSX0AA7ULC.webp
-2025-09-30,6,left,Currywurst mit pommes frites,,2.5,87.3,6_left.webp,https://scrandle.com/media/o/FRSE6KhX0AA0gpC.webp
-2025-09-30,6,right,Sticky Korean chicken,With chips,5.0,92.7,6_right.webp,https://scrandle.com/media/o/Fo8LmJ2WcAIdFss.webp
-2025-09-30,7,left,Steak pasty,With a guinness,,50.64,7_left.webp,https://scrandle.com/media/o/Gf6NNK5WUAAnGwX.webp
-2025-09-30,7,right,The pea dog,,,13.01,7_right.webp,https://scrandle.com/media/o/FDiUiRpWUAcREfD.webp
-2025-09-30,8,left,Double cheeseburger,With cheesy chips,5.5,92.4,8_left.webp,https://scrandle.com/media/o/FKhs6BcXsAEY-1D.webp
-2025-09-30,8,right,Bratwurst,,4.2,79.9,8_right.webp,https://scrandle.com/media/o/GDUmNOtWcAA1pG1.webp
-2025-09-30,9,left,Nachos and dips,,5.0,32.9,9_left.webp,https://scrandle.com/media/o/FQtKSYKWUAs8Ig_.webp
-2025-09-30,9,right,Sonoran hot dog,,6.8,26.3,9_right.webp,https://scrandle.com/media/o/FNR8saiXwAEfOhA.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-09-30,0,left,1521177140783468544,https://twitter.com/FootyScran/status/1521177140783468544,1.5,20.3,2022,Mushy peas,,Notts County,ENG,0_left.webp,https://scrandle.com/media/o/FRxOi7zX0AE8JPW.webp,scrandle,center,121.30721800729691
+2025-09-30,0,right,1727690571857215779,https://twitter.com/FootyScran/status/1727690571857215779,2.5,52.1,2023,Malang Meatball,,Jakarta,IDN,0_right.webp,https://scrandle.com/media/o/F_n9akfXkAAPvfX.webp,scrandle,center,262.57988468987014
+2025-09-30,1,left,1635411560964435974,https://twitter.com/FootyScran/status/1635411560964435974,9.8,93.3,2023,Sausage stromboli,,Atlanta United,USA,1_left.webp,https://scrandle.com/media/o/FrImJRHXwAU43hH.webp,scrandle,center,500.65087916334994
+2025-09-30,1,right,1507694940947681281,https://twitter.com/FootyScran/status/1507694940947681281,1.7,79.3,2022,Kielbasa,,Znicz Pruszków,POL,1_right.webp,https://scrandle.com/media/o/FOxojpHXsAM7zpn.webp,scrandle,center,323.3627235486607
+2025-09-30,2,left,1502709264481140742,https://twitter.com/FootyScran/status/1502709264481140742,7.0,90.6,2022,Double smokehouse burger,,Wycombe Wanderers,ENG,2_left.webp,https://scrandle.com/media/o/FNqyG5aXoBAI4ry.webp,scrandle,center,582.5343930305888
+2025-09-30,2,right,1547919188768858113,https://twitter.com/FootyScran/status/1547919188768858113,10.0,83.6,2022,Margherita pizza,,UEFA Womens Euro 2022,ENG,2_right.webp,https://scrandle.com/media/o/FXtQS5UUIAMKv28.webp,scrandle,center,387.18815104461686
+2025-09-30,3,left,1502749141562277894,https://twitter.com/FootyScran/status/1502749141562277894,17.5,63.5,2022,Chicken bucket,,New York City FC,USA,3_left.webp,https://scrandle.com/media/o/FNrWYG0WQAAtzaN.webp,scrandle,center,128.09604046166925
+2025-09-30,3,right,1760380295298105508,https://x.com/FootyScran/status/1760380295298105508,6.0,80.8,2024,Pizza,(Papa John's tagged in tweet),MK Dons,ENG,3_right.webp,https://scrandle.com/media/o/GG4gi94WcAAxlay.webp,scrandle,center,493.0177951798625
+2025-09-30,4,left,1698352509134197171,https://twitter.com/FootyScran/status/1698352509134197171,11.4,56.9,2023,Unidentified food,We're at the cricket today,Edgbaston,ENG,4_left.webp,https://scrandle.com/media/o/F5HCmdjWMAAvxU8.webp,scrandle,center,380.5523901351269
+2025-09-30,4,right,1578451263364431873,https://twitter.com/FootyScran/status/1578451263364431873,5.0,70.9,2022,Doughnuts,Price for each,England v USA Women,ENG,4_right.webp,https://scrandle.com/media/o/FefJC_AXgAI9EtF.webp,scrandle,center,464.90845929429685
+2025-09-30,5,left,1513913124184858625,https://twitter.com/FootyScran/status/1513913124184858625,3.0,26.1,2022,Cheesy chips,,Telford United,ENG,5_left.webp,https://scrandle.com/media/o/FQJ_9cXXoAk9QJO.webp,scrandle,center,154.3749054986361
+2025-09-30,5,right,1650101559642947588,https://twitter.com/FootyScran/status/1650101559642947588,7.0,79.0,2023,Double cheeseburger jumbo hot dog,,Dagenham & Redbridge,ENG,5_right.webp,https://scrandle.com/media/o/FuZWnxSX0AA7ULC.webp,scrandle,center,347.5847947874042
+2025-09-30,6,left,1518985119968731136,https://twitter.com/FootyScran/status/1518985119968731136,2.5,87.3,2022,Currywurst mit pommes frites,,FC Nürnberg,GER,6_left.webp,https://scrandle.com/media/o/FRSE6KhX0AA0gpC.webp,scrandle,center,466.2153330378723
+2025-09-30,6,right,1625530748429107202,https://twitter.com/FootyScran/status/1625530748429107202,5.0,92.7,2023,Sticky Korean chicken,With chips,Sunderland,ENG,6_right.webp,https://scrandle.com/media/o/Fo8LmJ2WcAIdFss.webp,scrandle,center,635.4943393132969
+2025-09-30,7,left,1873089761973551238,https://x.com/SophLouiseHall/status/1873089761973551238,,50.64,2024,Steak pasty,With a guinness,Bolton Wanderers,ENG,7_left.webp,https://scrandle.com/media/o/Gf6NNK5WUAAnGwX.webp,scrandle,center,372.68452997931354
+2025-09-30,7,right,1457077801891344386,https://x.com/FootyScran/status/1457077801891344386,,13.01,2021,The pea dog,,Burscough Town,ENG,7_right.webp,https://scrandle.com/media/o/FDiUiRpWUAcREfD.webp,scrandle,center,209.79795509224297
+2025-09-30,8,left,1488559426281918465,https://twitter.com/FootyScran/status/1488559426281918465,5.5,92.4,2022,Double cheeseburger,With cheesy chips,Airbus UK,ENG,8_left.webp,https://scrandle.com/media/o/FKhs6BcXsAEY-1D.webp,scrandle,center,421.1519172438495
+2025-09-30,8,right,1744342445393920262,https://twitter.com/FootyScran/status/1744342445393920262,4.2,79.9,2024,Bratwurst,,Hertha Berlin,GER,8_right.webp,https://scrandle.com/media/o/GDUmNOtWcAA1pG1.webp,scrandle,center,307.8308947615274
+2025-09-30,9,left,1516387385197711368,https://twitter.com/FootyScran/status/1516387385197711368,5.0,32.9,2022,Nachos and dips,,Barcelona,ESP,9_left.webp,https://scrandle.com/media/o/FQtKSYKWUAs8Ig_.webp,scrandle,center,271.1181350584048
+2025-09-30,9,right,1500961686957744132,https://twitter.com/FootyScran/status/1500961686957744132,6.8,26.3,2022,Sonoran hot dog,,Austin FC,USA,9_right.webp,https://scrandle.com/media/o/FNR8saiXwAEfOhA.webp,scrandle,center,255.4712698516724

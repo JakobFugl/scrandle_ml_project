@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-09-22,0,left,Chicken big mack and chips,,10.0,94.7,0_left.webp,https://scrandle.com/media/o/F4snkWpWwAAsda5.webp
-2025-09-22,0,right,Fish and chips,,7.0,87.4,0_right.webp,https://scrandle.com/media/o/FrGK8b6XgAEaB3i.webp
-2025-09-22,1,left,Chinese box,,10.0,83.5,1_left.webp,https://scrandle.com/media/o/FK2GzM7XEAcn6dI.webp
-2025-09-22,1,right,Fischbrötchen,Fish in a bun,4.0,27.1,1_right.webp,https://scrandle.com/media/o/F7m4PJRWcAASTzt.webp
-2025-09-22,2,left,"Sausages, chips and curry sauce in a cob",,4.5,73.6,2_left.webp,https://scrandle.com/media/o/FKS5t4MWYAcW7hS.webp
-2025-09-22,2,right,Twenteham,,4.0,89.3,2_right.webp,https://scrandle.com/media/o/FZOhuF8XoAIKc4Z.webp
-2025-09-22,3,left,Burger,,5.0,8.6,3_left.webp,https://scrandle.com/media/o/F1KaPUaXsAMU42t.webp
-2025-09-22,3,right,Hot dog,,4.0,14.6,3_right.webp,https://scrandle.com/media/o/FKbsOrSXsAEr8Jw.webp
-2025-09-22,4,left,Sausage roll,,3.0,12.4,4_left.webp,https://scrandle.com/media/o/FXOKAS3WAAEzulc.webp
-2025-09-22,4,right,Salted herring sandwich,,2.1,22.6,4_right.webp,https://scrandle.com/media/o/FRstEY4XIAELk8r.webp
-2025-09-22,5,left,3 in 1 chicken tray,,5.8,89.8,5_left.webp,https://scrandle.com/media/o/GP-VLb1WEAAw7tU.webp
-2025-09-22,5,right,Double bacon and pulled pork cheeseburger,,4.5,73.3,5_right.webp,https://scrandle.com/media/o/FSQNuO5WYAg5rm_.webp
-2025-09-22,6,left,Donuts,,4.0,87.7,6_left.webp,https://scrandle.com/media/o/F5Vs4YYW0AMHIlh.webp
-2025-09-22,6,right,Makkarapärinät,"Chopped sausages, curly fries and condiments",8.5,82.6,6_right.webp,https://scrandle.com/media/o/FThaOxxWAAEQK7v.webp
-2025-09-22,7,left,O-nuts,Price for 6,9.0,58.5,7_left.webp,https://scrandle.com/media/o/FO23uRTX0Ac1dZV.webp
-2025-09-22,7,right,Wings and chips,,6.0,90.1,7_right.webp,https://scrandle.com/media/o/FMnjOf-X0AIPc0W.webp
-2025-09-22,8,left,Pork gyros,,6.95,94.9,8_left.webp,https://scrandle.com/media/o/F3G1UvJW0AEpzfv.webp
-2025-09-22,8,right,Currywurst and beers,Beers included in price,7.5,82.8,8_right.webp,https://scrandle.com/media/o/GIKAX5XXkAEPIqO.webp
-2025-09-22,9,left,Steak and fries,With peppercorn sauce,9.0,82.8,9_left.webp,https://scrandle.com/media/o/Fu4UjkxWAAAmLUq.webp
-2025-09-22,9,right,"Pie, chips and gravy",,4.6,89.0,9_right.webp,https://scrandle.com/media/o/GOMo_ztXIAAJAR7.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-09-22,0,left,1696493195188638124,https://twitter.com/FootyScran/status/1696493195188638124,10.0,94.7,2023,Chicken big mack and chips,,St Albans City FC,ENG,0_left.webp,https://scrandle.com/media/o/F4snkWpWwAAsda5.webp,scrandle,center,525.8467227596929
+2025-09-22,0,right,1635240916515708929,https://twitter.com/FootyScran/status/1635240916515708929,7.0,87.4,2023,Fish and chips,,Melbourne Victory,AUS,0_right.webp,https://scrandle.com/media/o/FrGK8b6XgAEaB3i.webp,scrandle,center,486.7614311952458
+2025-09-22,1,left,1489995277582970880,https://twitter.com/FootyScran/status/1489995277582970880,10.0,83.5,2022,Chinese box,,Reading City FC,ENG,1_left.webp,https://scrandle.com/media/o/FK2GzM7XEAcn6dI.webp,scrandle,center,473.99320337235343
+2025-09-22,1,right,1709600110529712534,https://twitter.com/FootyScran/status/1709600110529712534,4.0,27.1,2023,Fischbrötchen,Fish in a bun,Leipzig,GER,1_right.webp,https://scrandle.com/media/o/F7m4PJRWcAASTzt.webp,scrandle,center,222.00234971418496
+2025-09-22,2,left,1487517980212740096,https://twitter.com/FootyScran/status/1487517980212740096,4.5,73.6,2022,"Sausages, chips and curry sauce in a cob",,Merthyr Town FC,WAL,2_left.webp,https://scrandle.com/media/o/FKS5t4MWYAcW7hS.webp,scrandle,center,382.6717317827593
+2025-09-22,2,right,1554764140257869824,https://twitter.com/FootyScran/status/1554764140257869824,4.0,89.3,2022,Twenteham,,FC Twente,NED,2_right.webp,https://scrandle.com/media/o/FZOhuF8XoAIKc4Z.webp,scrandle,center,446.03675980831673
+2025-09-22,3,left,1680575203334664192,https://twitter.com/FootyScran/status/1680575203334664192,5.0,8.6,2023,Burger,,Chesterfield FC,ENG,3_left.webp,https://scrandle.com/media/o/F1KaPUaXsAMU42t.webp,scrandle,center,127.8946399328905
+2025-09-22,3,right,1488136473136279559,https://twitter.com/FootyScran/status/1488136473136279559,4.0,14.6,2022,Hot dog,,Lancaster City FC,ENG,3_right.webp,https://scrandle.com/media/o/FKbsOrSXsAEr8Jw.webp,scrandle,center,116.7497196702994
+2025-09-22,4,left,1545730839622959110,https://twitter.com/FootyScran/status/1545730839622959110,3.0,12.4,2022,Sausage roll,,York City,ENG,4_left.webp,https://scrandle.com/media/o/FXOKAS3WAAEzulc.webp,scrandle,center,168.7339577046286
+2025-09-22,4,right,1520858864287158272,https://twitter.com/FootyScran/status/1520858864287158272,2.1,22.6,2022,Salted herring sandwich,,FC Energie Cottbus,GER,4_right.webp,https://scrandle.com/media/o/FRstEY4XIAELk8r.webp,scrandle,center,175.78400504452406
+2025-09-22,5,left,1801322405006086471,https://x.com/FootyScran/status/1801322405006086471,5.8,89.8,2024,3 in 1 chicken tray,,St Patrick’s Athletic,IRL,5_left.webp,https://scrandle.com/media/o/GP-VLb1WEAAw7tU.webp,scrandle,center,532.0508189815399
+2025-09-22,5,right,1523357666810396672,https://twitter.com/FootyScran/status/1523357666810396672,4.5,73.3,2022,Double bacon and pulled pork cheeseburger,,Walnut Tree FC,ENG,5_right.webp,https://scrandle.com/media/o/FSQNuO5WYAg5rm_.webp,scrandle,center,454.9744573329201
+2025-09-22,6,left,1699384159414747467,https://twitter.com/FootyScran/status/1699384159414747467,4.0,87.7,2023,Donuts,,Blyth Spartans,ENG,6_left.webp,https://scrandle.com/media/o/F5Vs4YYW0AMHIlh.webp,scrandle,center,505.8674851049891
+2025-09-22,6,right,1529071289524269056,https://twitter.com/FootyScran/status/1529071289524269056,8.5,82.6,2022,Makkarapärinät,"Chopped sausages, curly fries and condiments",SJK Seinajoki,FIN,6_right.webp,https://scrandle.com/media/o/FThaOxxWAAEQK7v.webp,scrandle,center,359.9041321878643
+2025-09-22,7,left,1508063460969660422,https://twitter.com/FootyScran/status/1508063460969660422,9.0,58.5,2022,O-nuts,Price for 6,Leyton Orient,ENG,7_left.webp,https://scrandle.com/media/o/FO23uRTX0Ac1dZV.webp,scrandle,center,292.8463380298765
+2025-09-22,7,right,1497978198180741121,https://twitter.com/FootyScran/status/1497978198180741121,6.0,90.1,2022,Wings and chips,,Barton Rovers,ENG,7_right.webp,https://scrandle.com/media/o/FMnjOf-X0AIPc0W.webp,scrandle,center,657.022569495374
+2025-09-22,8,left,1689330707728859137,https://twitter.com/FootyScran/status/1689330707728859137,6.95,94.9,2023,Pork gyros,,Barnsley FC,ENG,8_left.webp,https://scrandle.com/media/o/F3G1UvJW0AEpzfv.webp,scrandle,center,575.6211991613283
+2025-09-22,8,right,1766115157376143836,https://x.com/FootyScran/status/1766115157376143836,7.5,82.8,2024,Currywurst and beers,Beers included in price,Schalke 04,GER,8_right.webp,https://scrandle.com/media/o/GIKAX5XXkAEPIqO.webp,scrandle,center,446.0396173852809
+2025-09-22,9,left,1652280718733475840,https://twitter.com/FootyScran/status/1652280718733475840,9.0,82.8,2023,Steak and fries,With peppercorn sauce,Man City,ENG,9_left.webp,https://scrandle.com/media/o/Fu4UjkxWAAAmLUq.webp,scrandle,center,437.50834667860573
+2025-09-22,9,right,1793322158434705883,https://x.com/FootyScran/status/1793322158434705883,4.6,89.0,2024,"Pie, chips and gravy",,Curzon Ashton,ENG,9_right.webp,https://scrandle.com/media/o/GOMo_ztXIAAJAR7.webp,scrandle,center,284.1875038005014

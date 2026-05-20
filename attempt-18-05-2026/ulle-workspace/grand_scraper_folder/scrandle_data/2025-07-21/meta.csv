@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-07-21,0,left,Chicken and halloumi souvlaki,,8.0,95.6,0_left.webp,https://scrandle.com/media/o/FulUARlWcAEgGDk.webp
-2025-07-21,0,right,Pork in a bun,,3.8,84.0,0_right.webp,https://scrandle.com/media/o/F3vByN5W0AAWkpV.webp
-2025-07-21,1,left,Makkarapärinät,"Chopped sausages, curly fries and condiments",8.5,82.6,1_left.webp,https://scrandle.com/media/o/FThaOxxWAAEQK7v.webp
-2025-07-21,1,right,Fish and chips,,9.95,84.0,1_right.webp,https://scrandle.com/media/o/FPbrz5lWYAId_Nz.webp
-2025-07-21,2,left,3 birra tacos with sauce,From a tailgate,16.0,72.3,2_left.webp,https://scrandle.com/media/o/Fx5RjNnX0AMpsh8.webp
-2025-07-21,2,right,"Sausage, chips and gravy",,5.0,84.6,2_right.webp,https://scrandle.com/media/o/FlLEn8SWAAIhU_R.webp
-2025-07-21,3,left,Pit Master Box,"Pork, sausage, turkey, sides",15.5,73.5,3_left.webp,https://scrandle.com/media/o/GP01cxoWEAAIPDZ.webp
-2025-07-21,3,right,Steak and ale pie,"With mash, peas and gravy",6.0,85.7,3_right.webp,https://scrandle.com/media/o/FdQ88NdXoAASWdl.webp
-2025-07-21,4,left,Buffalo fried chicken burger,With Korean wings,12.0,94.5,4_left.webp,https://scrandle.com/media/o/FS-a_H4WIAEYVkX.webp
-2025-07-21,4,right,Curry goat and chips,,7.5,84.6,4_right.webp,https://scrandle.com/media/o/FklbtQRXoAY4XMT.webp
-2025-07-21,5,left,Double cheeseburger,,5.0,86.6,5_left.webp,https://scrandle.com/media/o/FK7ZniBXMAI5YbQ.webp
-2025-07-21,5,right,Pork and stuffing bap,With roast potatoes,5.0,88.1,5_right.webp,https://scrandle.com/media/o/Fcj3xnpXwAINdRh.webp
-2025-07-21,6,left,"Pie, mash and liquor",,4.5,40.7,6_left.webp,https://scrandle.com/media/o/FNldmM3WYAA99qE.webp
-2025-07-21,6,right,Smash cheeseburger with bacon,,3.8,91.1,6_right.webp,https://scrandle.com/media/o/Fih2pLkXEAEtI2r.webp
-2025-07-21,7,left,Bacon roll,,4.6,9.9,7_left.webp,https://scrandle.com/media/o/Fe4cxaYXkAEEPKD.webp
-2025-07-21,7,right,Rocks burger,With chips and masala sauce,3.0,76.3,7_right.webp,https://scrandle.com/media/o/FQOYBFrWYAYusXv.webp
-2025-07-21,8,left,Steak and sausages,Price for one,3.3,91.4,8_left.webp,https://scrandle.com/media/o/GmQoRIIasAAGQyK.webp
-2025-07-21,8,right,Kiwi and sausage pizza,,6.0,34.8,8_right.webp,https://scrandle.com/media/o/Fq3pMt9XgAAeBuo.webp
-2025-07-21,9,left,Chicken tikka and rice naan,,6.5,91.7,9_left.webp,https://scrandle.com/media/o/FrBdNKZWIAEA-Xw.webp
-2025-07-21,9,right,Sushi rolls,,6.8,55.0,9_right.webp,https://scrandle.com/media/o/Fls00CaXEAARIvj.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-07-21,0,left,1650943107192463360,https://twitter.com/FootyScran/status/1650943107192463360,8.0,95.6,2023,Chicken and halloumi souvlaki,,Dulwich Hamlet,ENG,0_left.webp,https://scrandle.com/media/o/FulUARlWcAEgGDk.webp,scrandle,center,619.1739572526559
+2025-07-21,0,right,1692159158525497371,https://twitter.com/FootyScran/status/1692159158525497371,3.8,84.0,2023,Pork in a bun,,Viktoria Berlin,GER,0_right.webp,https://scrandle.com/media/o/F3vByN5W0AAWkpV.webp,scrandle,center,422.20544990735453
+2025-07-21,1,left,1529071289524269056,https://twitter.com/FootyScran/status/1529071289524269056,8.5,82.6,2022,Makkarapärinät,"Chopped sausages, curly fries and condiments",SJK Seinajoki,FIN,1_left.webp,https://scrandle.com/media/o/FThaOxxWAAEQK7v.webp,scrandle,center,359.9041321878643
+2025-07-21,1,right,1510654007055982596,https://twitter.com/FootyScran/status/1510654007055982596,9.95,84.0,2022,Fish and chips,,Tottenham Hotspur,ENG,1_right.webp,https://scrandle.com/media/o/FPbrz5lWYAId_Nz.webp,scrandle,center,506.7663016879047
+2025-07-21,2,left,1665858592040267776,https://twitter.com/FootyScran/status/1665858592040267776,16.0,72.3,2023,3 birra tacos with sauce,From a tailgate,Philadelphia Union,USA,2_left.webp,https://scrandle.com/media/o/Fx5RjNnX0AMpsh8.webp,scrandle,center,470.1944211474831
+2025-07-21,2,right,1608564214939156481,https://twitter.com/FootyScran/status/1608564214939156481,5.0,84.6,2022,"Sausage, chips and gravy",,Stourbridge FC,ENG,2_right.webp,https://scrandle.com/media/o/FlLEn8SWAAIhU_R.webp,scrandle,center,299.7191845587288
+2025-07-21,3,left,1800654202114326602,https://x.com/FootyScran/status/1800654202114326602,15.5,73.5,2024,Pit Master Box,"Pork, sausage, turkey, sides",Sporting Kansas City,USA,3_left.webp,https://scrandle.com/media/o/GP01cxoWEAAIPDZ.webp,twitter,center,400.0
+2025-07-21,3,right,1572949195463725056,https://twitter.com/FootyScran/status/1572949195463725056,6.0,85.7,2022,Steak and ale pie,"With mash, peas and gravy",Lewes FC,ENG,3_right.webp,https://scrandle.com/media/o/FdQ88NdXoAASWdl.webp,scrandle,center,326.6873185201202
+2025-07-21,4,left,1526609231104856064,https://twitter.com/FootyScran/status/1526609231104856064,12.0,94.5,2022,Buffalo fried chicken burger,With Korean wings,Saffron Walden Town FC,ENG,4_left.webp,https://scrandle.com/media/o/FS-a_H4WIAEYVkX.webp,scrandle,center,612.1817386447193
+2025-07-21,4,right,1605915582406197254,https://twitter.com/FootyScran/status/1605915582406197254,7.5,84.6,2022,Curry goat and chips,,Folkestone Invicta,ENG,4_right.webp,https://scrandle.com/media/o/FklbtQRXoAY4XMT.webp,scrandle,center,509.8825067208837
+2025-07-21,5,left,1490367806692540417,https://twitter.com/FootyScran/status/1490367806692540417,5.0,86.6,2022,Double cheeseburger,,Torquay United,ENG,5_left.webp,https://scrandle.com/media/o/FK7ZniBXMAI5YbQ.webp,scrandle,center,503.99591358322124
+2025-07-21,5,right,1569776909705252865,https://twitter.com/FootyScran/status/1569776909705252865,5.0,88.1,2022,Pork and stuffing bap,With roast potatoes,Barnsley FC,ENG,5_right.webp,https://scrandle.com/media/o/Fcj3xnpXwAINdRh.webp,scrandle,center,332.4859430810474
+2025-07-21,6,left,1502334867735990274,https://twitter.com/FootyScran/status/1502334867735990274,4.5,40.7,2022,"Pie, mash and liquor",,Leyton Orient,ENG,6_left.webp,https://scrandle.com/media/o/FNldmM3WYAA99qE.webp,scrandle,center,280.3542769975173
+2025-07-21,6,right,1596656525439037440,https://twitter.com/FootyScran/status/1596656525439037440,3.8,91.1,2022,Smash cheeseburger with bacon,,Gremio,BRA,6_right.webp,https://scrandle.com/media/o/Fih2pLkXEAEtI2r.webp,scrandle,center,422.49377676293113
+2025-07-21,7,left,1580232164595359744,https://twitter.com/FootyScran/status/1580232164595359744,4.6,9.9,2022,Bacon roll,,Reading FC,ENG,7_left.webp,https://scrandle.com/media/o/Fe4cxaYXkAEEPKD.webp,scrandle,center,98.84878599469917
+2025-07-21,7,right,1514221051152060420,https://twitter.com/FootyScran/status/1514221051152060420,3.0,76.3,2022,Rocks burger,With chips and masala sauce,Bognor Regis Town FC,ENG,7_right.webp,https://scrandle.com/media/o/FQOYBFrWYAYusXv.webp,scrandle,center,506.41936696139726
+2025-07-21,8,left,1901689230247526661,https://x.com/FootyScran/status/1901689230247526661,3.3,91.4,2025,Steak and sausages,Price for one,FC Nurnberg,GER,8_left.webp,https://scrandle.com/media/o/GmQoRIIasAAGQyK.webp,scrandle,center,430.8575385051305
+2025-07-21,8,right,1634218653389299714,https://twitter.com/FootyScran/status/1634218653389299714,6.0,34.8,2023,Kiwi and sausage pizza,,Cerezo Osaka,JPN,8_right.webp,https://scrandle.com/media/o/Fq3pMt9XgAAeBuo.webp,scrandle,center,263.0129391740904
+2025-07-21,9,left,1634909155248177152,https://twitter.com/FootyScran/status/1634909155248177152,6.5,91.7,2023,Chicken tikka and rice naan,,Grimsby Town,ENG,9_left.webp,https://scrandle.com/media/o/FrBdNKZWIAEA-Xw.webp,scrandle,center,564.7145905949238
+2025-07-21,9,right,1610939439798272001,https://twitter.com/FootyScran/status/1610939439798272001,6.8,55.0,2023,Sushi rolls,,Sydney FC,AUS,9_right.webp,https://scrandle.com/media/o/Fls00CaXEAARIvj.webp,scrandle,center,272.6650152778484

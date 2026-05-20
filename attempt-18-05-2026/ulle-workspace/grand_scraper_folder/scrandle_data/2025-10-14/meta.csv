@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-10-14,0,left,Pulled pork loaded fries,,,74.92,0_left.webp,https://scrandle.com/media/o/FyMHHk8WYAIHZnM.webp
-2025-10-14,0,right,Footlong mexican hot dog,,12.5,62.74,0_right.webp,https://scrandle.com/media/o/GWzeve7WEAAjTrl.webp
-2025-10-14,1,left,Cheeseburger,,4.5,12.9,1_left.webp,https://scrandle.com/media/o/FvnjzzmWIAAPQ_J.webp
-2025-10-14,1,right,Nacho sharer,,20.0,34.8,1_right.webp,https://scrandle.com/media/o/FzEH4wrX0AAZB-h.webp
-2025-10-14,2,left,Cheesy chips,,,47.01,2_left.webp,https://scrandle.com/media/o/GKLN2WiWkAE44pi.webp
-2025-10-14,2,right,Spaghetti meatball fries,With parmesan,9.0,64.94,2_right.webp,https://scrandle.com/media/o/FWshfiHWQAAdrJD.webp
-2025-10-14,3,left,Hot dog,,3.3,43.34,3_left.webp,https://scrandle.com/media/o/Gl3NEsEWcAAdGbl.webp
-2025-10-14,3,right,The Steyning stack,With chips,10.0,82.3,3_right.webp,https://scrandle.com/media/o/FE0dMwvX0AMWk5J.webp
-2025-10-14,4,left,Double smash burger,With fries and a can of your choice,10.0,81.59,4_left.webp,https://scrandle.com/media/o/Gv_FJRsXMAAiacQ.webp
-2025-10-14,4,right,Short rib grilled cheese,,11.7,68.51,4_right.webp,https://scrandle.com/media/o/FqAZdMHWwAIKzUW.webp
-2025-10-14,5,left,Beef pie,,4.5,9.86,5_left.webp,https://scrandle.com/media/o/FE42QUVXsAoUAXf.webp
-2025-10-14,5,right,Nachos,,4.5,28.02,5_right.webp,https://scrandle.com/media/o/GLtV61qW8AEtv1N.webp
-2025-10-14,6,left,Chicken wings,,5.65,58.01,6_left.webp,https://scrandle.com/media/o/Gs2cN7fXQAAP3Fp.webp
-2025-10-14,6,right,Hotdog,With onions,4.5,33.14,6_right.webp,https://scrandle.com/media/o/GYlBy9uWYAEdLDt.webp
-2025-10-14,7,left,The United Pie,"Steak, chilli and cheese",,67.31,7_left.webp,https://scrandle.com/media/o/GbKmc22WQAAcnoT.webp
-2025-10-14,7,right,Chili chicken wrap,With chips,8.0,60.82,7_right.webp,https://scrandle.com/media/o/GVQ0XmyW4AAsZAE.webp
-2025-10-14,8,left,Hot dog,,5.3,9.3,8_left.webp,https://scrandle.com/media/o/Fw1HPpaXgAAOjbd.webp
-2025-10-14,8,right,Cheese sandwich,With a pint,9.8,22.3,8_right.webp,https://scrandle.com/media/o/GldqGd3WUAAqMIT.webp
-2025-10-14,9,left,Cheesy chips,,,12.81,9_left.webp,https://scrandle.com/media/o/GdEErG1XQAACJBG.webp
-2025-10-14,9,right,Water in a box,,2.8,22.77,9_right.webp,https://scrandle.com/media/o/GxV6n2MXoAA38-n.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-10-14,0,left,1667184120500199424,https://x.com/FootyScran/status/1667184120500199424,,74.92,2023,Pulled pork loaded fries,,Hull City,ENG,0_left.webp,https://scrandle.com/media/o/FyMHHk8WYAIHZnM.webp,scrandle,center,487.4552609903089
+2025-10-14,0,right,1832084063882236153,https://x.com/FootyScran/status/1832084063882236153,12.5,62.74,2024,Footlong mexican hot dog,,Orlando City SC,USA,0_right.webp,https://scrandle.com/media/o/GWzeve7WEAAjTrl.webp,scrandle,center,466.3428825190919
+2025-10-14,1,left,1655604822001762306,https://twitter.com/FootyScran/status/1655604822001762306,4.5,12.9,2023,Cheeseburger,,Everton,ENG,1_left.webp,https://scrandle.com/media/o/FvnjzzmWIAAPQ_J.webp,scrandle,center,155.74495363960446
+2025-10-14,1,right,1671125612419862529,https://twitter.com/FootyScran/status/1671125612419862529,20.0,34.8,2023,Nacho sharer,,Arsenal,ENG,1_right.webp,https://scrandle.com/media/o/FzEH4wrX0AAZB-h.webp,scrandle,center,409.6109419644559
+2025-10-14,2,left,1775223009705394616,https://x.com/FootyScran/status/1775223009705394616,,47.01,2024,Cheesy chips,,Bracknell Town,ENG,2_left.webp,https://scrandle.com/media/o/GKLN2WiWkAE44pi.webp,scrandle,center,360.32391180913567
+2025-10-14,2,right,1543364140340858881,https://x.com/FootyScran/status/1543364140340858881,9.0,64.94,2022,Spaghetti meatball fries,With parmesan,Toronto FC,CAN,2_right.webp,https://scrandle.com/media/o/FWshfiHWQAAdrJD.webp,scrandle,center,442.87604262612575
+2025-10-14,3,left,1899900105777352720,https://x.com/SportScran/status/1899900105777352720,3.3,43.34,2025,Hot dog,,Copenhagen,DEN,3_left.webp,https://scrandle.com/media/o/Gl3NEsEWcAAdGbl.webp,scrandle,center,351.8183855836715
+2025-10-14,3,right,1462857564715114498,https://x.com/FootyScran/status/1462857564715114498,10.0,82.3,2021,The Steyning stack,With chips,Steyning Town,ENG,3_right.webp,https://scrandle.com/media/o/FE0dMwvX0AMWk5J.webp,scrandle,center,610.4227240818268
+2025-10-14,4,left,1945490334617661583,https://x.com/SportScran/status/1945490334617661583,10.0,81.59,2025,Double smash burger,With fries and a can of your choice,Chadderton FC,ENG,4_left.webp,https://scrandle.com/media/o/Gv_FJRsXMAAiacQ.webp,scrandle,center,632.7432711953714
+2025-10-14,4,right,1630331059773620224,https://x.com/FootyScran/status/1630331059773620224,11.7,68.51,2023,Short rib grilled cheese,,FC Dallas,USA,4_right.webp,https://scrandle.com/media/o/FqAZdMHWwAIKzUW.webp,scrandle,center,474.44732573459385
+2025-10-14,5,left,1463166587847036935,https://x.com/FootyScran/status/1463166587847036935,4.5,9.86,2021,Beef pie,,Man City,ENG,5_left.webp,https://scrandle.com/media/o/FE42QUVXsAoUAXf.webp,scrandle,center,232.87740890690816
+2025-10-14,5,right,1782112553293799611,https://x.com/FootyScran/status/1782112553293799611,4.5,28.02,2024,Nachos,,Rangers v Hearts,SCO,5_right.webp,https://scrandle.com/media/o/GLtV61qW8AEtv1N.webp,scrandle,center,202.86958743897983
+2025-10-14,6,left,1931371591167852610,https://x.com/jamesthornton32/status/1931371591167852610,5.65,58.01,2025,Chicken wings,,RCDE Espanol,ESP,6_left.webp,https://scrandle.com/media/o/Gs2cN7fXQAAP3Fp.webp,scrandle,center,433.74795904257996
+2025-10-14,6,right,1840074280823918704,https://x.com/MottysMic/status/1840074280823918704,4.5,33.14,2024,Hotdog,With onions,Bishops Cleeve FC,ENG,6_right.webp,https://scrandle.com/media/o/GYlBy9uWYAEdLDt.webp,scrandle,center,428.88819619212654
+2025-10-14,7,left,1851725420535910857,https://x.com/DeepaPremchand/status/1851725420535910857,,67.31,2024,The United Pie,"Steak, chilli and cheese",Manchester United,ENG,7_left.webp,https://scrandle.com/media/o/GbKmc22WQAAcnoT.webp,scrandle,center,316.0698630000977
+2025-10-14,7,right,1825141364268372071,https://x.com/Bolton1251/status/1825141364268372071,8.0,60.82,2024,Chili chicken wrap,With chips,Bolton Wanderers,ENG,7_right.webp,https://scrandle.com/media/o/GVQ0XmyW4AAsZAE.webp,scrandle,center,413.96660915064393
+2025-10-14,8,left,1661062176461799426,https://twitter.com/FootyScran/status/1661062176461799426,5.3,9.3,2023,Hot dog,,Marseille,FRA,8_left.webp,https://scrandle.com/media/o/Fw1HPpaXgAAOjbd.webp,scrandle,center,235.61175110855373
+2025-10-14,8,right,1898102452383346823,https://x.com/FootyScran/status/1898102452383346823,9.8,22.3,2025,Cheese sandwich,With a pint,Grenoble Foot 38,FRA,8_right.webp,https://scrandle.com/media/o/GldqGd3WUAAqMIT.webp,scrandle,center,152.7798184345433
+2025-10-14,9,left,1860273267124109673,https://x.com/SportScran/status/1860273267124109673,,12.81,2024,Cheesy chips,,Unknown Location,ENG,9_left.webp,https://scrandle.com/media/o/GdEErG1XQAACJBG.webp,scrandle,center,128.8049154611678
+2025-10-14,9,right,1951600858459676713,https://x.com/adxxmmxl/status/1951600858459676713,2.8,22.77,2025,Water in a box,,West Bromwich Albion,ENG,9_right.webp,https://scrandle.com/media/o/GxV6n2MXoAA38-n.webp,scrandle,center,258.4280163355176

@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-10-05,0,left,The Stoke Stack,,7.0,76.6,0_left.webp,https://scrandle.com/media/o/F1pPKcXXoAEFuDZ.webp
-2025-10-05,0,right,Sausage roll,,3.5,14.8,0_right.webp,https://scrandle.com/media/o/FL0mGusX0AY7YHc.webp
-2025-10-05,1,left,Spicy Korean fried chicken,And a Bulgogi burger,14.2,89.1,1_left.webp,https://scrandle.com/media/o/FMn15ZYXwAEqDtw.webp
-2025-10-05,1,right,Biscoff doughnut,,2.95,83.9,1_right.webp,https://scrandle.com/media/o/FuQxkY5X0AUna7O.webp
-2025-10-05,2,left,Hot dog,,5.75,4.62,2_left.webp,https://scrandle.com/media/o/GCSA1gtW4AAO-UO.webp
-2025-10-05,2,right,Fish finger baguette,With tartar sauce,4.5,38.35,2_right.webp,https://scrandle.com/media/o/FEzMGC4XoAgdwVS.webp
-2025-10-05,3,left,Chicken tikka wrap and chips,,6.0,87.8,3_left.webp,https://scrandle.com/media/o/FMDOegUXoAAQiGv.webp
-2025-10-05,3,right,Chicken box,,6.0,95.2,3_right.webp,https://scrandle.com/media/o/Ga_UGJsawAE21no.webp
-2025-10-05,4,left,Chinese box,,10.0,83.5,4_left.webp,https://scrandle.com/media/o/FK2GzM7XEAcn6dI.webp
-2025-10-05,4,right,Pork dumplings,Price for 10,9.0,68.9,4_right.webp,https://scrandle.com/media/o/FRvoKNtWQAAQfw1.webp
-2025-10-05,5,left,Popcorn chicken and chips,,10.3,87.8,5_left.webp,https://scrandle.com/media/o/F2tT74nXAAorx6a.webp
-2025-10-05,5,right,Turkey schnitzel,,3.4,81.0,5_right.webp,https://scrandle.com/media/o/FbaknX1XgAoMrpY.webp
-2025-10-05,6,left,Mixed meat,,1.0,44.1,6_left.webp,https://scrandle.com/media/o/FkgW58LUcAAGKh-.webp
-2025-10-05,6,right,Vendance fish with mashed potato,,8.5,49.9,6_right.webp,https://scrandle.com/media/o/FxI1MlSWYAEb-dq.webp
-2025-10-05,7,left,"Pie, mash and liquor",,4.5,30.9,7_left.webp,https://scrandle.com/media/o/FMYl1kcXEAIosHo.webp
-2025-10-05,7,right,Sausage roll,,3.5,14.8,7_right.webp,https://scrandle.com/media/o/FL0mGusX0AY7YHc.webp
-2025-10-05,8,left,Ribman pie,"With mash, mushy peas and gravy",9.0,75.1,8_left.webp,https://scrandle.com/media/o/FWa-RpwWAAMSkAo.webp
-2025-10-05,8,right,Sausage and Vegeta,,1.5,67.9,8_right.webp,https://scrandle.com/media/o/FKXC0HAWQAIUF5i.webp
-2025-10-05,9,left,Hot dog,"With cheese, jalapenos and crispy onions",4.95,83.8,9_left.webp,https://scrandle.com/media/o/FWrGA4MWAAAQdPG.webp
-2025-10-05,9,right,Two slices of pizza,,2.9,53.0,9_right.webp,https://scrandle.com/media/o/FOEyk_tWQAUQDCZ.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-10-05,0,left,1682744458922655746,https://twitter.com/FootyScran/status/1682744458922655746,7.0,76.6,2023,The Stoke Stack,,Basingstoke Town FC,ENG,0_left.webp,https://scrandle.com/media/o/F1pPKcXXoAEFuDZ.webp,scrandle,center,405.5634907740582
+2025-10-05,0,right,1494392554028216320,https://twitter.com/FootyScran/status/1494392554028216320,3.5,14.8,2022,Sausage roll,,Burton Albion,ENG,0_right.webp,https://scrandle.com/media/o/FL0mGusX0AY7YHc.webp,scrandle,center,140.31993675819766
+2025-10-05,1,left,1497998724747993089,https://twitter.com/FootyScran/status/1497998724747993089,14.2,89.1,2022,Spicy Korean fried chicken,And a Bulgogi burger,Ulsan Hyundai FC,KOR,1_left.webp,https://scrandle.com/media/o/FMn15ZYXwAEqDtw.webp,scrandle,center,571.8379981888856
+2025-10-05,1,right,1649497868925911040,https://twitter.com/FootyScran/status/1649497868925911040,2.95,83.9,2023,Biscoff doughnut,,Tottenham Hotspur,ENG,1_right.webp,https://scrandle.com/media/o/FuQxkY5X0AUna7O.webp,scrandle,center,377.15250318672605
+2025-10-05,2,left,1739657019177509072,https://x.com/FootyScran/status/1739657019177509072,5.75,4.62,2023,Hot dog,,Queens Park Rangers,ENG,2_left.webp,https://scrandle.com/media/o/GCSA1gtW4AAO-UO.webp,scrandle,center,224.70762091658526
+2025-10-05,2,right,1462768393048711184,https://x.com/FootyScran/status/1462768393048711184,4.5,38.35,2021,Fish finger baguette,With tartar sauce,Histon FC,ENG,2_right.webp,https://scrandle.com/media/o/FEzMGC4XoAgdwVS.webp,scrandle,center,360.9117977080266
+2025-10-05,3,left,1495422104795242509,https://twitter.com/FootyScran/status/1495422104795242509,6.0,87.8,2022,Chicken tikka wrap and chips,,Villa Park,ENG,3_left.webp,https://scrandle.com/media/o/FMDOegUXoAAQiGv.webp,scrandle,center,527.1988771285198
+2025-10-05,3,right,1850931186438418921,https://x.com/FootyScran/status/1850931186438418921,6.0,95.2,2024,Chicken box,,Vissel Kobe vs Kyoto Sanga,JPN,3_right.webp,https://scrandle.com/media/o/Ga_UGJsawAE21no.webp,scrandle,center,630.6500319593283
+2025-10-05,4,left,1489995277582970880,https://twitter.com/FootyScran/status/1489995277582970880,10.0,83.5,2022,Chinese box,,Reading City FC,ENG,4_left.webp,https://scrandle.com/media/o/FK2GzM7XEAcn6dI.webp,scrandle,center,473.99320337235343
+2025-10-05,4,right,1521064566213562368,https://twitter.com/FootyScran/status/1521064566213562368,9.0,68.9,2022,Pork dumplings,Price for 10,Wellington Phoenix,NZL,4_right.webp,https://scrandle.com/media/o/FRvoKNtWQAAQfw1.webp,scrandle,center,427.0656753342364
+2025-10-05,5,left,1687534778667433993,https://twitter.com/FootyScran/status/1687534778667433993,10.3,87.8,2023,Popcorn chicken and chips,,Womens World Cup 2023,AUS,5_left.webp,https://scrandle.com/media/o/F2tT74nXAAorx6a.webp,scrandle,center,539.8514422873362
+2025-10-05,5,right,1564618950570385408,https://twitter.com/FootyScran/status/1564618950570385408,3.4,81.0,2022,Turkey schnitzel,,Borussia Monchengladbach,GER,5_right.webp,https://scrandle.com/media/o/FbaknX1XgAoMrpY.webp,scrandle,center,368.0105995342938
+2025-10-05,6,left,1605558461529366529,https://twitter.com/FootyScran/status/1605558461529366529,1.0,44.1,2022,Mixed meat,,Cambodia v Philippines,CAM,6_left.webp,https://scrandle.com/media/o/FkgW58LUcAAGKh-.webp,scrandle,center,210.80848933747927
+2025-10-05,6,right,1662449713692418054,https://twitter.com/FootyScran/status/1662449713692418054,8.5,49.9,2023,Vendance fish with mashed potato,,FC Lahti,FIN,6_right.webp,https://scrandle.com/media/o/FxI1MlSWYAEb-dq.webp,scrandle,center,345.12189710105673
+2025-10-05,7,left,1496925551851941895,https://twitter.com/FootyScran/status/1496925551851941895,4.5,30.9,2022,"Pie, mash and liquor",,Leyton Orient,ENG,7_left.webp,https://scrandle.com/media/o/FMYl1kcXEAIosHo.webp,scrandle,center,221.0960784827642
+2025-10-05,7,right,1494392554028216320,https://twitter.com/FootyScran/status/1494392554028216320,3.5,14.8,2022,Sausage roll,,Burton Albion,ENG,7_right.webp,https://scrandle.com/media/o/FL0mGusX0AY7YHc.webp,scrandle,center,140.31993675819766
+2025-10-05,8,left,1542129138596777984,https://twitter.com/FootyScran/status/1542129138596777984,9.0,75.1,2022,Ribman pie,"With mash, mushy peas and gravy",Wimbledon,ENG,8_left.webp,https://scrandle.com/media/o/FWa-RpwWAAMSkAo.webp,scrandle,center,219.47113934428396
+2025-10-05,8,right,1487809456771584002,https://twitter.com/FootyScran/status/1487809456771584002,1.5,67.9,2022,Sausage and Vegeta,,Kamenica Sasa,MKD,8_right.webp,https://scrandle.com/media/o/FKXC0HAWQAIUF5i.webp,scrandle,center,236.833918472679
+2025-10-05,9,left,1543263545638670336,https://twitter.com/FootyScran/status/1543263545638670336,4.95,83.8,2022,Hot dog,"With cheese, jalapenos and crispy onions",New Mills FC,ENG,9_left.webp,https://scrandle.com/media/o/FWrGA4MWAAAQdPG.webp,scrandle,center,469.89997356449214
+2025-10-05,9,right,1504539368203112451,https://twitter.com/FootyScran/status/1504539368203112451,2.9,53.0,2022,Two slices of pizza,,Inter,ITA,9_right.webp,https://scrandle.com/media/o/FOEyk_tWQAUQDCZ.webp,scrandle,center,242.15628137005385

@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-08-10,0,left,Loaded hot dog with chips,Double spicy chilli and cheese,12.0,87.8,0_left.webp,https://scrandle.com/media/o/FrSSqWgWcAAKXTZ.webp
-2025-08-10,0,right,Sweet chili and lime shredded chicken flatbread,,10.0,92.3,0_right.webp,https://scrandle.com/media/o/F7b0sDsXIAA5f_1.webp
-2025-08-10,1,left,Buffalo tenders and chips,,9.5,88.7,1_left.webp,https://scrandle.com/media/o/FsYsePDXgAAsRiy.webp
-2025-08-10,1,right,Chorizo hot dog,,3.4,88.3,1_right.webp,https://scrandle.com/media/o/FqjIJuJXgAIrQ3V.webp
-2025-08-10,2,left,Chocolate and nut covered banana,,0.5,75.0,2_left.webp,https://scrandle.com/media/o/F37UfECWAAABB_Z.webp
-2025-08-10,2,right,Potato tornado,,2.0,87.0,2_right.webp,https://scrandle.com/media/o/Fr0PEOTWYAIdeWG.webp
-2025-08-10,3,left,Two slices of pizza,,2.9,53.0,3_left.webp,https://scrandle.com/media/o/FOEyk_tWQAUQDCZ.webp
-2025-08-10,3,right,Drunken monk burger,"Beef, onion jam, bacon, provolone and cheddar on a pretzel bun with fries",13.0,88.6,3_right.webp,https://scrandle.com/media/o/Fp2ZaZ6XwAEeUa7.webp
-2025-08-10,4,left,Pølse med lompe,,3.0,33.4,4_left.webp,https://scrandle.com/media/o/FueqrWPXgAEIrMC.webp
-2025-08-10,4,right,Chorizo hot dog,With a mustard and pesto sauce and a tropical drink,4.5,79.6,4_right.webp,https://scrandle.com/media/o/GEJlvHnXUAAINiB.webp
-2025-08-10,5,left,Chicken and bacon pizza,,4.99,83.7,5_left.webp,https://scrandle.com/media/o/Fu96u3QXsAEkJnP.webp
-2025-08-10,5,right,Mozzarella sticks,,10.0,61.7,5_right.webp,https://scrandle.com/media/o/FRIbMLPWUAMAM6Q.webp
-2025-08-10,6,left,Samosas,"Chicken, lamb and vegetable available -- price for 2",5.0,75.5,6_left.webp,https://scrandle.com/media/o/FNu2Ar0X0AU42PO.webp
-2025-08-10,6,right,Pizza slice,With a can of beer,15.0,19.8,6_right.webp,https://scrandle.com/media/o/FNl1iJvXwAMxM1s.webp
-2025-08-10,7,left,Chicken tandoori pie,,2.5,52.1,7_left.webp,https://scrandle.com/media/o/FKWm0WrXwAUo-vk.webp
-2025-08-10,7,right,Steak and black pudding pie,,2.2,58.4,7_right.webp,https://scrandle.com/media/o/FO78jCgXEAYrjQD.webp
-2025-08-10,8,left,A tub of insects,,0.45,34.8,8_left.webp,https://scrandle.com/media/o/F6UeItdWcAEhrNW.webp
-2025-08-10,8,right,Double bacon cheeseburger,,4.2,47.0,8_right.webp,https://scrandle.com/media/o/FNWz8N6VQAAzXQd.webp
-2025-08-10,9,left,Chicken wrap,With chips and ranch sauce,6.4,93.8,9_left.webp,https://scrandle.com/media/o/Gk8t6HHWEAAjpIJ.webp
-2025-08-10,9,right,Sausage in a waffle,,3.0,55.0,9_right.webp,https://scrandle.com/media/o/FJ8WAspWYAIjdkG.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-08-10,0,left,1636093829429309440,https://twitter.com/FootyScran/status/1636093829429309440,12.0,87.8,2023,Loaded hot dog with chips,Double spicy chilli and cheese,Man City,ENG,0_left.webp,https://scrandle.com/media/o/FrSSqWgWcAAKXTZ.webp,scrandle,center,499.57130595252653
+2025-08-10,0,right,1708822151854256598,https://twitter.com/FootyScran/status/1708822151854256598,10.0,92.3,2023,Sweet chili and lime shredded chicken flatbread,,Solihull Moors,ENG,0_right.webp,https://scrandle.com/media/o/F7b0sDsXIAA5f_1.webp,scrandle,center,534.4250706664619
+2025-08-10,1,left,1641048031058448386,https://twitter.com/FootyScran/status/1641048031058448386,9.5,88.7,2023,Buffalo tenders and chips,,Canada v Honduras,CAN,1_left.webp,https://scrandle.com/media/o/FsYsePDXgAAsRiy.webp,scrandle,center,448.64998026179927
+2025-08-10,1,right,1632774939181830145,https://twitter.com/FootyScran/status/1632774939181830145,3.4,88.3,2023,Chorizo hot dog,,AC Sparta Prague,CZE,1_right.webp,https://scrandle.com/media/o/FqjIJuJXgAIrQ3V.webp,scrandle,center,490.54375420041
+2025-08-10,2,left,1693024144869192113,https://twitter.com/FootyScran/status/1693024144869192113,0.5,75.0,2023,Chocolate and nut covered banana,,Manuel Felipe,GUA,2_left.webp,https://scrandle.com/media/o/F37UfECWAAABB_Z.webp,scrandle,center,392.8876294012091
+2025-08-10,2,right,1638482415789256706,https://twitter.com/FootyScran/status/1638482415789256706,2.0,87.0,2023,Potato tornado,,Pohang Steelers,KOR,2_right.webp,https://scrandle.com/media/o/Fr0PEOTWYAIdeWG.webp,scrandle,center,309.15122428077837
+2025-08-10,3,left,1504539368203112451,https://twitter.com/FootyScran/status/1504539368203112451,2.9,53.0,2022,Two slices of pizza,,Inter,ITA,3_left.webp,https://scrandle.com/media/o/FOEyk_tWQAUQDCZ.webp,scrandle,center,242.15628137005385
+2025-08-10,3,right,1629627323795349505,https://twitter.com/FootyScran/status/1629627323795349505,13.0,88.6,2023,Drunken monk burger,"Beef, onion jam, bacon, provolone and cheddar on a pretzel bun with fries",Orlando City,USA,3_right.webp,https://scrandle.com/media/o/Fp2ZaZ6XwAEeUa7.webp,scrandle,center,604.9847340367367
+2025-08-10,4,left,1650475455961604097,https://twitter.com/FootyScran/status/1650475455961604097,3.0,33.4,2023,Pølse med lompe,,Lillestrøm,NOR,4_left.webp,https://scrandle.com/media/o/FueqrWPXgAEIrMC.webp,scrandle,center,196.15179996306105
+2025-08-10,4,right,1748071470763258371,https://twitter.com/FootyScran/status/1748071470763258371,4.5,79.6,2024,Chorizo hot dog,With a mustard and pesto sauce and a tropical drink,Municipal Liberia,CRC,4_right.webp,https://scrandle.com/media/o/GEJlvHnXUAAINiB.webp,scrandle,center,333.01827959981546
+2025-08-10,5,left,1652674537949995013,https://twitter.com/FootyScran/status/1652674537949995013,4.99,83.7,2023,Chicken and bacon pizza,,MK Dons FC,ENG,5_left.webp,https://scrandle.com/media/o/Fu96u3QXsAEkJnP.webp,scrandle,center,537.9928210168558
+2025-08-10,5,right,1518305926729580547,https://twitter.com/FootyScran/status/1518305926729580547,10.0,61.7,2022,Mozzarella sticks,,Sporting Kansas City,USA,5_right.webp,https://scrandle.com/media/o/FRIbMLPWUAMAM6Q.webp,scrandle,center,297.68700007935945
+2025-08-10,6,left,1502995034823667715,https://twitter.com/FootyScran/status/1502995034823667715,5.0,75.5,2022,Samosas,"Chicken, lamb and vegetable available -- price for 2",Walsall,ENG,6_left.webp,https://scrandle.com/media/o/FNu2Ar0X0AU42PO.webp,scrandle,center,260.0511979773136
+2025-08-10,6,right,1502361185638825984,https://twitter.com/FootyScran/status/1502361185638825984,15.0,19.8,2022,Pizza slice,With a can of beer,Chicago Fire,USA,6_right.webp,https://scrandle.com/media/o/FNl1iJvXwAMxM1s.webp,scrandle,center,376.65032262983004
+2025-08-10,7,left,1487778677165338627,https://twitter.com/FootyScran/status/1487778677165338627,2.5,52.1,2022,Chicken tandoori pie,,Rochdale,ENG,7_left.webp,https://scrandle.com/media/o/FKWm0WrXwAUo-vk.webp,scrandle,center,255.25260750497668
+2025-08-10,7,right,1508420609822371843,https://twitter.com/FootyScran/status/1508420609822371843,2.2,58.4,2022,Steak and black pudding pie,,Arbroath FC,SCO,7_right.webp,https://scrandle.com/media/o/FO78jCgXEAYrjQD.webp,scrandle,center,201.27691129011848
+2025-08-10,8,left,1703801176351744357,https://twitter.com/FootyScran/status/1703801176351744357,0.45,34.8,2023,A tub of insects,,BG Pathum United,THA,8_left.webp,https://scrandle.com/media/o/F6UeItdWcAEhrNW.webp,scrandle,center,112.06880024932106
+2025-08-10,8,right,1501303903970803714,https://twitter.com/FootyScran/status/1501303903970803714,4.2,47.0,2022,Double bacon cheeseburger,,Barnsley FC,ENG,8_right.webp,https://scrandle.com/media/o/FNWz8N6VQAAzXQd.webp,scrandle,center,213.40212676883547
+2025-08-10,9,left,1895784450421899452,https://x.com/FootyScran/status/1895784450421899452,6.4,93.8,2025,Chicken wrap,With chips and ranch sauce,Playford City Patriots,AUS,9_left.webp,https://scrandle.com/media/o/Gk8t6HHWEAAjpIJ.webp,scrandle,center,452.46155453465155
+2025-08-10,9,right,1485930608304001025,https://twitter.com/FootyScran/status/1485930608304001025,3.0,55.0,2022,Sausage in a waffle,,Moss FK,NOR,9_right.webp,https://scrandle.com/media/o/FJ8WAspWYAIjdkG.webp,scrandle,center,296.1600861225916

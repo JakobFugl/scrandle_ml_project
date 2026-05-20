@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-05-29,0,left,Chicken burger and dirty fries,Price for each,5.5,88.4,0_left.webp,https://scrandle.com/media/o/FKV58zfXMAMW-J9.webp
-2025-05-29,0,right,Pulled beef and gravy topped chips,,6.0,89.5,0_right.webp,https://scrandle.com/media/o/F2suve6WgAAw_7z.webp
-2025-05-29,1,left,Dirty roasties,Roast potatoes with chilli and cheese,4.5,54.7,1_left.webp,https://scrandle.com/media/o/FLeoa6UXIAMVgR_.webp
-2025-05-29,1,right,Jack Daniels pulled pork loaded fries,,7.5,88.6,1_right.webp,https://scrandle.com/media/o/FsJL_5FWwAE6bex.webp
-2025-05-29,2,left,Pizza slice,,5.0,17.3,2_left.webp,https://scrandle.com/media/o/FL9m0UmWUAAmTv_.webp
-2025-05-29,2,right,Pølse med lompe,,3.0,33.4,2_right.webp,https://scrandle.com/media/o/FueqrWPXgAEIrMC.webp
-2025-05-29,3,left,Pizza slice,,3.5,25.6,3_left.webp,https://scrandle.com/media/o/FRM6KnIX0AMQsAF.webp
-2025-05-29,3,right,Coxinha,Chicken croquette,1.6,82.0,3_right.webp,https://scrandle.com/media/o/FTyQZUBWQAEjluj.webp
-2025-05-29,4,left,Tropeiro,"Pork, crackling, fried egg and rice",2.4,82.7,4_left.webp,https://scrandle.com/media/o/FRn6OU-XsAAargv.webp
-2025-05-29,4,right,Bratwurst,,2.6,90.7,4_right.webp,https://scrandle.com/media/o/F_tkXOEXIAA18Nh.webp
-2025-05-29,5,left,Yiros pack,,5.8,87.6,5_left.webp,https://scrandle.com/media/o/FO7GxEkXEAIyZDr.webp
-2025-05-29,5,right,Churros,,1.5,86.4,5_right.webp,https://scrandle.com/media/o/FyHiVU1WABEYGA9.webp
-2025-05-29,6,left,Tantuni Kebab,Free to first 100 customers,0.0,94.2,6_left.webp,https://scrandle.com/media/o/FgqqQgjXEAA1tPr.webp
-2025-05-29,6,right,BBQ hot dog,,7.0,82.3,6_right.webp,https://scrandle.com/media/o/FoyDYUdXgAAjkHv.webp
-2025-05-29,7,left,Mitraillette,Chips and fried meat with sauce andalouse on a baguette,4.0,88.5,7_left.webp,https://scrandle.com/media/o/FKNpuaOXoAI_v64.webp
-2025-05-29,7,right,Olive pizza,,4.2,20.1,7_right.webp,https://scrandle.com/media/o/FUKmzAqX0AAjz_q.webp
-2025-05-29,8,left,Fried pickles,,5.3,52.2,8_left.webp,https://scrandle.com/media/o/FO4eeY7XIAMaEnl.webp
-2025-05-29,8,right,"Pie, chips, peas and gravy",With a pint,10.0,84.9,8_right.webp,https://scrandle.com/media/o/GZ7mYizXIAAmIKb.webp
-2025-05-29,9,left,Twenteham,,4.0,89.3,9_left.webp,https://scrandle.com/media/o/FZOhuF8XoAIKc4Z.webp
-2025-05-29,9,right,The Stoke Stack,,7.0,76.6,9_right.webp,https://scrandle.com/media/o/F1pPKcXXoAEFuDZ.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-05-29,0,left,1487729361176477697,https://twitter.com/FootyScran/status/1487729361176477697,5.5,88.4,2022,Chicken burger and dirty fries,Price for each,Tilbury FC,ENG,0_left.webp,https://scrandle.com/media/o/FKV58zfXMAMW-J9.webp,scrandle,center,456.1113565189987
+2025-05-29,0,right,1687493882618028032,https://twitter.com/FootyScran/status/1687493882618028032,6.0,89.5,2023,Pulled beef and gravy topped chips,,Hartlepool United,ENG,0_right.webp,https://scrandle.com/media/o/F2suve6WgAAw_7z.webp,scrandle,center,478.0698167338192
+2025-05-29,1,left,1492846987602968581,https://twitter.com/FootyScran/status/1492846987602968581,4.5,54.7,2022,Dirty roasties,Roast potatoes with chilli and cheese,Cheltenham Town,ENG,1_left.webp,https://scrandle.com/media/o/FLeoa6UXIAMVgR_.webp,scrandle,center,323.5759296996354
+2025-05-29,1,right,1639956779906871302,https://twitter.com/FootyScran/status/1639956779906871302,7.5,88.6,2023,Jack Daniels pulled pork loaded fries,,Notts County,ENG,1_right.webp,https://scrandle.com/media/o/FsJL_5FWwAE6bex.webp,scrandle,center,442.3484476665205
+2025-05-29,2,left,1495026658285338625,https://twitter.com/FootyScran/status/1495026658285338625,5.0,17.3,2022,Pizza slice,,Arsenal,ENG,2_left.webp,https://scrandle.com/media/o/FL9m0UmWUAAmTv_.webp,scrandle,center,265.7634632747747
+2025-05-29,2,right,1650475455961604097,https://twitter.com/FootyScran/status/1650475455961604097,3.0,33.4,2023,Pølse med lompe,,Lillestrøm,NOR,2_right.webp,https://scrandle.com/media/o/FueqrWPXgAEIrMC.webp,scrandle,center,196.15179996306105
+2025-05-29,3,left,1518621458267791370,https://twitter.com/FootyScran/status/1518621458267791370,3.5,25.6,2022,Pizza slice,,West Brom,ENG,3_left.webp,https://scrandle.com/media/o/FRM6KnIX0AMQsAF.webp,scrandle,center,309.74399389621834
+2025-05-29,3,right,1530256742751293440,https://twitter.com/FootyScran/status/1530256742751293440,1.6,82.0,2022,Coxinha,Chicken croquette,Athletico Paranaense,BRA,3_right.webp,https://scrandle.com/media/o/FTyQZUBWQAEjluj.webp,scrandle,center,393.8061120271237
+2025-05-29,4,left,1520521479972167680,https://twitter.com/FootyScran/status/1520521479972167680,2.4,82.7,2022,Tropeiro,"Pork, crackling, fried egg and rice",Atlético-MG,BRA,4_left.webp,https://scrandle.com/media/o/FRn6OU-XsAAargv.webp,scrandle,center,563.2314521889857
+2025-05-29,4,right,1728085238457225556,https://twitter.com/FootyScran/status/1728085238457225556,2.6,90.7,2023,Bratwurst,,Viktoria Koln,GER,4_right.webp,https://scrandle.com/media/o/F_tkXOEXIAA18Nh.webp,scrandle,center,356.9800961361614
+2025-05-29,5,left,1508361476569980936,https://twitter.com/FootyScran/status/1508361476569980936,5.8,87.6,2022,Yiros pack,,West Adelaide Raptors,AUS,5_left.webp,https://scrandle.com/media/o/FO7GxEkXEAIyZDr.webp,scrandle,center,502.6250101621938
+2025-05-29,5,right,1666862197601861650,https://twitter.com/FootyScran/status/1666862197601861650,1.5,86.4,2023,Churros,,São Paulo FC,BRA,5_right.webp,https://scrandle.com/media/o/FyHiVU1WABEYGA9.webp,scrandle,center,598.8962314777211
+2025-05-29,6,left,1588269032624504832,https://twitter.com/FootyScran/status/1588269032624504832,0.0,94.2,2022,Tantuni Kebab,Free to first 100 customers,St Louis City SC,USA,6_left.webp,https://scrandle.com/media/o/FgqqQgjXEAA1tPr.webp,scrandle,center,467.5306875780531
+2025-05-29,6,right,1624818024166395906,https://twitter.com/FootyScran/status/1624818024166395906,7.0,82.3,2023,BBQ hot dog,,Birmingham City Womens,ENG,6_right.webp,https://scrandle.com/media/o/FoyDYUdXgAAjkHv.webp,scrandle,center,556.0314412964661
+2025-05-29,7,left,1487148558092492800,https://twitter.com/FootyScran/status/1487148558092492800,4.0,88.5,2022,Mitraillette,Chips and fried meat with sauce andalouse on a baguette,Anderlecht,BEL,7_left.webp,https://scrandle.com/media/o/FKNpuaOXoAI_v64.webp,scrandle,center,376.29745475386187
+2025-05-29,7,right,1531970223565426693,https://twitter.com/FootyScran/status/1531970223565426693,4.2,20.1,2022,Olive pizza,,Marseille,FRA,7_right.webp,https://scrandle.com/media/o/FUKmzAqX0AAjz_q.webp,scrandle,center,157.94150870828034
+2025-05-29,8,left,1508176437156716545,https://twitter.com/FootyScran/status/1508176437156716545,5.3,52.2,2022,Fried pickles,,Charlotte FC,USA,8_left.webp,https://scrandle.com/media/o/FO4eeY7XIAMaEnl.webp,scrandle,center,315.57566854138383
+2025-05-29,8,right,1846166211945472100,https://x.com/FootyScran/status/1846166211945472100,10.0,84.9,2024,"Pie, chips, peas and gravy",With a pint,Ossett United,ENG,8_right.webp,https://scrandle.com/media/o/GZ7mYizXIAAmIKb.webp,scrandle,center,329.89811504499926
+2025-05-29,9,left,1554764140257869824,https://twitter.com/FootyScran/status/1554764140257869824,4.0,89.3,2022,Twenteham,,FC Twente,NED,9_left.webp,https://scrandle.com/media/o/FZOhuF8XoAIKc4Z.webp,scrandle,center,446.03675980831673
+2025-05-29,9,right,1682744458922655746,https://twitter.com/FootyScran/status/1682744458922655746,7.0,76.6,2023,The Stoke Stack,,Basingstoke Town FC,ENG,9_right.webp,https://scrandle.com/media/o/F1pPKcXXoAEFuDZ.webp,scrandle,center,405.5634907740582

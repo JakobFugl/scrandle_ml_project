@@ -1,21 +1,21 @@
-date,match_id,side,title,subtitle,price,rating,image_name,image_url
-2025-05-31,0,left,Hot dog,,2.0,21.8,0_left.webp,https://scrandle.com/media/o/FjO8961XoAEfeFV.webp
-2025-05-31,0,right,"Pie, mash and liquor",,7.0,44.5,0_right.webp,https://scrandle.com/media/o/GV2qdZWWcAAXZZU.webp
-2025-05-31,1,left,Chinese chicken wraps,,3.0,77.6,1_left.webp,https://scrandle.com/media/o/FNLCinAX0AI35rw.webp
-2025-05-31,1,right,Pig skin in salsa,,2.0,45.0,1_right.webp,https://scrandle.com/media/o/GiE0hXbW4AAPn9N.webp
-2025-05-31,2,left,Currywurst and beers,Beers included in price,7.5,82.8,2_left.webp,https://scrandle.com/media/o/GIKAX5XXkAEPIqO.webp
-2025-05-31,2,right,Sloppy joe burger,"2 beef patties, cheese, onions, jalapenos and chilli beef bites",9.0,75.0,2_right.webp,https://scrandle.com/media/o/FMnIHOjXMAE7Qtq.webp
-2025-05-31,3,left,Chicken goujons and chips,,6.0,93.2,3_left.webp,https://scrandle.com/media/o/GC6fp-jXUAASGtu.webp
-2025-05-31,3,right,Hot dog,,2.0,21.8,3_right.webp,https://scrandle.com/media/o/FjO8961XoAEfeFV.webp
-2025-05-31,4,left,Crispy Korean chicken,On a bed of skin-on fries,9.6,91.9,4_left.webp,https://scrandle.com/media/o/FyWXU_ZWwAAgbW5.webp
-2025-05-31,4,right,Mince beef and aloo dosa,,8.0,81.2,4_right.webp,https://scrandle.com/media/o/FUPwITiXsAYwAt2.webp
-2025-05-31,5,left,Rocks burger,With chips and masala sauce,3.0,76.3,5_left.webp,https://scrandle.com/media/o/FQOYBFrWYAYusXv.webp
-2025-05-31,5,right,Churros with chocolate dip,,5.0,85.8,5_right.webp,https://scrandle.com/media/o/Frr8u_SWYAAJa2A.webp
-2025-05-31,6,left,Chicken burger,,5.0,17.1,6_left.webp,https://scrandle.com/media/o/F71LUS2WAAA3w_h.webp
-2025-05-31,6,right,Double cheeseburger,With chips,10.45,94.4,6_right.webp,https://scrandle.com/media/o/F3-RC7KXsAAhLTy.webp
-2025-05-31,7,left,Chicken tikka kebab,With a pint,8.0,75.7,7_left.webp,https://scrandle.com/media/o/FQJnBPVX0AIVCsY.webp
-2025-05-31,7,right,The gaffer burger,"6oz beef patty with lettuce, cheese, crispy chicken strips, bacon and crispy onions",9.0,92.1,7_right.webp,https://scrandle.com/media/o/GVMh_OaXYAA1C0e.webp
-2025-05-31,8,left,A tub of insects,,0.45,34.8,8_left.webp,https://scrandle.com/media/o/F6UeItdWcAEhrNW.webp
-2025-05-31,8,right,Hot dog,With nachos and two craft beers,6.2,91.4,8_right.webp,https://scrandle.com/media/o/F2ndPhLXYAAKyNG.webp
-2025-05-31,9,left,Cheesy nachos,,3.0,84.5,9_left.webp,https://scrandle.com/media/o/Fh7okXuXwAIKIoK.webp
-2025-05-31,9,right,Chicken tikka dirty fries,,6.5,94.4,9_right.webp,https://scrandle.com/media/o/F2df-nHXQAArq1D.webp
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2025-05-31,0,left,1599830073154359296,https://twitter.com/FootyScran/status/1599830073154359296,2.0,21.8,2022,Hot dog,,Evesham United,ENG,0_left.webp,https://scrandle.com/media/o/FjO8961XoAEfeFV.webp,scrandle,center,247.51338395534341
+2025-05-31,0,right,1827804458106916964,https://x.com/FootyScran/status/1827804458106916964,7.0,44.5,2024,"Pie, mash and liquor",,Leyton Orient,ENG,0_right.webp,https://scrandle.com/media/o/GV2qdZWWcAAXZZU.webp,scrandle,center,241.2214162671731
+2025-05-31,1,left,1500475529987862530,https://twitter.com/FootyScran/status/1500475529987862530,3.0,77.6,2022,Chinese chicken wraps,,Rangers FC,SCO,1_left.webp,https://scrandle.com/media/o/FNLCinAX0AI35rw.webp,scrandle,center,366.50033883082153
+2025-05-31,1,right,1882843879483060424,https://x.com/FootyScran/status/1882843879483060424,2.0,45.0,2025,Pig skin in salsa,,Pumas UNAM,MEX,1_right.webp,https://scrandle.com/media/o/GiE0hXbW4AAPn9N.webp,scrandle,center,216.13281705720613
+2025-05-31,2,left,1766115157376143836,https://x.com/FootyScran/status/1766115157376143836,7.5,82.8,2024,Currywurst and beers,Beers included in price,Schalke 04,GER,2_left.webp,https://scrandle.com/media/o/GIKAX5XXkAEPIqO.webp,scrandle,center,446.0396173852809
+2025-05-31,2,right,1497948382089949184,https://twitter.com/FootyScran/status/1497948382089949184,9.0,75.0,2022,Sloppy joe burger,"2 beef patties, cheese, onions, jalapenos and chilli beef bites",Folkestone Invicta,ENG,2_right.webp,https://scrandle.com/media/o/FMnIHOjXMAE7Qtq.webp,scrandle,center,467.1751391626499
+2025-05-31,3,left,1742505655645163815,https://twitter.com/FootyScran/status/1742505655645163815,6.0,93.2,2024,Chicken goujons and chips,,Derby County,ENG,3_left.webp,https://scrandle.com/media/o/GC6fp-jXUAASGtu.webp,scrandle,center,484.9918019603862
+2025-05-31,3,right,1599830073154359296,https://twitter.com/FootyScran/status/1599830073154359296,2.0,21.8,2022,Hot dog,,Evesham United,ENG,3_right.webp,https://scrandle.com/media/o/FjO8961XoAEfeFV.webp,scrandle,center,247.51338395534341
+2025-05-31,4,left,1667905629967511555,https://twitter.com/FootyScran/status/1667905629967511555,9.6,91.9,2023,Crispy Korean chicken,On a bed of skin-on fries,Vancouver Whitecaps,CAN,4_left.webp,https://scrandle.com/media/o/FyWXU_ZWwAAgbW5.webp,scrandle,center,663.0064021085633
+2025-05-31,4,right,1532332328948748288,https://twitter.com/FootyScran/status/1532332328948748288,8.0,81.2,2022,Mince beef and aloo dosa,,Tottenham Hotspur,ENG,4_right.webp,https://scrandle.com/media/o/FUPwITiXsAYwAt2.webp,scrandle,center,355.08925579335136
+2025-05-31,5,left,1514221051152060420,https://twitter.com/FootyScran/status/1514221051152060420,3.0,76.3,2022,Rocks burger,With chips and masala sauce,Bognor Regis Town FC,ENG,5_left.webp,https://scrandle.com/media/o/FQOYBFrWYAYusXv.webp,scrandle,center,506.41936696139726
+2025-05-31,5,right,1637899304646897665,https://twitter.com/FootyScran/status/1637899304646897665,5.0,85.8,2023,Churros with chocolate dip,,Bristol Rovers,ENG,5_right.webp,https://scrandle.com/media/o/Frr8u_SWYAAJa2A.webp,scrandle,center,437.5941510392097
+2025-05-31,6,left,1710606301938548966,https://twitter.com/FootyScran/status/1710606301938548966,5.0,17.1,2023,Chicken burger,,Leeds United,ENG,6_left.webp,https://scrandle.com/media/o/F71LUS2WAAA3w_h.webp,scrandle,center,197.9053980977671
+2025-05-31,6,right,1693231472646238443,https://twitter.com/FootyScran/status/1693231472646238443,10.45,94.4,2023,Double cheeseburger,With chips,Folkestone Invicta,ENG,6_right.webp,https://scrandle.com/media/o/F3-RC7KXsAAhLTy.webp,scrandle,center,498.4726794775987
+2025-05-31,7,left,1513885700239802372,https://twitter.com/FootyScran/status/1513885700239802372,8.0,75.7,2022,Chicken tikka kebab,With a pint,Wrexham AFC,WAL,7_left.webp,https://scrandle.com/media/o/FQJnBPVX0AIVCsY.webp,scrandle,center,345.83714839764195
+2025-05-31,7,right,1824839663208796240,https://x.com/FootyScran/status/1824839663208796240,9.0,92.1,2024,The gaffer burger,"6oz beef patty with lettuce, cheese, crispy chicken strips, bacon and crispy onions",Tilbury FC,ENG,7_right.webp,https://scrandle.com/media/o/GVMh_OaXYAA1C0e.webp,scrandle,center,638.8408385480618
+2025-05-31,8,left,1703801176351744357,https://twitter.com/FootyScran/status/1703801176351744357,0.45,34.8,2023,A tub of insects,,BG Pathum United,THA,8_left.webp,https://scrandle.com/media/o/F6UeItdWcAEhrNW.webp,scrandle,center,112.06880024932106
+2025-05-31,8,right,1687122800765521920,https://twitter.com/FootyScran/status/1687122800765521920,6.2,91.4,2023,Hot dog,With nachos and two craft beers,Union Omaha,USA,8_right.webp,https://scrandle.com/media/o/F2ndPhLXYAAKyNG.webp,scrandle,center,390.88976652312203
+2025-05-31,9,left,1593967046941085696,https://twitter.com/FootyScran/status/1593967046941085696,3.0,84.5,2022,Cheesy nachos,,Eastleigh FC,ENG,9_left.webp,https://scrandle.com/media/o/Fh7okXuXwAIKIoK.webp,scrandle,center,316.48039394412376
+2025-05-31,9,right,1686422120794935311,https://twitter.com/FootyScran/status/1686422120794935311,6.5,94.4,2023,Chicken tikka dirty fries,,Bolton Wanderers,ENG,9_right.webp,https://scrandle.com/media/o/F2df-nHXQAArq1D.webp,scrandle,center,642.8702800354148
