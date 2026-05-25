@@ -261,7 +261,7 @@ Curry rice,With scotch egg,6.7,84.9,8558890d0a72ffbcd6e2fb64199d013c,2025-05-04:
 Pastrami grilled cheese,With cheesy bacon fries,12.0,86.0,89dcf038421f6e82cbbcd80bb80191c8,2025-05-04:8_left | 2025-05-07:6_right | 2025-07-17:4_left | 2025-08-26:3_right
 Munchie Box,"Cheesy chips, cheeseburger, doner meat, chicken pakora and pakora sauce",9.0,82.7,11cb59cf5d787161b192fd85e39db665,2025-05-04:9_right | 2025-10-07:6_right | 2025-12-24:2_right
 Sausage and bread,,2.9,51.7,793a1a6de86bca2403394a57dec3868d,2025-05-05:0_left | 2026-02-07:3_left
-Lemon and garlic chicken flatbread,(No price data),0.0,88.7,1829ff904980cbad5f9ce87b7163ff55,2025-05-05:0_right | 2025-07-26:2_right
+Lemon and garlic chicken flatbread,,,88.7,1829ff904980cbad5f9ce87b7163ff55,2025-05-05:0_right | 2025-07-26:2_right
 Double cheeseburger,,5.0,92.1,830af027eb5611d6c4c4a3ace1e53778,2025-05-05:1_left | 2026-02-09:6_right
 Loaded roast potatoes,With beef and gravy,5.5,72.6,0c56eff0a4744f692330768966133408,2025-05-05:1_right | 2025-05-27:3_left | 2025-09-01:1_right | 2025-09-09:2_right
 "Steak pie, mash, peas and gravy",,7.0,81.3,f1696a0b6bad910bd9075a5f51b01731,2025-05-05:2_left | 2025-08-19:6_left | 2025-12-31:2_right | 2026-04-01:1_right
@@ -1663,20 +1663,20 @@ Spicy sausage,,2.8,47.19,fb1f07ba691d564e1d380d4e23dd8471,2025-10-30:8_left
 Loaded Nachos,,5.5,66.67,f9154315cbdc2d722f84047748fd4c02,2025-10-30:8_right
 Chicken balti pie in a barm,,3.5,19.93,094a762a12f01ede2cc3da597d446ff6,2025-10-30:9_left
 Nackensteak,Pork in a bun (ran out of buns),3.0,14.3,7a9644f7ad522be9479e9e98b6351072,2025-10-30:9_right
-Cool skull,With mash and gravy,6.66,59.8,ad06ef7ebcd14b6b4dd440c43a276130,2025-10-31:0_left
-Cool skull,With chips and mushy peas,6.66,40.2,3d89a77c114656def5c5e24c282bc6c0,2025-10-31:0_right
-Apple with a friendly worm,,6.66,50.32,4f76604410bea1375aa1254e2e1ece7f,2025-10-31:1_left
-Apple with an evil worm,,6.66,49.68,1af2a273d1e5864f880be9b38901fe29,2025-10-31:1_right
+Cool skull,With mash and gravy,6.66,59.81,ad06ef7ebcd14b6b4dd440c43a276130,2025-10-31:0_left
+Cool skull,With chips and mushy peas,6.66,40.19,3d89a77c114656def5c5e24c282bc6c0,2025-10-31:0_right
+Apple with a friendly worm,,6.66,50.31,4f76604410bea1375aa1254e2e1ece7f,2025-10-31:1_left
+Apple with an evil worm,,6.66,49.69,1af2a273d1e5864f880be9b38901fe29,2025-10-31:1_right
 Evil pie,,6.66,23.13,6d5eb0d9247afeb0fc310877653acbaf,2025-10-31:2_left
 Evil pint,,6.66,76.87,85c00123c465aefebc9cff1d3d4ba238,2025-10-31:2_right
 Sausage stuffed with a man's soul,,6.66,54.71,2e40e0eeb220fc0895c8434c493732df,2025-10-31:3_left
 Skeleton with cheese,,6.66,45.29,2f27cf707be61e32ee1704b2623fc394,2025-10-31:3_right
-Mexican jumping beans,Served in tomato sauce,6.66,47.84,a8fcf099abc8c8542c75bbc41dd1a5dc,2025-10-31:4_left
-Bacon water,,6.66,52.16,4f6837ed67ed590faf7aba4357f8d98a,2025-10-31:4_right
+Mexican jumping beans,Served in tomato sauce,6.66,47.83,a8fcf099abc8c8542c75bbc41dd1a5dc,2025-10-31:4_left
+Bacon water,,6.66,52.17,4f6837ed67ed590faf7aba4357f8d98a,2025-10-31:4_right
 Nachos topped with melancholy,,6.66,16.93,a9b4358beccea4f73ab5b8fc9e0865dc,2025-10-31:5_left
 Baked potato topped with jumpscare,,6.66,83.07,14913d6fc12352f4679a0fce3798e162,2025-10-31:5_right
-Mushy peas in a cup with added Creature,,6.66,25.93,5da0ed41f124f27fcb9835875de9b158,2025-10-31:6_left
-Seemingly ordinary cheese pa-,,6.66,74.07,e7d9060b45a8b5584220f989c3249e1b,2025-10-31:6_right
+Mushy peas in a cup with added Creature,,6.66,25.95,5da0ed41f124f27fcb9835875de9b158,2025-10-31:6_left
+Seemingly ordinary cheese pa-,,6.66,74.05,e7d9060b45a8b5584220f989c3249e1b,2025-10-31:6_right
 Craig,Cooked to preference,6.66,86.36,f1938a8692395bdae218c06582228fbb,2025-10-31:7_left
 Witches' stew,In a roll,6.66,13.64,7f2f66e8e58324e302d22cdc98173149,2025-10-31:7_right
 Worms,With ketchup dip,6.66,68.74,9c7b23982ba67c38e1518d3f85e1da9b,2025-10-31:8_left
@@ -3213,24 +3213,24 @@ Doner Meat & Chips,,,61.2,2fc3d6fc61e6f51b6cca39225bd09391,2026-02-19:7_right
 "Chips, sausages and curry sauce",In a cob,4.5,53.83,dbb57255708ab148e832243f1d3ecc63,2026-02-19:8_left
 Roast potatoes,With beef brisket gravy,4.5,72.3,61c5309f151c6f2d1a312eb145d34d1e,2026-02-19:8_right
 "Pie, mash, peas and gravy",,5.5,76.6,2c20abb25cf6c54630dc0bc0cd7ca80c,2026-02-19:9_right | 2026-03-29:6_left
-Terry's Pyramint,A pyramid of dark chocolate surrounding mint creme,,48.41,d646bc7dcdc7c4dfaa2689e50613c931,2026-02-20:0_left
-Bendicks Mingles,Trapezoidal chocolates with mint,,51.59,4dd8e632b03f3552f053e0e3d91461eb,2026-02-20:0_right
+Terry's Pyramint,A pyramid of dark chocolate surrounding mint creme,,48.4,d646bc7dcdc7c4dfaa2689e50613c931,2026-02-20:0_left
+Bendicks Mingles,Trapezoidal chocolates with mint,,51.6,4dd8e632b03f3552f053e0e3d91461eb,2026-02-20:0_right
 Smiths' Cheese-Flavoured Moments,Cereal snack with soft cheesy center,,75.09,5aaebb50a93abdb367947497f3f8846c,2026-02-20:1_left
 Smiths' Crispy Tubes,,,24.91,9ff93044f1df6ab35fa3d5529bb90584,2026-02-20:1_right
-Dark Chocolate Bounty,Soft coconut filling enrobed in dark chocolate,,51.82,59c5104a45db0a38c2ed94319180df7a,2026-02-20:2_left
-Milkybar Wowsomes,Low-sugar milk and white chocolate with crispy oats,,48.18,ede1baf29013964c22d0ea886f0de416,2026-02-20:2_right
+Dark Chocolate Bounty,Soft coconut filling enrobed in dark chocolate,,51.83,59c5104a45db0a38c2ed94319180df7a,2026-02-20:2_left
+Milkybar Wowsomes,Low-sugar milk and white chocolate with crispy oats,,48.17,ede1baf29013964c22d0ea886f0de416,2026-02-20:2_right
 Heinz Toast Toppers,Thick spread for grilling over toast,,55.52,403465f43c6981e57df7c37e3812de09,2026-02-20:3_left
 Pot Casserole,Instant casserole in cup noodle form factor; just add boiling water,,44.48,6b18fa76367d6f7341101ccf73823001,2026-02-20:3_right
 Brannigans Roast Beef & Mustard,Also available in smoked ham and pickle,,88.58,1453be6fd25417861c1da5503e4210e2,2026-02-20:4_left
 Tudor Specials Gammon & Pineapple,,,11.42,b2ecc27391110a89a811e0637972b6f1,2026-02-20:4_right
 Spanish Gold Sweet Tobacco,Coconut strands dusted in chocolate and sugar,,34.74,4c7314e31488e105ad6386c9cc384dd0,2026-02-20:5_left
 Chocolate cigarettes,Chocolate stick in edible paper,,65.26,09f7598c37be1eb7c2741b339cdfb036,2026-02-20:5_right
-Secret bar,Chocolate lattice surrounding creamy mousse,,82.42,1fe85cfc0afb5c24ae7b51ba2f547987,2026-02-20:6_left
-Amazin' Raisin Bar,Chocolate covered nougat and caramel with raisins,,17.58,2f49b86c749d3db433eb8f9cb3514dcb,2026-02-20:6_right
-Hubba Bubba Bubble Jug,"Jug of powder with gum pieces, ""shake n' chug""",,50.76,fdb30cde55a027ea3582adf42655b8f0,2026-02-20:7_left
-Fizzy Spangles,Fruit-flavoured boiled sweeties,,49.24,483a2d8d74c7622424d13b78a9f9a820,2026-02-20:7_right
-Vice Versas,Mixed chocolate capsules encased in their inverse,,19.35,2771d9cd273fbb14c7607cf1a0061588,2026-02-20:8_left
-Mars Delight,Chocolate and caramel fondant with wafer ripple in chocolate,,80.65,5574c6e18284a64e5d5df90a8b884d69,2026-02-20:8_right
+Secret bar,Chocolate lattice surrounding creamy mousse,,82.43,1fe85cfc0afb5c24ae7b51ba2f547987,2026-02-20:6_left
+Amazin' Raisin Bar,Chocolate covered nougat and caramel with raisins,,17.57,2f49b86c749d3db433eb8f9cb3514dcb,2026-02-20:6_right
+Hubba Bubba Bubble Jug,"Jug of powder with gum pieces, ""shake n' chug""",,50.75,fdb30cde55a027ea3582adf42655b8f0,2026-02-20:7_left
+Fizzy Spangles,Fruit-flavoured boiled sweeties,,49.25,483a2d8d74c7622424d13b78a9f9a820,2026-02-20:7_right
+Vice Versas,Mixed chocolate capsules encased in their inverse,,19.34,2771d9cd273fbb14c7607cf1a0061588,2026-02-20:8_left
+Mars Delight,Chocolate and caramel fondant with wafer ripple in chocolate,,80.66,5574c6e18284a64e5d5df90a8b884d69,2026-02-20:8_right
 Heinz Baked Beans Pizza,With cheese,,89.89,1852951aabdbc5703c55008897550191,2026-02-20:9_left
 Baked beans,In chocolate flavour sauce,,10.11,890df40f2ddfa3f0fbe63c072139d024,2026-02-20:9_right
 Chicken burger,With waffle fries,9.5,81.14,49ab1ef10657c8c77791cda9e540fe97,2026-02-21:0_left
@@ -3501,16 +3501,16 @@ Ice cream sandwich,,0.5,35.21,e14ea3041881a9aca3a79b7b65235071,2026-03-12:2_left
 Ice cream sandwich,,0.5,29.31,e46c72797481832856beb0c226f15294,2026-03-12:2_right
 Monterey Jack cheese burger,With chips,6.5,67.3,7bd2cd3e7e9a13c1c185eeeaf8fd110f,2026-03-12:3_left
 Hot dog,"With cheddar, sriracha and flamin hot Cheetos",7.0,46.77,09c53330b8b5eee069939ae6db1dcaf7,2026-03-12:3_right
-Schinkenfleckerlauflauf,,4.35,49.22,e9aa61ccac58c963822003584f53a017,2026-03-13:0_left
-Hühnergeschnetzeltes,With a Krapfen,4.35,50.78,0bda1ea1f885819b38e8efb6938f578a,2026-03-13:0_right
+Schinkenfleckerlauflauf,,4.35,49.23,e9aa61ccac58c963822003584f53a017,2026-03-13:0_left
+Hühnergeschnetzeltes,With a Krapfen,4.35,50.77,0bda1ea1f885819b38e8efb6938f578a,2026-03-13:0_right
 Chicken pizza,,13.0,19.93,d7cb15909589d0dc044a2a650f62d9f9,2026-03-13:1_left
 Pizza dog,,4.35,80.07,0761dd0104712164b82ee43e4a633660,2026-03-13:1_right
 Burger Banjir「Flooded Burger」,,1.85,53.64,0e591efa7ec0cc524cae970195cc4f6b,2026-03-13:2_left
 Kebab pizza,,12.0,46.36,f59b2ebed5fa5dd080ef0184dd9a59fb,2026-03-13:2_right
-Weetabix 'n' jam,,,74.78,d5e374381a4a603b5b0652884bc05b01,2026-03-13:3_left
-Sausage and vegan cheese sandwich,,,25.22,8e71e39c4752057e3fadaf79b8d2be2c,2026-03-13:3_right
-Angus beef cheeseburger,,5.95,80.98,42193fc4043628fa477c5bd81ff5280f,2026-03-13:4_left
-Ham sandwich,With a snickers wrapper,1.5,19.02,a9ae37dfd45ab2be4fc634bb62b033d7,2026-03-13:4_right
+Weetabix 'n' jam,,,74.79,d5e374381a4a603b5b0652884bc05b01,2026-03-13:3_left
+Sausage and vegan cheese sandwich,,,25.21,8e71e39c4752057e3fadaf79b8d2be2c,2026-03-13:3_right
+Angus beef cheeseburger,,5.95,80.99,42193fc4043628fa477c5bd81ff5280f,2026-03-13:4_left
+Ham sandwich,With a snickers wrapper,1.5,19.01,a9ae37dfd45ab2be4fc634bb62b033d7,2026-03-13:4_right
 Sweet Potato Fry Hot dog,,,32.13,449232d685337180c39eb19d27d22300,2026-03-13:5_left
 sandwich,,1.2,67.87,55cef035a72260cdfd392e07d40d1f38,2026-03-13:5_right
 Halal Snack Pack,"""every meat and sauce and cheese [...] too drunk to remember the price""",,42.68,09bc3ca44e4049c767cfebb5a0034adc,2026-03-13:6_left
@@ -3568,8 +3568,8 @@ Battered sausages and chips,With curry sauce,4.0,7.88,a891de668eeab05243d58cf497
 Loaded fries,,7.75,92.12,1f3017d40032018c3a575c1d63c21891,2026-03-17:1_right
 Steak and kidney pie,"With mash, peas, gravy, and a drink",10.0,17.84,92c92e67a18d2bc1b648b479a974f617,2026-03-17:2_left
 Katsu curry fries,,6.0,82.16,7e41442febbda86a9dcd1cf2a1a328be,2026-03-17:2_right
-Tacos,,,39.8,f9d2dbefd977cb2befce3e741506f391,2026-03-17:3_left
-"Chicken, chips and curry sauce",,6.05,60.2,93d9cc810f0f8d811f79347b740bb54a,2026-03-17:3_right
+Tacos,,,39.79,f9d2dbefd977cb2befce3e741506f391,2026-03-17:3_left
+"Chicken, chips and curry sauce",,6.05,60.21,93d9cc810f0f8d811f79347b740bb54a,2026-03-17:3_right
 Curry cheese chips,,6.0,27.75,98b2203ad417af97dbadaaab677323e6,2026-03-17:4_left
 Chicken curry and rice,With a bottle of Moretti,9.95,72.25,1b9bf7f3399ce9241a2f6e4acb6946aa,2026-03-17:4_right
 Hooper Special,"Battered sausage, chips and curry sauce",8.6,39.98,b00b3096b26b57927f9f4199e0750058,2026-03-17:5_left
@@ -3580,8 +3580,8 @@ Hot Dog,,5.6,44.0,2980edb433d1e8cc1ae3af99ddeab741,2026-03-17:7_left
 Chicken curry and chips,,6.2,56.0,587398ad6fe5fa92eb930591c1b85970,2026-03-17:7_right
 Cheese dog,,3.5,14.57,367e3c1ce5c306815b9f33afb9ac058b,2026-03-17:8_left
 Burger,,9.05,85.43,2c4a840c2a5df4584ebc2814650f3828,2026-03-17:8_right
-Cheesy chips,,4.2,28.6,e7037d398b5ab62fe0eb67f8a4f92719,2026-03-17:9_left
-Hot dog,,7.0,71.4,8688fa857c4ef6772fe3220559931d09,2026-03-17:9_right
+Cheesy chips,,4.2,28.61,e7037d398b5ab62fe0eb67f8a4f92719,2026-03-17:9_left
+Hot dog,,7.0,71.39,8688fa857c4ef6772fe3220559931d09,2026-03-17:9_right
 Sausage casserole buffet,With UNLIMITED beer,28.0,58.03,8fa3a551ac4279de9a11e6c1415168df,2026-03-18:3_left
 Chicken and chips,,8.25,82.16,c0b6f994c8920321f0f7e2c62c68cf4e,2026-03-18:3_right
 Cheesy bacon hotdog,,4.65,70.6,4be9804f75e6d0d3a75ee28de225974e,2026-03-18:7_left
@@ -4079,20 +4079,20 @@ Potatoes and quark,Free with the birth of a child,0.0,9.05,38f7e6ad46d1bbae7985a
 Tea and biscuits,Free with the birth of a child,0.0,90.95,9a100d5764cb4a498da27680be4b5b9f,2026-04-24:0_right
 Low-histamine diet,,0.0,78.52,2a4e25334143ae217ebb99f4b18a6f0a,2026-04-24:1_left
 Low-histamine diet,,0.0,21.48,475696b835e61292242bf48c1e66384e,2026-04-24:1_right
-Mashed potatoes,Free for ICU patients,0.0,22.74,44ab38764446aa681ae5f7d9d6c2dc16,2026-04-24:2_left
-"Sausage, mash and peas",Free for patients,0.0,77.26,af19255ea1420994e000731832185c77,2026-04-24:2_right
+Mashed potatoes,Free for ICU patients,0.0,22.75,44ab38764446aa681ae5f7d9d6c2dc16,2026-04-24:2_left
+"Sausage, mash and peas",Free for patients,0.0,77.25,af19255ea1420994e000731832185c77,2026-04-24:2_right
 "Schnitzel with rice, soup, salad, tiny cake",Free before a big surgery,0.0,13.41,ae1026d9f7a0a362e3751a800f2659f4,2026-04-24:3_left
 "Coq au vin, cheesecake, lingonberry drink",Free for patients,0.0,86.59,a03232bb6102f555d1bff543a1ebbf16,2026-04-24:3_right
-Savoury mince and potato,Free with the birth of a child,0.0,22.61,a10244a06d5115dc454f5255bbae6324,2026-04-24:4_left
-Cornish pasty,Free with the birth of a child,0.0,77.39,a18c365076afd49d5b812846b1f1be70,2026-04-24:4_right
+Savoury mince and potato,Free with the birth of a child,0.0,22.62,a10244a06d5115dc454f5255bbae6324,2026-04-24:4_left
+Cornish pasty,Free with the birth of a child,0.0,77.38,a18c365076afd49d5b812846b1f1be70,2026-04-24:4_right
 "Plain pasta, fish balls and mash",Free with the birth of a child,0.0,39.21,e887cc242492cfd37d7e6a34c8a94a8a,2026-04-24:5_left
 Level 4 Purée Meal,With some custard,0.0,60.79,c306f972f33b29ec2bcb5b7afdfd9c83,2026-04-24:5_right
-Pita bread with sausage and cheese,Free for patients,0.0,24.81,03d3ba0f074971ced631bd5824eae0b0,2026-04-24:6_left
-Cheese and vegetable sandwiches,Free with the birth of a child,0.0,75.19,375d9bdb3cee746b104ba925391f1799,2026-04-24:6_right
-"Curry rice, pasta, takoyaki, miso soup, kimchi",Free for children who swallow batteries,0.0,58.39,e643abb08b18620e0f9527e2f9154048,2026-04-24:7_left
-"Tenders, mash, corn, gravy",Free before a colonoscopy,0.0,41.61,47f76d41cd86b2a133ac8810c3a4a0bf,2026-04-24:7_right
-Low-histamine diet,"Rice, pumpkin, cucumber",0.0,86.1,1631c26d97c2aa9ad7bccbfbceec32bd,2026-04-24:8_left
-Vegetarian dinner,"Bread, butter, mushroom spread",0.0,13.9,361ec01c9aba9b305e8ac2583acf2446,2026-04-24:8_right
+Pita bread with sausage and cheese,Free for patients,0.0,24.82,03d3ba0f074971ced631bd5824eae0b0,2026-04-24:6_left
+Cheese and vegetable sandwiches,Free with the birth of a child,0.0,75.18,375d9bdb3cee746b104ba925391f1799,2026-04-24:6_right
+"Curry rice, pasta, takoyaki, miso soup, kimchi",Free for children who swallow batteries,0.0,58.4,e643abb08b18620e0f9527e2f9154048,2026-04-24:7_left
+"Tenders, mash, corn, gravy",Free before a colonoscopy,0.0,41.6,47f76d41cd86b2a133ac8810c3a4a0bf,2026-04-24:7_right
+Low-histamine diet,"Rice, pumpkin, cucumber",0.0,86.11,1631c26d97c2aa9ad7bccbfbceec32bd,2026-04-24:8_left
+Vegetarian dinner,"Bread, butter, mushroom spread",0.0,13.89,361ec01c9aba9b305e8ac2583acf2446,2026-04-24:8_right
 "Sausages with mash, gravy and peas",Free with an electrocution,0.0,94.01,b97c0f0e810ff351025cc6a02437f420,2026-04-24:9_left
 Pasta salad,Free with a broken leg,0.0,5.99,1a6b6151eac93b7b5ca3da480dfac644,2026-04-24:9_right
 Cheesy chips,,3.5,23.62,040bd769593426a1c1e67ed6ee1b3cd0,2026-04-25:0_left
@@ -4253,7 +4253,7 @@ Greek pita wrap,,7.3,71.37,8fe78489f066fe20285ceca95a48a11a,2026-05-02:7_right
 "Pie, peas and gravy",,,24.2,c7b2384ada20e2772650ceb447926794,2026-05-02:8_left
 Hot beef,With chips,,41.94,902ed6fedaf6e505306719a98b2687e9,2026-05-02:8_right
 Chicken curry,With rice,4.0,47.58,cb480f73f7174b5e1ea42fa38e06788f,2026-05-02:9_left
-Plant Based Shawerma,,10.95,41.78,dbaf8b55506b8eb822b42c35a120dd9f,2026-05-02:9_right
+Plant Based Shawarma,,10.95,41.78,dbaf8b55506b8eb822b42c35a120dd9f,2026-05-02:9_right
 Hot Wiener,With an IPA,16.0,35.21,95e9eaa2d03b85c89bdde5c44292ab86,2026-05-03:0_left
 Chips,With Piri Piri dusting,4.0,43.62,4d0581c72115f9324c84e061decf36e8,2026-05-03:0_right | 2026-05-03:1_right
 Burger,,7.0,52.61,77aaf6d33571740404e491a32942c243,2026-05-03:1_left
