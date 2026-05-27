@@ -1,0 +1,21 @@
+date,match_id,side,id,url,price,rating,year,title,subtitle,club,country,image_name,image_url,rating_source,image_position,elo
+2026-03-13,0,left,100309,,4.35,49.23,2026,2234,2,ÖBB Austrian Federal Railways,AUT,0_left.webp,https://scrandle.com/media/o/132ff1bbb1931ec325626bd86075dbfa.webp,live,center,400.0
+2026-03-13,0,right,100308,,4.35,50.77,2026,2235,2752,ÖBB Austrian Federal Railways,AUT,0_right.webp,https://scrandle.com/media/o/ae974075501d9b539cc3e84bcba3cfc3.webp,live,center,400.0
+2026-03-13,1,left,100307,,13.0,19.93,2026,2236,2,Dominos Pizza,USA,1_left.webp,https://scrandle.com/media/o/30600f905300a1819cbceda9b0e09fee.webp,live,center,350.0
+2026-03-13,1,right,100311,,4.35,80.07,2026,65,2,Dominos Pizza,NED,1_right.webp,https://scrandle.com/media/o/89ff6cd1a21b0743ab5fc11ae10d5845.webp,live,center,450.0
+2026-03-13,2,left,100316,,1.85,53.64,2026,2237,2,Unknown Location,MAS,2_left.webp,https://scrandle.com/media/o/4790277a4f65ffeb5d83dc769cd4fac2.webp,live,center,450.0
+2026-03-13,2,right,100317,,12.0,46.36,2026,2238,2,"""ILovePizza"", Visby, Gotland",SWE,2_right.webp,https://scrandle.com/media/o/34db773fb9531ac59c069f4eb472e37e.webp,live,center,350.0
+2026-03-13,3,left,100323,,,74.79,2026,2239,2,Student Accommodation,ENG,3_left.webp,https://scrandle.com/media/o/7733ec32a0b8e78f3fbc6be6c213a2e0.webp,live,center,450.0
+2026-03-13,3,right,100324,,,25.21,2026,2240,2,Student Accommodation,ENG,3_right.webp,https://scrandle.com/media/o/88e14de01fc1cbc9adbf6a4c9b2cd493.webp,live,center,350.0
+2026-03-13,4,left,100312,,5.95,80.99,2026,408,2,Amtrak Train Cafe,USA,4_left.webp,https://scrandle.com/media/o/112a91d7fb076425517e547972985976.webp,live,center,450.0
+2026-03-13,4,right,100319,,1.5,19.01,2026,2241,2753,Unknown Location,ENG,4_right.webp,https://scrandle.com/media/o/6e791bf59595ac9a366e20de9a82ee79.webp,live,center,350.0
+2026-03-13,5,left,100305,,,32.13,2026,2242,2,Unknown Location,,5_left.webp,https://scrandle.com/media/o/76ff4d7e9593180693aca4d002829c68.webp,live,center,350.0
+2026-03-13,5,right,100326,,1.2,67.87,2026,2243,2,Selfoss,ISL,5_right.webp,https://scrandle.com/media/o/a479ceda9ed9e27789031b1f745784ab.webp,live,center,450.0
+2026-03-13,6,left,100306,,,42.68,2026,2244,2754,Unknown Location,AUS,6_left.webp,https://scrandle.com/media/o/cdbe4e00822f46d6e05e1ba29c466fa0.webp,live,center,350.0
+2026-03-13,6,right,100314,,3.0,57.32,2026,2245,2,Suriname,SUR,6_right.webp,https://scrandle.com/media/o/b421929ae26b3b0a4ec955ba5aecadb3.webp,live,center,450.0
+2026-03-13,7,left,100322,,,31.87,2026,2246,2755,Submitter's grandma's house,NED,7_left.webp,https://scrandle.com/media/o/063f78c787ecd5bfb00aff54cb78e532.webp,live,center,350.0
+2026-03-13,7,right,100313,,5.45,68.13,2026,2247,2756,Unknown Location,CAN,7_right.webp,https://scrandle.com/media/o/10d6d9cdbdba6a63e75a0d2c76583413.webp,live,center,450.0
+2026-03-13,8,left,100310,,4.5,76.55,2026,2248,2,Vienna,AUT,8_left.webp,https://scrandle.com/media/o/71ee46142b07968c008f313250c218e7.webp,live,center,450.0
+2026-03-13,8,right,100318,,8.65,23.45,2026,2249,2,Unknown Location,,8_right.webp,https://scrandle.com/media/o/1211019b3e16d672ffb3e5719d2e6a9d.webp,live,center,350.0
+2026-03-13,9,left,100325,,12.0,23.02,2026,2250,2,Unknown Location,EST,9_left.webp,https://scrandle.com/media/o/3069321fb53ad46b4687a8d86356d347.webp,live,center,350.0
+2026-03-13,9,right,100315,,4.4,76.98,2026,2251,2,Unknown Location,CAN,9_right.webp,https://scrandle.com/media/o/6d1163bd28c7c3342365d41691e020e1.webp,live,center,450.0
