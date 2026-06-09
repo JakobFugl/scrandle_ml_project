@@ -1,0 +1,2 @@
+study_name,trial_number,best_value,batch_size,lr,weight_decay,dropout_rate,n_price_layers,n_token_layers,n_head_layers,price_size_0,price_size_1,price_size_2,token_size_0,token_size_1,token_size_2,token_size_3,head_size_0,head_size_1,head_size_2,head_size_3,final_head_fc
+Ratings Identifier,410,0.11491029057651758,32,0.00032217466932040525,7.5581832031408125e-06,0.07935526655484831,2,2,2,8,8,256,2048,2048,256,2048,1024,512,128,256,False
